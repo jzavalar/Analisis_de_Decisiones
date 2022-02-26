@@ -65,9 +65,9 @@ Que al finalizar el curso el alumno sea capaz de:
 
 1. Presentación del programa
 2. Evaluación Global y de Recuperación
-3. Programa oficial ([pdf](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf))
-4. Acceso a nueva plataforma de [Virtuami](http://virtuami.izt.uam.mx/aulas/apresencial2)
-5. Prácticas:
+3. Programa oficial vigente de la UEA ([pdf](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211092pe.pdf)) y Programa oficial vigente de la UEA prerrequisito: [Estadística I](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2132044pe.pdf)
+5. Acceso a nueva plataforma de [Virtuami](http://virtuami.izt.uam.mx/aulas/apresencial2)
+6. Prácticas:
  
 - *Práctica 0.1: Bases de trabajo colaborativo con Google Drive* (Demostrativa online).
     
