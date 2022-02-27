@@ -9,7 +9,7 @@
 
 **Salón:** *Vía remota* vía [Telegram](https://telegram.org/apps)).
 
-**Asesorías:**  *Por definir* de *20:00* a *22:00 hr*, vía [Telegram](https://telegram.org/apps).
+**Asesorías:**  *¿Martes?* de *20:00* a *22:00 hr*, vía [Telegram](https://telegram.org/apps).
 
 **Profesor:** *dr. Jesús Zavala Ruiz*
 
@@ -75,101 +75,40 @@ Que al finalizar el curso el alumno sea capaz de:
 
   Cree la estructura de directorios en [Google Drive](https://drive.google.com/drive/my-drive) para la entrega de controles de lectura, prácticas y proyecto final de acuerdo a un sistema de organización de archivos ([guía](https://www.youtube.com/watch?v=duNwB8xt2_w)). ([tutorial](https://www.youtube.com/watch?v=I3jii6ltINY&frags=pl%2Cwn)).
 
-- *Práctica 0.2: Uso de sistemas de videoconferencia* (Demostrativa online con Google Meet y en casa por parejas).
-
-  *Objetivo*: Aprender el uso de varias plataformas de videoconferencia.
-
-  Después de la práctica demostrativa, debe aprender a programar una videoconferencia y usar cada unas de las distintas plataformas ([Google Meet](https://meet.google.com/), [Skype](https://www.skype.com/es/), [Zoom](https://zoom.us/), [Jitsi Meet](https://jitsi.org/) ([en línea](https://meet.jit.si/))). Dé por concluida la práctica cuando haya cumplido el objetivo.
-
-  Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito.
-
-- *Práctica 0.3: Instalación de software para grabación de audio y video* (Demostrativa online y en casa, por parejas).
+- *Práctica 0.2: Instalación de software para grabación de audio y video* (Demostrativa online).
 
   *Objetivo*: Aprender a descargar e instalar un software para grabar video y una para audio y aprender a buscar tutoriales en YouTube para utilizarlo.
   
-  *Parte 1*. Instale [vokoScreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen-download.html) ([guía]()). Primero instale los prerrequisitos (vea [aquí](https://github.com/vkohaupt/vokoscreenNG): [codec pack](https://www.windows10codecpack.com/) y [GStreamer](https://gstreamer.freedesktop.org/pkg/windows/1.14.4/gstreamer-1.0-x86-1.14.4.msi); alternativamente, puede usar estos [codecs](https://codecguide.com/download_kl.htm)).
+  *Parte 1*. Instale [vokoScreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen-download.html) o instale la aplicación de su preferencia. Primero instale los prerrequisitos (vea [aquí](https://github.com/vkohaupt/vokoscreenNG): [codec pack](https://www.windows10codecpack.com/) y [GStreamer](https://gstreamer.freedesktop.org/pkg/windows/1.14.4/gstreamer-1.0-x86-1.14.4.msi); alternativamente, puede usar estos [codecs](https://codecguide.com/download_kl.htm)). Alternativamente, puede usar Open Broadcaster Software ([OBS Studio](https://obsproject.com/es)) (grabación, edición y transmisión de video) ([tutorial](https://www.youtube.com/watch?v=qLuSrSiC9Xc)), si los recursos de su computadora lo permiten.  
   
-  Luego, instale Vokoscreen-NG con el [instalador](https://linuxecke.volkoh.de/vokoscreen/vokoscreen-download.html) y listo, a documentar las prácticas ([video](https://www.youtube.com/watch?v=HlaGAIOcIL8)).
-  
-  Grabe su pantalla y capture la toma de la cámara y hable sobre las expectativas que tiene del curso usando el software. Puede agregar algún fondo musical.
-  
-  Alternativamente, puede usar Open Broadcaster Software ([OBS Studio](https://obsproject.com/es)) (grabación, edición y transmisión de video) ([tutorial](https://www.youtube.com/watch?v=qLuSrSiC9Xc)), si los recursos de su computadora lo permiten.
-  
-  Se sugiere que primero haga las prácticas y luego las repita para documentarlas.
-  
-  *Parte 2*. Instale [Audacity](http://www.audacityteam.org/) (grabación y edición de audio) ([tutorial](https://www.youtube.com/watch?v=zRMNUMWguTw)). Grabar un podcast sobre su experiencia en esta práctica mediante Audacity.
-  
-  *Parte 3*. Opcionalmente, saque sus cuentas en [YouTube](https://www.youtube.com/), [Facebook](https://es-la.facebook.com/) y [Restream](https://restream.io/) (retransmisión de video) para hacer una multitransmisión usando Vokoscreen u OBS Studio ([tutorial](https://www.youtube.com/watch?v=vT3p9fuMMCI)).
-  
-  Establezca una videoconferencia con un compañero de grupo y trabajen de manera simultánea para hacer una transmisión multimedia sobre la experiencia de la práctica usando Google Meet, OBS y Restream (ver [guía](https://www.youtube.com/watch?v=vT3p9fuMMCI)). Si requiere, utilice esta guía para unir varios videos en uno solo usando VLC ([tutorial](https://www.tuexperto.com/2020/02/10/como-unir-videos-en-uno-solo-con-vlc-media-player/)).
+  *Parte 2*. Grabe su pantalla y capture la toma de la cámara y hable sobre las expectativas que tiene del curso usando el software (ver [tutorial](https://www.youtube.com/watch?v=mh5qV2iAiVs)). Puede agregar algún fondo musical.  
   
   Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito.
   
   Al terminar suba sus videos y su audio a su Google Drive donde corresponda, según la estructura de directorios de la Práctica 0.1.
 
-- *Práctica 0.4: Instalación de PortableApps* (Demostrativa online y en casa).
+- *Práctica 0.3: Instalación de software libre, abierto y privativo* (Demostrativa online).
 
-  *Objetivo*: Aprender a descargar e instalar aplicaciones portables en una USB.
-
-  Para la práctica requiere una USB de por lo menos 4 Gb, misma que utilizará para varias prácticas posteriores.
-    
-  Descargue e instale [PortableApps](https://portableapps.com/) ([tutorial 1](https://www.youtube.com/watch?v=Ux_3p4lDmTg), [tutorial 2](https://www.youtube.com/watch?v=Ux_3p4lDmTg)) en su USB vacía. (N. B: Desactive su antivirus para realizar la práctica y usar PoprtableApps. [guía](https://www.youtube.com/watch?v=HDEhLpS7UwM))
-
-  Luego, descargue e instale [Firefox](https://portableapps.com/apps/internet/qbittorrent_portable) desde PortableApps ([tutorial](https://www.youtube.com/watch?v=zzq2kDEsiAs)) o localícela y descárguela desde la [lista de aplicaciones](https://portableapps.com/apps). En seguida, instale el plugin de bloqueo de publicidad, por ejemplo Ghostery y otros ([tutorial](https://www.youtube.com/watch?v=g3Dw_7085r8)).
-
-  Luego, descargue e instale [qBittorrent](https://portableapps.com/apps/internet/qbittorrent_portable) desde PortableApps ([tutorial 1](https://www.youtube.com/watch?v=cSLPdMyzIAw)) ([tutorial 2](https://www.youtube.com/watch?v=zzq2kDEsiAs)). En seguida, instale el buscador e instale Python si lo requiere. Luego, instale los plugins de búsqueda ([tutorial 1](https://www.youtube.com/watch?v=WZ4LlVr7VrE), [tutorial2](https://www.youtube.com/watch?v=rhZsV9lFgIg)). Configure lo necesario (tutorial). 
-    
-  (¿Cómo funciona una red P2P? Lee el [reportaje](https://computerhoy.com/reportajes/tecnologia/p2p-que-es-489221)).
-    
-  Entregue reporte de la práctica elaborando un video narrando lo que muestra el video. 
-    
-  Suba su archivo a su cuenta de Google Drive, en la carpeta respectiva, con el nombre de la práctica.
-
-- *Práctica 0.5: Instalación de un sistema operativo Windows en una USB*.
-
-  *Objetivo*: Aprender a descargar e instalar un sistema operativo Windows en una USB, para corregir problemas en su computadora, como recatar información u otras tareas de mantenimiento.
-
-  Como prerrequisito, debe completar la práctica anterior.
-
-  Abra qBittorrent. Mediante la pestaña de búsqueda localice la imagen ISO del sistema operativo Windows usando la frase "Active Boot Disk 10" ([tutorial](https://www.youtube.com/watch?v=NqNHkpjwF18)). Identifique la entrada que tiene más semillas (seeds) y descárguela o agregue el torrent a qBittorrent desde [aquí](https://limetor.com/Active-Boot-Disk-Suite-10-1-0-Modified-Edition-Feb-2015-%28ISO%29--%20Core-X%20-%20%20FRG%20-torrent-7452833.html). Identifique dónde descargó el archivo ISO.
-
-  Posteriormente, descargue Yumi y prepare su USB con la o las imágenes ISO de los sistemas operativos que desea usar. ([guía 1](https://www.youtube.com/watch?v=ign9oxL7qp8), [guía 2](https://www.youtube.com/watch?v=xcwlf8XW-ug)).
-
-- *Práctica 0.6: Recuperación de archivos.*
-
-  *Objetivo*: Aprender el uso de una herramienta de software para el mantenimiento de una computadora.
-
-  Como prerrequisito, debe completar la práctica anterior.
-    
-  Rescate un par de archivos borrados a propósito utilizando Active Boot Disk ([tutorial](https://www.youtube.com/watch?v=sHMGRn_wWlc)) y explore las otras herramientas.
-    
-  Utilice el software de la práctica anterior.
-
-- *Práctica 0.7: Instalación de software libre, abierto y privativo* (Demostrativa online y en casa).
-
-  *Objetivos*: Aprender a descargar, instalar software software software libre, abierto y privativo para Windows y aprender a buscar tutoriales en YouTube para utilizarlo.
-    
-  Como prerrequisito debe completar la Práctica 0.3 para que pueda documentar la realización de esta práctica.
-    
-  Busque en YouTube, los tutoriales que requiera para aprender a instalar el software.
-    
+  *Objetivo*: Aprender a descargar e instalar aplicaciones portables en una USB y en compudadora.
+  
   *Parte 1*. Active su cuenta de [Office 365 Pro Plus](http://www.uam.mx/o365/) (software de oficina) e instale su copia de [Office Pro](http://www.uam.mx/ti/soft/microsoft.html) (software de oficina) (documente el proceso).
     
-  *Parte 2*. Si tiene computadora en casa, descargue en instale el siguiente software: [7-zip](https://www.7-zip.org/download.html) (compresor/descompresor), [Calibre](https://calibre-ebook.com/) (administrador de libros electrónicos) (descargue, instale y convierta un libro de formato EPUB a FTP), CMapTools ([mapas conceptuales](https://cmap.ihmc.us/)) (haga un mapa mental clasificando el software de la práctica, según las categorías de clasificación de PortableApps), [Youtube-DLG](https://mrs0m30n3.github.io/youtube-dl-gui/) (descarga de videos) (descargue el video de su canción favorita), [qBittorrent](https://www.qbittorrent.org/) (compartición de archivos) (active el motor de búsqueda y, luego, localice y descargue la película [Top Secret Rosies](https://zooqle.com/pbs-top-secret-rosies-2010-x264-aac-hdtv-mvgroup-eztv-209f.html) usando el magnet link), [VirtualBox](https://www.virtualbox.org/) (Sistema de virtualización) (documente la instalación), [ClamWin](http://www.clamwin.com/) (antivirus), [LibreOffice](https://www.libreoffice.org/) (suite de oficina) (edite un documento PDF), [Firefox](https://www.mozilla.org/en-US/firefox/products/) (navegador web), [VLC](http://www.videolan.org/vlc/download-windows.html) (reproductor y convertidor de multimedia) (extraiga la música de un video), [R](https://www.r-project.org/) (estadística),[RStudio](https://www.rstudio.com/) (estadística) (instale el paquete rio, luego descargue un archivo del censo del Inegi en [DBF](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/microdatos/ejemplobd/dummy_personas_cpv2010_dbf.zip), descomprímalo con 7-zip y conviértalo a formato XLS).
+  *Parte 2*. Si tiene computadora en casa, descargue en instale el siguiente software: [7-zip](https://www.7-zip.org/download.html) (compresor/descompresor), CMapTools ([mapas conceptuales](https://cmap.ihmc.us/)), [ClamWin](http://www.clamwin.com/) (antivirus), [LibreOffice](https://www.libreoffice.org/) (suite de oficina) (edite un documento PDF), [R](https://www.r-project.org/) (estadística),[RStudio](https://www.rstudio.com/) (estadística), .
     
-  Opcionalmente, instale el siguiente sofware: [GIMP](http://www.gimp.org.es/) (manipulador de imágenes reemplazo de Photoshop) e instale el [Batch Image Manipulation Plugin (BIMP)](https://alessandrofrancesconi.it/projects/bimp/) y cambie de tamaño o realice alguna otra operación masiva a las fotos de un folder), [Filezilla](https://filezilla-project.org/) (cliente SFTP) (versión [portable](https://portableapps.com/apps/internet/filezilla_portable)), [DjVu](http://djvu.org/links/) (altenativa a PDF) ([DjvuLibre](https://sourceforge.net/projects/djvu/) y [WinDjView](https://windjview.sourceforge.io/)) (visualizador de archivos DjVu) (Descargue un libro en formato DjVu y ábralo), [DjVuConverter](http://www.djvuconverter.com/) (convertidor de archivos de DjVu a PDF y a otros formatos) (convierta el libro DjVu), [PDFCreator](http://download.pdfforge.org/download/pdfcreator/PDFCreator-stable) (impresora virtual PDF) (imprima la página web del proyecto), [PDFsam](https://pdfsam.org/es/) (editor PDF) (modifique el archivo impreso como PDF) y [QGis](http://www.qgis.org/es/site/) (sistema de información geográfica) (Descargue una carta geográfica del [Inegi](https://www.inegi.org.mx/app/mapas/default.html?t=0000000000000000&ag=00) en formato shapefile (shp) y ábrala).
+  *Parte 3*. Para la práctica requiere una USB de por lo menos 4 Gb, misma que utilizará para varias prácticas posteriores. Descargue e instale [PortableApps](https://portableapps.com/) ([tutorial 1](https://www.youtube.com/watch?v=Ux_3p4lDmTg), [tutorial 2](https://www.youtube.com/watch?v=Ux_3p4lDmTg)) en su USB vacía. (N. B: Desactive su antivirus para realizar la práctica y usar PortableApps. [guía](https://www.youtube.com/watch?v=HDEhLpS7UwM)).
     
-  *Parte 3*. Descargue e instale el siguiente software portable en una USB: qBittorrent (compartición de archivos) ([portable](https://portableapps.com/apps/internet/qbittorrent_portable)), GIMP (manipulador de imágenes) ([portable](https://portableapps.com/apps/graphics_pictures/gimp_portable)), (BIMP [GIMP Plugin](https://github.com/alessandrofrancesconi/gimp-plugin-bimp)) Firefox (navegador web) ([portable](https://portableapps.com/apps/internet/firefox_portable)), LibreOffice (suite de oficina) ([portable](https://portableapps.com/apps/office/libreoffice_portable)), VLC (reproductor y convertidor de multimedia) ([portable](https://portableapps.com/apps/music_video/vlc_portable)), 7-zip (compresor/descompresor) ([portable](https://portableapps.com/apps/utilities/7-zip_portable)), R (estadística) ([portable](https://sourceforge.net/projects/rportable/files/R-Portable/)) y RStudio (estadística) ([portable](https://sourceforge.net/projects/rportable/files/R-Studio/)).
-    
-  *Parte 4*. Descargue e instale el siguiente software especializado: [Tor](https://www.torproject.org/download/) (navegador anónimo) (acceda a la red profunda ([tutorial](https://www.youtube.com/watch?v=ySQF1b5eOAo)), use [DuckDuckGo](https://duckduckgo.com/) para localizar [The Hidden Wiki](http://hiddenwwiqg2jb5s3wyvzxeipcl5ese2pa2cqnu6myi3d5bcmhmdagqd.onion/index.php/Main_Page).
+  *Parte 4*. Descargue e instale [Firefox](https://portableapps.com/apps/internet/qbittorrent_portable) desde PortableApps ([tutorial](https://www.youtube.com/watch?v=zzq2kDEsiAs)) o localícela y descárguela desde la [lista de aplicaciones](https://portableapps.com/apps). En seguida, instale el plugin de bloqueo de publicidad, por ejemplo Ghostery y otros ([tutorial](https://www.youtube.com/watch?v=g3Dw_7085r8)).
+  
+  *Parte 5*. Descargue e instale el siguiente software portable en una USB: LibreOffice (suite de oficina) ([portable](https://portableapps.com/apps/office/libreoffice_portable)), 7-zip (compresor/descompresor) ([portable](https://portableapps.com/apps/utilities/7-zip_portable)), [R Portable](https://sourceforge.net/projects/rportable/files/R-Portable/)) (estadística) y [RStudio Portable](https://sourceforge.net/projects/rportable/files/R-Studio/) (estadística).
 
 ##### *Bibliografía Complementaria:*
 
 - Ibiza, D. (2018, Apr 3). 1. Introducción a Google Drive: Primeros pasos ([tutorial](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=330s)), 2. Gestión de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=2042s)), 3. Opciones de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=3313s)), 4. Cómo compartir archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=4238s)), 5. Trabajar con documentos ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=5222s)) . In Tutorial Google Drive | Completo | Principiantes | Paso a Paso. YouTube. (video). ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk)).
-- Erickson, L. (2010). Top secret rosies: The female computers of WWII. *YouTube*. ([url](https://www.youtube.com/watch?v=gR4yzUnKn2U)). 
 - Recursos digitales en la UAM: biblioteca de la Unidad Iztapalapa ([url](http://contingencia.izt.uam.mx/wp-content/uploads/2020/04/Biblioteca-Nuevo-3b-bindani-B.pdf)), biblioteca digital ([url](https://bidi.uam.mx/index.html)). 
 - Otros recursos: [Library Genesis](http://gen.lib.rus.ec/) (libros, artículos, novelas), [Academic Torrents](http://academictorrents.com/) (artículos, datos y cursos), [recursos varios](http://pcyti.izt.uam.mx/recursos/infext/infoext.html).
 - Repositorios de software: [Software para la comunidad UAM](https://www.uam.mx/ti/soft/), [AlternativeTo](https://alternativeto.net/), [SourceForge](https://sourceforge.net/), [CDLibre](https://www.cdlibre.org/), [Software Heritage](https://www.softwareheritage.org/?lang=es), [GitHub](https://github.com/github). 
+
+
 
 
 #### Unidad 1. Introducción
@@ -178,7 +117,10 @@ Que al finalizar el curso el alumno sea capaz de:
 2. Computación, informática, tecnologías de la información (TI)
 3. La computadora digital como máquina simbólica de propósito general
 4. Tareas y prácticas:
- 
+
+
+
+
 - *Práctica 1.1. Partes de la computadora*. (Entrega: 15 de noviembre de 2021).
 
   *Objetivo:* Identificar las partes de los varios tipos de computadoras modernas
@@ -694,8 +636,8 @@ Documente en un video la realización de la práctica y su experiencia en la rea
 - JhonvaCode. (2018, Jan 14) [Sistema de un parqueadero en #PseInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). *YouTube*. (7 videos). (*Lectura 2.3*).
 
 #### Bibliografía General Complementaria:
-- Khan Academy (2022). [Principios de Ciencias de la Computación avanzados (AP Computer Science Principles)](https://es.khanacademy.org/computing/ap-computer-science-principles). Khan Academy [Sitio web]. (Curso de revisión que incluye preguntas de práctica, artículos educativos y videos que cubren, entre otros temas programación, algoritmos, simulaciones y análisis de datos. Utilícelo como repaso para aprender y para la preparación de sus evaluaciones.) 
-
+Paquete [Multi-Criteria Decision Aiding (MCDA)](https://www.decision-deck.org/r/), [tutorial](https://www.decision-deck.org/r/tutorial.html#tutorial-r-mcda)
+Bibliografía: Bouyssou, D., Marchant, T., Pirlot, M., Perny, P., Tsoukià s A., Vincke, P. (2000) *Evaluation and decision models: A critical perspective*. Kluwer, Dordrecht. ([url](http://libgen.rs/book/index.php?md5=D17907F555C0E2A519EA0EDCBDAC8F43)).
 
 ## Modalidades de Evaluación
 
