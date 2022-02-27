@@ -650,12 +650,12 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 | Asistencia puntual | 10% |  |
 | Tareas|30% |Se entrega en la fecha programada |
 | Prácticas| 30% |Se entregan  en la fecha programada |
-| Exámenes| 30% | Prinmero (a), Segundo (b)|
+| Exámenes| 30% | Primero (a), Segundo (b)|
 | Total | 100% | |
 
 **Notas:
-  - **a).** Primer examen: *Teórico* (Unidades 1, 2 y 3) y *Práctico* (Programación): Fecha: 10 de enero de 2022
-  - **b).** Segundo examen: *Teórico - Práctico* (Unidad 4 (Sistemas de Información) y Unidad 5 (Tablas dinámicas)): Fecha: Miércoles 2 de febrero de 2022, de 12:00 a las 14:00 hr.
+  - **a).** Primer examen: *Teórico* (Unidades ) y *Práctico* (): Fecha: 
+  - **b).** Segundo examen: *Teórico - Práctico* (Unidad 4): Fecha: , de 12:00 a las 14:00 hr.
   - **Evaluación Global:** Todo el curso (Teoría y Práctica) para quienes tengan baja calificación o deseen subir: Fecha 7 de febrero de 2022, de 12:00 a 14:00 hr.
   - **Entrega de calificaciones:** 8 de febrero de 2022.
 
@@ -663,95 +663,41 @@ La *evaluación final* será un examen teórico-práctico que versará sobre la 
 
 #### Evaluación de Recuperación
 La *evaluación de recuperación* no será aplidada por el profesor, sino por la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente. Por lo que deberá coordinarse con el Coordinador de la Licenciatura.
-
-
-----------------------
-Programa Analítico de la UEA
-
-Análisis de Decisiones
-
- Licenciatura en Administración
-
-Clave UEA: 2211092, Grupo: HE55, Trimestre: 17-I
-
-Horario: Lunes y Miércoles de 16:00 a 18:00. Salón: E-006
-
-profr: dr. Jesús Zavala Ruiz
-
-jzr@xanum.uam.mx
-
  
 
-Introducción
+### Unidad 5. Software de oficina
+1. Edición de textos
+2. Presentaciones
+3. Hoja de cálculo
+4. Base de datos
+5. Prácticas
 
-Afines de los años 1930s, a solicitud del gobierno británico, el profesor P.M.S. Blackett y su equipo de científicos e ingenieros desarrollaron métodos para “resolver problemas técnicos relacionados con el desarrollo de nuevas armas y equipo durante la Segunda Guerra Mundial” (Jaiswal, 1997, p. 2)[1], con un enfoque hacia problemas técnicos operativos (p. 4). Según, este autor, después de la Segunda Guerra Mundial, los científicos e ingenieros asociados con el profesor Blackett pasaron de la industria militar a los sectores civiles como el transporte, la salud y la industria, convencidos de que podían analizar esas operaciones con las mismas herramientas analíticas (p. 4).
+- *Práctica 5.1. Tablas dinámicas con hoja de cálculo*. (Entrega: 26 de enero de 2022). 
 
-Así surgió la investigación de operaciones (operations research) que se concibió como una "colección de herramientas y técnicas que podían utilizarse para mejorar sistemas bajo el control de un encargado independientemente de su campo de la actividad" (idem). El arsenal metodológico y computacional de la posguerra incluyó la programación linear, la teoría de juegos, la programación dinámica, la simulación de eventos discretos y la computadora digital, adicionalmente a las teorías de inventarios y colas, el modelado de Markov y los métodos básicos de optimización. Actualmente, la investigación de operaciones se define como "la aplicación de los métodos de la ciencia a problemas complejos que se presentan en la dirección y la administración de grandes sistemas de hombres, máquinas, materiales y dinero, en la industria, los negocio, el gobierno y la defensa" (Gass y Fu, 2013, p. viii) [2]; también se define como “la ciencia de decidir cómo obtener el mejor diseño y cómo operar los sistemas hombre-máquina” y como “un método científico para proveer de los departamentos ejecutivos una base cuantitativa para la toma de decisiones” (idem).
+  *Objetivo*: Practicar la creación de tablas dinámicas para la resolución de preguntas cuantitativas a una base de datos.
 
-La investigación de operaciones derivó en el ‘análisis de sistemas’ estaba asociado a la toma de decisiones, considerada  para entonces como “el examen sistemático de variadas alternativas” (Hitch, 1955, p. 477)[3], que era competencia de los “managers” (o administradores) en contraposición al llamado “puro análisis” que estaba relacionado con la logística operativa realizada por los “técnicos” (o analistas). Así, el análisis de sistemas se puede considerar como “un enfoque sistemático para ayudar a un tomador de decisiones para que elija curso de acción investigando su problema completo, buscando objetivos y alternativas, comparándolas considerando sus consecuencias, usando un marco de referencia apropiado -tan analítico como sea posible- para invocar el juicio y la intuición de expertos sobre el problema" (Jaiswal, 1997, p. 5). Esto sugiere debe considerarse que “un ciclo consiste de definición de objetivos, exploración de alternativas y evaluación de alternativas en términos de sus costos y eficacia” (idem).
-
-Desde entonces, el concepto de ‘análisis de sistemas’ de los años 1950s ha permanecido hasta nuestros días en la ‘toma de decisiones’, la ‘administración de proyectos’ y otras disciplinas, siempre persiguiendo el mismo objetivo: decidir racionalmente ante la incertidumbre. Como consecuencia, surgieron las ciencias de la administración como un enfoque interdisciplinario que pasó de la eficiencia técnica a la eficacia de los sistemas sociotécnicos. Formalmente, las ciencias de la administración  (management science) se definen como la "aplicación de la metodología o los principios científicos a las decisiones administrativas" y el "uso de métodos cuantitativos para resolver problemas de decisiones gerenciales y de organización" (Gass y Fu, 2013, p. viii). Las ciencias de la administración son una expresión de la teoría de la elección racional (‘rational choice’) que Herbert A. Simon (1959)[4] concibió como un comportamiento bajo una racionalidad limitada.
-
-En 1961 se institucionalizó la “operations research and systems analysis” (ORSA) y para 1967 la investigación de operaciones se atribuía como objetivo la toma de decisiones (cf. Beer, 1967)[5] y el ‘análisis de sistemas’ se convirtió, de facto, en ‘análisis de decisiones’, sin usar ese nombre. Así, las ciencias de la administración se convirtieron en una confluencia interdisciplinaria y algunos autores como Witzel (2012)[6] consideran que las ciencias de la administración, surgida como disciplina en la década de 1950s, con la expansión del pensamiento administrativo a nivel mundial, son la consecuencia de la evolución de la Administración Científica, propuesta por Frederick. W. Taylor a principios del siglo XX.
-
-Desde la década de 1970, la toma de decisiones agrupaba las más diversas disciplinas como las matemáticas, la sociología, la economía y la ciencia política (Buchanan y O’Connell, 2006, p. 32)[7], así como las ciencias de la computación en la forma de la teoría de la información, la cibernética, la inteligencia artificial y el pensamiento sistémico. Así, las ciencias de la computación y la estadística fortalecieron el desarrollo de la investigación de operaciones dando origen al término ‘decision analysis’ (análisis de decisiones), que alcanzó su auge en la década de 1980.
-
-El análisis de decisiones se considera: (1) un campo multidisciplinario o rama de la investigación de operaciones que “usa las matemáticas aplicadas y el razonamiento científico para encontrar soluciones óptimas a problemas complejos” (Chen, Schauver y Chunk, 2009, p. 983)[8], es decir, problemas que involucran múltiples variables, objetivos, incertidumbres y restricciones, pero también múltiples involucrados (‘stakeholders’) y tomadores de decisiones; (2) una herramienta metodológica que “permite la evaluación cuantitativa de la toma de decisiones bajo condiciones de incertidumbre” (idem); (3) una filosofía o postura epistemológica que pretende responder a preguntas tales como las siguientes “¿Cómo deben evaluarse las opciones cuando las consecuencias son inciertas? ¿Cuándo se tiene suficiente información para tomar una decisión? ¿Cuánto se debe pagar por nueva información que reduzca la incertidumbre? ¿Cuál es el nivel de riesgo ‘correcto’?” (Call y Miller, 1990, pp. 116, 115)[9].
-
-La UEA Análisis de Decisiones se enfoca en desarrollar las habilidades de pensamiento estratégico cuantitativo indispensables para la toma de decisiones complejas. Esta UEA es parte del paquete de UEAs cuantitativas de administración y la primera de aplicación específica a la toma de decisiones.
-
- 
-
-Objetivo(s)
-General
-
-Que al final del curso los alumnos sean capaces de
-
-    Comprender a la toma de decisiones como un proceso sistematizado con un enfoque sistémico.
-     Identificar a la toma de decisiones como una forma equivalente de solucionar problemas en la administración.
-
-Específicos
-
-Que al final del curso los alumnos sean capaces de:
-
-    Realizar la estructuración de problemas de decisión en la administración, seleccionar y aplicar en problemas de administración el modelo de decisión.
-     Buscar y ponderar información relevante en fuentes diversas.
-     Argumentar una propuesta crítica sobre un tema específico.
-
- 
 
 Contenido Sintético
-0. Presentación
+### Unidad 0. Presentación
+1. Presentación e integración de grupo
+2. Presentación del programa
+3. Evaluación Global y de Recuperación
 
-Presentación e integración de grupo
-
-Presentación del programa
-
-Evaluación Global y de Recuperación
-
-Por instrucciones de las autoridades departamentales no se aceptan oyentes.
+### Unidad 1. Presentación
 1. Introducción
+2. La ciencia de la administración y la toma de decisiones
+3. Contexto histórico del análisis de decisiones
 
-1.1. La ciencia de la administración y la toma de decisiones
+#### Bibliografía Obligatoria:
+- Witzel, M. (2012). 9 From Scientific Management to Management Science. In A history of management thought (capítulo 9). London: Routledge. (Lectura 1).
+- Drucker, P. F. (1955). "Management Science" and the manager. Management Science 1(2), pp. 115-126.  (pdf). (Lectura 2).
+- Zavala, J. (2016). El análisis de decisiones: Un panorama histórico-metodológico. (Mimeo). (pdf). (Lectura 3).
 
-1.2. Contexto histórico del análisis de decisiones
-
-Bibliografía Obligatoria:
-
-    Witzel, M. (2012). 9 From Scientific Management to Management Science. In A history of management thought (capítulo 9). London: Routledge. (Lectura 1).
-     Drucker, P. F. (1955). "Management Science" and the manager. Management Science 1(2), pp. 115-126.  (pdf). (Lectura 2).
-    Zavala, J. (2016). El análisis de decisiones: Un panorama histórico-metodológico. (Mimeo). (pdf). (Lectura 3).
-
-2. La toma de decisiones y la teoría de la elección racional
-
+### Unidad 2. La toma de decisiones y la teoría de la elección racional
 2.1. ¿Qué es una decisión?
-
 2.2. La toma de decisiones como proceso cibernético
-
 2.3. Teoría de la elección racional
-
 2.4. La racionalidad limitada
-
 2.5. Tipos de problemas de decisión
 
 Bibliografía Obligatoria: 
