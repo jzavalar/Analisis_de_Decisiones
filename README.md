@@ -5,9 +5,9 @@
 
 **Clave de la UEA:** *2211092*, **Grupos:** *HE11* y *HE12*, **Trimestre:** *22-I*
 
-**Horario:** *Lunes y Miércoles* de *12:00 a 14:00* (**Grupo:** *HE11*) y de *16:00 a 18:00* (**Grupo:** *HE12*) .
+**Horario:** *Lunes y miércoles* de *12:00 a 14:00* (**Grupo:** *HE11*) y de *16:00 a 18:00* (**Grupo:** *HE12*).
 
-**Salón:** *Vía remota* vía [Telegram](https://telegram.org/apps)).
+**Salón:** Transmisión de la clase *vía remota* por [Telegram](https://telegram.org/apps) a través del canal privado respectivo.
 
 **Asesorías:**  *¿Martes?* de *20:00* a *22:00 hr*, vía [Telegram](https://telegram.org/apps).
 
