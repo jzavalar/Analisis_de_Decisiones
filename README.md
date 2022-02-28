@@ -113,8 +113,8 @@ Que al finalizar el curso el alumno sea capaz de:
 3. Contexto histórico del análisis de decisiones
 
 ##### Bibliografía Obligatoria:
-- Witzel, M. (2012). 9 From Scientific Management to Management Science. In A history of management thought (capítulo 9). London: Routledge. (Lectura 1).
-- Drucker, P. F. (1955). "Management Science" and the manager. Management Science 1(2), pp. 115-126.  (pdf). (Lectura 2).
+- Witzel, M. (2012). 9 From Scientific Management to Management Science. In *A history of management thought* (capítulo 9). London: Routledge. ([url](https://www.amazon.com/History-Management-Thought-Morgen-Witzel/dp/0415600588)) ([url](http://libgen.rs/book/index.php?md5=1F104CC3F1936AF817CC64261EBDB0DA)). (Lectura 1).
+- Drucker, P. F. (1955). "Management Science" and the manager. *Management Science 1*(2), 115-126. doi: http://doi.org/10.1287/mnsc.1.2.115 ([url](http://libgen.rs/scimag/10.1287%2Fmnsc.1.2.115)). (Lectura 2).
 - Zavala, J. (2016). El análisis de decisiones: Un panorama histórico-metodológico. (Mimeo). (pdf). (Lectura 3).
 
 #### Unidad 2. La toma de decisiones y la teoría de la elección racional
