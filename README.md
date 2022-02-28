@@ -75,18 +75,28 @@ Que al finalizar el curso el alumno sea capaz de:
    
    *Objetivo*: Aprender a descargar e instalar un software para grabar video y una para audio y aprender a buscar tutoriales en YouTube para utilizarlo.
    
-   *Parte 1*. Instale [vokoScreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen-download.html) o instale la aplicación de su preferencia. Primero instale los prerrequisitos (vea [aquí](https://github.com/vkohaupt/vokoscreenNG): [codec pack](https://www.windows10codecpack.com/) y [GStreamer](https://gstreamer.freedesktop.org/pkg/windows/1.14.4/gstreamer-1.0-x86-1.14.4.msi); alternativamente, puede usar estos [codecs](https://codecguide.com/download_kl.htm)). Alternativamente, puede usar Open Broadcaster Software ([OBS Studio](https://obsproject.com/es)) (grabación, edición y transmisión de video) ([tutorial](https://www.youtube.com/watch?v=qLuSrSiC9Xc)), si los recursos de su computadora lo permiten.  
+   *Parte 1*. Instale [vokoScreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen-download.html) o instale la aplicación de su preferencia.
+      - Primero instale los prerrequisitos (vea [aquí](https://github.com/vkohaupt/vokoscreenNG): [codec pack](https://www.windows10codecpack.com/) y [GStreamer](https://gstreamer.freedesktop.org/pkg/windows/1.14.4/gstreamer-1.0-x86-1.14.4.msi); alternativamente, puede usar estos [codecs](https://codecguide.com/download_kl.htm)).
+      - Alternativamente, puede usar [Open Broadcaster Software (OBS Studio)](https://obsproject.com/es)) (grabación, edición y transmisión de video) ([tutorial](https://www.youtube.com/watch?v=qLuSrSiC9Xc)), si los recursos de su computadora lo permiten.  
    
    *Parte 2*. Grabe su pantalla y capture la toma de la cámara y hable sobre las expectativas que tiene del curso usando el software (ver [tutorial](https://www.youtube.com/watch?v=mh5qV2iAiVs)). Puede agregar algún fondo musical.  
+   
    Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito.
+   
    Al terminar suba sus videos y su audio a su Google Drive donde corresponda, según la estructura de directorios de la Práctica 0.1.
 
 - *Práctica 0.3: Instalación de software libre, abierto y privativo* (Demostrativa online).
-   *Objetivo*: Aprender a descargar e instalar aplicaciones portables en una USB y en compudadora.
+   
+   *Objetivo*: Aprender a descargar e instalar aplicaciones portables en una USB y en computadora.
+   
    *Parte 1*. Active su cuenta de [Office 365 Pro Plus](http://www.uam.mx/o365/) (software de oficina) e instale su copia de [Office Pro](http://www.uam.mx/ti/soft/microsoft.html) (software de oficina) (documente el proceso).
-   *Parte 2*. Si tiene computadora en casa, descargue en instale el siguiente software: [7-zip](https://www.7-zip.org/download.html) (compresor/descompresor), CMapTools ([mapas conceptuales](https://cmap.ihmc.us/)), [ClamWin](http://www.clamwin.com/) (antivirus), [LibreOffice](https://www.libreoffice.org/) (suite de oficina) (edite un documento PDF), [R](https://www.r-project.org/) (estadística),[RStudio](https://www.rstudio.com/) (estadística), .
+   
+   *Parte 2*. Si tiene computadora en casa, descargue en instale el siguiente software: [7-zip](https://www.7-zip.org/download.html) (compresor/descompresor), CMapTools ([mapas conceptuales](https://cmap.ihmc.us/)), [ClamWin](http://www.clamwin.com/) (antivirus), [LibreOffice](https://www.libreoffice.org/) (suite de oficina) (edite un documento PDF), [R](https://www.r-project.org/) (estadística), [RStudio](https://www.rstudio.com/) (estadística).
+   
    *Parte 3*. Para la práctica requiere una USB de por lo menos 4 Gb, misma que utilizará para varias prácticas posteriores. Descargue e instale [PortableApps](https://portableapps.com/) ([tutorial 1](https://www.youtube.com/watch?v=Ux_3p4lDmTg), [tutorial 2](https://www.youtube.com/watch?v=Ux_3p4lDmTg)) en su USB vacía. (N. B: Desactive su antivirus para realizar la práctica y usar PortableApps. [guía](https://www.youtube.com/watch?v=HDEhLpS7UwM)).
+   
    *Parte 4*. Descargue e instale [Firefox](https://portableapps.com/apps/internet/qbittorrent_portable) desde PortableApps ([tutorial](https://www.youtube.com/watch?v=zzq2kDEsiAs)) o localícela y descárguela desde la [lista de aplicaciones](https://portableapps.com/apps). En seguida, instale el plugin de bloqueo de publicidad, por ejemplo Ghostery y otros ([tutorial](https://www.youtube.com/watch?v=g3Dw_7085r8)).
+   
    *Parte 5*. Descargue e instale el siguiente software portable en una USB: LibreOffice (suite de oficina) ([portable](https://portableapps.com/apps/office/libreoffice_portable)), 7-zip (compresor/descompresor) ([portable](https://portableapps.com/apps/utilities/7-zip_portable)), [R Portable](https://sourceforge.net/projects/rportable/files/R-Portable/)) (estadística) y [RStudio Portable](https://sourceforge.net/projects/rportable/files/R-Studio/) (estadística).
 
 ##### *Bibliografía Complementaria:*
@@ -94,39 +104,27 @@ Que al finalizar el curso el alumno sea capaz de:
 - Recursos digitales en la UAM: biblioteca de la Unidad Iztapalapa ([url](http://contingencia.izt.uam.mx/wp-content/uploads/2020/04/Biblioteca-Nuevo-3b-bindani-B.pdf)), biblioteca digital ([url](https://bidi.uam.mx/index.html)). 
 - Otros recursos: [Library Genesis](http://gen.lib.rus.ec/) (libros, artículos, novelas), [Academic Torrents](http://academictorrents.com/) (artículos, datos y cursos), [recursos varios](http://pcyti.izt.uam.mx/recursos/infext/infoext.html).
 - Repositorios de software: [Software para la comunidad UAM](https://www.uam.mx/ti/soft/), [AlternativeTo](https://alternativeto.net/), [SourceForge](https://sourceforge.net/), [CDLibre](https://www.cdlibre.org/), [Software Heritage](https://www.softwareheritage.org/?lang=es), [GitHub](https://github.com/github). 
+- Valcheva, S. (s.f.). 10 Open Source Decision Tree Software Tools. [url](https://www.intellspot.com/open-source-decision-tree/)
 
 
-- *Práctica 1.1. Partes de la computadora*. (Entrega: 15 de noviembre de 2021).
+#### Unidad 1. Presentación
+1. Introducción
+2. La ciencia de la administración y la toma de decisiones
+3. Contexto histórico del análisis de decisiones
 
-  *Objetivo:* Identificar las partes de los varios tipos de computadoras modernas
-    
-  Investigue e identifique las partes en una computadora de escritorio, una laptop, una tableta y un teléfono celular.
-
-### Contenido Sintético
-
-### Unidad 0. Presentación
-0.1. Presentación e integración de grupo
-0.2. Presentación del programa
-0.3. Evaluación Global y de Recuperación
-
-### Unidad 1. Presentación
-1.1. Introducción
-1.2. La ciencia de la administración y la toma de decisiones
-1.3. Contexto histórico del análisis de decisiones
-
-#### Bibliografía Obligatoria:
+##### Bibliografía Obligatoria:
 - Witzel, M. (2012). 9 From Scientific Management to Management Science. In A history of management thought (capítulo 9). London: Routledge. (Lectura 1).
 - Drucker, P. F. (1955). "Management Science" and the manager. Management Science 1(2), pp. 115-126.  (pdf). (Lectura 2).
 - Zavala, J. (2016). El análisis de decisiones: Un panorama histórico-metodológico. (Mimeo). (pdf). (Lectura 3).
 
-### Unidad 2. La toma de decisiones y la teoría de la elección racional
-2.1. ¿Qué es una decisión?
-2.2. La toma de decisiones como proceso cibernético
-2.3. Teoría de la elección racional
-2.4. La racionalidad limitada
-2.5. Tipos de problemas de decisión
+#### Unidad 2. La toma de decisiones y la teoría de la elección racional
+1. ¿Qué es una decisión?
+2. La toma de decisiones como proceso cibernético
+3. Teoría de la elección racional
+4. La racionalidad limitada
+5. Tipos de problemas de decisión
 
-#### Bibliografía Obligatoria: 
+##### Bibliografía Obligatoria: 
 - Simon, H. A. (1955). A behavioral model of rational choice, The Quarterly Journal of Economics, 69(1), 99-118. (pdf). (Lectura 4).
 - Cameron, S. (2002). Tools of the trade: Rational choice.  In The economics of sin: Rational choice or no choice at all? (pp. 14-39). Cheltenham, Glos, U.K.: Edward Elgar Publishing. (Lectura 5).
 - Pérez, D. (2013). Elección racional. (Video 1) (10:51 min). (Identificar los postulados básicos de la elección racional).
@@ -137,26 +135,26 @@ Que al finalizar el curso el alumno sea capaz de:
 - Sun Tzu. El arte de la guerra. (Video 4). (1:30:38 hr).
 - Lenkersdorf, C. (2002). Aspectos de educación desde la perspectiva maya-tojolabal, Reencuentro 33, 66-74. (pdf). (Lectura 8).
 
-#### Bibliografía Complementaria:
+##### Bibliografía Complementaria:
 - Cabantous, L. y Gond, J-P. (2010). Rational decision making as performative praxis: Explaining rationality's Éternel Retour. Organization Science,22(3), 573-586.
 - Novikov, D.A. (2016). Cybernetics: From past to future, Studies in Systems, Decision and Control 47, Springer.
 - New Economic Thinking (2015). The Death of ‘Homo Economicus’. (Video). (20:29 min).
 - Simon, H. A. (2000). Bounded rationality in social science: Today and tomorrow. Mind & Society, 1(1), 25-39. (pdf).
 
-### Unidad 3. El análisis de decisiones
-3.1. ¿Qué es una decisión?
-3.2. ¿Qué es el análisis de decisiones?
-3.3. Alcances y limitaciones del análisis de decisiones
-3.4. Herramientas analíticas del análisis de decisiones
+#### Unidad 3. El análisis de decisiones
+1. ¿Qué es una decisión?
+2. ¿Qué es el análisis de decisiones?
+3. Alcances y limitaciones del análisis de decisiones
+4. Herramientas analíticas del análisis de decisiones
 
-#### Bibliografía Obligatoria:
+##### Bibliografía Obligatoria:
 - Mote, V. L. y Meenakshi Malya, M. (1970). Decision analysis: Experiences and expectations. Economic and Political Weekly, 5(22), M53+M55+M57-M58. (pdf). (Lectura 9).
 - Goodwin, P. y Wright, G. (2003). Introduction. In Decision analysis for management judgment (pp. 1-13) (3rd ed). Chichester, West Sussex, England: John Wiley & Sons. (Lectura 10).
 - Howard, R. A. (1988). Decision analysis: practice and promise, Management Science, 34(6), 679-695. (pdf). (Lectura 11).
 
   El control de lectura será mediante un trabajo escrito que desarrolle el temario de la unidad en 5 cuartillas, por grupos de 3. Debe incluir concluiones y reflexiones colectivas e individuales al final. Se entregará la próxima clase, previa discusión.
 
-#### Bibliografía Complementaria:
+##### Bibliografía Complementaria:
 - Garber, R. (2009). An interview with Ronald A. Howard. Decision Analysis, 6(4), 263–272. (pdf).
 - Goodwin, P. y Wright, G. (2003). How the people make decisions involving multiple objectives. In Decision analysis for management judgment (pp. 14-26) (3rd ed). Chichester, West Sussex, England: John Wiley & Sons.
 - Howard, R. A. (1966). Decision analysis: Applied decision theory. (pdf).
@@ -164,46 +162,45 @@ Que al finalizar el curso el alumno sea capaz de:
 - James E. Smith, J. E. y von Winterfeldt, D. (2004). Decision Analysis in "Management Science". Management Science, 50(5), 561-574. (pdf). 
 - Ralph L. Keeney, R. L. (1982). Feature Article - Decision analysis: An overview. Operations Research, 30(5), 803-838. (pdf).
 
-### Unidad 4. Los problemas de decisión
-4.1. Modelación de los problemas de decisión
-4.2. Proceso de resolución de problemas de decisión
-4.3. Estructuración de problemas de decisión
-4.4. La situación a analizar
+#### Unidad 4. Los problemas de decisión
+1. Modelación de los problemas de decisión
+2. Proceso de resolución de problemas de decisión
+3. Estructuración de problemas de decisión
+4. La situación a analizar
 
-#### Bibliografía Obligatoria:
+##### Bibliografía Obligatoria:
 - Ragsdale, C. (2008). Introduction to modeling and decision analysis. In Spreadsheet modeling & decision analysis: A practical introduction to management science. (6th ed). Mason, MO, USA: Cengage Learning. (Lectura 12).
 - von Winterfeldt, D. y Edwards, W. (2007). Defining a decision analytic structure. In W. Edwards, R. F. Miles y D. von Winterfeldt. (2007). Advances in Decision Analysis: From foundations to applications (pp. 81-103), Cambridge: Cambridge University Press. (Lectura 13).
 - Ley-Borrás, R. (2015). Deciding on the decision situation to analyze: The critical first step of a decision analysis. Decision Analysis, 12(1), pp. 46-58. (Lectura 14).
 
 El control de lectura será mediante un trabajo escrito que desarrolle el temario de la unidad en 5 cuartillas, por grupos de 3. Debe incluir conclusiones y reflexiones colectivas e individuales al final. Se entregará la próxima clase, previa discusión.
 
-#### Bibliografía Complementaria:
+##### Bibliografía Complementaria:
 - Barclay et al. (1977). Diagramming and solving decisions problems. In Handbook for Decisions Analysis (pp. 1-20). Washington, D.C.: Decisions and Designs, Washington, D.C.: Inc.-Advanced Research Projects Agency. (pdf).
 - Clemen, R. T y Kwit, R. C. (2001). The value of decision analysis at Eastman Kodak Company, 1990-1999. Interfaces, 31(5), pp. 74-92. (pdf). 
 - Detsky, A. S., Redelmeier, D., y Abrams, H. B. (1987). What's wrong with decision analysis? Can the left brain influence the right?. Journal of Chronic Diseases, 40(9), pp. 831-836.
 - Ríos, S., Ríos, D., Mateos, A. y Martín, J. (1998).  Programación lineal y aplicaciones: Ejercicios resueltos. México: Alfa Omega - Ra Ma.
 
-### Unidad 5. El proceso y las técnicas del análisis de decisiones
-5.1. Los objetivos
-5.2. Las opciones
-5.3. El análisis
-5.4. Estructuración de las decisiones
-5.5. Modelos de decisión
- 5.5.1. Árboles de decisión
- 5.5.2. Modelo de norma mínima
- 5.5.3. Modelo de scoring
- 5.5.4. Matriz de pagos
- 5.5.5. Otras técnicas
-5.6. Proyecto de investigación
+#### Unidad 5. El proceso y las técnicas del análisis de decisiones
+1. Los objetivos
+2. Las opciones
+3. El análisis
+4. Estructuración de las decisiones
+5. Modelos de decisión:
+   a. Árboles de decisión
+   b. Modelo de norma mínima
+   c. Modelo de scoring
+   d. Matriz de pagos
+   e. Otras técnicas
 
-#### Bibliografía Obligatoria:
+##### Bibliografía Obligatoria:
 - Parnell, Bresnick y Johnson (2013). Craft the decision objectives and value measures. In G. S. Parnell, T. A. Bresnick y S. N. Tani (Eds.). Handbook of decision analysis (pp. 127-148). Hoboken, New Jersey: John Wiley. (Lectura 15).
 - Tani, S. N. y Parnell, G. S. (2013). Design creative alternatives. In G. S. Parnell, T. A. Bresnick y S. N. Tani (Eds.). Handbook of decision analysis (pp. 149-165). Hoboken, New Jersey: John Wiley. (Lectura 16).
 - Parnell, G. S., Bresnick, T. A. y Tani, S. N. (2013). Appendix B: Influence Diagrams. In Handbook of decision analysis (pp. 374-380). Hoboken, New Jersey: John Wiley. (Lectura 17).
 - Cuya, K. (2014). Árboles de decisión. 4 Ramas. (Video). (6:57 min).
 - Zonaudearroba Facultad de Ingeniería (2016). Capacidad de planta por el método de árbol de decisión. (Video). (22:01 min).
 
-#### Bibliografía Complementaria:
+##### Bibliografía Complementaria:
 - Cashin, J. A., Polimeni, R. S. (1980). Contabilidad de costos. Mexico: McGraw-Hill.
 - Clemen, R. T. y Reilly, T. (2013). Structuring decisions. In Making hard decisions with decision tools (pp. 46-117). USA: Cengage Learning.
 - Drury, C. (2001). Management accounting for business decisions (2nd. Ed). London: Thomson Learning.
@@ -214,7 +211,6 @@ El control de lectura será mediante un trabajo escrito que desarrolle el temari
 - Schum, D. A. (2013). Decision Analysis. In S. I. Gass y M. C. Fu (Eds.). Encyclopedia of operations research and management science (pp. 367-372). (3rd. Ed.). New York: Springer ScienceþBusiness Media.
 
 ### Proyecto de fin de curso: 
-
 El proyecto es opcional, pero otorgará un **punto extra a la calificación final** si cumple los requisitos del mismo. Fecha de entrega: 4 de febrero de 2022.
 
 En equipos de 3, estudien la lista de videos sobre el desarrollo de un  [Sistema para un Parqueadero en #PseInt](https://www.youtube.com/watch?v=9jLu8yrdsjM&list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f) (Altas, Bajas y Cambios).
@@ -234,6 +230,9 @@ Documente en un video la realización de la práctica y su experiencia en la rea
 ### 6. Bibliografía General:
 - Paquete [Multi-Criteria Decision Aiding (MCDA)](https://www.decision-deck.org/r/), [tutorial](https://www.decision-deck.org/r/tutorial.html#tutorial-r-mcda)
 Referencia: Bouyssou, D., Marchant, T., Pirlot, M., Perny, P., Tsoukià s A., Vincke, P. (2000) *Evaluation and decision models: A critical perspective*. Kluwer, Dordrecht. ([url](http://libgen.rs/book/index.php?md5=D17907F555C0E2A519EA0EDCBDAC8F43)).
+- Luedeling, E. et al (2022, Feb 18). Package ‘decisionSupport’ (Quantitative Support of Decision Making under Uncertainty). *CRAN*. ([pdf](https://cran.r-project.org/web/packages/decisionSupport/decisionSupport.pdf)).
+- Meyer, P., Bigaret, S., Hodgett, R. and Olteanu, A-L. (2021, May 04). Package MCDA (Support for the Multicriteria Decision Aiding Process). CRAN. ([url](https://cran.r-project.org/package=MCDA)).
+- 
 
 - Anónimo (2016). Reducción del consumo de productos desechables (vasos y platos) no biodegradables (unicel, plástico, etc.) que generan un impacto ambiental. UAM-I. UEA Análisis de Decisiones. Proyecto final. (pdf).
 - Banco Mundial. Proyectos para México. (html).
