@@ -250,6 +250,10 @@ Referencia: Bouyssou, D., Marchant, T., Pirlot, M., Perny, P., Tsoukià s A., Vi
 - Hernández, L. (2012, Nov 16). **El Software Libre y la educación** por Richard Stallman. *YouTube* [url](https://www.youtube.com/watch?v=aRvorE9PJso) 
 - Valcheva, S. (s.f.). 10 Open Source Decision Tree Software Tools. [url](https://www.intellspot.com/open-source-decision-tree/)
 
+- Universitat de les Illes Balears. Som UIB (2016, Sep 22). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([Lista de videos](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).
+- Wickham, H. & Grolemund, G. (2017). R for data science: Import, tidy, transform, visualize, and model data. O'Reilly. ([url](https://r4ds.had.co.nz/)). (R para ciencia de datos, [traducción español](https://r4ds-en-espaniol.netlify.app/)). (Solución de los ejercicios, [url](https://cienciadedatos.github.io/r4ds-soluciones/index.html)).
+- Teetor, P. (2019). R cookbook: Proven recipes for data analysis, statistics, and graphics. O'Reilly. [Online] ([url](https://rc2e.com/)). [[traducción al español](https://translate.google.com/translate?sl=en&tl=es&u=https://rc2e.com/)].
+- Wickham, H. & Grolemund, G. (2017). R for data science. [Online] ([url](https://r4ds.had.co.nz/)), [traducción al español] ([url](https://es.r4ds.hadley.nz/)).
 
 ## Modalidades de Evaluación
 
