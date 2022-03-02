@@ -13,7 +13,7 @@
 
 **Profesor:** *dr. Jesús Zavala Ruiz*
 
-**Contacto**:
+**Contacte al profesor**:
 - Correo electrónico: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx)
 - Telegram: <img src="https://github.com/jzavalar/2211088-informatica/blob/main/telegram_logo.svg" alt="Telegram" width="3%"/> [@jzavalar](https://telegram.me/jzavalar)
 
@@ -101,11 +101,6 @@ Que al finalizar el curso el alumno sea capaz de:
 
 ##### *Bibliografía Complementaria:*
 - Ibiza, D. (2018, Apr 3). 1. Introducción a Google Drive: Primeros pasos ([tutorial](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=330s)), 2. Gestión de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=2042s)), 3. Opciones de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=3313s)), 4. Cómo compartir archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=4238s)), 5. Trabajar con documentos ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=5222s)) . In Tutorial Google Drive | Completo | Principiantes | Paso a Paso. YouTube. (video). ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk)).
-- Recursos digitales en la UAM: biblioteca de la Unidad Iztapalapa ([url](http://contingencia.izt.uam.mx/wp-content/uploads/2020/04/Biblioteca-Nuevo-3b-bindani-B.pdf)), biblioteca digital ([url](https://bidi.uam.mx/index.html)), [recursos varios](http://pcyti.izt.uam.mx/recursos/infext/infoext.html). 
-- Recursos controversiales: [**Library Genesis**](http://gen.lib.rus.ec/) (libros, artículos, novelas), [**SciHub**](https://sci-hub.se/about) (artículos), [**The Pirate Bay**](https://thepiratebay.org/index.html) (P2P file sharing network) (archivos), [Academic Torrents](http://academictorrents.com/) (artículos, datos y cursos).
-- Repositorios de software: [Software para la comunidad UAM](https://www.uam.mx/ti/soft/), [AlternativeTo](https://alternativeto.net/), [SourceForge](https://sourceforge.net/), [CDLibre](https://www.cdlibre.org/), [Software Heritage](https://www.softwareheritage.org/?lang=es), [GitHub](https://github.com/github).
-- Hernández, L. (2012, Nov 16). **El Software Libre y la educación** por Richard Stallman. *YouTube* [url](https://www.youtube.com/watch?v=aRvorE9PJso) 
-- Valcheva, S. (s.f.). 10 Open Source Decision Tree Software Tools. [url](https://www.intellspot.com/open-source-decision-tree/)
 
 
 #### Unidad 1. Presentación
@@ -114,9 +109,9 @@ Que al finalizar el curso el alumno sea capaz de:
 3. Contexto histórico del análisis de decisiones
 
 ##### Bibliografía Obligatoria:
-- Witzel, M. (2012). 9 From Scientific Management to Management Science. In *A history of management thought* (capítulo 9). London: Routledge. ([url](https://www.amazon.com/History-Management-Thought-Morgen-Witzel/dp/0415600588)) ([url](http://libgen.rs/book/index.php?md5=1F104CC3F1936AF817CC64261EBDB0DA)). (Lectura 1).
-- Drucker, P. F. (1955). "Management Science" and the manager. *Management Science 1*(2), 115-126. doi: http://doi.org/10.1287/mnsc.1.2.115 ([url](http://libgen.rs/scimag/10.1287%2Fmnsc.1.2.115)). (Lectura 2).
-- Zavala, J. (2016). El análisis de decisiones: Un panorama histórico-metodológico. (Mimeo). (pdf). (Lectura 3).
+- Witzel, M. (2012). 9 From Scientific Management to Management Science. In *A history of management thought* (capítulo 9). London: Routledge. ([url](https://www.amazon.com/History-Management-Thought-Morgen-Witzel/dp/0415600588)) ([url](http://libgen.rs/book/index.php?md5=1F104CC3F1936AF817CC64261EBDB0DA)). (*Lectura 1*).
+- Drucker, P. F. (1955). "Management Science" and the manager. *Management Science 1*(2), 115-126. doi: http://doi.org/10.1287/mnsc.1.2.115 ([url](http://libgen.rs/scimag/10.1287%2Fmnsc.1.2.115)). (*Lectura 2*).
+- Zavala, J. (2016). El análisis de decisiones: Un panorama histórico-metodológico. (Mimeo). ([pdf]()). (*Lectura 3*).
 
 #### Unidad 2. La toma de decisiones y la teoría de la elección racional
 1. ¿Qué es una decisión?
@@ -232,8 +227,7 @@ Documente en un video la realización de la práctica y su experiencia en la rea
 - Paquete [Multi-Criteria Decision Aiding (MCDA)](https://www.decision-deck.org/r/), [tutorial](https://www.decision-deck.org/r/tutorial.html#tutorial-r-mcda)
 Referencia: Bouyssou, D., Marchant, T., Pirlot, M., Perny, P., Tsoukià s A., Vincke, P. (2000) *Evaluation and decision models: A critical perspective*. Kluwer, Dordrecht. ([url](http://libgen.rs/book/index.php?md5=D17907F555C0E2A519EA0EDCBDAC8F43)).
 - Luedeling, E. et al (2022, Feb 18). Package ‘decisionSupport’ (Quantitative Support of Decision Making under Uncertainty). *CRAN*. ([pdf](https://cran.r-project.org/web/packages/decisionSupport/decisionSupport.pdf)).
-- Meyer, P., Bigaret, S., Hodgett, R. and Olteanu, A-L. (2021, May 04). Package MCDA (Support for the Multicriteria Decision Aiding Process). CRAN. ([url](https://cran.r-project.org/package=MCDA)).
-- 
+- Meyer, P., Bigaret, S., Hodgett, R. and Olteanu, A-L. (2021, May 04). Package MCDA (Support for the Multicriteria Decision Aiding Process). CRAN. ([url](https://cran.r-project.org/package=MCDA)). 
 
 - Anónimo (2016). Reducción del consumo de productos desechables (vasos y platos) no biodegradables (unicel, plástico, etc.) que generan un impacto ambiental. UAM-I. UEA Análisis de Decisiones. Proyecto final. (pdf).
 - Banco Mundial. Proyectos para México. (html).
@@ -247,6 +241,12 @@ Referencia: Bouyssou, D., Marchant, T., Pirlot, M., Perny, P., Tsoukià s A., Vi
 - Proceso (2009, feb 12). ¿Por qué México no crece?. Semanario Proceso. (html).
 - Sparxs Systems (2016). Enterprise Architect. Modeling Software. (descargar).
 - Weick, K. E. (1995). Sensemaking in organizations. Thousand Oaks, CA, USA: Sage.
+
+- Recursos digitales en la UAM: biblioteca de la Unidad Iztapalapa ([url](http://contingencia.izt.uam.mx/wp-content/uploads/2020/04/Biblioteca-Nuevo-3b-bindani-B.pdf)), biblioteca digital ([url](https://bidi.uam.mx/index.html)), [recursos varios](http://pcyti.izt.uam.mx/recursos/infext/infoext.html). 
+- Recursos controversiales: [**Library Genesis**](http://gen.lib.rus.ec/) (libros, artículos, novelas), [**SciHub**](https://sci-hub.se/about) (artículos), [**The Pirate Bay**](https://thepiratebay.org/index.html) (P2P file sharing network) (archivos), [Academic Torrents](http://academictorrents.com/) (artículos, datos y cursos).
+- Repositorios de software: [Software para la comunidad UAM](https://www.uam.mx/ti/soft/), [AlternativeTo](https://alternativeto.net/), [SourceForge](https://sourceforge.net/), [CDLibre](https://www.cdlibre.org/), [Software Heritage](https://www.softwareheritage.org/?lang=es), [GitHub](https://github.com/github).
+- Hernández, L. (2012, Nov 16). **El Software Libre y la educación** por Richard Stallman. *YouTube* [url](https://www.youtube.com/watch?v=aRvorE9PJso) 
+- Valcheva, S. (s.f.). 10 Open Source Decision Tree Software Tools. [url](https://www.intellspot.com/open-source-decision-tree/)
 
 
 ## Modalidades de Evaluación
