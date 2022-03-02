@@ -101,6 +101,8 @@ Que al finalizar el curso el alumno sea capaz de:
 
 ##### *Bibliografía Complementaria:*
 - Ibiza, D. (2018, Apr 3). 1. Introducción a Google Drive: Primeros pasos ([tutorial](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=330s)), 2. Gestión de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=2042s)), 3. Opciones de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=3313s)), 4. Cómo compartir archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=4238s)), 5. Trabajar con documentos ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=5222s)) . In Tutorial Google Drive | Completo | Principiantes | Paso a Paso. YouTube. (video). ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk)).
+- Universitat de les Illes Balears. Som UIB (2021). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([url](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).
+- Alva Majo. (2018, Jul 11). Aprende a programar en 11 minutos. *YouTube* [video]. (12:32 min). ([url](https://www.youtube.com/watch?v=TAyyujKoY6k)). (Lectura 2.1.)
 
 
 #### Unidad 1. Presentación
