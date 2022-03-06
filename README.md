@@ -111,9 +111,9 @@ Que al finalizar el curso el alumno sea capaz de:
 3. Contexto histórico del análisis de decisiones
 
 ##### Bibliografía Obligatoria:
-- Witzel, M. (2012). 9 From Scientific Management to Management Science. In *A history of management thought* (capítulo 9). London: Routledge. ([url](https://www.amazon.com/History-Management-Thought-Morgen-Witzel/dp/0415600588)) ([url](http://libgen.rs/book/index.php?md5=1F104CC3F1936AF817CC64261EBDB0DA)). (*Lectura 1*).
+- Witzel, M. (2012). 9 From Scientific Management to Management Science. In *A history of management thought* (capítulo 9). London: Routledge. ([url](https://www.amazon.com/History-Management-Thought-Morgen-Witzel/dp/0415600588)) ([torrent](https://thepiratebay.org/description.php?id=7912663)) ([epub url](http://libgen.rs/book/index.php?md5=1F104CC3F1936AF817CC64261EBDB0DA)). (*Lectura 1*).
 - Drucker, P. F. (1955). "Management Science" and the manager. *Management Science 1*(2), 115-126. doi: http://doi.org/10.1287/mnsc.1.2.115 ([url](http://libgen.rs/scimag/10.1287%2Fmnsc.1.2.115)). (*Lectura 2*).
-- Zavala, J. (2016). El análisis de decisiones: Un panorama histórico-metodológico. (Mimeo). ([pdf]()). (*Lectura 3*).
+- Zavala, J. (2016). El análisis de decisiones: Un panorama histórico-metodológico. (Mimeo). (Disponible en el grupo de Telegram). (*Lectura 3*).
 
 #### Unidad 2. La toma de decisiones y la teoría de la elección racional
 1. ¿Qué es una decisión?
@@ -123,21 +123,21 @@ Que al finalizar el curso el alumno sea capaz de:
 5. Tipos de problemas de decisión
 
 ##### Bibliografía Obligatoria: 
-- Simon, H. A. (1955). A behavioral model of rational choice, The Quarterly Journal of Economics, 69(1), 99-118. (pdf). (Lectura 4).
-- Cameron, S. (2002). Tools of the trade: Rational choice.  In The economics of sin: Rational choice or no choice at all? (pp. 14-39). Cheltenham, Glos, U.K.: Edward Elgar Publishing. (Lectura 5).
+- Simon, H. A. (1955). A behavioral model of rational choice, *The Quarterly Journal of Economics, 69*(1), 99-118. (pdf). (Lectura 4).
+- Cameron, S. (2002). Tools of the trade: Rational choice.  In *The economics of sin: Rational choice or no choice at all?* (pp. 14-39). Cheltenham, Glos, U.K.: Edward Elgar Publishing. (Lectura 5).
 - Pérez, D. (2013). Elección racional. (Video 1) (10:51 min). (Identificar los postulados básicos de la elección racional).
 - Simon, H. A. (2016/1992). Why decision making is so difficult. (Video 2). (2:19 min).
 - Elster, J. (2013). Racionalidad e Interés: Tratado de hombre económico contemporáneo. (Video 3). (1:11:34 hr). (Identificar los postulados de la teoría de la racionalidad limitada, sus éxitos y fracasos).
 - Kurtz, C. F. y Snowden, D. J. (2003). The new dynamics of strategy: Sense-making in a complex and complicated world. IBM Systems Journal, 42(3), 462-483. (pdf). (Lectura 6).
-- Searle, J. R. (2003). The classical model of rationality and its weaknesses. In (auth.) Rationality in action (pp. 1-32). (Lectura 7).
-- Sun Tzu. El arte de la guerra. (Video 4). (1:30:38 hr).
-- Lenkersdorf, C. (2002). Aspectos de educación desde la perspectiva maya-tojolabal, Reencuentro 33, 66-74. (pdf). (Lectura 8).
+- Searle, J. R. (2003). The classical model of rationality and its weaknesses. In (auth.) *Rationality in action* (pp. 1-32). (Lectura 7).
+- Sun Tzu. *El arte de la guerra*. (Video 4). (1:30:38 hr).
+- Lenkersdorf, C. (2002). Aspectos de educación desde la perspectiva maya-tojolabal, *Reencuentro* 33, 66-74. (pdf). (Lectura 8).
 
 ##### Bibliografía Complementaria:
-- Cabantous, L. y Gond, J-P. (2010). Rational decision making as performative praxis: Explaining rationality's Éternel Retour. Organization Science,22(3), 573-586.
-- Novikov, D.A. (2016). Cybernetics: From past to future, Studies in Systems, Decision and Control 47, Springer.
-- New Economic Thinking (2015). The Death of ‘Homo Economicus’. (Video). (20:29 min).
-- Simon, H. A. (2000). Bounded rationality in social science: Today and tomorrow. Mind & Society, 1(1), 25-39. (pdf).
+- Cabantous, L. y Gond, J-P. (2010). Rational decision making as performative praxis: Explaining rationality's Éternel Retour. *Organization Science,22*(3), 573-586.
+- Novikov, D.A. (2016). *Cybernetics: From past to future*. Springer.
+- New Economic Thinking (2015). The Death of ‘Homo Economicus’. YouTube ([Video]()). (20:29 min).
+- Simon, H. A. (2000). Bounded rationality in social science: Today and tomorrow. *Mind & Society, 1*(1), 25-39. ([pdf]()).
 
 #### Unidad 3. El análisis de decisiones
 1. ¿Qué es una decisión?
@@ -146,19 +146,19 @@ Que al finalizar el curso el alumno sea capaz de:
 4. Herramientas analíticas del análisis de decisiones
 
 ##### Bibliografía Obligatoria:
-- Mote, V. L. y Meenakshi Malya, M. (1970). Decision analysis: Experiences and expectations. Economic and Political Weekly, 5(22), M53+M55+M57-M58. (pdf). (Lectura 9).
-- Goodwin, P. y Wright, G. (2003). Introduction. In Decision analysis for management judgment (pp. 1-13) (3rd ed). Chichester, West Sussex, England: John Wiley & Sons. (Lectura 10).
-- Howard, R. A. (1988). Decision analysis: practice and promise, Management Science, 34(6), 679-695. (pdf). (Lectura 11).
+- Mote, V. L. y Meenakshi Malya, M. (1970). Decision analysis: Experiences and expectations. *Economic and Political Weekly, 5*(22), M53+M55+M57-M58. ([pdf]). (Lectura 9).
+- Goodwin, P. y Wright, G. (2003). Introduction. In *Decision analysis for management judgment* (pp. 1-13). Chichester, West Sussex, England: John Wiley & Sons. (Lectura 10).
+- Howard, R. A. (1988). Decision analysis: practice and promise, *Management Science, 34*(6), 679-695. ([pdf]()). (Lectura 11).
 
   El control de lectura será mediante un trabajo escrito que desarrolle el temario de la unidad en 5 cuartillas, por grupos de 3. Debe incluir concluiones y reflexiones colectivas e individuales al final. Se entregará la próxima clase, previa discusión.
 
 ##### Bibliografía Complementaria:
-- Garber, R. (2009). An interview with Ronald A. Howard. Decision Analysis, 6(4), 263–272. (pdf).
-- Goodwin, P. y Wright, G. (2003). How the people make decisions involving multiple objectives. In Decision analysis for management judgment (pp. 14-26) (3rd ed). Chichester, West Sussex, England: John Wiley & Sons.
-- Howard, R. A. (1966). Decision analysis: Applied decision theory. (pdf).
-- Howard, R. A. (1968). The foundations of decision analysis. IEEE Transactions on Systems Science and Cybernetics, 4(3), 211-219.
-- James E. Smith, J. E. y von Winterfeldt, D. (2004). Decision Analysis in "Management Science". Management Science, 50(5), 561-574. (pdf). 
-- Ralph L. Keeney, R. L. (1982). Feature Article - Decision analysis: An overview. Operations Research, 30(5), 803-838. (pdf).
+- Garber, R. (2009). An interview with Ronald A. Howard. *Decision Analysis, 6*(4), 263–272. ([pdf]()).
+- Goodwin, P. y Wright, G. (2003). How the people make decisions involving multiple objectives. In *Decision analysis for management judgment* (pp. 14-26). Chichester, West Sussex, England: John Wiley & Sons.
+- Howard, R. A. (1966). *Decision analysis: Applied decision theory*. ([pdf]()).
+- Howard, R. A. (1968). The foundations of decision analysis. *IEEE Transactions on Systems Science and Cybernetics, 4*(3), 211-219. ([pdf]()).
+- James E. Smith, J. E. y von Winterfeldt, D. (2004). Decision Analysis in "Management Science". *Management Science, 50*(5), 561-574. ([pdf]()). 
+- Ralph L. Keeney, R. L. (1982). Feature Article - Decision analysis: An overview. *Operations Research, 30*(5), 803-838. ([pdf]()).
 
 #### Unidad 4. Los problemas de decisión
 1. Modelación de los problemas de decisión
@@ -167,17 +167,17 @@ Que al finalizar el curso el alumno sea capaz de:
 4. La situación a analizar
 
 ##### Bibliografía Obligatoria:
-- Ragsdale, C. (2008). Introduction to modeling and decision analysis. In Spreadsheet modeling & decision analysis: A practical introduction to management science. (6th ed). Mason, MO, USA: Cengage Learning. (Lectura 12).
-- von Winterfeldt, D. y Edwards, W. (2007). Defining a decision analytic structure. In W. Edwards, R. F. Miles y D. von Winterfeldt. (2007). Advances in Decision Analysis: From foundations to applications (pp. 81-103), Cambridge: Cambridge University Press. (Lectura 13).
-- Ley-Borrás, R. (2015). Deciding on the decision situation to analyze: The critical first step of a decision analysis. Decision Analysis, 12(1), pp. 46-58. (Lectura 14).
+- Ragsdale, C. (2008). Introduction to modeling and decision analysis. In *Spreadsheet modeling & decision analysis: A practical introduction to management science*. Mason, MO, USA: Cengage Learning. (*Lectura 12*).
+- von Winterfeldt, D. y Edwards, W. (2007). Defining a decision analytic structure. In W. Edwards, R. F. Miles y D. von Winterfeldt. (2007). *Advances in Decision Analysis: From foundations to applications* (pp. 81-103), Cambridge: Cambridge University Press. (*Lectura 13*).
+- Ley-Borrás, R. (2015). Deciding on the decision situation to analyze: The critical first step of a decision analysis. *Decision Analysis, 12*(1), pp. 46-58. (*Lectura 14*).
 
 El control de lectura será mediante un trabajo escrito que desarrolle el temario de la unidad en 5 cuartillas, por grupos de 3. Debe incluir conclusiones y reflexiones colectivas e individuales al final. Se entregará la próxima clase, previa discusión.
 
 ##### Bibliografía Complementaria:
-- Barclay et al. (1977). Diagramming and solving decisions problems. In Handbook for Decisions Analysis (pp. 1-20). Washington, D.C.: Decisions and Designs, Washington, D.C.: Inc.-Advanced Research Projects Agency. (pdf).
-- Clemen, R. T y Kwit, R. C. (2001). The value of decision analysis at Eastman Kodak Company, 1990-1999. Interfaces, 31(5), pp. 74-92. (pdf). 
-- Detsky, A. S., Redelmeier, D., y Abrams, H. B. (1987). What's wrong with decision analysis? Can the left brain influence the right?. Journal of Chronic Diseases, 40(9), pp. 831-836.
-- Ríos, S., Ríos, D., Mateos, A. y Martín, J. (1998).  Programación lineal y aplicaciones: Ejercicios resueltos. México: Alfa Omega - Ra Ma.
+- Barclay et al. (1977). Diagramming and solving decisions problems. In *Handbook for Decisions Analysis* (pp. 1-20). Washington, D.C.: Decisions and Designs, Washington, D.C.: Inc.-Advanced Research Projects Agency. ([pdf]()).
+- Clemen, R. T y Kwit, R. C. (2001). The value of decision analysis at Eastman Kodak Company, 1990-1999. *Interfaces, 31*(5), pp. 74-92. ([pdf]()). 
+- Detsky, A. S., Redelmeier, D., y Abrams, H. B. (1987). What's wrong with decision analysis? Can the left brain influence the right?. *Journal of Chronic Diseases, 40*(9), pp. 831-836. ([pdf]()). 
+- Ríos, S., Ríos, D., Mateos, A. y Martín, J. (1998). *Programación lineal y aplicaciones: Ejercicios resueltos*. México: Alfa Omega - Ra Ma.
 
 #### Unidad 5. El proceso y las técnicas del análisis de decisiones
 1. Los objetivos
@@ -192,20 +192,20 @@ El control de lectura será mediante un trabajo escrito que desarrolle el temari
    e. Otras técnicas
 
 ##### Bibliografía Obligatoria:
-- Parnell, Bresnick y Johnson (2013). Craft the decision objectives and value measures. In G. S. Parnell, T. A. Bresnick y S. N. Tani (Eds.). Handbook of decision analysis (pp. 127-148). Hoboken, New Jersey: John Wiley. (Lectura 15).
-- Tani, S. N. y Parnell, G. S. (2013). Design creative alternatives. In G. S. Parnell, T. A. Bresnick y S. N. Tani (Eds.). Handbook of decision analysis (pp. 149-165). Hoboken, New Jersey: John Wiley. (Lectura 16).
-- Parnell, G. S., Bresnick, T. A. y Tani, S. N. (2013). Appendix B: Influence Diagrams. In Handbook of decision analysis (pp. 374-380). Hoboken, New Jersey: John Wiley. (Lectura 17).
-- Cuya, K. (2014). Árboles de decisión. 4 Ramas. (Video). (6:57 min).
-- Zonaudearroba Facultad de Ingeniería (2016). Capacidad de planta por el método de árbol de decisión. (Video). (22:01 min).
+- Parnell, Bresnick y Johnson (2013). Craft the decision objectives and value measures. In G. S. Parnell, T. A. Bresnick y S. N. Tani (Eds.). *Handbook of decision analysis* (pp. 127-148). Hoboken, New Jersey: John Wiley. (*Lectura 15*).
+- Tani, S. N. y Parnell, G. S. (2013). Design creative alternatives. In G. S. Parnell, T. A. Bresnick y S. N. Tani (Eds.). *Handbook of decision analysis* (pp. 149-165). Hoboken, New Jersey: John Wiley. (*Lectura 16*).
+- Parnell, G. S., Bresnick, T. A. y Tani, S. N. (2013). Appendix B: Influence Diagrams. In *Handbook of decision analysis* (pp. 374-380). Hoboken, New Jersey: John Wiley. (*Lectura 17*).
+- Cuya, K. (2014). Árboles de decisión. 4 Ramas. ([Video]()). (6:57 min). (*Lectura 18*).
+- Zonaudearroba Facultad de Ingeniería (2016). Capacidad de planta por el método de árbol de decisión. ([Video]()). (22:01 min). (*Lectura 19*).
 
 ##### Bibliografía Complementaria:
-- Cashin, J. A., Polimeni, R. S. (1980). Contabilidad de costos. Mexico: McGraw-Hill.
-- Clemen, R. T. y Reilly, T. (2013). Structuring decisions. In Making hard decisions with decision tools (pp. 46-117). USA: Cengage Learning.
-- Drury, C. (2001). Management accounting for business decisions (2nd. Ed). London: Thomson Learning.
-- Drury, C. (2012). Management and cost accounting. USA: Cengage Learning EMEA.
-- Howard, R. A. y Matheson, J. E. (2005). Influence diagram retrospective, Decision Analysis 2(3), 144-147, . 
-- Proctor, T. (2013). Creative problem solving for managers: Developing skills for decision making and innovation, London: Routledge.
-- Johnson, E. R. y Tani, S. N. (2013). Perform probabilistic analysis and identify insights. In G. S. Parnell, T. A. Bresnick y S. N. Tani (Eds.). Handbook of decision analysis (pp. 248-290). Hoboken, New Jersey: John Wiley. (Lectura 21).
+- Cashin, J. A., Polimeni, R. S. (1980). *Contabilidad de costos*. Mexico: McGraw-Hill.
+- Clemen, R. T. y Reilly, T. (2013). Structuring decisions. In *Making hard decisions with decision tools* (pp. 46-117). USA: Cengage Learning.
+- Drury, C. (2001). *Management accounting for business decisions*. London: Thomson Learning.
+- Drury, C. (2012). *Management and cost accounting*. USA: Cengage Learning EMEA.
+- Howard, R. A. y Matheson, J. E. (2005). Influence diagram retrospective, *Decision Analysis 2*(3), 144-147, . 
+- Proctor, T. (2013). *Creative problem solving for managers: Developing skills for decision making and innovation*. London: Routledge.
+- Johnson, E. R. y Tani, S. N. (2013). Perform probabilistic analysis and identify insights. In G. S. Parnell, T. A. Bresnick y S. N. Tani (Eds.). *Handbook of decision analysis* (pp. 248-290). Hoboken, New Jersey: John Wiley. (*Lectura 21*).
 - Schum, D. A. (2013). Decision Analysis. In S. I. Gass y M. C. Fu (Eds.). Encyclopedia of operations research and management science (pp. 367-372). (3rd. Ed.). New York: Springer ScienceþBusiness Media.
 
 ### Proyecto de fin de curso: 
@@ -251,9 +251,10 @@ Referencia: Bouyssou, D., Marchant, T., Pirlot, M., Perny, P., Tsoukià s A., Vi
 - Valcheva, S. (s.f.). 10 Open Source Decision Tree Software Tools. [url](https://www.intellspot.com/open-source-decision-tree/)
 
 - Universitat de les Illes Balears. Som UIB (2016, Sep 22). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([Lista de videos](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).
-- Wickham, H. & Grolemund, G. (2017). R for data science: Import, tidy, transform, visualize, and model data. O'Reilly. ([url](https://r4ds.had.co.nz/)). (R para ciencia de datos, [traducción español](https://r4ds-en-espaniol.netlify.app/)). (Solución de los ejercicios, [url](https://cienciadedatos.github.io/r4ds-soluciones/index.html)).
-- Teetor, P. (2019). R cookbook: Proven recipes for data analysis, statistics, and graphics. O'Reilly. [Online] ([url](https://rc2e.com/)). [[traducción al español](https://translate.google.com/translate?sl=en&tl=es&u=https://rc2e.com/)].
+- Wickham, H. & Grolemund, G. (2017). *R for data science: Import, tidy, transform, visualize, and model data*. O'Reilly. ([url](https://r4ds.had.co.nz/)). (R para ciencia de datos, [traducción español](https://r4ds-en-espaniol.netlify.app/)). (Solución de los ejercicios, [url](https://cienciadedatos.github.io/r4ds-soluciones/index.html)).
+- Teetor, P. (2019). *R cookbook: Proven recipes for data analysis, statistics, and graphics*. O'Reilly. [Online] ([url](https://rc2e.com/)). [[traducción al español](https://translate.google.com/translate?sl=en&tl=es&u=https://rc2e.com/)].
 - Wickham, H. & Grolemund, G. (2017). R for data science. [Online] ([url](https://r4ds.had.co.nz/)), [traducción al español] ([url](https://es.r4ds.hadley.nz/)).
+- RStudio cheatsheets. https://github.com/rstudio/cheatsheets
 
 ## Modalidades de Evaluación
 
