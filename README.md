@@ -111,15 +111,23 @@ Que al finalizar el curso el alumno sea capaz de:
 3. Contexto histórico del análisis de decisiones
 4. Prácticas:  
 - *Práctica 1.1: Preparación de RStudio Cloud*.  
+  
   *Objetivo*: Aprender a preparar el entorno de *RStudio Cloud* para generar un libro *RMarkdown*.  
+  
   Cree su cuenta en [RStudio cloud](https://rstudio.cloud/). Luego, descargue los [archivos fuente](https://github.com/CerebralMastication/R-Cookbook/) desde GitHub del libro [*R Cookbook*](https://rc2e.com/). Copie el archivo comprimido (.zip) de su computadora a su propio proyecto *R Cookbook* en su cuenta de RStudio cloud. Una vez descomprimido, mueva todos los archivos a la raíz del proyecto. Finalmente, instale todos los paquetes necesarios, de manera progresiva, a partir de la ejecución del archivo *index.Rmd*, hasta que ya no haya errores y regenere en su propia copia del libro.  
+  
   Esto le permitirá ejecutar el código fuente de las recetas del libro, hacer las modificaciones que requiera y usarlas para sus propias necesidades.  
+  
   Por último, haga un video tutorial grabando la pantalla de su equipo con [Vokoscreen-NG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html) conforme vaya realizando su práctica hasta que haya cumplido el objetivo. Suba su video a su cuenta de Google Drive donde corresponda y al chat de Telegram con el profesor. 
   
 - *Práctica 1.2: Fundamentos de R*.  
+  
   *Objetivo*: Aprender a usar el código fuente de los ejemplos de un libro de R en el entorno de *RStudio Cloud*.  
+  
   Localice el código fuente del libro *R in a Nutshell* [pdf](https://www.guianaplants.stir.ac.uk/seminar/resources/R_in_a_Nutshell_Second_Edition.pdf) y [cargue el paquete](https://learning.oreilly.com/library/view/r-in-a/9781449377502/pr03s04.html) correspondiente. Luego, pruebe los ejemplos del Capítulo 3. Pruebe variaciones del código hasta que comprenda la lógica de funcionamiento de cada ejemplo y pueda usarlo para sus propias necesidades.
+  
   Estudie las convenciones de [codificación para R de Google](https://google.github.io/styleguide/Rguide.html) para que escriba código R de manera clara y eficaz, al modificar sus ejemplos.  
+  
   Por último, haga un video tutorial grabando la pantalla de su equipo conforme vaya realizando su práctica hasta que haya cumplido el objetivo. Suba su video a su cuenta de Google Drive donde corresponda y al chat de Telegram con el profesor.   
 
 ##### Bibliografía Obligatoria:
