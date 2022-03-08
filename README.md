@@ -124,7 +124,7 @@ Que al finalizar el curso el alumno sea capaz de:
   
   *Objetivo*: Aprender a usar el código fuente de los ejemplos de un libro de R en el entorno de *RStudio Cloud*.  
   
-  Localice el código fuente del libro *R in a Nutshell* [pdf](https://www.guianaplants.stir.ac.uk/seminar/resources/R_in_a_Nutshell_Second_Edition.pdf) y [cargue el paquete](https://learning.oreilly.com/library/view/r-in-a/9781449377502/pr03s04.html) correspondiente. Luego, pruebe los ejemplos del Capítulo 3. Pruebe variaciones del código hasta que comprenda la lógica de funcionamiento de cada ejemplo y pueda usarlo para sus propias necesidades.
+  Localice el código fuente del libro *R in a Nutshell* [pdf](https://www.guianaplants.stir.ac.uk/seminar/resources/R_in_a_Nutshell_Second_Edition.pdf) y [cargue el paquete](https://learning.oreilly.com/library/view/r-in-a/9781449377502/pr03s04.html) correspondiente. Alternativamente, descargue el [código fuente](https://resources.oreilly.com/examples/9780596801717) desde el sitio del editor y úselo en su proyecto. Luego, pruebe los ejemplos del Capítulo 3. Pruebe variaciones del código hasta que comprenda la lógica de funcionamiento de cada ejemplo y pueda usarlo para sus propias necesidades.
   
   Estudie las convenciones de [codificación para R de Google](https://google.github.io/styleguide/Rguide.html) para que escriba código R de manera clara y eficaz, al modificar sus ejemplos.  
   
