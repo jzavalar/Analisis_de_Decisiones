@@ -143,22 +143,35 @@ Que al finalizar el curso el alumno sea capaz de:
   *Parte 2*. En primer lugar, utilice *Calc* de *LibreOffice* ([ayuda](https://help.libreoffice.org/Calc/Importing_and_Exporting_dBASE_Files/es)) para abrir el archivo disponible del Inegi en el formato DBF y expórtelo a cualquier otro como XLSX, XLS o CSV. En segundo lugar, utilice el paquete [rio](https://cran.r-project.org/web/packages/rio/) en [RStudio](https://rstudio.com/) para abrir (importar / exportar) y convertir alguno de los archivos en los formatos disponibles del Inegi: DBF, SAS, SAV, DTA a cualquier otro como XLSX, XLS o CSV. Básese en [este script](https://drive.google.com/file/d/15W7CjN2TmjFo5OSXbbftaWCwm8DagNWo/view?usp=sharing) y adáptelo a su caso particular hasta que le funcione correctamente.
     
   *Parte 3*. Practique la consulta multidimensional de datos con la pequeña muestra de la base de datos descargada en la Parte 1 (DUMMY_PERSONAS_5K.dbf). Luego, revise la metodología y la solución en *Google Sheets* (en *Google Drive*) [aquí](https://drive.google.com/file/d/1Uqu6m_Fv1AqR5Nf8H_8JbffWmr_L01si/view?usp=sharing) y haga lo equivalente en *Excel* (*Microsoft Office*) y en *Calc* (*LibreOffice*).  
-  Tome como base la siguiente pregunta:      
+  
+  Tome como base la siguiente pregunta compuesta:      
    - *¿Cuántos jefes de familia hay en la base de datos que son estudiantes y son menores de edad?* y  
    - *¿Cuál es su distribución por edad y sexo?*  
+  
   *Tip*: Si bien, este problema puede resolverse aplicado filtros de manera consecutiva, también puede resolverse realizando una consulta a la base de datos mediante una tabla dinámica.  
+  
   Saque sus conclusiones y documente su experiencia en la realización de la actividad en un video de hasta 10 minutos, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
 
 - *Práctica 1.4. Base de datos II: Bases de datos geográficas*. (Fecha de entrega: 18 de marzo de 2022).  
+  
   *Objetivo*: Crear un sistema de bases de datos geográficas con PostgreSQL, R y QGIS.  
+  
   *Parte 1*. Instale [PostgreSQL](https://www.postgresql.org/), [Stack Builder](https://www.enterprisedb.com/edb-docs/d/postgresql/installation-getting-started/installation-guide-installers/11/PostgreSQL_Installation_Guide.1.09.html) y [PostGIS](https://www.postgis.net/) ([url](https://www.postgresql.org/download/windows/)), [pgAdmin 4](https://www.pgadmin.org/) ([url]()) en Windows ([guía](https://www.youtube.com/watch?v=bq9dOrwZ-KA)) y QGIS ([guía](https://www.youtube.com/watch?v=PG3Xmt3S9Ac)).      
+  
   *Parte 2*. Cree un usuario del servidor *PostgreSQL* y conéctese al servidor ([guía](https://www.youtube.com/watch?v=jxIEDKzGrOs&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=1)).      
+  
   *Parte 3*. Descargue los archivos de la base de datos geográfica ([url](http://s3.cleverelephant.ca/postgis-workshop-2018.zip)) ([tutorial PostGIS](https://postgis.net/workshops/postgis-intro/)). Cree una base de datos espacial ([guía](https://www.youtube.com/watch?v=UtiIY39qmhg)).      
+  
   *Parte 4*. Use la aplicación *shp2pgsql* para importar los archivos shapefiles ([guía 1](https://postgis.net/workshops/postgis-intro/loading_data.html), [guia 2](https://www.youtube.com/watch?v=N_GvAi5RitM)) (si después de instalar PostGIS (en Windows), ocurre un error por la falta del archivo libsqlite3-0.dll, éste debe descargarse y copiarse al directorio base de la aplicación desde [aquí](https://www.pconlife.com/download/otherfile/35257/d56eb0e10349ffd8a57efb66d452d3a2/), por ejemplo, la [versión 64 bits](https://www.pconlife.com/download/otherfile/35257/d56eb0e10349ffd8a57efb66d452d3a2/)).      
+  
   *Parte 5*. Conéctese a la base de datos desde RStudio y pruebe R con la base de datos ([guía](https://www.youtube.com/watch?v=-F5SpGhnNG8)).      
+  
   *Parte 6*. Conéctese a la base de datos con *QGiS* y despliegue el mapa ([guía](https://www.youtube.com/watch?v=NYKHlSd932c)).      
+  
   *Parte 7*. Respalde la base de datos ([guía](https://www.youtube.com/watch?v=icEvkyIXqug&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=66&t=0s)).  
+  
   Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito o pruebe algún otro tutorial.      
+  
   Saque sus conclusiones y documente en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
 
 
