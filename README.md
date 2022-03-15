@@ -174,14 +174,13 @@ Que al finalizar el curso el alumno sea capaz de:
   
   Saque sus conclusiones y documente en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
 
-
 ##### Bibliografía Obligatoria:
 - Witzel, M. (2012). 9 From Scientific Management to Management Science. In *A history of management thought* (capítulo 9). London: Routledge. ([url](https://www.amazon.com/History-Management-Thought-Morgen-Witzel/dp/0415600588)) ([torrent](https://thepiratebay.org/description.php?id=7912663)) ([epub url](http://libgen.rs/book/index.php?md5=1F104CC3F1936AF817CC64261EBDB0DA)). (*Lectura 1*).
 - Drucker, P. F. (1955). "Management Science" and the manager. *Management Science 1*(2), 115-126. doi: http://doi.org/10.1287/mnsc.1.2.115 ([url](http://libgen.rs/scimag/10.1287%2Fmnsc.1.2.115)). (*Lectura 2*).
 - Zavala, J. (2016). El análisis de decisiones: Un panorama histórico-metodológico. (Mimeo). (Disponible en el grupo de Telegram). (*Lectura 3*).  
 
 ##### Bibliografía Obligatoria:
-- Ensmenger, N. L. (2010). The *cosa nostra* of the data processing industry. In *The computer boys take over: Computers, programmers, and the politics of technical expertise* (pp. 137-161). USA: The MIT Press.
+- Ensmenger, N. L. (2010). The *cosa nostra* of the data processing industry. In *The computer boys take over: Computers, programmers, and the politics of technical expertise* (pp. 137-161). USA: The MIT Press. ([pdf](https://www.mondotheque.be/wiki/images/0/0b/Ensmenger_The_Computer_Boys_Take_Over%28BookZZ.org%29.pdf))
 
 
 #### Unidad 2. La toma de decisiones y la teoría de la elección racional
@@ -192,21 +191,21 @@ Que al finalizar el curso el alumno sea capaz de:
 5. Tipos de problemas de decisión
 
 ##### Bibliografía Obligatoria: 
-- Simon, H. A. (1955). A behavioral model of rational choice, *The Quarterly Journal of Economics, 69*(1), 99-118. (pdf). (Lectura 4).
-- Cameron, S. (2002). Tools of the trade: Rational choice.  In *The economics of sin: Rational choice or no choice at all?* (pp. 14-39). Cheltenham, Glos, U.K.: Edward Elgar Publishing. (Lectura 5).
+- Simon, H. A. (1955). A behavioral model of rational choice, *The Quarterly Journal of Economics, 69*(1), 99-118. ([pdf](https://www.suz.uzh.ch/dam/jcr:ffffffff-fad3-547b-ffff-fffff0bf4572/10.18-simon-55.pdf)). (Lectura 4).
+- Cameron, S. (2002). Tools of the trade: Rational choice.  In *The economics of sin: Rational choice or no choice at all?* (pp. 14-39). Cheltenham, Glos, U.K.: Edward Elgar Publishing. (Lectura 5). (Buscar en Library Genesis)
 - Pérez, D. (2013). Elección racional. (Video 1) (10:51 min). (Identificar los postulados básicos de la elección racional).
 - Simon, H. A. (2016/1992). Why decision making is so difficult. (Video 2). (2:19 min).
-- Elster, J. (2013). Racionalidad e Interés: Tratado de hombre económico contemporáneo. (Video 3). (1:11:34 hr). (Identificar los postulados de la teoría de la racionalidad limitada, sus éxitos y fracasos).
-- Kurtz, C. F. y Snowden, D. J. (2003). The new dynamics of strategy: Sense-making in a complex and complicated world. IBM Systems Journal, 42(3), 462-483. (pdf). (Lectura 6).
+- Elster, J. (2013). Racionalidad e interés: Tratado de hombre económico contemporáneo. (Video 3). (1:11:34 hr). (Identificar los postulados de la teoría de la racionalidad limitada, sus éxitos y fracasos).
+- Kurtz, C. F. y Snowden, D. J. (2003). The new dynamics of strategy: Sense-making in a complex and complicated world. *IBM Systems Journal, 42*(3), 462-483. (pdf). (Lectura 6).
 - Searle, J. R. (2003). The classical model of rationality and its weaknesses. In (auth.) *Rationality in action* (pp. 1-32). (Lectura 7).
 - Sun Tzu. *El arte de la guerra*. (Video 4). (1:30:38 hr).
-- Lenkersdorf, C. (2002). Aspectos de educación desde la perspectiva maya-tojolabal, *Reencuentro* 33, 66-74. (pdf). (Lectura 8).
 
 ##### Bibliografía Complementaria:
 - Cabantous, L. y Gond, J-P. (2010). Rational decision making as performative praxis: Explaining rationality's Éternel Retour. *Organization Science,22*(3), 573-586.
 - Novikov, D.A. (2016). *Cybernetics: From past to future*. Springer.
 - New Economic Thinking (2015). The Death of ‘Homo Economicus’. YouTube ([Video]()). (20:29 min).
 - Simon, H. A. (2000). Bounded rationality in social science: Today and tomorrow. *Mind & Society, 1*(1), 25-39. ([pdf]()).
+- Lenkersdorf, C. (2002). Aspectos de educación desde la perspectiva maya-tojolabal, *Reencuentro* 33, 66-74. (pdf). (Lectura 8).
 
 #### Unidad 3. El análisis de decisiones
 1. ¿Qué es una decisión?
@@ -215,11 +214,11 @@ Que al finalizar el curso el alumno sea capaz de:
 4. Herramientas analíticas del análisis de decisiones
 
 ##### Bibliografía Obligatoria:
-- Mote, V. L. y Meenakshi Malya, M. (1970). Decision analysis: Experiences and expectations. *Economic and Political Weekly, 5*(22), M53+M55+M57-M58. ([pdf]). (Lectura 9).
+- Mote, V. L. y Meenakshi Malya, M. (1970). Decision analysis: Experiences and expectations. *Economic and Political Weekly, 5*(22), M53+M55+M57-M58. ([pdf]()). (Lectura 9).
 - Goodwin, P. y Wright, G. (2003). Introduction. In *Decision analysis for management judgment* (pp. 1-13). Chichester, West Sussex, England: John Wiley & Sons. (Lectura 10).
 - Howard, R. A. (1988). Decision analysis: practice and promise, *Management Science, 34*(6), 679-695. ([pdf]()). (Lectura 11).
 
-  El control de lectura será mediante un trabajo escrito que desarrolle el temario de la unidad en 5 cuartillas, por grupos de 3. Debe incluir concluiones y reflexiones colectivas e individuales al final. Se entregará la próxima clase, previa discusión.
+  El control de lectura será mediante un trabajo escrito que desarrolle el temario de la Unidad en 5 cuartillas, por grupos de 3. Debe incluir conclusiones y reflexiones colectivas e individuales al final. Se entregará la próxima clase, previa discusión.
 
 ##### Bibliografía Complementaria:
 - Garber, R. (2009). An interview with Ronald A. Howard. *Decision Analysis, 6*(4), 263–272. ([pdf]()).
@@ -278,20 +277,10 @@ El control de lectura será mediante un trabajo escrito que desarrolle el temari
 - Schum, D. A. (2013). Decision Analysis. In S. I. Gass y M. C. Fu (Eds.). Encyclopedia of operations research and management science (pp. 367-372). (3rd. Ed.). New York: Springer ScienceþBusiness Media.
 
 ### Proyecto de fin de curso: 
-El proyecto es opcional, pero otorgará un **punto extra a la calificación final** si cumple los requisitos del mismo. Fecha de entrega: 4 de febrero de 2022.
-
-En equipos de 3, estudien la lista de videos sobre el desarrollo de un  [Sistema para un Parqueadero en #PseInt](https://www.youtube.com/watch?v=9jLu8yrdsjM&list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f) (Altas, Bajas y Cambios).
-
-Después, elijan alguno de los siguientes temas para adaptarlo: (1) Tienda de abarrotes, (2) Biblioteca, (3) Librería, (4) Escuela, (5) Restaurante.
-
-Documente el código de su proyecto con suficientes comentarios.
-
-Prepare la exposición de su trabajo.
-
 Documente en un video la realización de la práctica y su experiencia en la realización de la actividad. Comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a la cuenta de Google Drive donde corresponda, de cada uno de los miembros del equipo.
 
 #### Bibliografía Complementaria:
-- JhonvaCode. (2018, Jan 14) [Sistema de un parqueadero en #PseInt](https://www.youtube.com/playlist?list=PLMTp2d02uWbI7qxsFwtjX-lNwSvLb5b6f). *YouTube*. (7 videos). (*Lectura 2.3*).
+- .
 
 
 ### 6. Bibliografía General:
@@ -302,14 +291,11 @@ Referencia: Bouyssou, D., Marchant, T., Pirlot, M., Perny, P., Tsoukià s A., Vi
 
 - Anónimo (2016). Reducción del consumo de productos desechables (vasos y platos) no biodegradables (unicel, plástico, etc.) que generan un impacto ambiental. UAM-I. UEA Análisis de Decisiones. Proyecto final. (pdf).
 - Banco Mundial. Proyectos para México. (html).
-- Dresser, D. (2012). País corrupto, País de privilegios ,  Capitalismo de cuates  y El estado de derecho: ¿Existente o intermitente?. In El país de uno: Reflexiones para entender y cambiar a México, ePUB v1.0.
 - Gass, S. I. y Fu, M. C. (2013). Encyclopedia of operations research and management science. (3rd. Ed.). New York: Springer ScienceþBusiness Media.
 - Haber, S. H. (Ed.). (2002). Crony capitalism and economic growth in Latin America: Theory and evidence. Stanford, USA: Hoover Institution Press.
 - Howard, R. A. y Abbas, A. E. (2015). Foundations of decision analysis. Great Britain: Pearson Education.
 - Krogerus, M. y Tschäppeler, R. (2012). The decision book: Fifty models for strategic thinking. London: Profile Books.  
-- Laura y Oscar (2016). Proyecto Turismo Rural en Milpa Alta. UAM-I. UEA Análisis de Decisiones. Proyecto final. (pdf).
 - Parnell, G. S., Bresnick, T. A. y Tani, S. N. (2013). Handbook of decision analysis. Hoboken, New Jersey: John Wiley.
-- Proceso (2009, feb 12). ¿Por qué México no crece?. Semanario Proceso. (html).
 - Sparxs Systems (2016). Enterprise Architect. Modeling Software. (descargar).
 - Weick, K. E. (1995). Sensemaking in organizations. Thousand Oaks, CA, USA: Sage.
 
