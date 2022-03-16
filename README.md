@@ -189,23 +189,26 @@ Que al finalizar el curso el alumno sea capaz de:
 3. Teoría de la elección racional
 4. La racionalidad limitada
 5. Tipos de problemas de decisión
+6. Tareas y Prácticas:
+
 
 ##### Bibliografía Obligatoria: 
-- Simon, H. A. (1955). A behavioral model of rational choice, *The Quarterly Journal of Economics, 69*(1), 99-118. ([pdf](https://www.suz.uzh.ch/dam/jcr:ffffffff-fad3-547b-ffff-fffff0bf4572/10.18-simon-55.pdf)). (Lectura 4).
-- Cameron, S. (2002). Tools of the trade: Rational choice.  In *The economics of sin: Rational choice or no choice at all?* (pp. 14-39). Cheltenham, Glos, U.K.: Edward Elgar Publishing. (Lectura 5). (Buscar en Library Genesis)
-- Pérez, D. (2013). Elección racional. (Video 1) (10:51 min). (Identificar los postulados básicos de la elección racional).
-- Simon, H. A. (2016/1992). Why decision making is so difficult. (Video 2). (2:19 min).
-- Elster, J. (2013). Racionalidad e interés: Tratado de hombre económico contemporáneo. (Video 3). (1:11:34 hr). (Identificar los postulados de la teoría de la racionalidad limitada, sus éxitos y fracasos).
-- Kurtz, C. F. y Snowden, D. J. (2003). The new dynamics of strategy: Sense-making in a complex and complicated world. *IBM Systems Journal, 42*(3), 462-483. (pdf). (Lectura 6).
-- Searle, J. R. (2003). The classical model of rationality and its weaknesses. In (auth.) *Rationality in action* (pp. 1-32). (Lectura 7).
-- Sun Tzu. *El arte de la guerra*. (Video 4). (1:30:38 hr).
+- Pérez, D. (2013). Elección racional. *YouTube*. ([Video 2.1](https://www.youtube.com/watch?v=tPj2sEBdB3s)) (10:51 min). (Identificar los postulados básicos de la elección racional).  
+- Simon, H. A. (2016/1992). Why decision making is so difficult. *YouTube*. ([Video 2.2](https://www.youtube.com/watch?v=eTXkZURBq7k&list=PL1s8eXa4Q_bjXPayLmo1Hbq5cJLzcwZz7&index=3)). (2:19 min). (Identificar la complejidad de la toma de decisiones).  
+- Elster, J. (2013). Racionalidad e interés: Tratado de hombre económico contemporáneo. ([Video 2.3](https://www.youtube.com/watch?v=aBfrWUXI9ns)). (1:11:34 hr). (Identificar los postulados de la teoría de la racionalidad limitada, sus éxitos y fracasos).  
+- Sun Tzu. *El arte de la guerra*. *YouTube*. ([Video 2.4](https://www.youtube.com/watch?v=tp8-VK56O90)). (1:30:38 hr).  
+
+- Simon, H. A. (1955). A behavioral model of rational choice, *The Quarterly Journal of Economics, 69*(1), 99-118. ([pdf](https://www.suz.uzh.ch/dam/jcr:ffffffff-fad3-547b-ffff-fffff0bf4572/10.18-simon-55.pdf)). (*Lectura 2.1*).  
+- Simon, H. A. (2000). Bounded rationality in social science: Today and tomorrow. *Mind & Society, 1*(1), 25-39. ([pdf](http://ipwna.ir/wp-content/uploads/2018/08/Bounded_rationality_in_social_Today-and-Tomorrow-irpublicpolicy.pdf)). (*Lectura 2.2*).  
+- Cameron, S. (2002). Tools of the trade: Rational choice.  In *The economics of sin: Rational choice or no choice at all?* (pp. 14-39). Cheltenham, Glos, U.K.: Edward Elgar Publishing. ([url](http://libgen.rs/search.php?req=The+economics+of+sin%3A+Rational+choice+or+no+choice+at+all%3F&open=0&res=100&view=simple&phrase=1&column=title)) (*Lectura 5*). (Identificar los postulados de la teoría de la racionalidad limitada). (*Lectura 2.3*).  
+
 
 ##### Bibliografía Complementaria:
-- Cabantous, L. y Gond, J-P. (2010). Rational decision making as performative praxis: Explaining rationality's Éternel Retour. *Organization Science,22*(3), 573-586.
-- Novikov, D.A. (2016). *Cybernetics: From past to future*. Springer.
-- New Economic Thinking (2015). The Death of ‘Homo Economicus’. YouTube ([Video]()). (20:29 min).
-- Simon, H. A. (2000). Bounded rationality in social science: Today and tomorrow. *Mind & Society, 1*(1), 25-39. ([pdf]()).
-- Lenkersdorf, C. (2002). Aspectos de educación desde la perspectiva maya-tojolabal, *Reencuentro* 33, 66-74. (pdf). (Lectura 8).
+- Cabantous, L. y Gond, J-P. (2010). Rational decision making as performative praxis: Explaining rationality's Éternel Retour. *Organization Science,22*(3), 573-586. ([pdf](https://openaccess.city.ac.uk/id/eprint/6929/1/)).
+- Kurtz, C. F. y Snowden, D. J. (2003). The new dynamics of strategy: Sense-making in a complex and complicated world. *IBM Systems Journal, 42*(3), 462-483. ([pdf](https://www.researchgate.net/publication/3228283_The_new_dynamics_of_strategy_Sense-making_in_a_complex_and_complicated_world)).
+- Novikov, D.A. (2016). *Cybernetics: From past to future*. Springer. ([url](http://libgen.rs/book/index.php?md5=C3E6D1E999983C24D496BE7CC10A69F5))
+- New Economic Thinking (2015). The Death of ‘Homo Economicus’. *YouTube*. ([Video](https://www.youtube.com/watch?v=ParPPYMzfQM)). (20:29 min).
+- Searle, J. R. (2003). The classical model of rationality and its weaknesses. In (auth.) *Rationality in action* (pp. 1-32). Cambridge: The MIT Press. ([url](http://libgen.rs/book/index.php?md5=AE2CE1B934DFC35B2B1D8B12D2BEC6D3)).
 
 #### Unidad 3. El análisis de decisiones
 1. ¿Qué es una decisión?
