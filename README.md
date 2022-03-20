@@ -156,7 +156,7 @@ Que al finalizar el curso el alumno sea capaz de:
   
   *Objetivo*: Crear un sistema de bases de datos geográficas con PostgreSQL, R y QGIS.  
   
-  *Parte 1*. Instale [PostgreSQL](https://www.postgresql.org/), [Stack Builder](https://www.enterprisedb.com/edb-docs/d/postgresql/installation-getting-started/installation-guide-installers/11/PostgreSQL_Installation_Guide.1.09.html) y [PostGIS](https://www.postgis.net/) ([url](https://www.postgresql.org/download/windows/)), [pgAdmin 4](https://www.pgadmin.org/) ([url]()) en Windows ([guía](https://www.youtube.com/watch?v=bq9dOrwZ-KA)) y QGIS ([guía](https://www.youtube.com/watch?v=PG3Xmt3S9Ac)).      
+  *Parte 1*. Instale [PostgreSQL](https://www.postgresql.org/), [Stack Builder](https://www.enterprisedb.com/edb-docs/d/postgresql/installation-getting-started/installation-guide-installers/11/PostgreSQL_Installation_Guide.1.09.html) y [PostGIS](https://www.postgis.net/) ([url](https://www.postgresql.org/download/windows/)), [pgAdmin 4](https://www.pgadmin.org/) en Windows ([guía](https://www.youtube.com/watch?v=bq9dOrwZ-KA)) y [QGIS](https://www.qgis.org/en/site/index.html) ([guía](https://www.youtube.com/watch?v=PG3Xmt3S9Ac)).      
   
   *Parte 2*. Cree un usuario del servidor *PostgreSQL* y conéctese al servidor ([guía](https://www.youtube.com/watch?v=jxIEDKzGrOs&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=1)).      
   
@@ -166,8 +166,7 @@ Que al finalizar el curso el alumno sea capaz de:
   
   *Parte 5*. Conéctese a la base de datos desde RStudio y pruebe R con la base de datos ([guía](https://www.youtube.com/watch?v=-F5SpGhnNG8)).      
   
-  *Parte 6*. Conéctese a la base de datos con *QGiS* y despliegue el mapa ([guía](https://www.youtube.com/watch?v=NYKHlSd932c)).      
-  
+  *Parte 6*. Conéctese a la base de datos con *QGiS* y despliegue el mapa ([guía](https://www.youtube.com/watch?v=NYKHlSd932c)).        
   *Parte 7*. Respalde la base de datos ([guía](https://www.youtube.com/watch?v=icEvkyIXqug&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=66&t=0s)).  
   
   Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito o pruebe algún otro tutorial.      
@@ -191,24 +190,64 @@ Que al finalizar el curso el alumno sea capaz de:
 5. Tipos de problemas de decisión
 6. Tareas y Prácticas:
 
+- *Tarea 2.1*: *Teoría de las bases de datos relacionales*.  
+
+  Resuelva el siguiente cuestionario ([parte 1](https://drive.google.com/file/d/17IhZFgxB1XCeEYaJjTIJxKQQ-Rv1Vs2q/view?usp=sharing), [parte 2](https://drive.google.com/file/d/1zswLrAe5IBZXhq3YylAR5Sk_EhKdGiAH/view?usp=sharing), [parte 3](https://drive.google.com/file/d/1rdmW5IvGtipYRR4W8Yxhh8sbNOlB2ct2/view?usp=sharing)) en su cuaderno de apuntes para que refuerce la teoría, a partir de la siguiente [presentación](https://drive.google.com/file/d/1leDmRFqWQygcwnYro9315PeUGWjXIF0V/view?usp=sharing) sobre el tema.  
+  
+  Suba las fotos (legibles) de la tarea a su cuenta de Google Drive, en la carpeta respectiva, con el nombre de la práctica.  
+  
+  Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito o pruebe algún otro tutorial.      
+  
+  Saque sus conclusiones y documente en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
+
+- *Práctica 2.2. Base de datos III: SQL*. (Fecha de entrega: 25 de marzo de 2022).  
+  
+  *Objetivo*: Aprender las operaciones básicas de administración de bases de datos en *PostgreSQL* con *pgAdmin 4*.
+  
+  *Parte 1*: *Administración del servidor*. Utilice como base el [Curso de PostgreSQL](https://www.youtube.com/playlist?list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2).  
+  
+  Prerrequisitos: Debe completar la *Práctica 1.4.* (Fecha de entrega: 25 de marzo de 2022).  
+  
+  Conéctese al servidor de base de datos *PostgreSQL* ([guía](https://www.youtube.com/watch?v=jxIEDKzGrOs&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=1)) con [pgAdmin 4](https://www.pgadmin.org/).  
+  
+  *Parte 2*: *Operaciones de administración de la base de datos*. Crear una base de datos ([guía](https://www.youtube.com/watch?v=GruJjmfm_gs&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=3)). Crear una tabla tal como se ve en la [guía](https://www.youtube.com/watch?v=LIUW0XWdy80&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=5&t=0s). Identifique el tipo de dato que requiere para cada columna ([guía](https://www.youtube.com/watch?v=9IEQKbItnCE&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=8&t=0s)). Modificar la tabla para alojar una lista de personas (nombre, apellido materno y paterno y su edad ([guía](https://www.youtube.com/watch?v=eEbqN7Hz7FM&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=13&t=0s)).  
+  
+  Ingresar siete registros ([guía](https://www.youtube.com/watch?v=nsU3IwSASDg&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=6&t=0s)) (Tip: Considere una llave primaria con autoincremento numérico ([guía](https://www.youtube.com/watch?v=210SPHcrWr8&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=15&t=0s)). Eliminar dos registros ([guía](https://www.youtube.com/watch?v=eJQCl5zIknA&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=11&t=0s)). Actualizar los registros cambiando los datos de la tabla ([guía](https://www.youtube.com/watch?v=2EN1amBNZvQ&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=7&t=0s)).  
+  
+  Modificar la tabla para alojar a la lista de personas su correo electrónico ([guía](https://www.youtube.com/watch?v=eEbqN7Hz7FM&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=13&t=0s)).  
+  
+  Modificar una columna para que acepte valores nulos y cambiar el tipo de dato, según la [guía](https://www.youtube.com/watch?v=sKWCb_ZEzoM&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=14&t=0s).  
+  
+  Exportar la tabla a un archivo CVS ([guía](https://www.youtube.com/watch?v=Lk5L58uIzm4&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=66)). Eliminar la tabla creada ([guía](https://www.youtube.com/watch?v=Lk5L58uIzm4&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=66)). Importar la tabla exportada ([guía](https://www.youtube.com/watch?v=w9kibRWlQQg)).  
+  
+  Respaldar (exportar) la base de datos ([guía](https://www.youtube.com/watch?v=icEvkyIXqug&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=66&t=0s)). Luego, eliminar la base de datos ([guía](https://www.youtube.com/watch?v=iqRathev-Zw&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=4&t=0s)). Finalmente, restaurar ([importar](https://www.youtube.com/watch?v=icEvkyIXqug&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=66&t=0s)) la base de datos ([guía](https://www.youtube.com/watch?v=icEvkyIXqug&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=66&t=0s)) que respaldó.  
+  
+  Para cada operación documente el script o las instrucciones que permiten su ejecución.  
+  
+  Repita y practique las operaciones hasta que entienda su lógica. Reflexione sobre lo aprendido la práctica.  
+  
+  Entregue reporte de la práctica elaborando un video de cada operación narrando lo que muestra el video.  Tome el desafío de unirlos todos en un sólo video. Incluya los scripts en SQL que permiten realizar cada operación, identificando con precisión cada una.  
+  
+  Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito o pruebe algún otro tutorial.  
+  
+  Saque sus conclusiones y documente en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
 
 ##### Bibliografía Obligatoria: 
 - Pérez, D. (2013). Elección racional. *YouTube*. ([Video 2.1](https://www.youtube.com/watch?v=tPj2sEBdB3s)) (10:51 min). (Identificar los postulados básicos de la elección racional).  
 - Simon, H. A. (2016/1992). Why decision making is so difficult. *YouTube*. ([Video 2.2](https://www.youtube.com/watch?v=eTXkZURBq7k&list=PL1s8eXa4Q_bjXPayLmo1Hbq5cJLzcwZz7&index=3)). (2:19 min). (Identificar la complejidad de la toma de decisiones).  
-- Elster, J. (2013). Racionalidad e interés: Tratado de hombre económico contemporáneo. ([Video 2.3](https://www.youtube.com/watch?v=aBfrWUXI9ns)). (1:11:34 hr). (Identificar los postulados de la teoría de la racionalidad limitada, sus éxitos y fracasos).  
+- Elster, J. (2013). Racionalidad e interés: Tratado de hombre económico contemporáneo. ([Video 2.3](https://www.youtube.com/watch?v=aBfrWUXI9ns)). (1:11:34 hr). (Identificar los postulados de la teoría de la racionalidad limitada, sus éxitos y fracasos). 
 - Sun Tzu. *El arte de la guerra*. *YouTube*. ([Video 2.4](https://www.youtube.com/watch?v=tp8-VK56O90)). (1:30:38 hr).  
-
 - Simon, H. A. (1955). A behavioral model of rational choice, *The Quarterly Journal of Economics, 69*(1), 99-118. ([pdf](https://www.suz.uzh.ch/dam/jcr:ffffffff-fad3-547b-ffff-fffff0bf4572/10.18-simon-55.pdf)). (*Lectura 2.1*).  
-- Simon, H. A. (2000). Bounded rationality in social science: Today and tomorrow. *Mind & Society, 1*(1), 25-39. ([pdf](http://ipwna.ir/wp-content/uploads/2018/08/Bounded_rationality_in_social_Today-and-Tomorrow-irpublicpolicy.pdf)). (*Lectura 2.2*).  
+- Simon, H. A. (2000). Bounded rationality in social science: Today and tomorrow. *Mind & Society, 1*(1), 25-39. ([pdf](http://ipwna.ir/wp-content/uploads/2018/08/Bounded_rationality_in_social_Today-and-Tomorrow-irpublicpolicy.pdf)). (*Lectura 2.2*). 
 - Cameron, S. (2002). Tools of the trade: Rational choice.  In *The economics of sin: Rational choice or no choice at all?* (pp. 14-39). Cheltenham, Glos, U.K.: Edward Elgar Publishing. ([url](http://libgen.rs/search.php?req=The+economics+of+sin%3A+Rational+choice+or+no+choice+at+all%3F&open=0&res=100&view=simple&phrase=1&column=title)) (*Lectura 5*). (Identificar los postulados de la teoría de la racionalidad limitada). (*Lectura 2.3*).  
-
 
 ##### Bibliografía Complementaria:
 - Cabantous, L. y Gond, J-P. (2010). Rational decision making as performative praxis: Explaining rationality's Éternel Retour. *Organization Science,22*(3), 573-586. ([pdf](https://openaccess.city.ac.uk/id/eprint/6929/1/)).
 - Kurtz, C. F. y Snowden, D. J. (2003). The new dynamics of strategy: Sense-making in a complex and complicated world. *IBM Systems Journal, 42*(3), 462-483. ([pdf](https://www.researchgate.net/publication/3228283_The_new_dynamics_of_strategy_Sense-making_in_a_complex_and_complicated_world)).
 - Novikov, D.A. (2016). *Cybernetics: From past to future*. Springer. ([url](http://libgen.rs/book/index.php?md5=C3E6D1E999983C24D496BE7CC10A69F5))
-- New Economic Thinking (2015). The Death of ‘Homo Economicus’. *YouTube*. ([Video](https://www.youtube.com/watch?v=ParPPYMzfQM)). (20:29 min).
+- New Economic Thinking (2015). The death of ‘*Homo economicus*’. *YouTube*. ([Video](https://www.youtube.com/watch?v=ParPPYMzfQM)). (20:29 min).
 - Searle, J. R. (2003). The classical model of rationality and its weaknesses. In (auth.) *Rationality in action* (pp. 1-32). Cambridge: The MIT Press. ([url](http://libgen.rs/book/index.php?md5=AE2CE1B934DFC35B2B1D8B12D2BEC6D3)).
+
 
 #### Unidad 3. El análisis de decisiones
 1. ¿Qué es una decisión?
