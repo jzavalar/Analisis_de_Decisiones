@@ -91,16 +91,18 @@ Que al finalizar el curso el alumno sea capaz de:
    
    *Parte 1*. Active su cuenta de [Office 365 Pro Plus](http://www.uam.mx/o365/) (software de oficina) e instale su copia de [Office Pro](http://www.uam.mx/ti/soft/microsoft.html) (software de oficina) (documente el proceso).
    
-   *Parte 2*. Si tiene computadora en casa, descargue en instale el siguiente software: [7-zip](https://www.7-zip.org/download.html) (compresor/descompresor), CMapTools ([mapas conceptuales](https://cmap.ihmc.us/)), [ClamWin](http://www.clamwin.com/) (antivirus), [LibreOffice](https://www.libreoffice.org/) (suite de oficina) (edite un documento PDF), [R](https://www.r-project.org/) (estadística), [RStudio](https://www.rstudio.com/) (estadística).
+   *Parte 2*. Si tiene computadora en casa, descargue en instale el siguiente software: [*7-zip*](https://www.7-zip.org/download.html) (compresor/descompresor), *CMapTools* ([mapas conceptuales](https://cmap.ihmc.us/)), [*ClamWin*](http://www.clamwin.com/) (antivirus), [*LibreOffice*](https://www.libreoffice.org/) (suite de oficina) (edite un documento PDF), [*R*](https://www.r-project.org/) (estadística), [*RStudio*](https://www.rstudio.com/) (estadística).
    
-   *Parte 3*. Para la práctica requiere una USB de por lo menos 4 Gb, misma que utilizará para varias prácticas posteriores. Descargue e instale [PortableApps](https://portableapps.com/) ([tutorial 1](https://www.youtube.com/watch?v=Ux_3p4lDmTg), [tutorial 2](https://www.youtube.com/watch?v=Ux_3p4lDmTg)) en su USB vacía. (N. B: Desactive su antivirus para realizar la práctica y usar PortableApps. [guía](https://www.youtube.com/watch?v=HDEhLpS7UwM)).
+   *Parte 3*. Para la práctica requiere una USB de por lo menos 4 Gb, misma que utilizará para varias prácticas posteriores. Descargue e instale [*PortableApps*](https://portableapps.com/) ([tutorial 1](https://www.youtube.com/watch?v=Ux_3p4lDmTg), [tutorial 2](https://www.youtube.com/watch?v=Ux_3p4lDmTg)) en su USB vacía. 
+   
+   (N. B: Desactive su antivirus para realizar la práctica y usar *PortableApps*. [guía](https://www.youtube.com/watch?v=HDEhLpS7UwM)).
    
    *Parte 4*. Descargue e instale [Firefox](https://portableapps.com/apps/internet/qbittorrent_portable) desde PortableApps ([tutorial](https://www.youtube.com/watch?v=zzq2kDEsiAs)) o localícela y descárguela desde la [lista de aplicaciones](https://portableapps.com/apps). En seguida, instale el plugin de bloqueo de publicidad, por ejemplo Ghostery y otros ([tutorial](https://www.youtube.com/watch?v=g3Dw_7085r8)).
    
-   *Parte 5*. Descargue e instale el siguiente software portable en una USB: LibreOffice (suite de oficina) ([portable](https://portableapps.com/apps/office/libreoffice_portable)), 7-zip (compresor/descompresor) ([portable](https://portableapps.com/apps/utilities/7-zip_portable)), [R Portable](https://sourceforge.net/projects/rportable/files/R-Portable/)) (estadística) y [RStudio Portable](https://sourceforge.net/projects/rportable/files/R-Studio/) (estadística).
+   *Parte 5*. Descargue e instale el siguiente software portable en una USB: *LibreOffice* (suite de oficina) ([portable](https://portableapps.com/apps/office/libreoffice_portable)), *7-zip* (compresor/descompresor) ([portable](https://portableapps.com/apps/utilities/7-zip_portable)), [*R Portable*](https://sourceforge.net/projects/rportable/files/R-Portable/)) (estadística) y [*RStudio Portable*](https://sourceforge.net/projects/rportable/files/R-Studio/) (estadística).
 
 ##### *Bibliografía Complementaria:*
-- Ibiza, D. (2018, Apr 3). 1. Introducción a Google Drive: Primeros pasos ([tutorial](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=330s)), 2. Gestión de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=2042s)), 3. Opciones de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=3313s)), 4. Cómo compartir archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=4238s)), 5. Trabajar con documentos ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=5222s)) . In Tutorial Google Drive | Completo | Principiantes | Paso a Paso. YouTube. (video). ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk)).
+- Ibiza, D. (2018, Apr 3). 1. Introducción a *Google Drive*: Primeros pasos ([tutorial](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=330s)), 2. Gestión de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=2042s)), 3. Opciones de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=3313s)), 4. Cómo compartir archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=4238s)), 5. Trabajar con documentos ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=5222s)) . In Tutorial Google Drive | Completo | Principiantes | Paso a Paso. YouTube. (video). ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk)).
 - Universitat de les Illes Balears. Som UIB (2021). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([url](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).
 - Alva Majo. (2018, Jul 11). Aprende a programar en 11 minutos. *YouTube* [video]. (12:32 min). ([url](https://www.youtube.com/watch?v=TAyyujKoY6k)). (Lectura 2.1.)
 
@@ -114,7 +116,7 @@ Que al finalizar el curso el alumno sea capaz de:
   
   *Objetivo*: Aprender a preparar el entorno de *RStudio Cloud* para generar un libro *RMarkdown*.  
   
-  Cree su cuenta en [RStudio cloud](https://rstudio.cloud/). Luego, descargue los [archivos fuente](https://github.com/CerebralMastication/R-Cookbook/) desde GitHub del libro [*R Cookbook*](https://rc2e.com/). Copie el archivo comprimido (.zip) de su computadora a su propio proyecto *R Cookbook* en su cuenta de RStudio cloud. Una vez descomprimido, mueva todos los archivos a la raíz del proyecto. Finalmente, instale todos los paquetes necesarios, de manera progresiva, a partir de la ejecución del archivo *index.Rmd*, hasta que ya no haya errores y regenere en su propia copia del libro.  
+  Cree su cuenta en [RStudio cloud](https://rstudio.cloud/). Luego, descargue los [archivos fuente](https://github.com/CerebralMastication/R-Cookbook/) desde *GitHub* del libro [*R Cookbook*](https://rc2e.com/). Copie el archivo comprimido (.zip) de su computadora a su propio proyecto *R Cookbook* en su cuenta de *RStudio cloud*. Una vez descomprimido, mueva todos los archivos a la raíz del proyecto. Finalmente, instale todos los paquetes necesarios, de manera progresiva, a partir de la ejecución del archivo *index.Rmd*, hasta que ya no haya errores y regenere en su propia copia del libro.  
   
   Esto le permitirá ejecutar el código fuente de las recetas del libro, hacer las modificaciones que requiera y usarlas para sus propias necesidades.  
   
@@ -140,7 +142,7 @@ Que al finalizar el curso el alumno sea capaz de:
     
   También descargue el archivo [DUMMY_PERSONAS_5K.dbf.zip](https://drive.google.com/file/d/1TNXXZZQ9GEJKU8UD-YyuklF4a1E8w_0b/view?usp=sharing), que es una muestra muy pequeña de la base de datos, para realizar el ejercicio.
     
-  *Parte 2*. En primer lugar, utilice *Calc* de *LibreOffice* ([ayuda](https://help.libreoffice.org/Calc/Importing_and_Exporting_dBASE_Files/es)) para abrir el archivo disponible del Inegi en el formato DBF y expórtelo a cualquier otro como XLSX, XLS o CSV. En segundo lugar, utilice el paquete [rio](https://cran.r-project.org/web/packages/rio/) en [RStudio](https://rstudio.com/) para abrir (importar / exportar) y convertir alguno de los archivos en los formatos disponibles del Inegi: DBF, SAS, SAV, DTA a cualquier otro como XLSX, XLS o CSV. Básese en [este script](https://drive.google.com/file/d/15W7CjN2TmjFo5OSXbbftaWCwm8DagNWo/view?usp=sharing) y adáptelo a su caso particular hasta que le funcione correctamente.
+  *Parte 2*. En primer lugar, utilice *Calc* de *LibreOffice* ([ayuda](https://help.libreoffice.org/Calc/Importing_and_Exporting_dBASE_Files/es)) para abrir el archivo disponible del Inegi en el formato DBF y expórtelo a cualquier otro como XLSX, XLS o CSV. En segundo lugar, utilice el paquete [*rio*](https://cran.r-project.org/web/packages/rio/) en [*RStudio*](https://rstudio.com/) para abrir (importar / exportar) y convertir alguno de los archivos en los formatos disponibles del Inegi: DBF, SAS, SAV, DTA a cualquier otro como XLSX, XLS o CSV. Básese en [este script](https://drive.google.com/file/d/15W7CjN2TmjFo5OSXbbftaWCwm8DagNWo/view?usp=sharing) y adáptelo a su caso particular hasta que le funcione correctamente.
     
   *Parte 3*. Practique la consulta multidimensional de datos con la pequeña muestra de la base de datos descargada en la Parte 1 (DUMMY_PERSONAS_5K.dbf). Luego, revise la metodología y la solución en *Google Sheets* (en *Google Drive*) [aquí](https://drive.google.com/file/d/1Uqu6m_Fv1AqR5Nf8H_8JbffWmr_L01si/view?usp=sharing) y haga lo equivalente en *Excel* (*Microsoft Office*) y en *Calc* (*LibreOffice*).  
   
@@ -154,17 +156,17 @@ Que al finalizar el curso el alumno sea capaz de:
 
 - *Práctica 1.4. Base de datos II: Bases de datos geográficas*. (Fecha de entrega: 18 de marzo de 2022).  
   
-  *Objetivo*: Crear un sistema de bases de datos geográficas con PostgreSQL, R y QGIS.  
+  *Objetivo*: Crear un sistema de bases de datos geográficas con *PostgreSQL*, *R* y *QGIS*.  
   
-  *Parte 1*. Instale [PostgreSQL](https://www.postgresql.org/), [Stack Builder](https://www.enterprisedb.com/edb-docs/d/postgresql/installation-getting-started/installation-guide-installers/11/PostgreSQL_Installation_Guide.1.09.html) y [PostGIS](https://www.postgis.net/) ([url](https://www.postgresql.org/download/windows/)), [pgAdmin 4](https://www.pgadmin.org/) en Windows ([guía](https://www.youtube.com/watch?v=bq9dOrwZ-KA)) y [QGIS](https://www.qgis.org/en/site/index.html) ([guía](https://www.youtube.com/watch?v=PG3Xmt3S9Ac)).      
+  *Parte 1*. Instale [*PostgreSQL*](https://www.postgresql.org/), [*Stack Builder*](https://www.enterprisedb.com/edb-docs/d/postgresql/installation-getting-started/installation-guide-installers/11/PostgreSQL_Installation_Guide.1.09.html) y [*PostGIS*](https://www.postgis.net/) ([url](https://www.postgresql.org/download/windows/)), [*pgAdmin 4*](https://www.pgadmin.org/) en *Windows* ([guía](https://www.youtube.com/watch?v=bq9dOrwZ-KA)) y [*QGIS*](https://www.qgis.org/en/site/index.html) ([guía](https://www.youtube.com/watch?v=PG3Xmt3S9Ac)).      
   
   *Parte 2*. Cree un usuario del servidor *PostgreSQL* y conéctese al servidor ([guía](https://www.youtube.com/watch?v=jxIEDKzGrOs&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=1)).      
   
-  *Parte 3*. Descargue los archivos de la base de datos geográfica ([url](http://s3.cleverelephant.ca/postgis-workshop-2018.zip)) ([tutorial PostGIS](https://postgis.net/workshops/postgis-intro/)). Cree una base de datos espacial ([guía](https://www.youtube.com/watch?v=UtiIY39qmhg)).      
+  *Parte 3*. Descargue los archivos de la base de datos geográfica ([url](http://s3.cleverelephant.ca/postgis-workshop-2018.zip)) ([tutorial *PostGIS*](https://postgis.net/workshops/postgis-intro/)). Cree una base de datos espacial ([guía](https://www.youtube.com/watch?v=UtiIY39qmhg)).      
   
-  *Parte 4*. Use la aplicación *shp2pgsql* para importar los archivos shapefiles ([guía 1](https://postgis.net/workshops/postgis-intro/loading_data.html), [guia 2](https://www.youtube.com/watch?v=N_GvAi5RitM)) (si después de instalar PostGIS (en Windows), ocurre un error por la falta del archivo libsqlite3-0.dll, éste debe descargarse y copiarse al directorio base de la aplicación desde [aquí](https://www.pconlife.com/download/otherfile/35257/d56eb0e10349ffd8a57efb66d452d3a2/), por ejemplo, la [versión 64 bits](https://www.pconlife.com/download/otherfile/35257/d56eb0e10349ffd8a57efb66d452d3a2/)).      
+  *Parte 4*. Use la aplicación *shp2pgsql* para importar los archivos shapefiles ([guía 1](https://postgis.net/workshops/postgis-intro/loading_data.html), [guia 2](https://www.youtube.com/watch?v=N_GvAi5RitM)) (si después de instalar *PostGIS* (en *Windows*), ocurre un error por la falta del archivo *libsqlite3-0.dll*, éste debe descargarse y copiarse al directorio base de la aplicación desde [aquí](https://www.pconlife.com/download/otherfile/35257/d56eb0e10349ffd8a57efb66d452d3a2/), por ejemplo, la [versión 64 bits](https://www.pconlife.com/download/otherfile/35257/d56eb0e10349ffd8a57efb66d452d3a2/)).      
   
-  *Parte 5*. Conéctese a la base de datos desde RStudio y pruebe R con la base de datos ([guía](https://www.youtube.com/watch?v=-F5SpGhnNG8)).      
+  *Parte 5*. Conéctese a la base de datos desde *RStudio* y pruebe *R* con la base de datos ([guía](https://www.youtube.com/watch?v=-F5SpGhnNG8)).      
   
   *Parte 6*. Conéctese a la base de datos con *QGiS* y despliegue el mapa ([guía](https://www.youtube.com/watch?v=NYKHlSd932c)).        
   *Parte 7*. Respalde la base de datos ([guía](https://www.youtube.com/watch?v=icEvkyIXqug&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=66&t=0s)).  
@@ -194,7 +196,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
   Resuelva el siguiente cuestionario ([parte 1](https://drive.google.com/file/d/17IhZFgxB1XCeEYaJjTIJxKQQ-Rv1Vs2q/view?usp=sharing), [parte 2](https://drive.google.com/file/d/1zswLrAe5IBZXhq3YylAR5Sk_EhKdGiAH/view?usp=sharing), [parte 3](https://drive.google.com/file/d/1rdmW5IvGtipYRR4W8Yxhh8sbNOlB2ct2/view?usp=sharing)) en su cuaderno de apuntes para que refuerce la teoría, a partir de la siguiente [presentación](https://drive.google.com/file/d/1leDmRFqWQygcwnYro9315PeUGWjXIF0V/view?usp=sharing) sobre el tema.  
   
-  Suba las fotos (legibles) de la tarea a su cuenta de Google Drive, en la carpeta respectiva, con el nombre de la práctica.  
+  Suba las fotos (legibles) de la tarea a su cuenta de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.  
   
   Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito o pruebe algún otro tutorial.      
   
@@ -226,7 +228,7 @@ Que al finalizar el curso el alumno sea capaz de:
   
   Repita y practique las operaciones hasta que entienda su lógica. Reflexione sobre lo aprendido la práctica.  
   
-  Entregue reporte de la práctica elaborando un video de cada operación narrando lo que muestra el video.  Tome el desafío de unirlos todos en un sólo video. Incluya los scripts en SQL que permiten realizar cada operación, identificando con precisión cada una.  
+  Entregue reporte de la práctica elaborando un video de cada operación narrando lo que muestra el video. Tome el desafío de unirlos todos en un sólo video. Incluya los scripts en SQL que permiten realizar cada operación, identificando con precisión cada una.  
   
   Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito o pruebe algún otro tutorial.  
   
