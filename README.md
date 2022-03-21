@@ -206,7 +206,7 @@ Que al finalizar el curso el alumno sea capaz de:
   
   *Objetivo*: Aprender las operaciones básicas de administración de bases de datos en *PostgreSQL* con *pgAdmin 4*.
   
-  *Parte 1*: *Administración del servidor*. Utilice como base el [Curso de PostgreSQL](https://www.youtube.com/playlist?list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2).  
+  *Parte 1*: *Administración del servidor*. Utilice como base el [Curso de PostgreSQL](https://www.youtube.com/playlist?list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2) o el [tutorial en línea](https://postgresqltutorial.com/) ([traducción](https://postgresqltutorial-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)).  
   
   Prerrequisitos: Debe completar la *Práctica 1.4.* (Fecha de entrega: 25 de marzo de 2022).  
   
