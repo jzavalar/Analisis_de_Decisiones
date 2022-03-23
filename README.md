@@ -226,9 +226,13 @@ Que al finalizar el curso el alumno sea capaz de:
   
   Para cada operación documente el script o las instrucciones que permiten su ejecución.  
   
-  Repita y practique las operaciones hasta que entienda su lógica. Reflexione sobre lo aprendido la práctica.  
+  Repita y practique las operaciones hasta que entienda su lógica. Reflexione sobre lo aprendido la práctica.
   
-  Entregue reporte de la práctica elaborando un video de cada operación narrando lo que muestra el video. Tome el desafío de unirlos todos en un sólo video. Incluya los scripts en SQL que permiten realizar cada operación, identificando con precisión cada una.  
+  Alternavivamente, puede descargar la base de datos de prueba *DVDrental* ([archivo zip](https://sp.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)) y su diagrama entidad-relación ([url](https://sp.postgresqltutorial.com/wp-content/uploads/2018/03/printable-postgresql-sample-database-diagram.pdf)) ([guía](https://www.postgresqltutorial.com/postgresql-sample-database/)). Seguir el procedimiento para restaurarla en el siguiente [tutorial](https://www.postgresqltutorial.com/load-postgresql-sample-database/) o este [otro tutorial](https://www.postgresqltutorial.com/postgresql-restore-database/). **Tenga cuidado de restaurar en la base de datos correcta.** 
+  
+  Una vez restaurada la bases de datos, practique los comandos *psql* y las operaciones de consulta en una terminal y con *pgAdmin 4*, con ayuda de la hoja de tips ([cheat sheet](https://www.postgresqltutorial.com/postgresql-cheat-sheet/)).
+  
+  Entregue reporte de la práctica elaborando un video de cada operación narrando lo que muestra el video, tipo tutorial. Incluya los scripts en SQL que permiten realizar cada operación, identificando con precisión cada una.  
   
   Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito o pruebe algún otro tutorial.  
   
