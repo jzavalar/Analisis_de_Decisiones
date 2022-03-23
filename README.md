@@ -206,7 +206,7 @@ Que al finalizar el curso el alumno sea capaz de:
   
   *Objetivo*: Aprender las operaciones básicas de administración de bases de datos en *PostgreSQL* con *pgAdmin 4*.
   
-  *Parte 1*: *Administración del servidor*. Utilice como base el [Curso de PostgreSQL](https://www.youtube.com/playlist?list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2) o el [tutorial en línea](https://postgresqltutorial.com/) ([traducción](https://postgresqltutorial-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)), principalmente la [administración de bases de datos](https://www.postgresqltutorial.com/postgresql-administration/) ([traducción](https://www-postgresqltutorial-com.translate.goog/postgresql-administration/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)).  
+  *Parte 1*: *Administración del servidor*. Utilice como base el [Curso de PostgreSQL](https://www.youtube.com/playlist?list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2), el [tutorial en línea](https://postgresqltutorial.com/) ([traducción](https://postgresqltutorial-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)), principalmente la [administración de bases de datos](https://www.postgresqltutorial.com/postgresql-administration/) ([traducción](https://www-postgresqltutorial-com.translate.goog/postgresql-administration/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)) o la [hoja de tips de PostgreSQL](https://www.postgresqltutorial.com/wp-content/uploads/2018/03/PostgreSQL-Cheat-Sheet.pdf).  
   
   Prerrequisitos: Debe completar la *Práctica 1.4.*  
   
