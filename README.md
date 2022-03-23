@@ -210,7 +210,7 @@ Que al finalizar el curso el alumno sea capaz de:
   
   Prerrequisitos: Debe completar la *Práctica 1.4.*.
   
-  Conéctese al servidor de base de datos *PostgreSQL* ([guía](https://www.youtube.com/watch?v=jxIEDKzGrOs&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=1)) con [pgAdmin 4](https://www.pgadmin.org/). (Tip: Para usar pgAdmin 4 para restaurar y respaldar bases de datos, debe configurar la ruta de ubicación del servidor (C:\Program Files\PostgreSQL\14) y de los archivos ejecutable (directorio ...\14\bin) en las preferencias de pgAdmin 4.)
+  Conéctese al servidor de base de datos *PostgreSQL* ([guía](https://www.youtube.com/watch?v=jxIEDKzGrOs&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=1)) con [pgAdmin 4](https://www.pgadmin.org/). (Tip: Para usar pgAdmin 4 para restaurar y respaldar bases de datos, debe configurar la ruta de ubicación del servidor (*Binary PATH*) de los archivos ejecutable (C:\Program Files\PostgreSQL\14\bin) en las preferencias de pgAdmin 4.)
   
   *Parte 2*: *Operaciones de administración de la base de datos*. Crear una base de datos ([guía](https://www.youtube.com/watch?v=GruJjmfm_gs&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=3)). Crear una tabla tal como se ve en la [guía](https://www.youtube.com/watch?v=LIUW0XWdy80&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=5&t=0s). Identifique el tipo de dato que requiere para cada columna ([guía](https://www.youtube.com/watch?v=9IEQKbItnCE&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=8&t=0s)). Modificar la tabla para alojar una lista de personas (nombre, apellido materno y paterno y su edad ([guía](https://www.youtube.com/watch?v=eEbqN7Hz7FM&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=13&t=0s)).  
   
