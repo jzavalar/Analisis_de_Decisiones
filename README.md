@@ -192,7 +192,7 @@ Que al finalizar el curso el alumno sea capaz de:
 5. Tipos de problemas de decisión
 6. Tareas y Prácticas:
 
-- *Tarea 2.1*: *Teoría de las bases de datos relacionales*.  
+- *Tarea 2.1*: *Teoría de las bases de datos relacionales*. (Fecha de entrega: 25 de marzo de 2022).  
 
   Resuelva el siguiente cuestionario ([parte 1](https://drive.google.com/file/d/17IhZFgxB1XCeEYaJjTIJxKQQ-Rv1Vs2q/view?usp=sharing), [parte 2](https://drive.google.com/file/d/1zswLrAe5IBZXhq3YylAR5Sk_EhKdGiAH/view?usp=sharing), [parte 3](https://drive.google.com/file/d/1rdmW5IvGtipYRR4W8Yxhh8sbNOlB2ct2/view?usp=sharing)) en su cuaderno de apuntes para que refuerce la teoría, a partir de la siguiente [presentación](https://drive.google.com/file/d/1leDmRFqWQygcwnYro9315PeUGWjXIF0V/view?usp=sharing) sobre el tema.  
   
@@ -201,6 +201,8 @@ Que al finalizar el curso el alumno sea capaz de:
   Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito o pruebe algún otro tutorial.      
   
   Saque sus conclusiones y documente en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
+  
+  **Bibliografía**: Quiroz, J. (2003). El modelo relacional debases de datos. *Boletín de Política Informática (INEGI)*, (6), 53-61. ([pdf](http://ingenieriasimple.com/conred/el%20modelo%20relacional.pdf)). 
 
 - *Práctica 2.2. Base de datos III: SQL*. (Fecha de entrega: 25 de marzo de 2022).  
   
@@ -212,7 +214,9 @@ Que al finalizar el curso el alumno sea capaz de:
   
   Conéctese al servidor de base de datos *PostgreSQL* ([guía](https://www.youtube.com/watch?v=jxIEDKzGrOs&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=1)) con [pgAdmin 4](https://www.pgadmin.org/). (Tip: Para usar pgAdmin 4 para restaurar y respaldar bases de datos, debe configurar la ruta de ubicación del servidor (*Binary PATH*) de los archivos ejecutable (C:\Program Files\PostgreSQL\14\bin) en las preferencias de pgAdmin 4.)
   
-  *Parte 2*: *Operaciones de administración de la base de datos*. Crear una base de datos ([guía](https://www.youtube.com/watch?v=GruJjmfm_gs&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=3)). Crear una tabla tal como se ve en la [guía](https://www.youtube.com/watch?v=LIUW0XWdy80&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=5&t=0s). Identifique el tipo de dato que requiere para cada columna ([guía](https://www.youtube.com/watch?v=9IEQKbItnCE&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=8&t=0s)). Modificar la tabla para alojar una lista de personas (nombre, apellido materno y paterno y su edad ([guía](https://www.youtube.com/watch?v=eEbqN7Hz7FM&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=13&t=0s)).  
+  *Parte 2*: *Operaciones de administración de la base de datos*. 
+  
+  Crear una base de datos ([guía](https://www.youtube.com/watch?v=GruJjmfm_gs&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=3)). Crear una tabla tal como se ve en la [guía](https://www.youtube.com/watch?v=LIUW0XWdy80&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=5&t=0s). Identifique el tipo de dato que requiere para cada columna ([guía](https://www.youtube.com/watch?v=9IEQKbItnCE&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=8&t=0s)). Modificar la tabla para alojar una lista de personas (nombre, apellido materno y paterno y su edad ([guía](https://www.youtube.com/watch?v=eEbqN7Hz7FM&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=13&t=0s)).  
   
   Ingresar siete registros ([guía](https://www.youtube.com/watch?v=nsU3IwSASDg&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=6&t=0s)) (Tip: Considere una llave primaria con autoincremento numérico ([guía](https://www.youtube.com/watch?v=210SPHcrWr8&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=15&t=0s)). Eliminar dos registros ([guía](https://www.youtube.com/watch?v=eJQCl5zIknA&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=11&t=0s)). Actualizar los registros cambiando los datos de la tabla ([guía](https://www.youtube.com/watch?v=2EN1amBNZvQ&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=7&t=0s)).  
   
@@ -226,7 +230,7 @@ Que al finalizar el curso el alumno sea capaz de:
   
   Para cada operación documente el script o las instrucciones que permiten su ejecución.  
   
-  Repita y practique las operaciones hasta que entienda su lógica. Reflexione sobre lo aprendido la práctica.
+  Repita y practique las operaciones hasta que entienda su lógica. Reflexione sobre lo aprendido en la práctica.
   
   *Parte 3*. Finalmente, pruebe restaurar la [base de datos de prueba *DVDrental*](https://www.postgresqltutorial.com/postgresql-sample-database/) descargando el ([archivo zip](https://sp.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)) que le permitirá poder probar todas las operaciones del [Tutorial](). Apóyese en el diagrama entidad-relación ([pdf](https://sp.postgresqltutorial.com/wp-content/uploads/2018/03/printable-postgresql-sample-database-diagram.pdf)) y la ([guía](https://www.postgresqltutorial.com/postgresql-sample-database/)). Siga el procedimiento para cargar la base de datos según el siguiente [tutorial](https://www.postgresqltutorial.com/load-postgresql-sample-database/) o este [otro tutorial](https://www.postgresqltutorial.com/postgresql-restore-database/) para restaurarla. **Tenga cuidado. Restaure en la base de datos correcta.** 
   
@@ -262,16 +266,16 @@ Que al finalizar el curso el alumno sea capaz de:
 4. Herramientas analíticas del análisis de decisiones
 
 ##### Bibliografía Obligatoria:
-- Mote, V. L. y Meenakshi Malya, M. (1970). Decision analysis: Experiences and expectations. *Economic and Political Weekly, 5*(22), M53+M55+M57-M58. ([pdf]()). (Lectura 9).
-- Goodwin, P. y Wright, G. (2003). Introduction. In *Decision analysis for management judgment* (pp. 1-13). Chichester, West Sussex, England: John Wiley & Sons. (Lectura 10).
+- Mote, V. L. y Meenakshi Malya, M. (1970). Decision analysis: Experiences and expectations. *Economic and Political Weekly, 5*(22), M53+M55+M57-M58. ([url](https://www.jstor.org/stable/4360049)) (Disponible en el canal de Telegram). (Lectura 9).
+- Goodwin, P. y Wright, G. (2004). Introduction. In *[Decision analysis for management judgment](http://libgen.rs/book/index.php?md5=3B2F1C8F5947F079F9064CA6BAA7031B)* (pp. 1-13). Chichester, West Sussex, England: John Wiley & Sons. (Lectura 10).
 - Howard, R. A. (1988). Decision analysis: practice and promise, *Management Science, 34*(6), 679-695. ([pdf]()). (Lectura 11).
 
-  El control de lectura será mediante un trabajo escrito que desarrolle el temario de la Unidad en 5 cuartillas, por grupos de 3. Debe incluir conclusiones y reflexiones colectivas e individuales al final. Se entregará la próxima clase, previa discusión.
+  El control de lectura será mediante un trabajo escrito que desarrolle el temario de la Unidad, en 5 cuartillas, por grupos de 3. Debe incluir conclusiones y reflexiones colectivas e individuales al final. Se entregará la próxima clase, previa discusión.
 
 ##### Bibliografía Complementaria:
-- Garber, R. (2009). An interview with Ronald A. Howard. *Decision Analysis, 6*(4), 263–272. ([pdf]()).
+- Garber, R. (2009). An interview with Ronald A. Howard. *Decision Analysis, 6*(4), 263–272. ([url](https://pubsonline.informs.org/doi/pdf/10.1287/deca.1090.0160)).
 - Goodwin, P. y Wright, G. (2003). How the people make decisions involving multiple objectives. In *Decision analysis for management judgment* (pp. 14-26). Chichester, West Sussex, England: John Wiley & Sons.
-- Howard, R. A. (1966). *Decision analysis: Applied decision theory*. ([pdf]()).
+- Howard, R. A. (1966). *Decision analysis: Applied decision theory*. ([pdf](http://www.sdg.com/wp-content/uploads/2015/06/Decision-Analysis-Applied-Decision-Theory.pdf)).
 - Howard, R. A. (1968). The foundations of decision analysis. *IEEE Transactions on Systems Science and Cybernetics, 4*(3), 211-219. ([pdf]()).
 - James E. Smith, J. E. y von Winterfeldt, D. (2004). Decision Analysis in "Management Science". *Management Science, 50*(5), 561-574. ([pdf]()). 
 - Ralph L. Keeney, R. L. (1982). Feature Article - Decision analysis: An overview. *Operations Research, 30*(5), 803-838. ([pdf]()).
