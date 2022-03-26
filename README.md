@@ -242,7 +242,7 @@ Que al finalizar el curso el alumno sea capaz de:
   
 - *Tarea 2.3*: *Cuestionario*. (Fecha de entrega: 30 de marzo de 2022).  
 
-  Resuelva el siguiente [cuestionario](Unidad 2. Cuestionario.md) en su cuaderno de apuntes, para que refuerce la teoría sobre el tema de la Unidad.  
+  Resuelva el siguiente [cuestionario](https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/main/Unidad%202.%20Cuestionario.md) en su cuaderno de apuntes, para que refuerce la teoría sobre el tema de la Unidad.  
   
   Suba las fotos (legibles) de la tarea a su cuenta de *Google Drive*, en la carpeta respectiva, con el nombre de la tarea.  
   
