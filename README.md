@@ -246,7 +246,7 @@ Que al finalizar el curso el alumno sea capaz de:
   
   Suba las fotos (legibles) de la tarea a su cuenta de *Google Drive*, en la carpeta respectiva, con el nombre de la tarea.  
   
-  Saque sus conclusiones y documente en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
+  Saque sus conclusiones y documente en un video la realización de la tarea y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
   
 
 ##### Bibliografía Obligatoria: 
