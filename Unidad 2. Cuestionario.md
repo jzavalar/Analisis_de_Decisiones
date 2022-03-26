@@ -19,7 +19,7 @@ Marzo de 2022
 9. ¿Cuál es el papel de los deseos, las preferencias y las creencias en la toma de decisiones?  
 10. A partir de los elementos analizados, ¿cuál es su opinión sobre la elección de una mejor alternativa en un contexto gerencial?  
 
-**Bibliografía**:
+**Bibliografía adicional sugerida**:
   - Abitbol, P., & Botero, F. (2005, Jul-Dec). Teoría de elección racional: Estructura conceptual y evolución reciente. *Colombia Internacional 62*(), 132-145. ([pdf](http://www.scielo.org.co/pdf/rci/n62/n62a09.pdf)).  
   - Arrendondo Trapero, F. G. & Vázquez Parra, J. C. (2013, Jan-Jun). Un modelo de análisis racional para la toma de decisiones gerenciales, desde la perspectiva elsteriana, *Cuadernos de Administración 26*(46), 135-158. ([pdf](http://www.scielo.org.co/pdf/cadm/v26n46/v26n46a07.pdf)).  
   - Hernández, O., & García de la Torre, C. (2002). Decisiones racionales: Una interpretación teórica. Ponencia presentada en el “VI Congreso Nacional y Primero Internacional de Investigación en Ciencias Administrativas, Paradigmas Emergentes de la Administración en las Sociedades del Conocimiento”, Academia de Ciencias Administrativas – Instituto Politécnico Nacional (IPN), México, D.F., del 24 al 26 de abril de 2002. ([pdf](http://acacia.org.mx/busqueda/pdf/01-4.pdf)).  
