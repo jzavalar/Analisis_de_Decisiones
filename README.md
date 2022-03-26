@@ -196,13 +196,11 @@ Que al finalizar el curso el alumno sea capaz de:
 
   Resuelva el siguiente cuestionario ([parte 1](https://drive.google.com/file/d/17IhZFgxB1XCeEYaJjTIJxKQQ-Rv1Vs2q/view?usp=sharing), [parte 2](https://drive.google.com/file/d/1zswLrAe5IBZXhq3YylAR5Sk_EhKdGiAH/view?usp=sharing), [parte 3](https://drive.google.com/file/d/1rdmW5IvGtipYRR4W8Yxhh8sbNOlB2ct2/view?usp=sharing)) en su cuaderno de apuntes para que refuerce la teoría, a partir de la siguiente [presentación](https://drive.google.com/file/d/1leDmRFqWQygcwnYro9315PeUGWjXIF0V/view?usp=sharing) sobre el tema.  
   
-  Suba las fotos (legibles) de la tarea a su cuenta de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.  
+  Suba las fotos (legibles) de la tarea a su cuenta de *Google Drive*, en la carpeta respectiva, con el nombre de la tarea.  
   
-  Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito o pruebe algún otro tutorial.      
+  Saque sus conclusiones y documente en un video la realización de la tarea y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
   
-  Saque sus conclusiones y documente en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
-  
-  **Bibliografía**: Quiroz, J. (2003). El modelo relacional debases de datos. *Boletín de Política Informática (INEGI)*, (6), 53-61. ([pdf](http://ingenieriasimple.com/conred/el%20modelo%20relacional.pdf)). 
+  **Bibliografía**: Quiroz, J. (2003). El modelo relacional de bases de datos. *Boletín de Política Informática (INEGI)*, (6), 53-61. ([pdf](http://ingenieriasimple.com/conred/el%20modelo%20relacional.pdf)). 
 
 - *Práctica 2.2. Base de datos III: SQL*. (Fecha de entrega: 25 de marzo de 2022).  
   
@@ -241,6 +239,15 @@ Que al finalizar el curso el alumno sea capaz de:
   Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito o pruebe algún otro tutorial.  
   
   Saque sus conclusiones y documente en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
+  
+- *Tarea 2.3*: *Cuestionario*. (Fecha de entrega: 30 de marzo de 2022).  
+
+  Resuelva el siguiente [cuestionario](https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/main/2211092%20-%20Analisis%20de%20Decisiones.%20Unidad%202.%20Cuestionario.txt) en su cuaderno de apuntes, para que refuerce la teoría sobre el tema de la Unidad.  
+  
+  Suba las fotos (legibles) de la tarea a su cuenta de *Google Drive*, en la carpeta respectiva, con el nombre de la tarea.  
+  
+  Saque sus conclusiones y documente en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
+  
 
 ##### Bibliografía Obligatoria: 
 - Pérez, D. (2013). Elección racional. *YouTube*. ([Video 2.1](https://www.youtube.com/watch?v=tPj2sEBdB3s)) (10:51 min). (Identificar los postulados básicos de la elección racional).  
