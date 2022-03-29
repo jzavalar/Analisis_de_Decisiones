@@ -21,7 +21,9 @@ Instrucciones: Resuelva en su cuaderno el siguiente cuestionario
 9. ¿Cuál es el papel de los deseos, las preferencias y las creencias en la toma de decisiones?
 10. ¿Cuáles son las fortalezas y debilidades de la teoría de la elección racional?  
 
-A partir de los elementos analizados con anterioridad, **escriba un breve ensayo de 1,000 palabras** en cuatro partes: (1) Una introducción, (2) los fundamentos de la teoría de la elección racional para elegir la mejor alternativa en un contexto gerencial, (3) su opinión personal en forma de fortalezas y debilidades de la teoría de la elección racional y (4) sus conclusiones. Luego, publíquelo en su Google Drive y compártalo en el grupo de Telegram.  
+A partir de los elementos analizados con anterioridad, **escriba un breve ensayo de 1,000 palabras** en cuatro partes: (1) Una introducción, (2) los fundamentos de la teoría de la elección racional para elegir la mejor alternativa en un contexto gerencial, (3) su opinión personal en forma de fortalezas y debilidades de la teoría de la elección racional y (4) sus conclusiones. Si prefiere, y quiere reforzar su aprendizaje, escríbalo en su cuaderno, primero y luego, páselo en limpio en un editor de textos, por ejemplo, en Google Drive y guárdelo en su Google Drive y compártalo en el grupo de Telegram.
+
+*N.B.:* Es muy importante que aprenda a ser original y no caiga en la tentación de copiar y pegar texto, sin citar la fuente, porque además de ser plagio, su aprendizaje ser.    
 
 **Bibliografía sugerida**, adicional a la bibliografía de la Unidad:
   - Abitbol, P., & Botero, F. (2005, Jul-Dec). Teoría de elección racional: Estructura conceptual y evolución reciente. *Colombia Internacional 62*(), 132-145. ([pdf](http://www.scielo.org.co/pdf/rci/n62/n62a09.pdf)).  
