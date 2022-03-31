@@ -259,6 +259,7 @@ Que al finalizar el curso el alumno sea capaz de:
 - Cameron, S. (2002). Tools of the trade: Rational choice.  In *The economics of sin: Rational choice or no choice at all?* (pp. 14-39). Cheltenham, Glos, U.K.: Edward Elgar Publishing. ([url](http://libgen.rs/search.php?req=The+economics+of+sin%3A+Rational+choice+or+no+choice+at+all%3F&open=0&res=100&view=simple&phrase=1&column=title)) (*Lectura 5*). (Identificar los postulados de la teoría de la racionalidad limitada). (*Lectura 2.3*).  
 
 ##### Bibliografía Complementaria:
+- Foucault, M. (1988). El sujeto y el poder. *Revista Mexicana de Sociología, 50*(3) (Jul - Sep), 3-20. ([pdf](https://perio.unlp.edu.ar/catedras/cdac/wp-content/uploads/sites/96/2020/03/T-FOUCAULT-El-sujeto-y-el-poder.pdf)).
 - Cabantous, L. y Gond, J-P. (2010). Rational decision making as performative praxis: Explaining rationality's Éternel Retour. *Organization Science,22*(3), 573-586. ([pdf](https://openaccess.city.ac.uk/id/eprint/6929/1/)).
 - Kurtz, C. F. y Snowden, D. J. (2003). The new dynamics of strategy: Sense-making in a complex and complicated world. *IBM Systems Journal, 42*(3), 462-483. ([pdf](https://www.researchgate.net/publication/3228283_The_new_dynamics_of_strategy_Sense-making_in_a_complex_and_complicated_world)).
 - Novikov, D.A. (2016). *Cybernetics: From past to future*. Springer. ([url](http://libgen.rs/book/index.php?md5=C3E6D1E999983C24D496BE7CC10A69F5))
@@ -267,8 +268,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
 
 #### Unidad 3. El análisis de decisiones
-1. ¿Qué es una decisión?
-2. ¿Qué es el análisis de decisiones?
+1. ¿Qué es el análisis de decisiones?
 3. Alcances y limitaciones del análisis de decisiones
 4. Herramientas analíticas del análisis de decisiones
 
