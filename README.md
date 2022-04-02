@@ -271,6 +271,14 @@ Que al finalizar el curso el alumno sea capaz de:
 1. ¿Qué es el análisis de decisiones?
 3. Alcances y limitaciones del análisis de decisiones
 4. Herramientas analíticas del análisis de decisiones
+5. Tareas y prácticas:
+
+- *Práctica 3.1*: *Operaciones matriciales con R y aplicaciones*. (Fecha de entrega: 25 de marzo de 2022).  
+
+  Suba las fotos (legibles) de la práctica a su cuenta de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.  
+  
+  Saque sus conclusiones y documente en un video la realización de la tarea y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
+
 
 ##### Bibliografía Obligatoria:
 - Mote, V. L. y Meenakshi Malya, M. (1970). Decision analysis: Experiences and expectations. *Economic and Political Weekly, 5*(22), M53+M55+M57-M58. ([url](https://www.jstor.org/stable/4360049)) (Disponible en el canal de Telegram). (Lectura 9).
