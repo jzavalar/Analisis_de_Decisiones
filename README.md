@@ -273,9 +273,21 @@ Que al finalizar el curso el alumno sea capaz de:
 4. Herramientas analíticas del análisis de decisiones
 5. Tareas y prácticas:
 
-- *Práctica 3.1*: *Operaciones matriciales con R y aplicaciones*. (Fecha de entrega: 25 de marzo de 2022).  
+- *Práctica 3.1*: *Operaciones matriciales con R y aplicaciones*. (Fecha de entrega: 10 de abril de 2022).  
 
-  Suba las fotos (legibles) de la práctica a su cuenta de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.  
+  *Parte 0. Preparación*. Previamente debe abrir su cuenta en [RStudio.cloud](https://rstudio.cloud/). En su proyecto de la UEA, cree un folder con el nombre la práctica, para que ahí genere sus archivos correspondientes.  
+  
+  *Parte 1. Vectores en R*. Convierta el siguiente tutorial sobre [Vectores en R](https://r-coder.com/vectores-r/) en un archivo RMarkdown (.Rmd) y genere un archivo HTML con *knit*. Para cada ejercicio, agregue un ejemplo adicional. Al final, escriba sus propias conclusiones.  
+  
+  *Parte 2. Matrices en R*. Convierta el siguiente tutorial sobre [Matrices en R](https://r-coder.com/matrices-r/) en un archivo RMarkdown (.Rmd) y genere un archivo HTML con *knit*. Para cada ejercicio, agregue un ejemplo adicional. Al final escriba sus propias conclusiones.  
+  
+  *Parte 3. Operaciones con matrices en R*. Convierta el siguiente tutorial sobre [Operaciones con Matrices en R](https://r-coder.com/operaciones-matrices-r/) en un archivo RMarkdown (.Rmd) y genere un archivo HTML con *knit*. Para cada ejercicio, agregue un ejemplo adicional. Al final escriba sus propias conclusiones.
+  
+  *Parte 4. Métodos cualitativos para el Análisis de decisiones*. Considere el siguiente video sobre *[Métodos Cualitativos para el Análisis de Decisiones](https://www.youtube.com/watch?v=Vz2Uiy67cm0)* y, a partir de lo que aprendió en las primeras partes, conviértalo en un archivo RMarkdown (.Rmd) con la receta de la solución y genere un archivo HTML con *knit*. Para cada ejercicio, agregue un ejemplo adicional. Al final escriba sus propias conclusiones.  
+  
+  *Parte 5. Método del Valor Esperado*. Considere el siguiente video sobre *[Metodo del Valor Esperado para el Análisis de Decisiones](https://www.youtube.com/watch?v=d2D8aUZHAWs)* y, a partir de lo que aprendió en las primeras partes, conviértalo en un archivo RMarkdown (.Rmd) con la receta de la solución y genere un archivo HTML con *knit*. Para cada ejercicio, agregue un ejemplo adicional. Al final escriba sus propias conclusiones.
+    
+  Suba los archivos de la práctica a su cuenta de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.  
   
   Saque sus conclusiones y documente en un video la realización de la tarea y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
 
@@ -283,12 +295,11 @@ Que al finalizar el curso el alumno sea capaz de:
 ##### Bibliografía Obligatoria:
 - Mote, V. L. y Meenakshi Malya, M. (1970). Decision analysis: Experiences and expectations. *Economic and Political Weekly, 5*(22), M53+M55+M57-M58. ([url](https://www.jstor.org/stable/4360049)) (Disponible en el canal de Telegram). (Lectura 9).
 - Goodwin, P. y Wright, G. (2004). Introduction. In *[Decision analysis for management judgment](http://libgen.rs/book/index.php?md5=3B2F1C8F5947F079F9064CA6BAA7031B)* (pp. 1-13). Chichester, West Sussex, England: John Wiley & Sons. (Lectura 10).
-- Howard, R. A. (1988). Decision analysis: practice and promise, *Management Science, 34*(6), 679-695. ([pdf]()). (Lectura 11).
+- Howard, R. A. (1988). Decision analysis: practice and promise, *Management Science, 34*(6), 679-695. ([url](https://www.jstor.org/stable/2632123)) ([pdf](https://sci-hub.se/10.2307/2632123)). (Lectura 11).
 
-  El control de lectura será mediante un trabajo escrito que desarrolle el temario de la Unidad, en 5 cuartillas, por grupos de 3. Debe incluir conclusiones y reflexiones colectivas e individuales al final. Se entregará la próxima clase, previa discusión.
 
 ##### Bibliografía Complementaria:
-- Garber, R. (2009). An interview with Ronald A. Howard. *Decision Analysis, 6*(4), 263–272. ([url](https://pubsonline.informs.org/doi/pdf/10.1287/deca.1090.0160)).
+- Garber, R. (2009). An interview with Ronald A. Howard. *Decision Analysis, 6*(4), 263–272. ([url](https://pubsonline.informs.org/doi/pdf/10.1287/deca.1090.0160)) ([pdf](https://sci-hub.se/10.1287/deca.1090.0160)).
 - Goodwin, P. y Wright, G. (2003). How the people make decisions involving multiple objectives. In *Decision analysis for management judgment* (pp. 14-26). Chichester, West Sussex, England: John Wiley & Sons.
 - Howard, R. A. (1966). *Decision analysis: Applied decision theory*. ([pdf](http://www.sdg.com/wp-content/uploads/2015/06/Decision-Analysis-Applied-Decision-Theory.pdf)).
 - Howard, R. A. (1968). The foundations of decision analysis. *IEEE Transactions on Systems Science and Cybernetics, 4*(3), 211-219. ([pdf]()).
