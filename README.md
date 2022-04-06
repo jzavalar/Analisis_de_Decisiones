@@ -176,9 +176,9 @@ Que al finalizar el curso el alumno sea capaz de:
   Saque sus conclusiones y documente en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
 
 ##### Bibliografía Obligatoria:
-- Witzel, M. (2012). 9 From Scientific Management to Management Science. In *A history of management thought* (capítulo 9). London: Routledge. ([url](https://www.amazon.com/History-Management-Thought-Morgen-Witzel/dp/0415600588)) ([torrent](https://thepiratebay.org/description.php?id=7912663)) ([epub url](http://libgen.rs/book/index.php?md5=1F104CC3F1936AF817CC64261EBDB0DA)). (*Lectura 1*).
-- Drucker, P. F. (1955). "Management Science" and the manager. *Management Science 1*(2), 115-126. doi: http://doi.org/10.1287/mnsc.1.2.115 ([url](http://libgen.rs/scimag/10.1287%2Fmnsc.1.2.115)). (*Lectura 2*).
-- Zavala, J. (2016). El análisis de decisiones: Un panorama histórico-metodológico. (Mimeo). (Disponible en el grupo de Telegram). (*Lectura 3*).  
+- Witzel, M. (2012). 9 From Scientific Management to Management Science. In *A history of management thought* (capítulo 9). London: Routledge. ([url](https://www.amazon.com/History-Management-Thought-Morgen-Witzel/dp/0415600588)) ([torrent](https://thepiratebay.org/description.php?id=7912663)) ([epub url](http://libgen.rs/book/index.php?md5=1F104CC3F1936AF817CC64261EBDB0DA)). (*Lectura 1.1.*).
+- Drucker, P. F. (1955). "Management Science" and the manager. *Management Science 1*(2), 115-126. doi: http://doi.org/10.1287/mnsc.1.2.115 ([pdf](http://libgen.rs/scimag/10.1287%2Fmnsc.1.2.115)). (*Lectura 1.2*).
+- Zavala, J. (2016). El análisis de decisiones: Un panorama histórico-metodológico. (Mimeo). (Disponible en el grupo de Telegram). (*Lectura 1.3*).  
 
 ##### Bibliografía Obligatoria:
 - Ensmenger, N. L. (2010). The *cosa nostra* of the data processing industry. In *The computer boys take over: Computers, programmers, and the politics of technical expertise* (pp. 137-161). USA: The MIT Press. ([pdf](https://www.mondotheque.be/wiki/images/0/0b/Ensmenger_The_Computer_Boys_Take_Over%28BookZZ.org%29.pdf))
@@ -234,7 +234,7 @@ Que al finalizar el curso el alumno sea capaz de:
   
   Una vez restaurada la bases de datos, practique los comandos *psql* y las operaciones de consulta en una terminal y con *pgAdmin 4*, con ayuda de la hoja de tips ([cheat sheet](https://www.postgresqltutorial.com/postgresql-cheat-sheet/)).
   
-  Entregue reporte de la práctica elaborando un video de cada operación narrando lo que muestra el video, tipo tutorial. Incluya los scripts en SQL que permiten realizar cada operación, identificando con precisión cada una.  
+  Entregue reporte de la práctica elaborando un video de cada operación narrando lo que muestra el video, tipo tutorial. Incluya los *scripts* en *SQL* que permiten realizar cada operación, identificando con precisión cada una.  
   
   Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito o pruebe algún otro tutorial.  
   
@@ -242,13 +242,14 @@ Que al finalizar el curso el alumno sea capaz de:
   
 - *Tarea 2.3*: *Cuestionario*. (Fecha de entrega: 30 de marzo de 2022).  
 
+  *Objetivo*: Aprender el lenguaje de uso en la unidad.
+  
   Resuelva el siguiente [cuestionario](https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/main/Unidad%202.%20Cuestionario.md) en su cuaderno de apuntes, para que refuerce la teoría sobre el tema de la Unidad.  
   
   Suba las fotos (legibles) de la tarea a su cuenta de *Google Drive*, en la carpeta respectiva, con el nombre de la tarea.  
   
   Saque sus conclusiones y documente en un video la realización de la tarea y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
   
-
 ##### Bibliografía Obligatoria: 
 - Pérez, D. (2013). Elección racional. *YouTube*. ([Video 2.1](https://www.youtube.com/watch?v=tPj2sEBdB3s)) (10:51 min). (Identificar los postulados básicos de la elección racional).  
 - Simon, H. A. (2016/1992). Why decision making is so difficult. *YouTube*. ([Video 2.2](https://www.youtube.com/watch?v=eTXkZURBq7k&list=PL1s8eXa4Q_bjXPayLmo1Hbq5cJLzcwZz7&index=3)). (2:19 min). (Identificar la complejidad de la toma de decisiones).  
@@ -273,7 +274,9 @@ Que al finalizar el curso el alumno sea capaz de:
 4. Herramientas analíticas del análisis de decisiones
 5. Tareas y prácticas:
 
-- *Práctica 3.1*: *Operaciones matriciales con R y aplicaciones*. (Fecha de entrega: 10 de abril de 2022).  
+- *Práctica 3.1*: *Operaciones matriciales con R y aplicaciones*. (Fecha de entrega: 10 de abril de 2022).
+  
+  *Objetivo*: Realizar un recordatorio sobre los vectores, las matrices y sus operaciones, usando R, como preparación para su aplicación en la programación lineal.  
 
   *Parte 0. Preparación*. Previamente debe abrir su cuenta en [RStudio.cloud](https://rstudio.cloud/). En su proyecto de la UEA, cree un folder con el nombre la práctica, para que ahí genere sus archivos correspondientes.  
   
@@ -281,7 +284,7 @@ Que al finalizar el curso el alumno sea capaz de:
   
   *Parte 2. Matrices en R*. Convierta el siguiente tutorial sobre [Matrices en R](https://r-coder.com/matrices-r/) en un archivo RMarkdown (.Rmd) y genere un archivo HTML con *knit*. Para cada ejercicio, agregue un ejemplo adicional. Al final escriba sus propias conclusiones.  
   
-  *Parte 3. Operaciones con matrices en R*. Convierta el siguiente tutorial sobre [Operaciones con Matrices en R](https://r-coder.com/operaciones-matrices-r/) en un archivo RMarkdown (.Rmd) y genere un archivo HTML con *knit*. Para cada ejercicio, agregue un ejemplo adicional. Al final escriba sus propias conclusiones.
+  *Parte 3. Operaciones con Matrices en R*. Convierta el siguiente tutorial sobre [Operaciones con Matrices en R](https://r-coder.com/operaciones-matrices-r/) en un archivo RMarkdown (.Rmd) y genere un archivo HTML con *knit*. Para cada ejercicio, agregue un ejemplo adicional. Al final escriba sus propias conclusiones.
   
   *Parte 4. Métodos cualitativos para el Análisis de decisiones*. Considere el siguiente video sobre *[Métodos Cualitativos para el Análisis de Decisiones](https://www.youtube.com/watch?v=Vz2Uiy67cm0)* y, a partir de lo que aprendió en las primeras partes, conviértalo en un archivo RMarkdown (.Rmd) con la receta de la solución y genere un archivo HTML con *knit*. Para cada ejercicio, agregue un ejemplo adicional. Al final escriba sus propias conclusiones.  
   
@@ -290,21 +293,20 @@ Que al finalizar el curso el alumno sea capaz de:
   Suba los archivos de la práctica a su cuenta de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.  
   
   Saque sus conclusiones y documente en un video la realización de la tarea y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
-
-
+  
 ##### Bibliografía Obligatoria:
-- Mote, V. L. y Meenakshi Malya, M. (1970). Decision analysis: Experiences and expectations. *Economic and Political Weekly, 5*(22), M53+M55+M57-M58. ([url](https://www.jstor.org/stable/4360049)) (Disponible en el canal de Telegram). (Lectura 9).
-- Goodwin, P. y Wright, G. (2004). Introduction. In *[Decision analysis for management judgment](http://libgen.rs/book/index.php?md5=3B2F1C8F5947F079F9064CA6BAA7031B)* (pp. 1-13). Chichester, West Sussex, England: John Wiley & Sons. (Lectura 10).
-- Howard, R. A. (1988). Decision analysis: practice and promise, *Management Science, 34*(6), 679-695. ([url](https://www.jstor.org/stable/2632123)) ([pdf](https://sci-hub.se/10.2307/2632123)). (Lectura 11).
-
+- Mote, V. L. y Meenakshi Malya, M. (1970). Decision analysis: Experiences and expectations. *Economic and Political Weekly, 5*(22), M53+M55+M57-M58. ([url](https://www.jstor.org/stable/4360049)) ([pdf](https://sci-hub.se/10.2307/4360049)). (Lectura 3.1).
+- Goodwin, P. y Wright, G. (2004). Introduction. In *[Decision analysis for management judgment](http://libgen.rs/book/index.php?md5=3B2F1C8F5947F079F9064CA6BAA7031B)* (pp. 1-13). Chichester, West Sussex, England: John Wiley & Sons. (Lectura 3.2).
+- Howard, R. A. (1988). Decision analysis: practice and promise, *Management Science, 34*(6), 679-695. ([url](https://www.jstor.org/stable/2632123)) ([pdf](https://sci-hub.se/10.2307/2632123)). (Lectura 3.3).
+- Howard, R. A. (1968). The foundations of decision analysis. *IEEE Transactions on Systems Science and Cybernetics, 4*(3), 211-219. ([url](https://ieeexplore.ieee.org/abstract/document/4082150)) ([pdf](https://sci-hub.se/10.1109/TSSC.1968.300115)). (Lectura 3.4).  
 
 ##### Bibliografía Complementaria:
-- Garber, R. (2009). An interview with Ronald A. Howard. *Decision Analysis, 6*(4), 263–272. ([url](https://pubsonline.informs.org/doi/pdf/10.1287/deca.1090.0160)) ([pdf](https://sci-hub.se/10.1287/deca.1090.0160)).
-- Goodwin, P. y Wright, G. (2003). How the people make decisions involving multiple objectives. In *Decision analysis for management judgment* (pp. 14-26). Chichester, West Sussex, England: John Wiley & Sons.
-- Howard, R. A. (1966). *Decision analysis: Applied decision theory*. ([pdf](http://www.sdg.com/wp-content/uploads/2015/06/Decision-Analysis-Applied-Decision-Theory.pdf)).
-- Howard, R. A. (1968). The foundations of decision analysis. *IEEE Transactions on Systems Science and Cybernetics, 4*(3), 211-219. ([pdf]()).
-- James E. Smith, J. E. y von Winterfeldt, D. (2004). Decision Analysis in "Management Science". *Management Science, 50*(5), 561-574. ([pdf]()). 
-- Ralph L. Keeney, R. L. (1982). Feature Article - Decision analysis: An overview. *Operations Research, 30*(5), 803-838. ([pdf]()).
+- Garber, R. (2009). An interview with Ronald A. Howard. *Decision Analysis, 6*(4), 263–272. ([url](https://pubsonline.informs.org/doi/pdf/10.1287/deca.1090.0160)) ([pdf](https://sci-hub.se/10.1287/deca.1090.0160)).  
+- Goodwin, P. y Wright, G. (2003). How the people make decisions involving multiple objectives. In *[Decision analysis for management judgment](http://libgen.rs/book/index.php?md5=3B2F1C8F5947F079F9064CA6BAA7031B)* (pp. 14-26). Chichester, West Sussex, England: John Wiley & Sons.  
+- Howard, R. A. (1966). *Decision analysis: Applied decision theory*. ([pdf](http://www.sdg.com/wp-content/uploads/2015/06/Decision-Analysis-Applied-Decision-Theory.pdf)).  
+- Ralph L. Keeney, R. L. (1982). Feature Article - Decision analysis: An overview. *Operations Research, 30*(5), 803-838. ([pdf](https://pubsonline.informs.org/doi/pdf/10.1287/opre.30.5.803)).  
+- Smith, J. E. y von Winterfeldt, D. (2004). Decision Analysis in "Management Science". *Management Science, 50*(5), 561-574. ([pdf](https://sci-hub.se/10.2307/30046097)).  
+
 
 #### Unidad 4. Los problemas de decisión
 1. Modelación de los problemas de decisión
