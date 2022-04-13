@@ -8,6 +8,8 @@ Abril de 2022
 
 #### Unidad 3. Cuestionario
 
+*Objetivo*: Aprender los fundamentos del análisis de deciciones.  
+
 Instrucciones: En equipo, organícense y resuelvan en su cuaderno el siguiente cuestionario. 
 
 1. A partir de la lectura de Mote y Malya (1970), exponga los argumentos que ejemplifican el análisis de decisiones de las tres situaciones que expone en el artículo, identificando los cuatro elementos del análisis y la función de utilidad de cada situación. Haga una comparación y exponga sus conclusiones.
