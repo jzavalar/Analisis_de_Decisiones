@@ -21,14 +21,15 @@ Instrucciones: En equipo, organícense y resuelvan en su cuaderno el siguiente c
 4. A partir de la lectura de Howard (1968), responda ¿en qué consiste la metodología del análisis de decisiones?  
 
 A partir de los elementos analizados con anterioridad, **escriban un breve ensayo colectivo de 1,000 palabras** en cuatro partes:   
-1. Una introducción  
-2. Los fundamentos de la teoría de la elección racional para elegir la mejor alternativa en un contexto gerencial  
-3. Su opinión personal en forma de fortalezas y debilidades de la teoría de la elección racional y  
-4. Sus conclusiones. 
+1. Introducción  
+2. Fundamentos del análisis de decisiones en un contexto gerencial  
+3. Ciclo del análisis de decisiones  
+4. Opiniones personales en forma de fortalezas y debilidades del análisis de decisiones y  
+5. Conclusiones. 
 
-Si prefiere, y quiere reforzar su aprendizaje, escríbalo en su cuaderno, primero y luego, páselo en limpio en un editor de textos, por ejemplo, en Google Drive y guárdelo en su Google Drive y compártalo en el grupo de Telegram.
+Si prefieren, y quieren reforzar su aprendizaje, escríbanlo en su cuaderno, primero y luego, pásenlo en limpio en un editor de textos, por ejemplo, en Google Drive y compártanlo en el grupo de Telegram.
 
-*N.B.:* Es muy importante que aprenda a ser original y no caiga en la tentación de copiar y pegar texto, sin citar la fuente, porque además de ser plagio, su aprendizaje será reducido.    
+*N.B.:* Es muy importante que aprendan a ser originales y no caigan en la tentación de copiar y pegar texto, sin citar la fuente, porque además de ser plagio, su aprendizaje será reducido.    
 
 ##### Bibliografía Obligatoria:
   - Mote, V. L. y Meenakshi Malya, M. (1970). Decision analysis: Experiences and expectations. *Economic and Political Weekly, 5*(22), M53+M55+M57-M58. ([url](https://www.jstor.org/stable/4360049)) ([pdf](https://sci-hub.se/10.2307/4360049)). (Lectura 3.1).
