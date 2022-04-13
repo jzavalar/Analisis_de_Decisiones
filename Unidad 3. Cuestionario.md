@@ -19,7 +19,7 @@ Instrucciones: En grupo de 4, organícense y resuelvan en su cuaderno el siguien
     b. ¿Cuál es su proceso?  
     c. ¿Cuál es su argumento sobre la naturaleza humana?  
     d. ¿Cuál es la diferencia entre lo descriptivo y lo normativo, en el análisis de decisiones?  
-    e. Compare las promesas del análisis de decisiones con los progresos de la inteligencia artificial  
+    e. Compare las promesas del análisis de decisiones con los progresos de la inteligencia artificial en 2022  
 4. A partir de la lectura de Howard (1968), responda ¿en qué consiste la metodología del análisis de decisiones?  
 
 A partir de los elementos analizados con anterioridad, **escriban un breve ensayo colectivo de 1,000 palabras** en cuatro partes:   
