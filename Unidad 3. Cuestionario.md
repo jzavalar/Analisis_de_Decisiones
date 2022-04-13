@@ -20,11 +20,11 @@ Instrucciones: En equipo, organícense y resuelvan en su cuaderno el siguiente c
     e. Compare las promesas del análisis de decisiones con los progresos de la inteligencia artificial  
 4. A partir de la lectura de Howard (1968), responda ¿en qué consiste la metodología del análisis de decisiones?  
 
-A partir de los elementos analizados con anterioridad, **escriban un breve ensayo colectivo de 1,000 palabras** en cuatro partes: 
-    1. Una introducción  
-    2. Los fundamentos de la teoría de la elección racional para elegir la mejor alternativa en un contexto gerencial  
-    3. Su opinión personal en forma de fortalezas y debilidades de la teoría de la elección racional y  
-    4. Sus conclusiones. 
+A partir de los elementos analizados con anterioridad, **escriban un breve ensayo colectivo de 1,000 palabras** en cuatro partes:   
+1. Una introducción  
+2. Los fundamentos de la teoría de la elección racional para elegir la mejor alternativa en un contexto gerencial  
+3. Su opinión personal en forma de fortalezas y debilidades de la teoría de la elección racional y  
+4. Sus conclusiones. 
 
 Si prefiere, y quiere reforzar su aprendizaje, escríbalo en su cuaderno, primero y luego, páselo en limpio en un editor de textos, por ejemplo, en Google Drive y guárdelo en su Google Drive y compártalo en el grupo de Telegram.
 
