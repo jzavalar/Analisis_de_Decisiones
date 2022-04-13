@@ -10,7 +10,7 @@ Abril de 2022
 
 *Objetivo*: Aprender los fundamentos del análisis de deciciones.  
 
-Instrucciones: En equipo, organícense y resuelvan en su cuaderno el siguiente cuestionario. 
+Instrucciones: En grupo de 4, organícense y resuelvan en su cuaderno el siguiente cuestionario. 
 
 1. A partir de la lectura de Mote y Malya (1970), exponga los argumentos que ejemplifican el análisis de decisiones de las tres situaciones que expone en el artículo, identificando los cuatro elementos del análisis y la función de utilidad de cada situación. Haga una comparación y exponga sus conclusiones.
 2. A partir de la lectura de Goodwin y Wright (2004), describa los argumentos que justifican la complejidad de las decisiones. Después, identifique la estrategia, el método, la metodología o la técnica de análisis de decisiones que ejemplifica en cada uno de los 12 casos. Finalmente, exponga sus conclusiones.
