@@ -292,14 +292,45 @@ Que al finalizar el curso el alumno sea capaz de:
     
   Suba los archivos de la práctica a su cuenta de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.  
   
-  Saque sus conclusiones y documente en un video la realización de la tarea y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
-  
+  Saque sus conclusiones y documente en un video la realización de la tarea y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
+
+
 - *Tarea 3.2*: *Fundamentos del análisis de decisiones*. (Fecha de entrega: 17 de abril de 2022).  
 
   *Objetivo*: Aprender los fundamentos del análisis de deciciones.  
 
   Resuelva el siguiente [cuestionario](https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/main/Unidad%203.%20Cuestionario.md) sobre los *fundamentos del análisis de decisiones*.
   
+  
+- *Práctica 3.3. Manipulación de datos con R*. (Fecha de entrega: 24 de abril de 2022).  
+
+  *Objetivo*: Aprender la limpieza y manipulación de datos con R para el análisis de datos.  
+
+  *Parte 0*: Organícense en parejas.  
+  
+  *Parte 1*: Estudie la [Transformación de datos](https://es.r4ds.hadley.nz/transform.html#transformaciones-agrupadas-y-filtros) y resuelva los [ejercicios respectivos](https://es.r4ds.hadley.nz/transform.html#transformaciones-agrupadas-y-filtros) mediante la elaboración de un archivo RMarkdown.  
+
+  *Parte 2*: Estudie los principios de la [Ordenación de datos](https://es.r4ds.hadley.nz/datos-ordenados.html) con el paquete *tidyverse* y resuelva los ejercicios del capítulo (12.2.1, 12.3.3, 12.4.3, 12.5.1, 12.6.1) mediante la elaboración de un archivo RMarkdown.  
+
+  Suban los archivos de la práctica, creados o modificados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.  
+  
+  Saquen sus conclusiones y documenten en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial y compartan el video en el grupo de Telegram.
+
+
+- *Práctica 3.4. Manipulación de datos relacionales con R*. (Fecha de entrega: 24 de abril de 2022).  
+
+  *Objetivo*: Aprender la manipulación de datos relacionales con R, como aproximación a las bases de datos relacionales.  
+
+  *Parte 0*: Organícense en parejas.  
+  
+  *Parte 1*: Prerrequisitos: Debe haber realizado las primeras dos partes de esta práctica y haber resuelto la *Tarea 2.1: Teoría de las bases de datos relacionales*.  
+  
+  *Parte 2*: Estudie los principios de manejo de [Datos relacionales](https://es.r4ds.hadley.nz/datos-relacionales.html) y resuelva los ejercicio del capítulo (13.2.1, 13.3.1, 13.4.6, 13.5.1) mediante la elaboración de un archivo RMarkdown.  
+
+  Suban los archivos de la práctica, creados o modificados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.  
+  
+  Saquen sus conclusiones y documenten en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial y compartan el video en el grupo de Telegram.
+
   
 ##### Bibliografía Obligatoria:
 - Mote, V. L. y Meenakshi Malya, M. (1970). Decision analysis: Experiences and expectations. *Economic and Political Weekly, 5*(22), M53+M55+M57-M58. ([url](https://www.jstor.org/stable/4360049)) ([pdf](https://sci-hub.se/10.2307/4360049)). (Lectura 3.1).
