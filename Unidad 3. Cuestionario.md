@@ -8,7 +8,7 @@ Abril de 2022
 
 #### Unidad 3. Cuestionario
 
-Instrucciones: Resuelva en su cuaderno el siguiente cuestionario. 
+Instrucciones: En equipo, organícense y resuelvan en su cuaderno el siguiente cuestionario. 
 
 1. A partir de la lectura de Mote y Malya (1970), exponga los argumentos que ejemplifican el análisis de decisiones de las tres situaciones que expone en el artículo, identificando los cuatro elementos del análisis y la función de utilidad de cada situación. Haga una comparación y exponga sus conclusiones.
 2. A partir de la lectura de Goodwin y Wright (2004), describa los argumentos que justifican la complejidad de las decisiones. Después, identifique la estrategia, el método, la metodología o la técnica de análisis de decisiones que ejemplifica en cada uno de los 12 casos. Finalmente, exponga sus conclusiones.
@@ -20,9 +20,15 @@ Instrucciones: Resuelva en su cuaderno el siguiente cuestionario.
     e. Compare las promesas del análisis de decisiones con los progresos de la inteligencia artificial  
 4. A partir de la lectura de Howard (1968), responda ¿en qué consiste la metodología del análisis de decisiones?  
 
-A partir de los elementos analizados con anterioridad, **escriba un breve ensayo de 1,000 palabras** en cuatro partes: (1) Una introducción, (2) los fundamentos de la teoría de la elección racional para elegir la mejor alternativa en un contexto gerencial, (3) su opinión personal en forma de fortalezas y debilidades de la teoría de la elección racional y (4) sus conclusiones. Si prefiere, y quiere reforzar su aprendizaje, escríbalo en su cuaderno, primero y luego, páselo en limpio en un editor de textos, por ejemplo, en Google Drive y guárdelo en su Google Drive y compártalo en el grupo de Telegram.
+A partir de los elementos analizados con anterioridad, **escriban un breve ensayo colectivo de 1,000 palabras** en cuatro partes: 
+    1. Una introducción  
+    2. Los fundamentos de la teoría de la elección racional para elegir la mejor alternativa en un contexto gerencial  
+    3. Su opinión personal en forma de fortalezas y debilidades de la teoría de la elección racional y  
+    4. Sus conclusiones. 
 
-*N.B.:* Es muy importante que aprenda a ser original y no caiga en la tentación de copiar y pegar texto, sin citar la fuente, porque además de ser plagio, su aprendizaje ser.    
+Si prefiere, y quiere reforzar su aprendizaje, escríbalo en su cuaderno, primero y luego, páselo en limpio en un editor de textos, por ejemplo, en Google Drive y guárdelo en su Google Drive y compártalo en el grupo de Telegram.
+
+*N.B.:* Es muy importante que aprenda a ser original y no caiga en la tentación de copiar y pegar texto, sin citar la fuente, porque además de ser plagio, su aprendizaje será reducido.    
 
 ##### Bibliografía Obligatoria:
   - Mote, V. L. y Meenakshi Malya, M. (1970). Decision analysis: Experiences and expectations. *Economic and Political Weekly, 5*(22), M53+M55+M57-M58. ([url](https://www.jstor.org/stable/4360049)) ([pdf](https://sci-hub.se/10.2307/4360049)). (Lectura 3.1).
