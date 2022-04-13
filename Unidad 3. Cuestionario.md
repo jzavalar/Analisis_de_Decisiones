@@ -12,12 +12,12 @@ Instrucciones: Resuelva en su cuaderno el siguiente cuestionario.
 
 1. A partir de la lectura de Mote y Malya (1970), exponga los argumentos que ejemplifican el análisis de decisiones de las tres situaciones que expone en el artículo, identificando los cuatro elementos del análisis y la función de utilidad de cada situación. Haga una comparación y exponga sus conclusiones.
 2. A partir de la lectura de Goodwin y Wright (2004), describa los argumentos que justifican la complejidad de las decisiones. Después, identifique la estrategia, el método, la metodología o la técnica de análisis de decisiones que ejemplifica en cada uno de los 12 casos. Finalmente, exponga sus conclusiones.
-3. A partir de la lectura de Howard (1988), responda: 
-    (a) ¿Qué es el análisis de decisiones?
-    (b) ¿Cuál es su proceso?
-    (c) ¿Cuál es su argumento sobre la naturaleza humana?
-    (d) ¿Cuál es la diferencia entre lo descriptivo y lo normativo, en el análisis de decisiones?
-    (e) Compare las promesas del análisis de decisiones con los progresos de la inteligencia artificial
+3. A partir de la lectura de Howard (1988), responda:  
+    a. ¿Qué es el análisis de decisiones?  
+    b. ¿Cuál es su proceso?  
+    c. ¿Cuál es su argumento sobre la naturaleza humana?  
+    d. ¿Cuál es la diferencia entre lo descriptivo y lo normativo, en el análisis de decisiones?  
+    e. Compare las promesas del análisis de decisiones con los progresos de la inteligencia artificial  
 4. A partir de la lectura de Howard (1968), responda ¿en qué consiste la metodología del análisis de decisiones?  
 
 A partir de los elementos analizados con anterioridad, **escriba un breve ensayo de 1,000 palabras** en cuatro partes: (1) Una introducción, (2) los fundamentos de la teoría de la elección racional para elegir la mejor alternativa en un contexto gerencial, (3) su opinión personal en forma de fortalezas y debilidades de la teoría de la elección racional y (4) sus conclusiones. Si prefiere, y quiere reforzar su aprendizaje, escríbalo en su cuaderno, primero y luego, páselo en limpio en un editor de textos, por ejemplo, en Google Drive y guárdelo en su Google Drive y compártalo en el grupo de Telegram.
