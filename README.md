@@ -292,7 +292,15 @@ Que al finalizar el curso el alumno sea capaz de:
     
   Suba los archivos de la práctica a su cuenta de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.  
   
-  Saque sus conclusiones y documente en un video la realización de la tarea y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
+  Saque sus conclusiones y documente en un video la realización de la tarea y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
+  
+- *Tarea 3.2*: *Fundamentos del análisis de decisiones*. (Fecha de entrega: 17 de abril de 2022).  
+
+  *Objetivo*: Aprender los fundamentos del análisis de deciciones.  
+
+Resuelva el siguiente [cuestionario](https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/main/Unidad%203.%20Cuestionario.md) sobre los *fundamentos del análisis de decisiones*.
+  
+- Práctica 3.3.  
   
 ##### Bibliografía Obligatoria:
 - Mote, V. L. y Meenakshi Malya, M. (1970). Decision analysis: Experiences and expectations. *Economic and Political Weekly, 5*(22), M53+M55+M57-M58. ([url](https://www.jstor.org/stable/4360049)) ([pdf](https://sci-hub.se/10.2307/4360049)). (Lectura 3.1).
