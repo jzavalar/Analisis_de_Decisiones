@@ -331,6 +331,9 @@ Que al finalizar el curso el alumno sea capaz de:
   
   Saquen sus conclusiones y documenten en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial y compartan el video en el grupo de Telegram.
 
+
+
+
   
 ##### Bibliografía Obligatoria:
 - Mote, V. L. y Meenakshi Malya, M. (1970). Decision analysis: Experiences and expectations. *Economic and Political Weekly, 5*(22), M53+M55+M57-M58. ([url](https://www.jstor.org/stable/4360049)) ([pdf](https://sci-hub.se/10.2307/4360049)). (Lectura 3.1).
