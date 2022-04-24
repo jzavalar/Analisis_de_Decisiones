@@ -294,13 +294,11 @@ Que al finalizar el curso el alumno sea capaz de:
   
   Saque sus conclusiones y documente en un video la realización de la tarea y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
 
-
 - *Tarea 3.2*: *Fundamentos del análisis de decisiones*. (Fecha de entrega: 17 de abril de 2022).  
 
   *Objetivo*: Aprender los fundamentos del análisis de deciciones.  
 
   Resuelva el siguiente [cuestionario](https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/main/Unidad%203.%20Cuestionario.md) sobre los *fundamentos del análisis de decisiones*.
-  
   
 - *Práctica 3.3. Manipulación de datos con R*. (Fecha de entrega: 24 de abril de 2022).  
 
@@ -316,7 +314,6 @@ Que al finalizar el curso el alumno sea capaz de:
   
   Saquen sus conclusiones y documenten en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial y compartan el video en el grupo de Telegram.
 
-
 - *Práctica 3.4. Manipulación de datos relacionales con R*. (Fecha de entrega: 24 de abril de 2022).  
 
   *Objetivo*: Aprender la manipulación de datos relacionales con R, como aproximación a las bases de datos relacionales.  
@@ -331,9 +328,27 @@ Que al finalizar el curso el alumno sea capaz de:
   
   Saquen sus conclusiones y documenten en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial y compartan el video en el grupo de Telegram.
 
+- *Práctica 3.5. Optimización con R*. (Fecha de entrega: Ninguna, pues es opcional).  
 
+  *Objetivo*: Aprender el procedimiento general de resolución de problemas de programación lineal con R.  
 
+  *Parte 0*: Organícense en parejas.  
+  
+  *Parte 1*: Repase la teoría de optimización matemática de la *programación lineal* usando R en este tutorial-ejemplo de *Optimización en R* de [Chung (2020, Jun 23)](https://rpubs.com/vchung/programacion), en este otro tutorial sobre *Optimización Lineal con R* de [Berrendero (2015)](https://caminosaleatorios.files.wordpress.com/2015/03/optimizacion-lineal-r.pdf) y el tutorial sobre *Calculadoras de Optimización* o (*Solvers*) de [Palomar (2020)](https://palomar.home.ece.ust.hk/MAFS6010R_lectures/Rsession_solvers.html), donde también encontrará soluciones para otras técnicas como *mínimos cuadrados*, *programación entera*, *programación cuadrática* y *programación mixta*, entre otros. 
+  
+  *Parte 2*: Aparte de los paquetes [lpSolve](https://cran.r-project.org/web/packages/lpSolve/index.html) y [lpSolveAPI](https://cran.r-project.org/web/packages/lpSolveAPI/index.html), es de particular interés el paquete [R Optimization Infrastructure (ROI)](https://roi.r-forge.r-project.org/) porque es la solución de optimización más completa disponible actualmente en R. 
+  
+  *Parte 3*: Enfóquese en aprender:   
+      (1). A utilizar la codificación en LaTEX para escribir ecuaciones, matrices y símbolos matemáticos,  
+      (2). La codificación de vectores y matrices para reolver los problemas de optimización con los paquetes *lpSolve*, *lpSolveAPI* y *ROI* de R con RStudio,  
+      (3). La graficación simple con R apoyándose en el tutorial de [Alegre Ordoñez (2019, Mar 7)](http://rstudio-pubs-static.s3.amazonaws.com/474421_3dfcb62391eb4ac495a863dea86121d9.html), y  
+      (4). Reproducir los ejercicios respectivos en una compilación de un archivo *RMarkdown*.  
 
+  *Parte 4*: Explore y exponga algunos de los problemas representativos de su carrera que podría resolver utilizando estas técnicas y saquen sus conclusiones.   
+
+  Suban los archivos de la práctica, creados o modificados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.  
+  
+  Documenten en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial y compartan el video en el grupo de Telegram.
   
 ##### Bibliografía Obligatoria:
 - Mote, V. L. y Meenakshi Malya, M. (1970). Decision analysis: Experiences and expectations. *Economic and Political Weekly, 5*(22), M53+M55+M57-M58. ([url](https://www.jstor.org/stable/4360049)) ([pdf](https://sci-hub.se/10.2307/4360049)). (Lectura 3.1).
@@ -356,17 +371,16 @@ Que al finalizar el curso el alumno sea capaz de:
 4. La situación a analizar
 
 ##### Bibliografía Obligatoria:
-- Ragsdale, C. (2008). Introduction to modeling and decision analysis. In *Spreadsheet modeling & decision analysis: A practical introduction to management science*. Mason, MO, USA: Cengage Learning. (*Lectura 12*).
-- von Winterfeldt, D. y Edwards, W. (2007). Defining a decision analytic structure. In W. Edwards, R. F. Miles y D. von Winterfeldt. (2007). *Advances in Decision Analysis: From foundations to applications* (pp. 81-103), Cambridge: Cambridge University Press. (*Lectura 13*).
-- Ley-Borrás, R. (2015). Deciding on the decision situation to analyze: The critical first step of a decision analysis. *Decision Analysis, 12*(1), pp. 46-58. (*Lectura 14*).
-
-El control de lectura será mediante un trabajo escrito que desarrolle el temario de la unidad en 5 cuartillas, por grupos de 3. Debe incluir conclusiones y reflexiones colectivas e individuales al final. Se entregará la próxima clase, previa discusión.
+- Ragsdale, C. (2008). Introduction to modeling and decision analysis. In [*Spreadsheet modeling & decision analysis: A practical introduction to management science*](http://libgen.rs/book/index.php?md5=442D6BCA8F1998623582DEF3815DD9E9). Mason, MO, USA: Cengage Learning. (*Lectura 4.1*).
+- von Winterfeldt, D. y Edwards, W. (2007). Defining a decision analytic structure. In W. Edwards, R. F. Miles y D. von Winterfeldt. (2007). [*Advances in Decision Analysis: From foundations to applications*](http://libgen.rs/book/index.php?md5=AE826E7206D6FE17FD495BDB3BE0BC7B) (pp. 81-103), Cambridge: Cambridge University Press. (*Lectura 4.2*).
+- Ley-Borrás, R. (2015). Deciding on the decision situation to analyze: The critical first step of a decision analysis. *Decision Analysis, 12*(1), pp. 46-58. ([pdf](https://sci-hub.se/10.1287/deca.2014.0308)) (*Lectura 4.3*).
 
 ##### Bibliografía Complementaria:
-- Barclay et al. (1977). Diagramming and solving decisions problems. In *Handbook for Decisions Analysis* (pp. 1-20). Washington, D.C.: Decisions and Designs, Washington, D.C.: Inc.-Advanced Research Projects Agency. ([pdf]()).
-- Clemen, R. T y Kwit, R. C. (2001). The value of decision analysis at Eastman Kodak Company, 1990-1999. *Interfaces, 31*(5), pp. 74-92. ([pdf]()). 
-- Detsky, A. S., Redelmeier, D., y Abrams, H. B. (1987). What's wrong with decision analysis? Can the left brain influence the right?. *Journal of Chronic Diseases, 40*(9), pp. 831-836. ([pdf]()). 
-- Ríos, S., Ríos, D., Mateos, A. y Martín, J. (1998). *Programación lineal y aplicaciones: Ejercicios resueltos*. México: Alfa Omega - Ra Ma.
+- Barclay, S. *et al.* (1977). Diagramming and solving decisions problems. In *Handbook for Decisions Analysis: : Decisions and Designs* (pp. 1-20). Washington, D.C.: Advanced Research Projects Agency. ([pdf](https://files.eric.ed.gov/fulltext/ED153329.pdf)).
+- Clemen, R. T y Kwit, R. C. (2001). The value of decision analysis at Eastman Kodak Company, 1990-1999. *Interfaces, 31*(5), pp. 74-92. ([pdf](https://sci-hub.se/10.1287/inte.31.5.74.9655)). 
+- Detsky, A. S., Redelmeier, D., y Abrams, H. B. (1987). What's wrong with decision analysis? Can the left brain influence the right?. *Journal of Chronic Diseases, 40*(9), pp. 831-836. ([pdf](https://libgen.rocks/ads.php?doi=10.1016/0021-9681%2887%2990181-0)). 
+- Ríos, S., Ríos, D., Mateos, A. y Martín, J. (1998). *Programación lineal y aplicaciones: Ejercicios resueltos*. México: Alfa Omega - Ra Ma. ([pdf](http://library.lol/main/C3553551396E715FAD11F850D70DF9F2)).
+
 
 #### Unidad 5. El proceso y las técnicas del análisis de decisiones
 1. Los objetivos
@@ -374,17 +388,17 @@ El control de lectura será mediante un trabajo escrito que desarrolle el temari
 3. El análisis
 4. Estructuración de las decisiones
 5. Modelos de decisión:
-   a. Árboles de decisión
-   b. Modelo de norma mínima
+   a. Matriz de pagos
+   b. Árboles de decisión
    c. Modelo de scoring
-   d. Matriz de pagos
+   d. Modelo de norma mínima
    e. Otras técnicas
 
 ##### Bibliografía Obligatoria:
-- Parnell, Bresnick y Johnson (2013). Craft the decision objectives and value measures. In G. S. Parnell, T. A. Bresnick y S. N. Tani (Eds.). *Handbook of decision analysis* (pp. 127-148). Hoboken, New Jersey: John Wiley. (*Lectura 15*).
-- Tani, S. N. y Parnell, G. S. (2013). Design creative alternatives. In G. S. Parnell, T. A. Bresnick y S. N. Tani (Eds.). *Handbook of decision analysis* (pp. 149-165). Hoboken, New Jersey: John Wiley. (*Lectura 16*).
-- Parnell, G. S., Bresnick, T. A. y Tani, S. N. (2013). Appendix B: Influence Diagrams. In *Handbook of decision analysis* (pp. 374-380). Hoboken, New Jersey: John Wiley. (*Lectura 17*).
-- Cuya, K. (2014). Árboles de decisión. 4 Ramas. ([Video]()). (6:57 min). (*Lectura 18*).
+- Parnell, Bresnick y Johnson (2013). Craft the decision objectives and value measures. In G. S. Parnell, T. A. Bresnick y S. N. Tani (Eds.). *Handbook of decision analysis* (pp. 127-148). Hoboken, New Jersey: John Wiley. (*Lectura 5.1*). ([pdf](http://library.wbi.ac.id/repository/135.pdf)).
+- Tani, S. N. y Parnell, G. S. (2013). Design creative alternatives. In G. S. Parnell, T. A. Bresnick y S. N. Tani (Eds.). *Handbook of decision analysis* (pp. 149-165). Hoboken, New Jersey: John Wiley. (*Lectura 5.2*). ([pdf](http://library.wbi.ac.id/repository/135.pdf)).
+- Parnell, G. S., Bresnick, T. A. y Tani, S. N. (2013). Appendix B: Influence Diagrams. In *Handbook of decision analysis* (pp. 374-380). Hoboken, New Jersey: John Wiley. (*Lectura 5.3*). ([pdf](http://library.wbi.ac.id/repository/135.pdf)).
+- Cuya, K. (2014). Árboles de decisión. 4 Ramas. ([Video]()). (6:57 min). (*Lectura 5.4*).
 - Zonaudearroba Facultad de Ingeniería (2016). Capacidad de planta por el método de árbol de decisión. ([Video]()). (22:01 min). (*Lectura 19*).
 
 ##### Bibliografía Complementaria:
