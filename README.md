@@ -402,14 +402,13 @@ Que al finalizar el curso el alumno sea capaz de:
 - Zonaudearroba Facultad de Ingeniería (2016). Capacidad de planta por el método de árbol de decisión. ([Video]()). (22:01 min). (*Lectura 19*).
 
 ##### Bibliografía Complementaria:
-- Cashin, J. A., Polimeni, R. S. (1980). *Contabilidad de costos*. Mexico: McGraw-Hill.
-- Clemen, R. T. y Reilly, T. (2013). Structuring decisions. In *Making hard decisions with decision tools* (pp. 46-117). USA: Cengage Learning.
-- Drury, C. (2001). *Management accounting for business decisions*. London: Thomson Learning.
-- Drury, C. (2012). *Management and cost accounting*. USA: Cengage Learning EMEA.
-- Howard, R. A. y Matheson, J. E. (2005). Influence diagram retrospective, *Decision Analysis 2*(3), 144-147, . 
-- Proctor, T. (2013). *Creative problem solving for managers: Developing skills for decision making and innovation*. London: Routledge.
-- Johnson, E. R. y Tani, S. N. (2013). Perform probabilistic analysis and identify insights. In G. S. Parnell, T. A. Bresnick y S. N. Tani (Eds.). *Handbook of decision analysis* (pp. 248-290). Hoboken, New Jersey: John Wiley. (*Lectura 21*).
-- Schum, D. A. (2013). Decision Analysis. In S. I. Gass y M. C. Fu (Eds.). Encyclopedia of operations research and management science (pp. 367-372). (3rd. Ed.). New York: Springer ScienceþBusiness Media.
+- Cashin, J. A., Polimeni, R. S. (1980). *Contabilidad de costos*. Mexico: McGraw-Hill. ([url](http://libgen.rs/book/index.php?md5=84A7C8752F1C3869D0FFAE8D8ACEBEE4)).
+- Vanderbeck, E. J. (2017). *Principios de contabilidad de costos*. Cengage Learning. ([url](http://libgen.rs/book/index.php?md5=10A696DBB7D2AB1F5BAC60C0C868D51C)).	
+- Clemen, R. T. y Reilly, T. (2004). Structuring decisions. In *Making hard decisions with decision tools* (pp. 46-117). USA: Cengage Learning. ([url](http://libgen.rs/book/index.php?md5=741D87EE4E16DCFFD7BCBB4840CD6B78)).
+- Drury, C. (2001). *Management accounting for business decisions*. London: Thomson Learning. ([url](http://libgen.rs/book/index.php?md5=FF6EF6FF830BDC6CD013637FA48C3982)).
+- Drury, C. (2020). *Management and cost accounting*. USA: Cengage Learning EMEA. ([url](http://libgen.rs/book/index.php?md5=32C869373F6352B932D6EF56FB9CD9D4)).
+- Proctor, T. (2019). *Creative problem solving for managers: Developing skills for decision making and innovation*. London: Routledge. ([url](http://libgen.rs/book/index.php?md5=FDD1A6CBEFEF95C7EDB630312F5CF965)).
+- Schum, D. A. (2013). Decision Analysis. In S. I. Gass y M. C. Fu (Eds.). Encyclopedia of operations research and management science (pp. 367-372). (3rd. Ed.). New York: Springer ScienceþBusiness Media. ([url](http://libgen.rs/book/index.php?md5=DD2A825793319105943B8B28CF0F83AB)).
 
 ### Proyecto de fin de curso: 
 Documente en un video la realización de la práctica y su experiencia en la realización de la actividad. Comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a la cuenta de Google Drive donde corresponda, de cada uno de los miembros del equipo.
@@ -419,12 +418,12 @@ Documente en un video la realización de la práctica y su experiencia en la rea
 
 
 ### 6. Bibliografía General:
-- Paquete [Multi-Criteria Decision Aiding (MCDA)](https://www.decision-deck.org/r/), [tutorial](https://www.decision-deck.org/r/tutorial.html#tutorial-r-mcda)
-Referencia: Bouyssou, D., Marchant, T., Pirlot, M., Perny, P., Tsoukià s A., Vincke, P. (2000) *Evaluation and decision models: A critical perspective*. Kluwer, Dordrecht. ([url](http://libgen.rs/book/index.php?md5=D17907F555C0E2A519EA0EDCBDAC8F43)).
+- Paquete [Multi-Criteria Decision Aiding (MCDA)](https://www.decision-deck.org/r/), [tutorial](https://www.decision-deck.org/r/tutorial.html#tutorial-r-mcda).
+- Cochran et al. (2015). Wiley encyclopedia of operations research and management science. Wiley. ([url](http://libgen.rs/book/index.php?md5=79C89EF789E282EC4CFD15B19CF0A91D)).
+- Bouyssou, D., Marchant, T., Pirlot, M., Perny, P., Tsoukià s A., Vincke, P. (2000) *Evaluation and decision models: A critical perspective*. Kluwer, Dordrecht. ([url](http://libgen.rs/book/index.php?md5=D17907F555C0E2A519EA0EDCBDAC8F43)).
 - Luedeling, E. et al (2022, Feb 18). Package ‘decisionSupport’ (Quantitative Support of Decision Making under Uncertainty). *CRAN*. ([pdf](https://cran.r-project.org/web/packages/decisionSupport/decisionSupport.pdf)).
 - Meyer, P., Bigaret, S., Hodgett, R. and Olteanu, A-L. (2021, May 04). Package MCDA (Support for the Multicriteria Decision Aiding Process). CRAN. ([url](https://cran.r-project.org/package=MCDA)). 
 
-- Anónimo (2016). Reducción del consumo de productos desechables (vasos y platos) no biodegradables (unicel, plástico, etc.) que generan un impacto ambiental. UAM-I. UEA Análisis de Decisiones. Proyecto final. (pdf).
 - Banco Mundial. Proyectos para México. (html).
 - Gass, S. I. y Fu, M. C. (2013). Encyclopedia of operations research and management science. (3rd. Ed.). New York: Springer ScienceþBusiness Media.
 - Haber, S. H. (Ed.). (2002). Crony capitalism and economic growth in Latin America: Theory and evidence. Stanford, USA: Hoover Institution Press.
