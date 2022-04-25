@@ -342,7 +342,7 @@ Que al finalizar el curso el alumno sea capaz de:
       (1). A utilizar la codificación en LaTEX para escribir ecuaciones, matrices y símbolos matemáticos,  
       (2). La codificación de vectores y matrices para reolver los problemas de optimización con los paquetes *lpSolve*, *lpSolveAPI* y *ROI* de R con RStudio,  
       (3). La graficación simple con R apoyándose en el tutorial de [Alegre Ordoñez (2019, Mar 7)](http://rstudio-pubs-static.s3.amazonaws.com/474421_3dfcb62391eb4ac495a863dea86121d9.html), y  
-      (4). Reproducir los ejercicios respectivos en una compilación de un archivo *RMarkdown*.  
+      (4). Reproduzcan los ejercicios respectivos, comprobando la validez y documenten el algoritmo en una compilación en un archivo *RMarkdown*.  
 
   *Parte 4*: Explore y exponga algunos de los problemas representativos de su carrera que podría resolver utilizando estas técnicas y saquen sus conclusiones.   
 
