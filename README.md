@@ -296,7 +296,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
 - *Tarea 3.2*: *Fundamentos del análisis de decisiones*. (Fecha de entrega: 17 de abril de 2022).  
 
-  *Objetivo*: Aprender los fundamentos del análisis de deciciones.  
+  *Objetivo*: Aprender los fundamentos del análisis de decisiones.  
 
   Resuelva el siguiente [cuestionario](https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/main/Unidad%203.%20Cuestionario.md) sobre los *fundamentos del análisis de decisiones*.
   
@@ -339,7 +339,7 @@ Que al finalizar el curso el alumno sea capaz de:
   *Parte 2*: Aparte de los paquetes [lpSolve](https://cran.r-project.org/web/packages/lpSolve/index.html) y [lpSolveAPI](https://cran.r-project.org/web/packages/lpSolveAPI/index.html), es de particular interés el paquete [R Optimization Infrastructure (ROI)](https://roi.r-forge.r-project.org/) porque es la solución de optimización más completa disponible actualmente en R. 
   
   *Parte 3*: Enfóquese en aprender:   
-      (1). A utilizar la codificación en LaTEX para escribir ecuaciones, matrices y símbolos matemáticos,  
+      (1). A utilizar la codificación en LaTEX para escribir ecuaciones, matrices y símbolos matemáticos (ver [Editor Online](https://latex.codecogs.com/eqneditor/editor.php)),  
       (2). La codificación de vectores y matrices para reolver los problemas de optimización con los paquetes *lpSolve*, *lpSolveAPI* y *ROI* de R con RStudio,  
       (3). La graficación simple con R apoyándose en el tutorial de [Alegre Ordoñez (2019, Mar 7)](http://rstudio-pubs-static.s3.amazonaws.com/474421_3dfcb62391eb4ac495a863dea86121d9.html), y  
       (4). Reproduzcan los ejercicios respectivos, comprobando la validez y documenten el algoritmo en una compilación en un archivo *RMarkdown*.  
