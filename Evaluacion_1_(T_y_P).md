@@ -13,10 +13,12 @@ set.seed(20170505) # cambia por tu fecha de cumpleaños
 sample(x=1:6, size=2)
 
 ENUNCIADOS:
+{% raw %}
 $$
 \(\left\{\begin{array}{rl} \text{max} &amp;x_1 -2x_2 -3x_3 -x_4\\ 
 \text{s.a} &amp; \\ &amp; x_1 - x_2 - 2x_3 - x_4 \leq 4 \\ &amp; 2x_1 + x_3 - 4x_4 \leq 2 \\ &amp; -2x_1 + x_2 + x_4 \leq 1 \\ &amp; x_1, x_2, x_3, x_4 \geq 0 \end{array} \right.\)
 $$
+{% endraw %}
 
 
 # AQUÍ EL CÓDIGO
