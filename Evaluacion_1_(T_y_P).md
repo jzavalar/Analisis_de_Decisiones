@@ -33,6 +33,7 @@ I. Cree un archivo RMarkdown con sus datos personales y resuelva las siguientes 
 
 II. Al final, envíe el archivo RMarkdown por chat privado Telegram, al profesor.
 
+III. Hora límite de entrega: 27 de abril de 2022 a las 14:00 hr
 
 ### Parte II: Evaluación Práctica
 
@@ -51,7 +52,7 @@ II. Cree un archivo RMarkdown con sus datos personales, ejecute el siguiente có
 set.seed(20220427) 
 sample(x=1:6, size=2)
 ```
-#### Problemas:
+**Problemas**:
 1. 
 <div align="center">
     <img src="https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/d6d69192ef4d02c1c0febdc100587330bd268efd/Math_1.jpg">
@@ -106,4 +107,6 @@ Solución:
 
         Aquí
 
-Al final, envíe el archivo RMarkdown por chat privado Telegram, al profesor.
+III. Al final, envíe el archivo RMarkdown por chat privado Telegram, al profesor.
+
+IV. Hora límite de entrega: 27 de abril de 2022 a las 14:00 hr.
