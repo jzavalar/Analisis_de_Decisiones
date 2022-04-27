@@ -10,30 +10,37 @@
 
 ### Parte I. Evaluación Teórica
 
+Fecha: 27 de abril de 2022.
+
 **Instrucciones**:  
 
-I. Cree un archivo RMarkdown con sus datos personales y resuelva las siguientes preguntas con sus propios argumentos. **No ceda a la tentación del *"cut & paste"* y evite el plagio.**
+I. Escoja una de las dos opciones:
 
-   1. Exponga el contexto histórico y la evolución de la *Ciencia de la Administración* (*Management Science*) y sus principales consecuencias.
-   2. ¿Cuáles son las semejanzas y diferencias entre la *Administración Científica* (*Scientific Management*) y el *Análisis de Decisiones* (*Decision Analysis*)?
-   3. ¿Qué es una *decisión* y por qué es importante?
-   4. ¿Cuáles son las semejanzas y las diferencias entre la *Toma de Decisiones* (*Decision Making*) y el *Análisis de Decisiones* (*Decision Analysis*)?
-   5. ¿Por qué se dice que la *toma de decisiones* es un proceso cibernético? Justifíquelo con una exposición y un ejemplo.
-   6. ¿Cuáles son los fundamentos de la *teoría de la elección racional* y cómo se aplica en la práctica?
-   7. ¿Qué significa suponer que una *racional limitada* y cuáles son sus implicaciones prácticas?
-   8. ¿Qué diferencia hay entre una *buena decisión*, una *decisión satisfactoria* y la *mejor decisión*?
-   9. Dentro de su carrera, escoja un ejemplo complejo de toma de decisiones donde resulte necesario emplear el enfoque del Análisis de Decisiones, desarrolle el problema, exponga la estrategia de solución desde esta perspectiva y sugiera las ventajas y desventajas de usar ese enfoque.
-   10. Suponga que usted va a tomar las decisiones que se citan enseguida:    
-       a. Transportarse de su casa a la Universidad, para llegar a tiempo,  
-       b. Comprar una computadora para su uso en la Universidad,  
-       c. Elegir su pareja,  
-       d. Contratar un préstamo estudiantil para concluir su carrera, y  
-       e. Emprender un negocio aprovechando su formación profesional.  
-   Para cada caso formule el problema de decisión, desarrolle la estrategia y los argumentos para decidir de manera racional en función de la utilidad, la información que requiere y el costo de adquirirla, así como el papel de la incertidumbre y justifique el sentido de "lo racional".  
+- **Opción 1:** Cree un archivo RMarkdown con sus datos personales y resuelva las siguientes preguntas con sus propios argumentos. **No ceda a la tentación del *"cut & paste"* y evite el plagio, pues puede dar lugar a la descalificación.**
 
-II. Al final, envíe el archivo RMarkdown por chat privado Telegram, al profesor.
+    1. Exponga el contexto histórico y la evolución de la *Ciencia de la Administración* (*Management Science*) y sus principales consecuencias.
+    2. ¿Cuáles son las semejanzas y diferencias entre la *Administración Científica* (*Scientific Management*) y el *Análisis de Decisiones* (*Decision Analysis*)?
+    3. ¿Qué es una *decisión* y por qué es importante?
+    4. ¿Cuáles son las semejanzas y las diferencias entre la *Toma de Decisiones* (*Decision Making*) y el *Análisis de Decisiones* (*Decision Analysis*)?
+    5. ¿Por qué se dice que la *toma de decisiones* es un proceso cibernético? Justifíquelo con una exposición y un ejemplo.
+    6. ¿Cuáles son los fundamentos de la *teoría de la elección racional* y cómo se aplica en la práctica?
+    7. ¿Qué significa suponer que una *racional limitada* y cuáles son sus implicaciones prácticas?
+    8. ¿Qué diferencia hay entre una *buena decisión*, una *decisión satisfactoria* y la *mejor decisión*?
+    9. Dentro de su carrera, escoja un ejemplo complejo de toma de decisiones donde resulte necesario emplear el enfoque del Análisis de Decisiones, desarrolle el problema, exponga la estrategia de solución desde esta perspectiva y sugiera las ventajas y desventajas de usar ese enfoque.
+    10. Suponga que usted va a tomar las decisiones que se citan enseguida:    
+         a. Transportarse de su casa a la Universidad, para llegar a tiempo,  
+         b. Comprar una computadora para su uso en la Universidad,  
+         c. Elegir su pareja,  
+         d. Contratar un préstamo estudiantil para concluir su carrera, y  
+         e. Emprender un negocio aprovechando su formación profesional.  
+         Para cada caso formule el problema de decisión, desarrolle la estrategia y los argumentos para decidir de manera racional en función de la utilidad, la información que requiere y el costo de adquirirla, así como el papel de la incertidumbre y justifique el sentido de "lo racional".  
+
+- **Opción 2:** De manera alternativa, elabore un examen de opción múltiple con 20 reactivos, con los elementos anteriores.
+
+II. Al final, envíe el archivo RMarkdown y el archivo generado en PDF, por chat privado Telegram, al profesor.
 
 III. Hora límite de entrega: 27 de abril de 2022 a las 14:00 hr
+
 
 ### Parte II: Evaluación Práctica
 
@@ -107,6 +114,6 @@ Solución:
 
         Aquí
 
-III. Al final, envíe el archivo RMarkdown por chat privado Telegram, al profesor.
+III. Al final, envíe el archivo RMarkdown y el archivo generado en PDF, por chat privado Telegram, al profesor.
 
 IV. Hora límite de entrega: 27 de abril de 2022 a las 14:00 hr.
