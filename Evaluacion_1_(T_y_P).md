@@ -1,55 +1,64 @@
-4 Ejercicios evaluables
+#### Evaluación Práctica 1
 
-Ejercicio 1: Resuelve dos PPLs de la lista a continuación, por duplicado (usando ambas funciones de R para cada PPL), clasificando el PPL y comentando el resultado:
+##### Instrucciones: 
 
-    Solución óptima: justificar, decir la solución óptima y valor de la función objetivo,
-    Problema no acotado, justificar,
-    Problema infactible, justificar.
+1. Resuelva dos dos problemas de la lista a continuación usando los dos paquetes de R vistos en clase y comente el resultado:
 
-Para escoger los 2 PPLs aleatoriamente, ejecuta la siguiente instrucción y resuelve los que resulten en la simulación:
+    - Solución óptima: Justificar, indicar la solución óptima y el valor de la función objetivo,  
+    - Problema no acotado: Justificar a partir de la interpretación de la salida de las funciones.  
+    - Problema infactible: Justificar a partir de la interpretación de la salida de las funciones.  
 
-# primero cambia eval=TRUE en la línea superior
-set.seed(20170505) # cambia por tu fecha de cumpleaños
+2. Cree un archivo RMarkdown, ejecute el siguiente código R y resuelva los dos ejercicios que le toquen como resultado de la simulación:
+
+```{r}
+# cambie el valor de la semilla por su fecha de cumpleaños: año-mes-dia (aaaammdd)
+set.seed(20220427) 
 sample(x=1:6, size=2)
+```
+#### Problemas:
+1. 
+<div align="center">
+    <img src="https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/d6d69192ef4d02c1c0febdc100587330bd268efd/Math_1.jpg">
+</div>
 
-ENUNCIADOS:
-{% raw %}
-$$
-\(\left\{\begin{array}{rl} \text{max} &amp;x_1 -2x_2 -3x_3 -x_4\\ 
-\text{s.a} &amp; \\ &amp; x_1 - x_2 - 2x_3 - x_4 \leq 4 \\ &amp; 2x_1 + x_3 - 4x_4 \leq 2 \\ &amp; -2x_1 + x_2 + x_4 \leq 1 \\ &amp; x_1, x_2, x_3, x_4 \geq 0 \end{array} \right.\)
-$$
-{% endraw %}
 
+
+Y AQUÍ LOS COMENTARIOS SOBRE LA SOLUCIÓN QUE TE HA DADO
+
+<div align="center">
+    <img src="https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/d6d69192ef4d02c1c0febdc100587330bd268efd/Math_2.jpg">
+</div>
+# AQUÍ EL CÓDIGO
+
+Y AQUÍ LOS COMENTARIOS SOBRE LA SOLUCIÓN QUE TE HA DADO
+
+<div align="center">
+    <img src="https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/d6d69192ef4d02c1c0febdc100587330bd268efd/Math_3.jpg">
+</div>
 
 # AQUÍ EL CÓDIGO
 
 Y AQUÍ LOS COMENTARIOS SOBRE LA SOLUCIÓN QUE TE HA DADO
 
-    ⎧⎩⎨⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪mins.a3y1−y2+2y32y1−y2+y3≥−1y1+2y3≥2−7y1+4y2−6y3≥1y1,y2,y3≥0
+<div align="center">
+    <img src="https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/d6d69192ef4d02c1c0febdc100587330bd268efd/Math_4.jpg">
+</div>
 
 # AQUÍ EL CÓDIGO
 
 Y AQUÍ LOS COMENTARIOS SOBRE LA SOLUCIÓN QUE TE HA DADO
 
-    ⎧⎩⎨⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪maxs.a−x1−x2+2x3−3x1+3x2+x3≤32x1−x2−2x3≤1−x1+x3≤1x1,x2,x3≥0
+<div align="center">
+    <img src="https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/d6d69192ef4d02c1c0febdc100587330bd268efd/Math_5.jpg">
+</div>
 
 # AQUÍ EL CÓDIGO
 
 Y AQUÍ LOS COMENTARIOS SOBRE LA SOLUCIÓN QUE TE HA DADO
 
-    ⎧⎩⎨⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪mins.a5y1−2y2−y3−2y1+3y3≥−12y1−y2+y3≥13y1+2y2−y3≥0y1,y2,y3≥0
-
-# AQUÍ EL CÓDIGO
-
-Y AQUÍ LOS COMENTARIOS SOBRE LA SOLUCIÓN QUE TE HA DADO
-
-    ⎧⎩⎨⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪mins.a−2y2+y3−y1−2y2≥−34y1+y2+7y3≥−12y1−3y2+y3≥−5y1,y2,y3≥0
-
-# AQUÍ EL CÓDIGO
-
-Y AQUÍ LOS COMENTARIOS SOBRE LA SOLUCIÓN QUE TE HA DADO
-
-    ⎧⎩⎨⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪maxs.a3x1+4x2+5x3x1+2x2+2x3≤1−3x1+x3≤−1−2x1−x2≤−1x1,x2,x3≥0
+<div align="center">
+    <img src="https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/d6d69192ef4d02c1c0febdc100587330bd268efd/Math_6.jpg">
+</div>
 
 # AQUÍ EL CÓDIGO
 
