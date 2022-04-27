@@ -33,7 +33,7 @@ I. Escoja una de las dos opciones:
          c. Elegir su pareja,  
          d. Contratar un préstamo estudiantil para concluir su carrera, y  
          e. Emprender un negocio aprovechando su formación profesional.  
-         Para cada caso formule el problema de decisión, desarrolle la estrategia y los argumentos para decidir de manera racional en función de la utilidad, la información que requiere y el costo de adquirirla, así como el papel de la incertidumbre y justifique el sentido de "lo racional".  
+         Para cada caso formule el problema de decisión, desarrolle la estrategia y los argumentos para decidir de manera racional identificando la función de utilidad, la información que requiere y el costo de adquirirla, así como el papel de la incertidumbre. Finalemnte, justifique el sentido de "lo racional" en cada caso.  
 
 - **Opción 2:** De manera alternativa, elabore un examen de opción múltiple con 20 reactivos, con los elementos anteriores.
 
