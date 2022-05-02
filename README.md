@@ -370,11 +370,11 @@ Que al finalizar el curso el alumno sea capaz de:
 3. Estructuración de problemas de decisión
 4. La situación a analizar
 5. Modelos de decisión: 
-    a. Matriz de pagos
-    b. Árboles de decisión
-    c. Modelo de scoring
-    d. Modelo de norma mínima
-    e. Otras técnicas
+   - Matriz de pagos
+   - Árboles de decisión
+   - Modelo de scoring
+   - Modelo de norma mínima
+   - Otras técnicas
 7. Tareas y prácticas
 
 - *Tarea 4.1*: *Fundamentos de la estructuración de problemas de decisión*. (Fecha de entrega: 6 de mayo de 2022).  
