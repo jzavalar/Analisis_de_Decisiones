@@ -9,7 +9,7 @@
 
 **Salón:** Transmisión de la clase *vía remota* por [Telegram](https://telegram.org/apps) a través del canal privado respectivo.
 
-**Asesorías:**  *¿Martes?* de *20:00* a *22:00 hr*, vía [Telegram](https://telegram.org/apps).
+**Asesorías:**  *Martes* de *20:00* a *22:00 hr*, vía [Telegram](https://telegram.org/apps), previa solicitud.
 
 **Profesor:** *dr. Jesús Zavala Ruiz*
 
