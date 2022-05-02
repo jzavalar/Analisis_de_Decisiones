@@ -369,6 +369,13 @@ Que al finalizar el curso el alumno sea capaz de:
 2. Proceso de resolución de problemas de decisión
 3. Estructuración de problemas de decisión
 4. La situación a analizar
+5. Modelos de decisión: 
+    a. Matriz de pagos
+    b. Árboles de decisión
+    c. Modelo de scoring
+    d. Modelo de norma mínima
+    e. Otras técnicas
+7. Tareas y prácticas
 
 - *Tarea 4.1*: *Fundamentos de la estructuración de problemas de decisión*. (Fecha de entrega: 6 de mayo de 2022).  
 
@@ -387,45 +394,17 @@ Que al finalizar el curso el alumno sea capaz de:
 
 ##### Bibliografía Complementaria:
 - Barclay, S. *et al.* (1977). Diagramming and solving decisions problems. In *Handbook for Decisions Analysis: : Decisions and Designs* (pp. 1-20). Washington, D.C.: Advanced Research Projects Agency. ([pdf](https://files.eric.ed.gov/fulltext/ED153329.pdf)).
+- Cashin, J. A., Polimeni, R. S. (1980). *Contabilidad de costos*. Mexico: McGraw-Hill. ([url](http://libgen.rs/book/index.php?md5=84A7C8752F1C3869D0FFAE8D8ACEBEE4)).
 - Clemen, R. T y Kwit, R. C. (2001). The value of decision analysis at Eastman Kodak Company, 1990-1999. *Interfaces, 31*(5), pp. 74-92. ([pdf](https://sci-hub.se/10.1287/inte.31.5.74.9655)). 
+- Clemen, R. T. y Reilly, T. (2004). *Making hard decisions with decision tools*. USA: Cengage Learning. ([url](http://libgen.rs/book/index.php?md5=741D87EE4E16DCFFD7BCBB4840CD6B78)).
 - Detsky, A. S., Redelmeier, D., y Abrams, H. B. (1987). What's wrong with decision analysis? Can the left brain influence the right?. *Journal of Chronic Diseases, 40*(9), pp. 831-836. ([pdf](https://libgen.rocks/ads.php?doi=10.1016/0021-9681%2887%2990181-0)).  
+- Drury, C. (2020). *Management and cost accounting*. USA: Cengage Learning EMEA. ([url](http://libgen.rs/book/index.php?md5=32C869373F6352B932D6EF56FB9CD9D4)).
+- Parnell,G. S., Bresnick, T. A., & Tani, S. N. (2013). *Handbook of decision analysis*. Hoboken, New Jersey: John Wiley. ([pdf](http://library.wbi.ac.id/repository/135.pdf)).
+- Proctor, T. (2019). *Creative problem solving for managers: Developing skills for decision making and innovation*. London: Routledge. ([url](http://libgen.rs/book/index.php?md5=FDD1A6CBEFEF95C7EDB630312F5CF965)).
 - Ragsdale, C. (2008). Introduction to modeling and decision analysis. In [*Spreadsheet modeling & decision analysis: A practical introduction to management science*](http://libgen.rs/book/index.php?md5=442D6BCA8F1998623582DEF3815DD9E9). Mason, MO, USA: Cengage Learning.  
 - Ríos, S., Ríos, D., Mateos, A. y Martín, J. (1998). *Programación lineal y aplicaciones: Ejercicios resueltos*. México: Alfa Omega Ra Ma. ([pdf](http://library.lol/main/C3553551396E715FAD11F850D70DF9F2)).
-
-
-#### Unidad 5. El proceso y las técnicas del análisis de decisiones
-1. Los objetivos
-2. Las opciones
-3. El análisis
-4. Estructuración de las decisiones
-5. Modelos de decisión:
-   a. Matriz de pagos
-   b. Árboles de decisión
-   c. Modelo de scoring
-   d. Modelo de norma mínima
-   e. Otras técnicas
-
-##### Bibliografía Obligatoria:
-- Parnell, Bresnick y Johnson (2013). Craft the decision objectives and value measures. In G. S. Parnell, T. A. Bresnick y S. N. Tani (Eds.). *Handbook of decision analysis* (pp. 127-148). Hoboken, New Jersey: John Wiley. (*Lectura 5.1*). ([pdf](http://library.wbi.ac.id/repository/135.pdf)).
 - Tani, S. N. y Parnell, G. S. (2013). Design creative alternatives. In G. S. Parnell, T. A. Bresnick y S. N. Tani (Eds.). *Handbook of decision analysis* (pp. 149-165). Hoboken, New Jersey: John Wiley. (*Lectura 5.2*). ([pdf](http://library.wbi.ac.id/repository/135.pdf)).
-- Parnell, G. S., Bresnick, T. A. y Tani, S. N. (2013). Appendix B: Influence Diagrams. In *Handbook of decision analysis* (pp. 374-380). Hoboken, New Jersey: John Wiley. (*Lectura 5.3*). ([pdf](http://library.wbi.ac.id/repository/135.pdf)).
-- Cuya, K. (2014). Árboles de decisión. 4 Ramas. ([Video]()). (6:57 min). (*Lectura 5.4*).
-- Zonaudearroba Facultad de Ingeniería (2016). Capacidad de planta por el método de árbol de decisión. ([Video]()). (22:01 min). (*Lectura 19*).
-
-##### Bibliografía Complementaria:
-- Cashin, J. A., Polimeni, R. S. (1980). *Contabilidad de costos*. Mexico: McGraw-Hill. ([url](http://libgen.rs/book/index.php?md5=84A7C8752F1C3869D0FFAE8D8ACEBEE4)).
 - Vanderbeck, E. J. (2017). *Principios de contabilidad de costos*. Cengage Learning. ([url](http://libgen.rs/book/index.php?md5=10A696DBB7D2AB1F5BAC60C0C868D51C)).	
-- Clemen, R. T. y Reilly, T. (2004). Structuring decisions. In *Making hard decisions with decision tools* (pp. 46-117). USA: Cengage Learning. ([url](http://libgen.rs/book/index.php?md5=741D87EE4E16DCFFD7BCBB4840CD6B78)).
-- Drury, C. (2001). *Management accounting for business decisions*. London: Thomson Learning. ([url](http://libgen.rs/book/index.php?md5=FF6EF6FF830BDC6CD013637FA48C3982)).
-- Drury, C. (2020). *Management and cost accounting*. USA: Cengage Learning EMEA. ([url](http://libgen.rs/book/index.php?md5=32C869373F6352B932D6EF56FB9CD9D4)).
-- Proctor, T. (2019). *Creative problem solving for managers: Developing skills for decision making and innovation*. London: Routledge. ([url](http://libgen.rs/book/index.php?md5=FDD1A6CBEFEF95C7EDB630312F5CF965)).
-- Schum, D. A. (2013). Decision Analysis. In S. I. Gass y M. C. Fu (Eds.). Encyclopedia of operations research and management science (pp. 367-372). (3rd. Ed.). New York: Springer ScienceþBusiness Media. ([url](http://libgen.rs/book/index.php?md5=DD2A825793319105943B8B28CF0F83AB)).
-
-### Proyecto de fin de curso: 
-Documente en un video la realización de la práctica y su experiencia en la realización de la actividad. Comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a la cuenta de Google Drive donde corresponda, de cada uno de los miembros del equipo.
-
-#### Bibliografía Complementaria:
-- .
 
 
 ### 6. Bibliografía General:
@@ -433,19 +412,16 @@ Documente en un video la realización de la práctica y su experiencia en la rea
 - Cochran et al. (2015). Wiley encyclopedia of operations research and management science. Wiley. ([url](http://libgen.rs/book/index.php?md5=79C89EF789E282EC4CFD15B19CF0A91D)).
 - Bouyssou, D., Marchant, T., Pirlot, M., Perny, P., Tsoukià s A., Vincke, P. (2000) *Evaluation and decision models: A critical perspective*. Kluwer, Dordrecht. ([url](http://libgen.rs/book/index.php?md5=D17907F555C0E2A519EA0EDCBDAC8F43)).
 - Luedeling, E. et al (2022, Feb 18). Package ‘decisionSupport’ (Quantitative Support of Decision Making under Uncertainty). *CRAN*. ([pdf](https://cran.r-project.org/web/packages/decisionSupport/decisionSupport.pdf)).
+- Gass, S. I. & Fu, M. C. (2013). Encyclopedia of operations research and management science (pp. 367-372). (3rd. Ed.). New York: Springer ScienceþBusiness Media. ([url](http://libgen.rs/book/index.php?md5=DD2A825793319105943B8B28CF0F83AB)).
+- Haber, S. H. (Ed.). (2002). Crony capitalism and economic growth in Latin America: Theory and evidence. Stanford, USA: Hoover Institution Press. ([url](http://libgen.rs/book/index.php?md5=B0750211B7978624626DF228B5CDB873)).
+- Howard, R. A. y Abbas, A. E. (2016). Foundations of decision analysis. Great Britain: Pearson Education. ([url](http://libgen.rs/book/index.php?md5=4B19F574BA8246A5BA274A7AF4BFB6A5)).
+- Krogerus, M. y Tschäppeler, R. (2012). The decision book: Fifty models for strategic thinking. London: Profile Books. ([url](http://libgen.rs/book/index.php?md5=9B263D6F2C7B79A11FA0D2B9A0880FDD)).  
 - Meyer, P., Bigaret, S., Hodgett, R. and Olteanu, A-L. (2021, May 04). Package MCDA (Support for the Multicriteria Decision Aiding Process). CRAN. ([url](https://cran.r-project.org/package=MCDA)). 
-
-- Banco Mundial. Proyectos para México. (html).
-- Gass, S. I. y Fu, M. C. (2013). Encyclopedia of operations research and management science. (3rd. Ed.). New York: Springer ScienceþBusiness Media.
-- Haber, S. H. (Ed.). (2002). Crony capitalism and economic growth in Latin America: Theory and evidence. Stanford, USA: Hoover Institution Press.
-- Howard, R. A. y Abbas, A. E. (2015). Foundations of decision analysis. Great Britain: Pearson Education.
-- Krogerus, M. y Tschäppeler, R. (2012). The decision book: Fifty models for strategic thinking. London: Profile Books.  
-- Parnell, G. S., Bresnick, T. A. y Tani, S. N. (2013). Handbook of decision analysis. Hoboken, New Jersey: John Wiley.
-- Sparxs Systems (2016). Enterprise Architect. Modeling Software. (descargar).
-- Weick, K. E. (1995). Sensemaking in organizations. Thousand Oaks, CA, USA: Sage.
+- Sparxs Systems (2021). Enterprise Architect. Modeling Software. ([url](https://sparxsystems.com/)). ([torrents](https://thepiratebay.org/search.php?q=Enterprise+Architect&apps=on&search=Pirate+Search&page=0&orderby=))
+- Weick, K. E. (1995). *Sensemaking in organizations*. Thousand Oaks, CA, USA: Sage. ([url](http://libgen.rs/book/index.php?md5=6362CD2CBBE13DC182B79815E388052D)).
 
 - Recursos digitales en la UAM: biblioteca de la Unidad Iztapalapa ([url](http://contingencia.izt.uam.mx/wp-content/uploads/2020/04/Biblioteca-Nuevo-3b-bindani-B.pdf)), biblioteca digital ([url](https://bidi.uam.mx/index.html)), [recursos varios](http://pcyti.izt.uam.mx/recursos/infext/infoext.html). 
-- Recursos controversiales: [**Library Genesis**](http://gen.lib.rus.ec/) (libros, artículos, novelas), [**SciHub**](https://sci-hub.se/about) (artículos), [**The Pirate Bay**](https://thepiratebay.org/index.html) (P2P file sharing network) (archivos), [Academic Torrents](http://academictorrents.com/) (artículos, datos y cursos).
+- Recursos controversiales: [Library Genesis](http://gen.lib.rus.ec/) (libros, artículos, novelas), [**SciHub**](https://sci-hub.se/about) (artículos), [The Pirate Bay](https://thepiratebay.org/index.html) (P2P file sharing network) (archivos), [Academic Torrents](http://academictorrents.com/) (artículos, datos y cursos).
 - Repositorios de software: [Software para la comunidad UAM](https://www.uam.mx/ti/soft/), [AlternativeTo](https://alternativeto.net/), [SourceForge](https://sourceforge.net/), [CDLibre](https://www.cdlibre.org/), [Software Heritage](https://www.softwareheritage.org/?lang=es), [GitHub](https://github.com/github).
 - Hernández, L. (2012, Nov 16). **El Software Libre y la educación** por Richard Stallman. *YouTube* [url](https://www.youtube.com/watch?v=aRvorE9PJso) 
 - Valcheva, S. (s.f.). 10 Open Source Decision Tree Software Tools. [url](https://www.intellspot.com/open-source-decision-tree/)
@@ -483,7 +459,7 @@ La *evaluación de recuperación* no será aplidada por el profesor, sino por la
 
 **Notas:**
 [^1]: Jaiswal, N. K. (1997). *Military operations research: Quantitative decision making*. New York: Springer Science+Business Media.
-[^2]: Gass, S. I. y Fu, M. C. (2013). Preface. In Saul I. Gass y Michael C. Fu (Eds.). *Encyclopedia of operations research and management science*. New York, Heidelberg, Dordrecht, London: Springer
+[^2]: Gass, S. I. y Fu, M. C. (2013). Preface. *In* Saul I. Gass y Michael C. Fu (Eds.). *Encyclopedia of operations research and management science*. New York, Heidelberg, Dordrecht, London: Springer
 [^3]: Hitch, C. (1955). An appreciation of systems analysis. *Journal of the Operations Research Society of America, 3*(4), 466-481.
 [^4]: Simon, H. A. (1955). A behavioral model of rational choice. *The Quarterly Journal of Economics, 69*(1) (Feb), 99-118.
 [^5]: Beer, S. (1967). *Management science: The business use of operations research*. Doubleday
