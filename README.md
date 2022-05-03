@@ -403,20 +403,19 @@ Que al finalizar el curso el alumno sea capaz de:
 - Proctor, T. (2019). *Creative problem solving for managers: Developing skills for decision making and innovation*. London: Routledge. ([url](http://libgen.rs/book/index.php?md5=FDD1A6CBEFEF95C7EDB630312F5CF965)).
 - Ragsdale, C. (2008). Introduction to modeling and decision analysis. In [*Spreadsheet modeling & decision analysis: A practical introduction to management science*](http://libgen.rs/book/index.php?md5=442D6BCA8F1998623582DEF3815DD9E9). Mason, MO, USA: Cengage Learning.  
 - Ríos, S., Ríos, D., Mateos, A. y Martín, J. (1998). *Programación lineal y aplicaciones: Ejercicios resueltos*. México: Alfa Omega Ra Ma. ([pdf](http://library.lol/main/C3553551396E715FAD11F850D70DF9F2)).
-- Tani, S. N. y Parnell, G. S. (2013). Design creative alternatives. In G. S. Parnell, T. A. Bresnick y S. N. Tani (Eds.). *Handbook of decision analysis* (pp. 149-165). Hoboken, New Jersey: John Wiley. (*Lectura 5.2*). ([pdf](http://library.wbi.ac.id/repository/135.pdf)).
 - Vanderbeck, E. J. (2017). *Principios de contabilidad de costos*. Cengage Learning. ([url](http://libgen.rs/book/index.php?md5=10A696DBB7D2AB1F5BAC60C0C868D51C)).	
 
 
 ### 6. Bibliografía General:
 - Paquete [Multi-Criteria Decision Aiding (MCDA)](https://www.decision-deck.org/r/), [tutorial](https://www.decision-deck.org/r/tutorial.html#tutorial-r-mcda).
 - Cochran et al. (2015). Wiley encyclopedia of operations research and management science. Wiley. ([url](http://libgen.rs/book/index.php?md5=79C89EF789E282EC4CFD15B19CF0A91D)).
-- Bouyssou, D., Marchant, T., Pirlot, M., Perny, P., Tsoukià s A., Vincke, P. (2000) *Evaluation and decision models: A critical perspective*. Kluwer, Dordrecht. ([url](http://libgen.rs/book/index.php?md5=D17907F555C0E2A519EA0EDCBDAC8F43)).
+- Bouyssou, D., Marchant, T., Pirlot, M., Perny, P., Tsoukià, A., & Vincke, P. (2000) *Evaluation and decision models: A critical perspective*. Kluwer, Dordrecht. ([url](http://libgen.rs/book/index.php?md5=D17907F555C0E2A519EA0EDCBDAC8F43)).
 - Luedeling, E. et al (2022, Feb 18). Package ‘decisionSupport’ (Quantitative Support of Decision Making under Uncertainty). *CRAN*. ([pdf](https://cran.r-project.org/web/packages/decisionSupport/decisionSupport.pdf)).
 - Gass, S. I. & Fu, M. C. (2013). Encyclopedia of operations research and management science (pp. 367-372). (3rd. Ed.). New York: Springer ScienceþBusiness Media. ([url](http://libgen.rs/book/index.php?md5=DD2A825793319105943B8B28CF0F83AB)).
 - Haber, S. H. (Ed.). (2002). Crony capitalism and economic growth in Latin America: Theory and evidence. Stanford, USA: Hoover Institution Press. ([url](http://libgen.rs/book/index.php?md5=B0750211B7978624626DF228B5CDB873)).
-- Howard, R. A. y Abbas, A. E. (2016). Foundations of decision analysis. Great Britain: Pearson Education. ([url](http://libgen.rs/book/index.php?md5=4B19F574BA8246A5BA274A7AF4BFB6A5)).
-- Krogerus, M. y Tschäppeler, R. (2012). The decision book: Fifty models for strategic thinking. London: Profile Books. ([url](http://libgen.rs/book/index.php?md5=9B263D6F2C7B79A11FA0D2B9A0880FDD)).  
-- Meyer, P., Bigaret, S., Hodgett, R. and Olteanu, A-L. (2021, May 04). Package MCDA (Support for the Multicriteria Decision Aiding Process). CRAN. ([url](https://cran.r-project.org/package=MCDA)). 
+- Howard, R. A., & Abbas, A. E. (2016). Foundations of decision analysis. Great Britain: Pearson Education. ([url](http://libgen.rs/book/index.php?md5=4B19F574BA8246A5BA274A7AF4BFB6A5)).
+- Krogerus, M., & Tschäppeler, R. (2012). The decision book: Fifty models for strategic thinking. London: Profile Books. ([url](http://libgen.rs/book/index.php?md5=9B263D6F2C7B79A11FA0D2B9A0880FDD)).  
+- Meyer, P., Bigaret, S., Hodgett, R., & Olteanu, A-L. (2021, May 04). Package MCDA (Support for the Multicriteria Decision Aiding Process). CRAN. ([url](https://cran.r-project.org/package=MCDA)). 
 - Sparxs Systems (2021). Enterprise Architect. Modeling Software. ([url](https://sparxsystems.com/)). ([torrents](https://thepiratebay.org/search.php?q=Enterprise+Architect&apps=on&search=Pirate+Search&page=0&orderby=))
 - Weick, K. E. (1995). *Sensemaking in organizations*. Thousand Oaks, CA, USA: Sage. ([url](http://libgen.rs/book/index.php?md5=6362CD2CBBE13DC182B79815E388052D)).
 
@@ -430,7 +429,7 @@ Que al finalizar el curso el alumno sea capaz de:
 - Wickham, H. & Grolemund, G. (2017). *R for data science: Import, tidy, transform, visualize, and model data*. O'Reilly. ([url](https://r4ds.had.co.nz/)). (R para ciencia de datos, [traducción español](https://r4ds-en-espaniol.netlify.app/)). (Solución de los ejercicios, [url](https://cienciadedatos.github.io/r4ds-soluciones/index.html)).
 - Teetor, P. (2019). *R cookbook: Proven recipes for data analysis, statistics, and graphics*. O'Reilly. [Online] ([url](https://rc2e.com/)). [[traducción al español](https://translate.google.com/translate?sl=en&tl=es&u=https://rc2e.com/)].
 - Wickham, H. & Grolemund, G. (2017). R for data science. [Online] ([url](https://r4ds.had.co.nz/)), [traducción al español] ([url](https://es.r4ds.hadley.nz/)).
-- RStudio cheatsheets. https://github.com/rstudio/cheatsheets
+- RStudio cheatsheets. ([url](https://github.com/rstudio/cheatsheets)).
 
 ## Modalidades de Evaluación
 
