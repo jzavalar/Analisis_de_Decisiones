@@ -373,7 +373,7 @@ Que al finalizar el curso el alumno sea capaz de:
    - Modelo de norma mínima
    - Otras técnicas
 6. Tareas y prácticas
-   - *Tarea 4.1*: *Fundamentos de la estructuración de problemas de decisión*. (Fecha de entrega: 6 de mayo de 2022).  
+   - *Tarea 4.1*: *Fundamentos de la estructuración de problemas de decisión*. (Fecha de entrega: 11 de mayo de 2022).  
 
      *Objetivo*: Aprender los fundamentos de la estructuración de problemas de decisión.  
 
