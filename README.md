@@ -413,7 +413,8 @@ Que al finalizar el curso el alumno sea capaz de:
 
      ##### *Bibliografía Obligatoria:*
         - Ley-Borrás, R. (2015). Deciding on the decision situation to analyze: The critical first step of a decision analysis. *Decision Analysis, 12*(1), pp. 46-58. ([pdf](https://sci-hub.se/10.1287/deca.2014.0308)) (*Lectura 4.1*).  
-        - Keeney, R. L. (2007). Developing objectives and attributes. In W. Edwards, R. F. Miles y D. von Winterfeldt. (2007). [*Advances in Decision Analysis: From foundations to applications*](http://libgen.rs/book/index.php?md5=AE826E7206D6FE17FD495BDB3BE0BC7B) (pp. 104-128), Cambridge: Cambridge University Press. (*Lectura 4.2*).  
+        - Keeney, R. L. (2007). Developing objectives and attributes. In W. Edwards, R. F. Miles y D. von Winterfeldt. (2007). [*Advances in Decision Analysis: From foundations to applications*](http://libgen.rs/book/index.php?md5=AE826E7206D6FE17FD495BDB3BE0BC7B) (pp. 104-128), Cambridge: Cambridge University Press. (*Lectura 4.2*).
+        - - Rojas, G., Fernandez, E., Whitney, C., Luedeling, E. & Cuneo, I. F. (2021). Adapting sweet cherry orchards to extreme weather events: Decision analysis in support of farmers "Investments in Central Chile.” *Agricultural Systems* 187(February): 103031. [DOI](https://doi.org/10.1016/j.agsy.2020.103031). ([url](https://www.sciencedirect.com/science/article/abs/pii/S0308521X20308921?via%3Dihub)). ([url](https://sci-hub.se/10.1016/j.agsy.2020.103031)). ([video](https://www.youtube.com/watch?v=kpsqzkeg53Y)). (**Estudio de caso**). (*Lectura 4.3*).  
 
      ##### *Bibliografía Complementaria:*
         - Barclay, S. *et al.* (1977). Diagramming and solving decisions problems. In *Handbook for Decisions Analysis: : Decisions and Designs* (pp. 1-20). Washington, D.C.: Advanced Research Projects Agency. ([pdf](https://files.eric.ed.gov/fulltext/ED153329.pdf)).  
@@ -426,7 +427,7 @@ Que al finalizar el curso el alumno sea capaz de:
         - Proctor, T. (2019). *Creative problem solving for managers: Developing skills for decision making and innovation*. London: Routledge. ([url](http://libgen.rs/book/index.php?md5=FDD1A6CBEFEF95C7EDB630312F5CF965)).  
         - Ragsdale, C. (2008). Introduction to modeling and decision analysis. In [*Spreadsheet modeling & decision analysis: A practical introduction to management science*](http://libgen.rs/book/index.php?md5=442D6BCA8F1998623582DEF3815DD9E9). Mason, MO, USA: Cengage Learning.  
         - Ríos, S., Ríos, D., Mateos, A. y Martín, J. (1998). *Programación lineal y aplicaciones: Ejercicios resueltos*. México: Alfa Omega Ra Ma. ([pdf](http://library.lol/main/C3553551396E715FAD11F850D70DF9F2)).  
-        - Vanderbeck, E. J. (2017). *Principios de contabilidad de costos*. Cengage Learning. ([url](http://libgen.rs/book/index.php?md5=10A696DBB7D2AB1F5BAC60C0C868D51C)).	
+        - Vanderbeck, E. J. (2017). *Principios de contabilidad de costos*. Cengage Learning. ([url](http://libgen.rs/book/index.php?md5=10A696DBB7D2AB1F5BAC60C0C868D51C)).
 
 
 ### Bibliografía General:
