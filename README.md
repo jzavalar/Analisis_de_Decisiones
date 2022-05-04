@@ -383,7 +383,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
   *Parte 0*: Organícense en parejas.  
   
-  *Parte 1*: Resuelva el siguiente [cuestionario]() sobre la *estructuración de los problemas de decisión*.
+  *Parte 1*: Resuelva el siguiente [cuestionario](https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/main/Unidad%204.%20Cuestionario.md) sobre la *estructuración de los problemas de decisión*.
  mediante la elaboración de un archivo RMarkdown.  
 
   Saquen sus conclusiones y suban los archivos creados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la tarea.
@@ -406,7 +406,7 @@ Que al finalizar el curso el alumno sea capaz de:
 - Vanderbeck, E. J. (2017). *Principios de contabilidad de costos*. Cengage Learning. ([url](http://libgen.rs/book/index.php?md5=10A696DBB7D2AB1F5BAC60C0C868D51C)).	
 
 
-### 6. Bibliografía General:
+#### Bibliografía General:
 - Paquete [Multi-Criteria Decision Aiding (MCDA)](https://www.decision-deck.org/r/), [tutorial](https://www.decision-deck.org/r/tutorial.html#tutorial-r-mcda).
 - Cochran et al. (2015). Wiley encyclopedia of operations research and management science. Wiley. ([url](http://libgen.rs/book/index.php?md5=79C89EF789E282EC4CFD15B19CF0A91D)).
 - Bouyssou, D., Marchant, T., Pirlot, M., Perny, P., Tsoukià, A., & Vincke, P. (2000) *Evaluation and decision models: A critical perspective*. Kluwer, Dordrecht. ([url](http://libgen.rs/book/index.php?md5=D17907F555C0E2A519EA0EDCBDAC8F43)).
@@ -453,7 +453,7 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 
 La *evaluación final* será un examen teórico-práctico que versará sobre la totalidad de las unidades. 
 
-#### Evaluación de Recuperación
+### Evaluación de Recuperación
 La *evaluación de recuperación* no será aplidada por el profesor, sino por la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente. Por lo que deberá coordinarse con el Coordinador de la Licenciatura.
 
 **Notas:**
