@@ -388,6 +388,34 @@ Que al finalizar el curso el alumno sea capaz de:
 
   Saquen sus conclusiones y suban los archivos creados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la tarea.
 
+- *Práctica 4.2*: *Instalación y uso básico de Radiant, análitica de negocios con R y Shiny*. (Fecha de entrega: 11 de mayo de 2022).    
+  
+  *Objetivo*: Instalar y usar *Radiant* para el análisis de negocios con *R* y *Shiny* en *RStudio*.    
+
+  *Parte 1*: Instale el plugin [Radiant](https://cran.r-project.org/web/packages/radiant.data/readme/README.html), de acuerdo a las [instrucciones](https://radiant-rstats.github.io/docs/index.html), en su instalación de *RStudio*.  
+  
+  *Parte 2*: *Instrucciones generales*. Estudie el tema de *Análisis de Decisiones* usando *árboles de decisión* en el [tutorial escrito](https://radiant-rstats.github.io/docs/model/dtree.html) de *Radiant* y en la [lista de reproducción](https://www.youtube.com/watch?v=plSeVJ7c-Iw&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw) correspondiente. 
+  
+  Utilice el [tutorial escrito](https://radiant-rstats.github.io/docs/model/dtree.html) como base para la generación del archivo *RMarkdown* que contenga las recetas correspondientes en español. Este será un entregable. 
+  
+  Además, utilice los [archivos YAML](https://uc2a9e31d90010cc1bfd4229da2a.dl.dropboxusercontent.com/zip_download_get/BH8yEm5Fx3j6a7es51fpAxNGw4eiKdA41uC8yYW-Voo8Gzh05VpCnCTEiQpyPTdSgDj0IoIkw-x-63Z0xmYavHUiFmBOtGHfr9g2Y95nrB7YQA?dl=1#) de los ejercicios como insumos, introduzca los comentarios respectivos en el archivo YAML (con # igual que en R) y traduzca lo que corresponda. Estos archivos serán sus otros entregables. 
+  
+  Una vez que haga la simulación con los árboles de decisión inicial y final, guarde sus resultados en el archivo RMarkdown.
+  
+  *Parte 3:* Estudie los primeros tres videos en la [lista de reproducción](https://www.youtube.com/watch?v=plSeVJ7c-Iw&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw) correspondiente y reproduzca los dos ejercicios (#1 y #2) que se muestran en los videos y genere el archivo *RMarkdown* traducido al español y haga su video de evidencia.  
+  
+  *Parte 4*: Estudie el tema del *análisis de sensibilidad* en *árboles de decisión* en el video 4 de la [lista de reproducción](https://www.youtube.com/watch?v=c_pCCCn6FEw&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw&index=4) correspondiente. Reproduzca el  ejercicio #3 que se muestra en el video y genere la parte correspondiente del archivo *RMarkdown* en español y haga su video de evidencia.  
+  
+  *Parte 5*: Estudie la depuración de los errores de la entrada de datos en *árboles de decisión* en el video 5 de la [lista de reproducción](https://www.youtube.com/watch?v=oiwv15bbjzs&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw&index=5) correspondiente.  Reproduzca el ejercicio #4 que se muestra en el video y genere el archivo *RMarkdown* con su informe en español y haga el video correspondiente.  
+  
+  *Parte 6*: Estudie el tema de probabilidad en *árboles de decisión* en el video 6 de la [lista de reproducción](https://www.youtube.com/watch?v=xuv9zgAcvCQ&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw&index=6) correspondiente. Reproduzca el  ejercicio #3 que se muestra en el video y genere el archivo *RMarkdown* con su informe en español y haga el video correspondiente.
+  
+  *Parte 7*: Estudie el tema de *árboles de decisión* con información imperfecta en el video 7 de la [lista de reproducción](https://www.youtube.com/watch?v=xuv9zgAcvCQ&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw&index=7) correspondiente. Reproduzca el  ejercicio #4 que se muestra en el video y genere el archivo *RMarkdown* con su informe en español y haga el video correspondiente.
+  
+  *Parte 7*: Aprenda a desarrollar los *árboles de decisión* con información imperfecta en el video 8 de la [lista de reproducción](https://www.youtube.com/watch?v=xuv9zgAcvCQ&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw&index=8) correspondiente. Reproduzca el  ejercicio #2 que se muestra en el video y genere el archivo *RMarkdown* con su informe en español y haga el video correspondiente.
+  
+  Saquen sus conclusiones y suban los archivos creados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.
+
 ##### Bibliografía Obligatoria:
 - Ley-Borrás, R. (2015). Deciding on the decision situation to analyze: The critical first step of a decision analysis. *Decision Analysis, 12*(1), pp. 46-58. ([pdf](https://sci-hub.se/10.1287/deca.2014.0308)) (*Lectura 4.1*).
 - Keeney, R. L. (2007). Developing objectives and attributes. In W. Edwards, R. F. Miles y D. von Winterfeldt. (2007). [*Advances in Decision Analysis: From foundations to applications*](http://libgen.rs/book/index.php?md5=AE826E7206D6FE17FD495BDB3BE0BC7B) (pp. 104-128), Cambridge: Cambridge University Press. (*Lectura 4.2*).
