@@ -167,7 +167,7 @@ Que al finalizar el curso el alumno sea capaz de:
   
       *Parte 5*. Conéctese a la base de datos desde *RStudio* y pruebe *R* con la base de datos ([guía](https://www.youtube.com/watch?v=-F5SpGhnNG8)).      
   
-      *Parte 6*. Conéctese a la base de datos con *QGiS* y despliegue el mapa ([guía](https://www.youtube.com/watch?v=NYKHlSd932c)).        
+      *Parte 6*. Conéctese a la base de datos con *QGiS* y despliegue el mapa ([guía](https://www.youtube.com/watch?v=NYKHlSd932c)).  
       *Parte 7*. Respalde la base de datos ([guía](https://www.youtube.com/watch?v=icEvkyIXqug&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=66&t=0s)).  
   
       Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito o pruebe algún otro tutorial.      
@@ -180,7 +180,7 @@ Que al finalizar el curso el alumno sea capaz de:
          - Zavala, J. (2016). El análisis de decisiones: Un panorama histórico-metodológico. (Mimeo). (Disponible en el grupo de Telegram). (*Lectura 1.3*).  
 
       ##### *Bibliografía Obligatoria:*
-         - Ensmenger, N. L. (2010). The *cosa nostra* of the data processing industry. In *The computer boys take over: Computers, programmers, and the politics of technical expertise* (pp. 137-161). USA: The MIT Press. ([pdf](https://www.mondotheque.be/wiki/images/0/0b/Ensmenger_The_Computer_Boys_Take_Over%28BookZZ.org%29.pdf))
+         - Ensmenger, N. L. (2010). The *cosa nostra* of the data processing industry. In *The computer boys take over: Computers, programmers, and the politics of technical expertise* (pp. 137-161). USA: The MIT Press. ([pdf](https://www.mondotheque.be/wiki/images/0/0b/Ensmenger_The_Computer_Boys_Take_Over%28BookZZ.org%29.pdf)).
 
 
 #### Unidad 2. La toma de decisiones y la teoría de la elección racional
@@ -254,7 +254,7 @@ Que al finalizar el curso el alumno sea capaz de:
          - Elster, J. (2013). Racionalidad e interés: Tratado de hombre económico contemporáneo. ([Video 2.3](https://www.youtube.com/watch?v=aBfrWUXI9ns)). (1:11:34 hr). (Identificar los postulados de la teoría de la racionalidad limitada, sus éxitos y fracasos).  
          - Sun Tzu. *El arte de la guerra*. *YouTube*. ([Video 2.4](https://www.youtube.com/watch?v=tp8-VK56O90)). (1:30:38 hr).  
          - Simon, H. A. (1955). A behavioral model of rational choice, *The Quarterly Journal of Economics, 69*(1), 99-118. ([pdf](https://www.suz.uzh.ch/dam/jcr:ffffffff-fad3-547b-ffff-fffff0bf4572/10.18-simon-55.pdf)). (*Lectura 2.5*).  
-         - Simon, H. A. (2000). Bounded rationality in social science: Today and tomorrow. *Mind & Society, 1*(1), 25-39. ([pdf](http://ipwna.ir/wp-content/uploads/2018/08/Bounded_rationality_in_social_Today-and-Tomorrow-irpublicpolicy.pdf)). (*Lectura 2.6*).  
+         - Simon, H. A. (2000). Bounded rationality in social science: Today and tomorrow. *Mind & Society, 1*(1), 25-39. ([pdf](http://ipwna.ir/wp-content/uploads/2018/08/Bounded_rationality_in_social_Today-and-Tomorrow-irpublicpolicy.pdf)). (*Lectura 2.6*). 
          - Cameron, S. (2002). Tools of the trade: Rational choice.  In *The economics of sin: Rational choice or no choice at all?* (pp. 14-39). Cheltenham, Glos, U.K.: Edward Elgar Publishing. ([url](http://libgen.rs/search.php?req=The+economics+of+sin%3A+Rational+choice+or+no+choice+at+all%3F&open=0&res=100&view=simple&phrase=1&column=title)) (*Lectura 2.7*). (Identificar los postulados de la teoría de la racionalidad limitada).  
 
       ##### *Bibliografía Complementaria:*
@@ -373,60 +373,60 @@ Que al finalizar el curso el alumno sea capaz de:
    - Modelo de norma mínima
    - Otras técnicas
 6. Tareas y prácticas
-    - *Tarea 4.1*: *Fundamentos de la estructuración de problemas de decisión*. (Fecha de entrega: 6 de mayo de 2022).  
+   - *Tarea 4.1*: *Fundamentos de la estructuración de problemas de decisión*. (Fecha de entrega: 6 de mayo de 2022).  
 
-      *Objetivo*: Aprender los fundamentos de la estructuración de problemas de decisión.  
+     *Objetivo*: Aprender los fundamentos de la estructuración de problemas de decisión.  
 
-      *Parte 0*: Organícense en parejas.  
+     *Parte 0*: Organícense en parejas.  
   
-      *Parte 1*: Resuelva el siguiente [cuestionario](https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/main/Unidad%204.%20Cuestionario.md) sobre la *estructuración de los problemas de decisión*, mediante la elaboración de un archivo RMarkdown.  
+     *Parte 1*: Resuelva el siguiente [cuestionario](https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/main/Unidad%204.%20Cuestionario.md) sobre la *estructuración de los problemas de decisión*, mediante la elaboración de un archivo RMarkdown.  
  
-      Saquen sus conclusiones y suban los archivos creados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la tarea.
+     Saquen sus conclusiones y suban los archivos creados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la tarea.
 
-    - *Práctica 4.2*: *Instalación y uso básico de Radiant, análitica de negocios con R y Shiny*. (Fecha de entrega: 11 de mayo de 2022).    
-  
-      *Objetivo*: Instalar y usar *Radiant* para el análisis de negocios con *R* y *Shiny* en *RStudio*.    
+   - *Práctica 4.2*: *Instalación y uso básico de Radiant, análitica de negocios con R y Shiny*. (Fecha de entrega: 11 de mayo de 2022).    
+      
+     *Objetivo*: Instalar y usar *Radiant* para el análisis de negocios con *R* y *Shiny* en *RStudio*.    
+      
+     *Parte 1*: Instale el plugin [Radiant](https://cran.r-project.org/web/packages/radiant.data/readme/README.html), de acuerdo a las [instrucciones](https://radiant-rstats.github.io/docs/index.html), en su instalación de *RStudio*.  
+      
+     *Parte 2*: *Instrucciones generales*. Estudie el tema de *Análisis de Decisiones* usando *árboles de decisión* en el [tutorial escrito](https://radiant-rstats.github.io/docs/model/dtree.html) de *Radiant* y en la [lista de reproducción](https://www.youtube.com/watch?v=plSeVJ7c-Iw&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw) correspondiente. 
+      
+     Utilice el [tutorial escrito](https://radiant-rstats.github.io/docs/model/dtree.html) como base para la generación del archivo *RMarkdown* que contenga las recetas correspondientes en español. Este será un entregable. 
+      
+     Además, utilice los [archivos YAML](https://uc2a9e31d90010cc1bfd4229da2a.dl.dropboxusercontent.com/zip_download_get/BH8yEm5Fx3j6a7es51fpAxNGw4eiKdA41uC8yYW-Voo8Gzh05VpCnCTEiQpyPTdSgDj0IoIkw-x-63Z0xmYavHUiFmBOtGHfr9g2Y95nrB7YQA?dl=1#) de los ejercicios como insumos, introduzca los comentarios respectivos en el archivo YAML (con # igual que en R) y traduzca lo que corresponda. Estos archivos serán sus otros entregables. 
+      
+     Una vez que haga la simulación con los árboles de decisión inicial y final, guarde sus resultados en el archivo RMarkdown.
+   
+     *Parte 3:* Estudie los primeros tres videos en la [lista de reproducción](https://www.youtube.com/watch?v=plSeVJ7c-Iw&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw) correspondiente y reproduzca los dos ejercicios (#1 y #2) que se muestran en los videos y genere el archivo *RMarkdown* traducido al español y haga su video de evidencia.  
+      
+     *Parte 4*: Estudie el tema del *análisis de sensibilidad* en *árboles de decisión* en el video 4 de la [lista de reproducción](https://www.youtube.com/watch?v=c_pCCCn6FEw&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw&index=4) correspondiente. Reproduzca el  ejercicio #3 que se muestra en el video y genere la parte correspondiente del archivo *RMarkdown* en español y haga su video de evidencia.  
+      
+     *Parte 5*: Estudie la depuración de los errores de la entrada de datos en *árboles de decisión* en el video 5 de la [lista de reproducción](https://www.youtube.com/watch?v=oiwv15bbjzs&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw&index=5) correspondiente.  Reproduzca el ejercicio #4 que se muestra en el video y genere el archivo *RMarkdown* con su informe en español y haga el video correspondiente.  
+      
+     *Parte 6*: Estudie el tema de probabilidad en *árboles de decisión* en el video 6 de la [lista de reproducción](https://www.youtube.com/watch?v=xuv9zgAcvCQ&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw&index=6) correspondiente. Reproduzca el  ejercicio #3 que se muestra en el video y genere el archivo *RMarkdown* con su informe en español y haga el video correspondiente.
+      
+     *Parte 7*: Estudie el tema de *árboles de decisión* con información imperfecta en el video 7 de la [lista de reproducción](https://www.youtube.com/watch?v=xuv9zgAcvCQ&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw&index=7) correspondiente. Reproduzca el  ejercicio #4 que se muestra en el video y genere el archivo *RMarkdown* con su informe en español y haga el video correspondiente.
+      
+     *Parte 8*: Aprenda a desarrollar los *árboles de decisión* con información imperfecta en el video 8 de la [lista de reproducción](https://www.youtube.com/watch?v=xuv9zgAcvCQ&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw&index=8) correspondiente. Reproduzca el  ejercicio #2 que se muestra en el video y genere el archivo *RMarkdown* con su informe en español y haga el video correspondiente.
+      
+     Saquen sus conclusiones y suban los archivos creados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.
 
-      *Parte 1*: Instale el plugin [Radiant](https://cran.r-project.org/web/packages/radiant.data/readme/README.html), de acuerdo a las [instrucciones](https://radiant-rstats.github.io/docs/index.html), en su instalación de *RStudio*.  
-  
-      *Parte 2*: *Instrucciones generales*. Estudie el tema de *Análisis de Decisiones* usando *árboles de decisión* en el [tutorial escrito](https://radiant-rstats.github.io/docs/model/dtree.html) de *Radiant* y en la [lista de reproducción](https://www.youtube.com/watch?v=plSeVJ7c-Iw&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw) correspondiente. 
-  
-      Utilice el [tutorial escrito](https://radiant-rstats.github.io/docs/model/dtree.html) como base para la generación del archivo *RMarkdown* que contenga las recetas correspondientes en español. Este será un entregable. 
-  
-      Además, utilice los [archivos YAML](https://uc2a9e31d90010cc1bfd4229da2a.dl.dropboxusercontent.com/zip_download_get/BH8yEm5Fx3j6a7es51fpAxNGw4eiKdA41uC8yYW-Voo8Gzh05VpCnCTEiQpyPTdSgDj0IoIkw-x-63Z0xmYavHUiFmBOtGHfr9g2Y95nrB7YQA?dl=1#) de los ejercicios como insumos, introduzca los comentarios respectivos en el archivo YAML (con # igual que en R) y traduzca lo que corresponda. Estos archivos serán sus otros entregables. 
-  
-      Una vez que haga la simulación con los árboles de decisión inicial y final, guarde sus resultados en el archivo RMarkdown.
-  
-      *Parte 3:* Estudie los primeros tres videos en la [lista de reproducción](https://www.youtube.com/watch?v=plSeVJ7c-Iw&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw) correspondiente y reproduzca los dos ejercicios (#1 y #2) que se muestran en los videos y genere el archivo *RMarkdown* traducido al español y haga su video de evidencia.  
-  
-      *Parte 4*: Estudie el tema del *análisis de sensibilidad* en *árboles de decisión* en el video 4 de la [lista de reproducción](https://www.youtube.com/watch?v=c_pCCCn6FEw&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw&index=4) correspondiente. Reproduzca el  ejercicio #3 que se muestra en el video y genere la parte correspondiente del archivo *RMarkdown* en español y haga su video de evidencia.  
-  
-      *Parte 5*: Estudie la depuración de los errores de la entrada de datos en *árboles de decisión* en el video 5 de la [lista de reproducción](https://www.youtube.com/watch?v=oiwv15bbjzs&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw&index=5) correspondiente.  Reproduzca el ejercicio #4 que se muestra en el video y genere el archivo *RMarkdown* con su informe en español y haga el video correspondiente.  
-  
-      *Parte 6*: Estudie el tema de probabilidad en *árboles de decisión* en el video 6 de la [lista de reproducción](https://www.youtube.com/watch?v=xuv9zgAcvCQ&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw&index=6) correspondiente. Reproduzca el  ejercicio #3 que se muestra en el video y genere el archivo *RMarkdown* con su informe en español y haga el video correspondiente.
-  
-      *Parte 7*: Estudie el tema de *árboles de decisión* con información imperfecta en el video 7 de la [lista de reproducción](https://www.youtube.com/watch?v=xuv9zgAcvCQ&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw&index=7) correspondiente. Reproduzca el  ejercicio #4 que se muestra en el video y genere el archivo *RMarkdown* con su informe en español y haga el video correspondiente.
-  
-      *Parte 8*: Aprenda a desarrollar los *árboles de decisión* con información imperfecta en el video 8 de la [lista de reproducción](https://www.youtube.com/watch?v=xuv9zgAcvCQ&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw&index=8) correspondiente. Reproduzca el  ejercicio #2 que se muestra en el video y genere el archivo *RMarkdown* con su informe en español y haga el video correspondiente.
-  
-      Saquen sus conclusiones y suban los archivos creados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.
+     ##### *Bibliografía Obligatoria:*
+        - Ley-Borrás, R. (2015). Deciding on the decision situation to analyze: The critical first step of a decision analysis. *Decision Analysis, 12*(1), pp. 46-58. ([pdf](https://sci-hub.se/10.1287/deca.2014.0308)) (*Lectura 4.1*).  
+        - Keeney, R. L. (2007). Developing objectives and attributes. In W. Edwards, R. F. Miles y D. von Winterfeldt. (2007). [*Advances in Decision Analysis: From foundations to applications*](http://libgen.rs/book/index.php?md5=AE826E7206D6FE17FD495BDB3BE0BC7B) (pp. 104-128), Cambridge: Cambridge University Press. (*Lectura 4.2*).  
 
-       ##### *Bibliografía Obligatoria:*
-         - Ley-Borrás, R. (2015). Deciding on the decision situation to analyze: The critical first step of a decision analysis. *Decision Analysis, 12*(1), pp. 46-58. ([pdf](https://sci-hub.se/10.1287/deca.2014.0308)) (*Lectura 4.1*).  
-         - Keeney, R. L. (2007). Developing objectives and attributes. In W. Edwards, R. F. Miles y D. von Winterfeldt. (2007). [*Advances in Decision Analysis: From foundations to applications*](http://libgen.rs/book/index.php?md5=AE826E7206D6FE17FD495BDB3BE0BC7B) (pp. 104-128), Cambridge: Cambridge University Press. (*Lectura 4.2*).  
-
-       ##### *Bibliografía Complementaria:*
-         - Barclay, S. *et al.* (1977). Diagramming and solving decisions problems. In *Handbook for Decisions Analysis: : Decisions and Designs* (pp. 1-20). Washington, D.C.: Advanced Research Projects Agency. ([pdf](https://files.eric.ed.gov/fulltext/ED153329.pdf)).  
-         - Cashin, J. A., Polimeni, R. S. (1980). *Contabilidad de costos*. Mexico: McGraw-Hill. ([url](http://libgen.rs/book/index.php?md5=84A7C8752F1C3869D0FFAE8D8ACEBEE4)).  
-         - Clemen, R. T y Kwit, R. C. (2001). The value of decision analysis at Eastman Kodak Company, 1990-1999. *Interfaces, 31*(5), pp. 74-92. ([pdf](https://sci-hub.se/10.1287/inte.31.5.74.9655)).  
-         - Clemen, R. T. y Reilly, T. (2004). *Making hard decisions with decision tools*. USA: Cengage Learning. ([url](http://libgen.rs/book/index.php?md5=741D87EE4E16DCFFD7BCBB4840CD6B78)).  
-         - Detsky, A. S., Redelmeier, D., y Abrams, H. B. (1987). What's wrong with decision analysis? Can the left brain influence the right?. *Journal of Chronic Diseases, 40*(9), pp. 831-836. ([pdf](https://libgen.rocks/ads.php?doi=10.1016/0021-9681%2887%2990181-0)).  
-         - Drury, C. (2020). *Management and cost accounting*. USA: Cengage Learning EMEA. ([url](http://libgen.rs/book/index.php?md5=32C869373F6352B932D6EF56FB9CD9D4)).  
-         - Parnell,G. S., Bresnick, T. A., & Tani, S. N. (2013). *Handbook of decision analysis*. Hoboken, New Jersey: John Wiley. ([pdf](http://library.wbi.ac.id/repository/135.pdf)).  
-         - Proctor, T. (2019). *Creative problem solving for managers: Developing skills for decision making and innovation*. London: Routledge. ([url](http://libgen.rs/book/index.php?md5=FDD1A6CBEFEF95C7EDB630312F5CF965)).  
-         - Ragsdale, C. (2008). Introduction to modeling and decision analysis. In [*Spreadsheet modeling & decision analysis: A practical introduction to management science*](http://libgen.rs/book/index.php?md5=442D6BCA8F1998623582DEF3815DD9E9). Mason, MO, USA: Cengage Learning.  
-         - Ríos, S., Ríos, D., Mateos, A. y Martín, J. (1998). *Programación lineal y aplicaciones: Ejercicios resueltos*. México: Alfa Omega Ra Ma. ([pdf](http://library.lol/main/C3553551396E715FAD11F850D70DF9F2)).  
-         - Vanderbeck, E. J. (2017). *Principios de contabilidad de costos*. Cengage Learning. ([url](http://libgen.rs/book/index.php?md5=10A696DBB7D2AB1F5BAC60C0C868D51C)).	
+     ##### *Bibliografía Complementaria:*
+        - Barclay, S. *et al.* (1977). Diagramming and solving decisions problems. In *Handbook for Decisions Analysis: : Decisions and Designs* (pp. 1-20). Washington, D.C.: Advanced Research Projects Agency. ([pdf](https://files.eric.ed.gov/fulltext/ED153329.pdf)).  
+        - Cashin, J. A., Polimeni, R. S. (1980). *Contabilidad de costos*. Mexico: McGraw-Hill. ([url](http://libgen.rs/book/index.php?md5=84A7C8752F1C3869D0FFAE8D8ACEBEE4)).  
+        - Clemen, R. T y Kwit, R. C. (2001). The value of decision analysis at Eastman Kodak Company, 1990-1999. *Interfaces, 31*(5), pp. 74-92. ([pdf](https://sci-hub.se/10.1287/inte.31.5.74.9655)).  
+        - Clemen, R. T. y Reilly, T. (2004). *Making hard decisions with decision tools*. USA: Cengage Learning. ([url](http://libgen.rs/book/index.php?md5=741D87EE4E16DCFFD7BCBB4840CD6B78)).  
+        - Detsky, A. S., Redelmeier, D., y Abrams, H. B. (1987). What's wrong with decision analysis? Can the left brain influence the right?. *Journal of Chronic Diseases, 40*(9), pp. 831-836. ([pdf](https://libgen.rocks/ads.php?doi=10.1016/0021-9681%2887%2990181-0)).  
+        - Drury, C. (2020). *Management and cost accounting*. USA: Cengage Learning EMEA. ([url](http://libgen.rs/book/index.php?md5=32C869373F6352B932D6EF56FB9CD9D4)).  
+        - Parnell,G. S., Bresnick, T. A., & Tani, S. N. (2013). *Handbook of decision analysis*. Hoboken, New Jersey: John Wiley. ([pdf](http://library.wbi.ac.id/repository/135.pdf)).  
+        - Proctor, T. (2019). *Creative problem solving for managers: Developing skills for decision making and innovation*. London: Routledge. ([url](http://libgen.rs/book/index.php?md5=FDD1A6CBEFEF95C7EDB630312F5CF965)).  
+        - Ragsdale, C. (2008). Introduction to modeling and decision analysis. In [*Spreadsheet modeling & decision analysis: A practical introduction to management science*](http://libgen.rs/book/index.php?md5=442D6BCA8F1998623582DEF3815DD9E9). Mason, MO, USA: Cengage Learning.  
+        - Ríos, S., Ríos, D., Mateos, A. y Martín, J. (1998). *Programación lineal y aplicaciones: Ejercicios resueltos*. México: Alfa Omega Ra Ma. ([pdf](http://library.lol/main/C3553551396E715FAD11F850D70DF9F2)).  
+        - Vanderbeck, E. J. (2017). *Principios de contabilidad de costos*. Cengage Learning. ([url](http://libgen.rs/book/index.php?md5=10A696DBB7D2AB1F5BAC60C0C868D51C)).	
 
 
 ### Bibliografía General:
@@ -442,15 +442,15 @@ Que al finalizar el curso el alumno sea capaz de:
 - Sparxs Systems (2021). Enterprise Architect. Modeling Software. ([url](https://sparxsystems.com/)). ([torrents](https://thepiratebay.org/search.php?q=Enterprise+Architect&apps=on&search=Pirate+Search&page=0&orderby=))
 - Weick, K. E. (1995). *Sensemaking in organizations*. Thousand Oaks, CA, USA: Sage. ([url](http://libgen.rs/book/index.php?md5=6362CD2CBBE13DC182B79815E388052D)).
 
-- Recursos digitales en la UAM: biblioteca de la Unidad Iztapalapa ([url](http://contingencia.izt.uam.mx/wp-content/uploads/2020/04/Biblioteca-Nuevo-3b-bindani-B.pdf)), biblioteca digital ([url](https://bidi.uam.mx/index.html)), [recursos varios](http://pcyti.izt.uam.mx/recursos/infext/infoext.html). 
+- Recursos digitales en la UAM: biblioteca de la Unidad Iztapalapa ([url](http://contingencia.izt.uam.mx/wp-content/uploads/2020/04/Biblioteca-Nuevo-3b-bindani-B.pdf)), biblioteca digital ([url](https://bidi.uam.mx/index.html)), [recursos varios](http://pcyti.izt.uam.mx/recursos/infext/infoext.html).  
 - Recursos controversiales: [Library Genesis](http://gen.lib.rus.ec/) (libros, artículos, novelas), [**SciHub**](https://sci-hub.se/about) (artículos), [The Pirate Bay](https://thepiratebay.org/index.html) (P2P file sharing network) (archivos), [Academic Torrents](http://academictorrents.com/) (artículos, datos y cursos).
 - Repositorios de software: [Software para la comunidad UAM](https://www.uam.mx/ti/soft/), [AlternativeTo](https://alternativeto.net/), [SourceForge](https://sourceforge.net/), [CDLibre](https://www.cdlibre.org/), [Software Heritage](https://www.softwareheritage.org/?lang=es), [GitHub](https://github.com/github).
-- Hernández, L. (2012, Nov 16). **El Software Libre y la educación** por Richard Stallman. *YouTube* [url](https://www.youtube.com/watch?v=aRvorE9PJso) 
-- Valcheva, S. (s.f.). 10 Open Source Decision Tree Software Tools. [url](https://www.intellspot.com/open-source-decision-tree/)
+- Hernández, L. (2012, Nov 16). **El Software Libre y la educación** por Richard Stallman. *YouTube* ([url](https://www.youtube.com/watch?v=aRvorE9PJso)).  
+- Valcheva, S. (s.f.). 10 Open Source Decision Tree Software Tools. ([url](https://www.intellspot.com/open-source-decision-tree/)).
 
 - Universitat de les Illes Balears. Som UIB (2016, Sep 22). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([Lista de videos](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).
 - Wickham, H. & Grolemund, G. (2017). *R for data science: Import, tidy, transform, visualize, and model data*. O'Reilly. ([url](https://r4ds.had.co.nz/)). (R para ciencia de datos, [traducción español](https://r4ds-en-espaniol.netlify.app/)). (Solución de los ejercicios, [url](https://cienciadedatos.github.io/r4ds-soluciones/index.html)).
-- Teetor, P. (2019). *R cookbook: Proven recipes for data analysis, statistics, and graphics*. O'Reilly. [Online] ([url](https://rc2e.com/)). [[traducción al español](https://translate.google.com/translate?sl=en&tl=es&u=https://rc2e.com/)].
+- Teetor, P. (2019). *R cookbook: Proven recipes for data analysis, statistics, and graphics*. O'Reilly. [Online] ([url](https://rc2e.com/)). ([traducción al español](https://translate.google.com/translate?sl=en&tl=es&u=https://rc2e.com/)).
 - Wickham, H. & Grolemund, G. (2017). R for data science. [Online] ([url](https://r4ds.had.co.nz/)), [traducción al español] ([url](https://es.r4ds.hadley.nz/)).
 - RStudio cheatsheets. ([url](https://github.com/rstudio/cheatsheets)).
 
@@ -471,7 +471,7 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 **Notas:
   - **a).** Primer examen: *Teórico* (Unidades ) y *Práctico* (): Fecha: 
   - **b).** Segundo examen: *Teórico - Práctico* (Unidad 4): Fecha: 
-  - **Evaluación Global:** Todo el curso (Teoría y Práctica) para quienes tengan baja calificación o deseen subir: .
+  - **Evaluación Global:** Todo el curso (Teoría y Práctica) para quienes tengan baja calificación o deseen subir.
   - **Entrega de calificaciones:** .
 
 La *evaluación final* será un examen teórico-práctico que versará sobre la totalidad de las unidades. 
