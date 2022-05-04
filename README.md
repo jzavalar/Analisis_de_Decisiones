@@ -100,10 +100,10 @@ Que al finalizar el curso el alumno sea capaz de:
    
       *Parte 5*. Descargue e instale el siguiente software portable en una USB: *LibreOffice* (suite de oficina) ([portable](https://portableapps.com/apps/office/libreoffice_portable)), *7-zip* (compresor/descompresor) ([portable](https://portableapps.com/apps/utilities/7-zip_portable)), [*R Portable*](https://sourceforge.net/projects/rportable/files/R-Portable/)) (estadística) y [*RStudio Portable*](https://sourceforge.net/projects/rportable/files/R-Studio/) (estadística).
 
-##### *Bibliografía Complementaria:*
-- Ibiza, D. (2018, Apr 3). 1. Introducción a *Google Drive*: Primeros pasos ([tutorial](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=330s)), 2. Gestión de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=2042s)), 3. Opciones de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=3313s)), 4. Cómo compartir archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=4238s)), 5. Trabajar con documentos ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=5222s)) . In Tutorial Google Drive | Completo | Principiantes | Paso a Paso. YouTube. (video). ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk)).
-- Universitat de les Illes Balears. Som UIB (2021). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([url](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).
-- Alva Majo. (2018, Jul 11). Aprende a programar en 11 minutos. *YouTube* [video]. (12:32 min). ([url](https://www.youtube.com/watch?v=TAyyujKoY6k)). (Lectura 2.1.)
+      ##### *Bibliografía Complementaria:*
+         - Ibiza, D. (2018, Apr 3). 1. Introducción a *Google Drive*: Primeros pasos ([tutorial](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=330s)), 2. Gestión de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=2042s)), 3. Opciones de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=3313s)), 4. Cómo compartir archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=4238s)), 5. Trabajar con documentos ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=5222s)) . In Tutorial Google Drive | Completo | Principiantes | Paso a Paso. YouTube. (video). ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk)).
+        - Universitat de les Illes Balears. Som UIB (2021). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([url](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).
+        - Alva Majo. (2018, Jul 11). Aprende a programar en 11 minutos. *YouTube* [video]. (12:32 min). ([url](https://www.youtube.com/watch?v=TAyyujKoY6k)). (Lectura 2.1.)
 
 
 #### Unidad 1. Presentación
@@ -174,13 +174,13 @@ Que al finalizar el curso el alumno sea capaz de:
   
       Saque sus conclusiones y documente en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
 
-##### Bibliografía Obligatoria:
-- Witzel, M. (2012). 9 From Scientific Management to Management Science. In *A history of management thought* (capítulo 9). London: Routledge. ([url](https://www.amazon.com/History-Management-Thought-Morgen-Witzel/dp/0415600588)) ([torrent](https://thepiratebay.org/description.php?id=7912663)) ([epub url](http://libgen.rs/book/index.php?md5=1F104CC3F1936AF817CC64261EBDB0DA)). (*Lectura 1.1.*).
-- Drucker, P. F. (1955). "Management Science" and the manager. *Management Science 1*(2), 115-126. doi: http://doi.org/10.1287/mnsc.1.2.115 ([pdf](http://libgen.rs/scimag/10.1287%2Fmnsc.1.2.115)). (*Lectura 1.2*).
-- Zavala, J. (2016). El análisis de decisiones: Un panorama histórico-metodológico. (Mimeo). (Disponible en el grupo de Telegram). (*Lectura 1.3*).  
+      ##### *Bibliografía Obligatoria:*
+         - Witzel, M. (2012). 9 From Scientific Management to Management Science. In *A history of management thought* (capítulo 9). London: Routledge. ([url](https://www.amazon.com/History-Management-Thought-Morgen-Witzel/dp/0415600588)) ([torrent](https://thepiratebay.org/description.php?id=7912663)) ([epub url](http://libgen.rs/book/index.php?md5=1F104CC3F1936AF817CC64261EBDB0DA)). (*Lectura 1.1.*).
+         - Drucker, P. F. (1955). "Management Science" and the manager. *Management Science 1*(2), 115-126. doi: http://doi.org/10.1287/mnsc.1.2.115 ([pdf](http://libgen.rs/scimag/10.1287%2Fmnsc.1.2.115)). (*Lectura 1.2*).
+         - Zavala, J. (2016). El análisis de decisiones: Un panorama histórico-metodológico. (Mimeo). (Disponible en el grupo de Telegram). (*Lectura 1.3*).  
 
-##### Bibliografía Obligatoria:
-- Ensmenger, N. L. (2010). The *cosa nostra* of the data processing industry. In *The computer boys take over: Computers, programmers, and the politics of technical expertise* (pp. 137-161). USA: The MIT Press. ([pdf](https://www.mondotheque.be/wiki/images/0/0b/Ensmenger_The_Computer_Boys_Take_Over%28BookZZ.org%29.pdf))
+      ##### *Bibliografía Obligatoria:*
+         - Ensmenger, N. L. (2010). The *cosa nostra* of the data processing industry. In *The computer boys take over: Computers, programmers, and the politics of technical expertise* (pp. 137-161). USA: The MIT Press. ([pdf](https://www.mondotheque.be/wiki/images/0/0b/Ensmenger_The_Computer_Boys_Take_Over%28BookZZ.org%29.pdf))
 
 
 #### Unidad 2. La toma de decisiones y la teoría de la elección racional
@@ -247,25 +247,25 @@ Que al finalizar el curso el alumno sea capaz de:
       Suba las fotos (legibles) de la tarea a su cuenta de *Google Drive*, en la carpeta respectiva, con el nombre de la tarea.  
   
       Saque sus conclusiones y documente en un video la realización de la tarea y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
-  
-##### Bibliografía Obligatoria: 
-- Pérez, D. (2013). Elección racional. *YouTube*. ([Video 2.1](https://www.youtube.com/watch?v=tPj2sEBdB3s)) (10:51 min). (Identificar los postulados básicos de la elección racional).  
-- Simon, H. A. (2016/1992). Why decision making is so difficult. *YouTube*. ([Video 2.2](https://www.youtube.com/watch?v=eTXkZURBq7k&list=PL1s8eXa4Q_bjXPayLmo1Hbq5cJLzcwZz7&index=3)). (2:19 min). (Identificar la complejidad de la toma de decisiones).  
-- Elster, J. (2013). Racionalidad e interés: Tratado de hombre económico contemporáneo. ([Video 2.3](https://www.youtube.com/watch?v=aBfrWUXI9ns)). (1:11:34 hr). (Identificar los postulados de la teoría de la racionalidad limitada, sus éxitos y fracasos). 
-- Sun Tzu. *El arte de la guerra*. *YouTube*. ([Video 2.4](https://www.youtube.com/watch?v=tp8-VK56O90)). (1:30:38 hr).  
-- Simon, H. A. (1955). A behavioral model of rational choice, *The Quarterly Journal of Economics, 69*(1), 99-118. ([pdf](https://www.suz.uzh.ch/dam/jcr:ffffffff-fad3-547b-ffff-fffff0bf4572/10.18-simon-55.pdf)). (*Lectura 2.5*).  
-- Simon, H. A. (2000). Bounded rationality in social science: Today and tomorrow. *Mind & Society, 1*(1), 25-39. ([pdf](http://ipwna.ir/wp-content/uploads/2018/08/Bounded_rationality_in_social_Today-and-Tomorrow-irpublicpolicy.pdf)). (*Lectura 2.6*). 
-- Cameron, S. (2002). Tools of the trade: Rational choice.  In *The economics of sin: Rational choice or no choice at all?* (pp. 14-39). Cheltenham, Glos, U.K.: Edward Elgar Publishing. ([url](http://libgen.rs/search.php?req=The+economics+of+sin%3A+Rational+choice+or+no+choice+at+all%3F&open=0&res=100&view=simple&phrase=1&column=title)) (*Lectura 2.7*). (Identificar los postulados de la teoría de la racionalidad limitada).  
 
-##### Bibliografía Complementaria:
-- Foucault, M. (1988). El sujeto y el poder. *Revista Mexicana de Sociología, 50*(3) (Jul - Sep), 3-20. ([pdf](https://perio.unlp.edu.ar/catedras/cdac/wp-content/uploads/sites/96/2020/03/T-FOUCAULT-El-sujeto-y-el-poder.pdf)).
-- Cabantous, L. y Gond, J-P. (2010). Rational decision making as performative praxis: Explaining rationality's Éternel Retour. *Organization Science,22*(3), 573-586. ([pdf](https://openaccess.city.ac.uk/id/eprint/6929/1/)).
-- Kurtz, C. F. y Snowden, D. J. (2003). The new dynamics of strategy: Sense-making in a complex and complicated world. *IBM Systems Journal, 42*(3), 462-483. ([pdf](https://www.researchgate.net/publication/3228283_The_new_dynamics_of_strategy_Sense-making_in_a_complex_and_complicated_world)).
-- Novikov, D.A. (2016). *Cybernetics: From past to future*. Springer. ([url](http://libgen.rs/book/index.php?md5=C3E6D1E999983C24D496BE7CC10A69F5))
-- New Economic Thinking (2015). The death of ‘*Homo economicus*’. *YouTube*. ([Video](https://www.youtube.com/watch?v=ParPPYMzfQM)). (20:29 min).
-- Searle, J. R. (2003). The classical model of rationality and its weaknesses. In (auth.) *Rationality in action* (pp. 1-32). Cambridge: The MIT Press. ([url](http://libgen.rs/book/index.php?md5=AE2CE1B934DFC35B2B1D8B12D2BEC6D3)).
+      ##### *Bibliografía Obligatoria:* 
+         - Pérez, D. (2013). Elección racional. *YouTube*. ([Video 2.1](https://www.youtube.com/watch?v=tPj2sEBdB3s)) (10:51 min). (Identificar los postulados básicos de la elección racional).  
+         - - Simon, H. A. (2016/1992). Why decision making is so difficult. *YouTube*. ([Video 2.2](https://www.youtube.com/watch?v=eTXkZURBq7k&list=PL1s8eXa4Q_bjXPayLmo1Hbq5cJLzcwZz7&index=3)). (2:19 min). (Identificar la complejidad de la toma de decisiones).
+         - Elster, J. (2013). Racionalidad e interés: Tratado de hombre económico contemporáneo. ([Video 2.3](https://www.youtube.com/watch?v=aBfrWUXI9ns)). (1:11:34 hr). (Identificar los postulados de la teoría de la racionalidad limitada, sus éxitos y fracasos).  
+         - Sun Tzu. *El arte de la guerra*. *YouTube*. ([Video 2.4](https://www.youtube.com/watch?v=tp8-VK56O90)). (1:30:38 hr).  
+         - Simon, H. A. (1955). A behavioral model of rational choice, *The Quarterly Journal of Economics, 69*(1), 99-118. ([pdf](https://www.suz.uzh.ch/dam/jcr:ffffffff-fad3-547b-ffff-fffff0bf4572/10.18-simon-55.pdf)). (*Lectura 2.5*).  
+         - Simon, H. A. (2000). Bounded rationality in social science: Today and tomorrow. *Mind & Society, 1*(1), 25-39. ([pdf](http://ipwna.ir/wp-content/uploads/2018/08/Bounded_rationality_in_social_Today-and-Tomorrow-irpublicpolicy.pdf)). (*Lectura 2.6*).  
+         - Cameron, S. (2002). Tools of the trade: Rational choice.  In *The economics of sin: Rational choice or no choice at all?* (pp. 14-39). Cheltenham, Glos, U.K.: Edward Elgar Publishing. ([url](http://libgen.rs/search.php?req=The+economics+of+sin%3A+Rational+choice+or+no+choice+at+all%3F&open=0&res=100&view=simple&phrase=1&column=title)) (*Lectura 2.7*). (Identificar los postulados de la teoría de la racionalidad limitada).  
 
+      ##### *Bibliografía Complementaria:*
+         - Foucault, M. (1988). El sujeto y el poder. *Revista Mexicana de Sociología, 50*(3) (Jul - Sep), 3-20. ([pdf](https://perio.unlp.edu.ar/catedras/cdac/wp-content/uploads/sites/96/2020/03/T-FOUCAULT-El-sujeto-y-el-poder.pdf)).  
+         - Cabantous, L. y Gond, J-P. (2010). Rational decision making as performative praxis: Explaining rationality's Éternel Retour. *Organization Science,22*(3), 573-586. ([pdf](https://openaccess.city.ac.uk/id/eprint/6929/1/)).  
+         - Kurtz, C. F. y Snowden, D. J. (2003). The new dynamics of strategy: Sense-making in a complex and complicated world. *IBM Systems Journal, 42*(3), 462-483. ([pdf](https://www.researchgate.net/publication/3228283_The_new_dynamics_of_strategy_Sense-making_in_a_complex_and_complicated_world)).  
+         - Novikov, D.A. (2016). *Cybernetics: From past to future*. Springer. ([url](http://libgen.rs/book/index.php?md5=C3E6D1E999983C24D496BE7CC10A69F5)).  
+         - New Economic Thinking (2015). The death of ‘*Homo economicus*’. *YouTube*. ([Video](https://www.youtube.com/watch?v=ParPPYMzfQM)). (20:29 min).  
+         - Searle, J. R. (2003). The classical model of rationality and its weaknesses. In (auth.) *Rationality in action* (pp. 1-32). Cambridge: The MIT Press. ([url](http://libgen.rs/book/index.php?md5=AE2CE1B934DFC35B2B1D8B12D2BEC6D3)).
 
+ 
 #### Unidad 3. El análisis de decisiones
 1. ¿Qué es el análisis de decisiones?
 3. Alcances y limitaciones del análisis de decisiones
@@ -346,19 +346,19 @@ Que al finalizar el curso el alumno sea capaz de:
       Suban los archivos de la práctica, creados o modificados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.  
   
       Documenten en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial y compartan el video en el grupo de Telegram.
-  
-##### Bibliografía Obligatoria:
-- Mote, V. L. y Meenakshi Malya, M. (1970). Decision analysis: Experiences and expectations. *Economic and Political Weekly, 5*(22), M53+M55+M57-M58. ([url](https://www.jstor.org/stable/4360049)) ([pdf](https://sci-hub.se/10.2307/4360049)). (Lectura 3.1).
-- Goodwin, P. y Wright, G. (2004). Introduction. In *[Decision analysis for management judgment](http://libgen.rs/book/index.php?md5=3B2F1C8F5947F079F9064CA6BAA7031B)* (pp. 1-13). Chichester, West Sussex, England: John Wiley & Sons. (Lectura 3.2).
-- Howard, R. A. (1988). Decision analysis: practice and promise, *Management Science, 34*(6), 679-695. ([url](https://www.jstor.org/stable/2632123)) ([pdf](https://sci-hub.se/10.2307/2632123)). (Lectura 3.3).
-- Howard, R. A. (1968). The foundations of decision analysis. *IEEE Transactions on Systems Science and Cybernetics, 4*(3), 211-219. ([url](https://ieeexplore.ieee.org/abstract/document/4082150)) ([pdf](https://sci-hub.se/10.1109/TSSC.1968.300115)). (Lectura 3.4).  
 
-##### Bibliografía Complementaria:
-- Garber, R. (2009). An interview with Ronald A. Howard. *Decision Analysis, 6*(4), 263–272. ([url](https://pubsonline.informs.org/doi/pdf/10.1287/deca.1090.0160)) ([pdf](https://sci-hub.se/10.1287/deca.1090.0160)).  
-- Goodwin, P. y Wright, G. (2003). How the people make decisions involving multiple objectives. In *[Decision analysis for management judgment](http://libgen.rs/book/index.php?md5=3B2F1C8F5947F079F9064CA6BAA7031B)* (pp. 14-26). Chichester, West Sussex, England: John Wiley & Sons.  
-- Howard, R. A. (1966). *Decision analysis: Applied decision theory*. ([pdf](http://www.sdg.com/wp-content/uploads/2015/06/Decision-Analysis-Applied-Decision-Theory.pdf)).  
-- Ralph L. Keeney, R. L. (1982). Feature Article - Decision analysis: An overview. *Operations Research, 30*(5), 803-838. ([pdf](https://pubsonline.informs.org/doi/pdf/10.1287/opre.30.5.803)).  
-- Smith, J. E. y von Winterfeldt, D. (2004). Decision Analysis in "Management Science". *Management Science, 50*(5), 561-574. ([pdf](https://sci-hub.se/10.2307/30046097)).  
+      ##### *Bibliografía Obligatoria:*
+         - Mote, V. L. y Meenakshi Malya, M. (1970). Decision analysis: Experiences and expectations. *Economic and Political Weekly, 5*(22), M53+M55+M57-M58. ([url](https://www.jstor.org/stable/4360049)) ([pdf](https://sci-hub.se/10.2307/4360049)). (Lectura 3.1).  
+         - Goodwin, P. y Wright, G. (2004). Introduction. In *[Decision analysis for management judgment](http://libgen.rs/book/index.php?md5=3B2F1C8F5947F079F9064CA6BAA7031B)* (pp. 1-13). Chichester, West Sussex, England: John Wiley & Sons. (Lectura 3.2).  
+         - Howard, R. A. (1988). Decision analysis: practice and promise, *Management Science, 34*(6), 679-695. ([url](https://www.jstor.org/stable/2632123)) ([pdf](https://sci-hub.se/10.2307/2632123)). (Lectura 3.3).  
+         - Howard, R. A. (1968). The foundations of decision analysis. *IEEE Transactions on Systems Science and Cybernetics, 4*(3), 211-219. ([url](https://ieeexplore.ieee.org/abstract/document/4082150)) ([pdf](https://sci-hub.se/10.1109/TSSC.1968.300115)). (Lectura 3.4).  
+
+      ##### *Bibliografía Complementaria:*
+         - Garber, R. (2009). An interview with Ronald A. Howard. *Decision Analysis, 6*(4), 263–272. ([url](https://pubsonline.informs.org/doi/pdf/10.1287/deca.1090.0160)) ([pdf](https://sci-hub.se/10.1287/deca.1090.0160)).  
+         - Goodwin, P. y Wright, G. (2003). How the people make decisions involving multiple objectives. In *[Decision analysis for management judgment](http://libgen.rs/book/index.php?md5=3B2F1C8F5947F079F9064CA6BAA7031B)* (pp. 14-26). Chichester, West Sussex, England: John Wiley & Sons.  
+         - Howard, R. A. (1966). *Decision analysis: Applied decision theory*. ([pdf](http://www.sdg.com/wp-content/uploads/2015/06/Decision-Analysis-Applied-Decision-Theory.pdf)).  
+         - Ralph L. Keeney, R. L. (1982). Feature Article - Decision analysis: An overview. *Operations Research, 30*(5), 803-838. ([pdf](https://pubsonline.informs.org/doi/pdf/10.1287/opre.30.5.803)).  
+         - Smith, J. E. y von Winterfeldt, D. (2004). Decision Analysis in "Management Science". *Management Science, 50*(5), 561-574. ([pdf](https://sci-hub.se/10.2307/30046097)).  
 
 
 #### Unidad 4. Los problemas de decisión
@@ -411,22 +411,22 @@ Que al finalizar el curso el alumno sea capaz de:
   
       Saquen sus conclusiones y suban los archivos creados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.
 
-##### Bibliografía Obligatoria:
-- Ley-Borrás, R. (2015). Deciding on the decision situation to analyze: The critical first step of a decision analysis. *Decision Analysis, 12*(1), pp. 46-58. ([pdf](https://sci-hub.se/10.1287/deca.2014.0308)) (*Lectura 4.1*).
-- Keeney, R. L. (2007). Developing objectives and attributes. In W. Edwards, R. F. Miles y D. von Winterfeldt. (2007). [*Advances in Decision Analysis: From foundations to applications*](http://libgen.rs/book/index.php?md5=AE826E7206D6FE17FD495BDB3BE0BC7B) (pp. 104-128), Cambridge: Cambridge University Press. (*Lectura 4.2*).
+       ##### *Bibliografía Obligatoria:*
+         - Ley-Borrás, R. (2015). Deciding on the decision situation to analyze: The critical first step of a decision analysis. *Decision Analysis, 12*(1), pp. 46-58. ([pdf](https://sci-hub.se/10.1287/deca.2014.0308)) (*Lectura 4.1*).  
+         - Keeney, R. L. (2007). Developing objectives and attributes. In W. Edwards, R. F. Miles y D. von Winterfeldt. (2007). [*Advances in Decision Analysis: From foundations to applications*](http://libgen.rs/book/index.php?md5=AE826E7206D6FE17FD495BDB3BE0BC7B) (pp. 104-128), Cambridge: Cambridge University Press. (*Lectura 4.2*).  
 
-##### Bibliografía Complementaria:
-- Barclay, S. *et al.* (1977). Diagramming and solving decisions problems. In *Handbook for Decisions Analysis: : Decisions and Designs* (pp. 1-20). Washington, D.C.: Advanced Research Projects Agency. ([pdf](https://files.eric.ed.gov/fulltext/ED153329.pdf)).
-- Cashin, J. A., Polimeni, R. S. (1980). *Contabilidad de costos*. Mexico: McGraw-Hill. ([url](http://libgen.rs/book/index.php?md5=84A7C8752F1C3869D0FFAE8D8ACEBEE4)).
-- Clemen, R. T y Kwit, R. C. (2001). The value of decision analysis at Eastman Kodak Company, 1990-1999. *Interfaces, 31*(5), pp. 74-92. ([pdf](https://sci-hub.se/10.1287/inte.31.5.74.9655)). 
-- Clemen, R. T. y Reilly, T. (2004). *Making hard decisions with decision tools*. USA: Cengage Learning. ([url](http://libgen.rs/book/index.php?md5=741D87EE4E16DCFFD7BCBB4840CD6B78)).
-- Detsky, A. S., Redelmeier, D., y Abrams, H. B. (1987). What's wrong with decision analysis? Can the left brain influence the right?. *Journal of Chronic Diseases, 40*(9), pp. 831-836. ([pdf](https://libgen.rocks/ads.php?doi=10.1016/0021-9681%2887%2990181-0)).  
-- Drury, C. (2020). *Management and cost accounting*. USA: Cengage Learning EMEA. ([url](http://libgen.rs/book/index.php?md5=32C869373F6352B932D6EF56FB9CD9D4)).
-- Parnell,G. S., Bresnick, T. A., & Tani, S. N. (2013). *Handbook of decision analysis*. Hoboken, New Jersey: John Wiley. ([pdf](http://library.wbi.ac.id/repository/135.pdf)).
-- Proctor, T. (2019). *Creative problem solving for managers: Developing skills for decision making and innovation*. London: Routledge. ([url](http://libgen.rs/book/index.php?md5=FDD1A6CBEFEF95C7EDB630312F5CF965)).
-- Ragsdale, C. (2008). Introduction to modeling and decision analysis. In [*Spreadsheet modeling & decision analysis: A practical introduction to management science*](http://libgen.rs/book/index.php?md5=442D6BCA8F1998623582DEF3815DD9E9). Mason, MO, USA: Cengage Learning.  
-- Ríos, S., Ríos, D., Mateos, A. y Martín, J. (1998). *Programación lineal y aplicaciones: Ejercicios resueltos*. México: Alfa Omega Ra Ma. ([pdf](http://library.lol/main/C3553551396E715FAD11F850D70DF9F2)).
-- Vanderbeck, E. J. (2017). *Principios de contabilidad de costos*. Cengage Learning. ([url](http://libgen.rs/book/index.php?md5=10A696DBB7D2AB1F5BAC60C0C868D51C)).	
+       ##### *Bibliografía Complementaria:*
+         - Barclay, S. *et al.* (1977). Diagramming and solving decisions problems. In *Handbook for Decisions Analysis: : Decisions and Designs* (pp. 1-20). Washington, D.C.: Advanced Research Projects Agency. ([pdf](https://files.eric.ed.gov/fulltext/ED153329.pdf)).  
+         - Cashin, J. A., Polimeni, R. S. (1980). *Contabilidad de costos*. Mexico: McGraw-Hill. ([url](http://libgen.rs/book/index.php?md5=84A7C8752F1C3869D0FFAE8D8ACEBEE4)).  
+         - Clemen, R. T y Kwit, R. C. (2001). The value of decision analysis at Eastman Kodak Company, 1990-1999. *Interfaces, 31*(5), pp. 74-92. ([pdf](https://sci-hub.se/10.1287/inte.31.5.74.9655)).  
+         - Clemen, R. T. y Reilly, T. (2004). *Making hard decisions with decision tools*. USA: Cengage Learning. ([url](http://libgen.rs/book/index.php?md5=741D87EE4E16DCFFD7BCBB4840CD6B78)).  
+         - Detsky, A. S., Redelmeier, D., y Abrams, H. B. (1987). What's wrong with decision analysis? Can the left brain influence the right?. *Journal of Chronic Diseases, 40*(9), pp. 831-836. ([pdf](https://libgen.rocks/ads.php?doi=10.1016/0021-9681%2887%2990181-0)).  
+         - Drury, C. (2020). *Management and cost accounting*. USA: Cengage Learning EMEA. ([url](http://libgen.rs/book/index.php?md5=32C869373F6352B932D6EF56FB9CD9D4)).  
+         - Parnell,G. S., Bresnick, T. A., & Tani, S. N. (2013). *Handbook of decision analysis*. Hoboken, New Jersey: John Wiley. ([pdf](http://library.wbi.ac.id/repository/135.pdf)).  
+         - Proctor, T. (2019). *Creative problem solving for managers: Developing skills for decision making and innovation*. London: Routledge. ([url](http://libgen.rs/book/index.php?md5=FDD1A6CBEFEF95C7EDB630312F5CF965)).  
+         - Ragsdale, C. (2008). Introduction to modeling and decision analysis. In [*Spreadsheet modeling & decision analysis: A practical introduction to management science*](http://libgen.rs/book/index.php?md5=442D6BCA8F1998623582DEF3815DD9E9). Mason, MO, USA: Cengage Learning.  
+         - Ríos, S., Ríos, D., Mateos, A. y Martín, J. (1998). *Programación lineal y aplicaciones: Ejercicios resueltos*. México: Alfa Omega Ra Ma. ([pdf](http://library.lol/main/C3553551396E715FAD11F850D70DF9F2)).  
+         - Vanderbeck, E. J. (2017). *Principios de contabilidad de costos*. Cengage Learning. ([url](http://libgen.rs/book/index.php?md5=10A696DBB7D2AB1F5BAC60C0C868D51C)).	
 
 
 ### Bibliografía General:
