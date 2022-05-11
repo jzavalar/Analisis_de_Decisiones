@@ -411,6 +411,17 @@ Que al finalizar el curso el alumno sea capaz de:
       
      Saquen sus conclusiones y suban los archivos creados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.
 
+   - *Práctica 4.3*: *las decisiones grupales: Un enfoque deontológico*. (Fecha de entrega: 16 de mayo de 2022).    
+      
+     *Objetivo*: Comprender la complejidad de la toma de decisiones grupales y la importancia de la ética.    
+      
+     *Parte 0*: Organícense en parejas.  
+  
+     *Parte 1*: Resuelvan el siguiente [cuestionario](https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/main/Unidad%204.%20Cuestionario.md).  
+ 
+     Saquen sus conclusiones y suban los archivos creados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la tarea.
+
+
      ##### *Bibliografía Obligatoria:*
         - Ley-Borrás, R. (2015). Deciding on the decision situation to analyze: The critical first step of a decision analysis. *Decision Analysis, 12*(1), pp. 46-58. ([pdf](https://sci-hub.se/10.1287/deca.2014.0308)) (*Lectura 4.1*).  
         - Keeney, R. L. (2007). Developing objectives and attributes. In W. Edwards, R. F. Miles y D. von Winterfeldt. (2007). [*Advances in Decision Analysis: From foundations to applications*](http://libgen.rs/book/index.php?md5=AE826E7206D6FE17FD495BDB3BE0BC7B) (pp. 104-128), Cambridge: Cambridge University Press. (*Lectura 4.2*).
