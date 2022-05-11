@@ -411,13 +411,13 @@ Que al finalizar el curso el alumno sea capaz de:
       
      Saquen sus conclusiones y suban los archivos creados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.
 
-   - *Práctica 4.3*: *las decisiones grupales: Un enfoque deontológico*. (Fecha de entrega: 16 de mayo de 2022).    
+   - *Práctica 4.3*: *las decisiones grupales: Un enfoque deontológico*. (Fecha de entrega: 16 de mayo de 2022, 1 punto extra).    
       
      *Objetivo*: Comprender la complejidad de la toma de decisiones grupales y la importancia de la ética.    
       
      *Parte 0*: Organícense en parejas.  
   
-     *Parte 1*: Resuelvan el siguiente [cuestionario](https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/main/Unidad%204.%20Cuestionario.md).  
+     *Parte 1*: Resuelvan el siguiente [cuestionario]().  
  
      Saquen sus conclusiones y suban los archivos creados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la tarea.
 
