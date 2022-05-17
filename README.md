@@ -426,7 +426,7 @@ Que al finalizar el curso el alumno sea capaz de:
         - Rojas, G., Fernandez, E., Whitney, C., Luedeling, E. & Cuneo, I. F. (2021). Adapting sweet cherry orchards to extreme weather events: Decision analysis in support of farmers "Investments in Central Chile.” *Agricultural Systems* 187(February): 103031. DOI: https://doi.org/10.1016/j.agsy.2020.103031 . ([url](https://sci-hub.se/10.1016/j.agsy.2020.103031)). ([video](https://www.youtube.com/watch?v=kpsqzkeg53Y)). (**Estudio de caso**). (*Lectura 4.3*).  
 
      ##### *Bibliografía Complementaria:*
-        - Barclay, S. *et al.* (1977). Diagramming and solving decisions problems. In *Handbook for Decisions Analysis: : Decisions and Designs* (pp. 1-20). Washington, D.C.: Advanced Research Projects Agency. ([pdf](https://files.eric.ed.gov/fulltext/ED153329.pdf)).  
+        - Barclay, S. *et al.* (1977). Diagramming and solving decisions problems. In *Handbook for Decisions Analysis: Decisions and Designs* (pp. 1-20). Washington, D.C.: Advanced Research Projects Agency. ([pdf](https://files.eric.ed.gov/fulltext/ED153329.pdf)).  
         - Cashin, J. A., Polimeni, R. S. (1980). *Contabilidad de costos*. Mexico: McGraw-Hill. ([url](http://libgen.rs/book/index.php?md5=84A7C8752F1C3869D0FFAE8D8ACEBEE4)).  
         - Clemen, R. T y Kwit, R. C. (2001). The value of decision analysis at Eastman Kodak Company, 1990-1999. *Interfaces, 31*(5), pp. 74-92. ([pdf](https://sci-hub.se/10.1287/inte.31.5.74.9655)).  
         - Clemen, R. T. y Reilly, T. (2004). *Making hard decisions with decision tools*. USA: Cengage Learning. ([url](http://libgen.rs/book/index.php?md5=741D87EE4E16DCFFD7BCBB4840CD6B78)).  
