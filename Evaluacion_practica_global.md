@@ -29,7 +29,7 @@ sample(x=1:3, size=2)
     - El problema es **no acotado**, justifique su respuesta a partir de la interpretación de la salida de las funciones.  
     - El Problema es **infactible**, justifique su respuesta a partir de la interpretación de la salida de las funciones.   
 
-- *Parte 4: Árbol de decisiones*. Estudie los árboles de decisiones que se incluyen en la siguiente [referencia]([https://drive.google.com/file/d/1WkzDqi0hwV8_ObUys3oExHip0eiRr6Wb/view?usp=sharing](https://www.youtube.com/watch?v=MRULBcvqYus)).
+- *Parte 4: Árbol de decisiones*. Estudie los árboles de decisiones que se incluyen en la siguiente [referencia](https://www.youtube.com/watch?v=MRULBcvqYus)).
   Luego, codifíquelos (estos son sus primeros entregables) y resuélvalos con `Radiant` (estos son sus segundos entregables), interprete los resultados y compárelo con la solución de la referencia. Finalmente, saque sus conclusiones.  
   Asegúsese de que su informe sea reproducible en el archivo RMarkdown. Exponga el problema y haga los cambios que permitan explicar lo suficientemente claro el algoritmo de solución. Si requiere use este [tutorial](https://radiant-rstats.github.io/docs/programming.html).
  
