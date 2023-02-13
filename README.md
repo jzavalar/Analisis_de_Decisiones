@@ -3,11 +3,11 @@
 ## Programa Analítico de la UEA An (Teoría y Práctica)
 ## Licenciatura en Administración
 
-**Clave de la UEA:** *2211092*, **Grupos:** *HE11* y *HE12*, **Trimestre:** *22-I*
+**Clave de la UEA:** *2211092*, **Grupos:** *HE51* y *HE12*, **Trimestre:** *22-I*
 
-**Horario:** *Lunes y miércoles* de *12:00 a 14:00* (**Grupo:** *HE11*) y de *16:00 a 18:00* (**Grupo:** *HE12*).
+**Horario:** *Lunes y miércoles* de *14:00 a 16:00*.
 
-**Salón:** Transmisión de la clase *vía remota* por [Telegram](https://telegram.org/apps) a través del canal privado respectivo.
+**Salón:** Anexo A, Sala J (AA-J).
 
 **Asesorías:**  *Martes* de *20:00* a *22:00 hr*, vía [Telegram](https://telegram.org/apps), previa solicitud.
 
@@ -30,14 +30,13 @@ Desde los años 1950s, el concepto de *análisis de sistemas* ha permanecido, ha
 ^
 En 1961 se institucionalizó la *investigación de operaciones y el análisis de sistemas* (*Operations Research and Systems Analysis, ORSA*) y, para 1967, la investigación de operaciones se atribuía a sí misma como objetivo la toma de decisiones (cf. Beer, 1967)[^5] y el *análisis de sistemas* se convirtió, *de facto*, en *análisis de decisiones*, sin usar ese término. Así, la ciencia de la administración se convirtió en una confluencia interdisciplinaria, que algunos autores como Witzel (2012)[^6] consideran que si bien surgió como disciplina del conocimiento en la década de 1950s, con la expansión del pensamiento administrativo a nivel mundial, es la consecuencia de la evolución del pensamiento de la Administración Científica (*Scientific Management*), propuesta por Frederick. W. Taylor a principios del siglo XX.
 
-Desde la década de 1970, la toma de decisiones agrupó las más diversas disciplinas, como las matemáticas, la sociología, la economía y la ciencia política (Buchanan y O’Connell, 2006, p. 32)[^7], así como las ciencias de la computación en la forma de la *teoría de la información*, la *cibernética*, la *inteligencia artificial* y el *pensamiento sistémico*. Así, las ciencias de la computación y la estadística fortalecieron el desarrollo de la investigación de operaciones dando origen al término *análisis de decisiones* (*decision analysis*), que alcanzó su auge en la década de 1980s.
+Desde la década de 1970, la toma de decisiones agrupó las más diversas disciplinas, como las matemáticas, la sociología, la economía y la ciencia política (Buchanan y O’Connell, 2006, p. 32)[^7], así como las ciencias de la computación en la forma de la *teoría de la información*, la *cibernética*, la *inteligencia artificial* y el *pensamiento sistémico*. Así, las ciencias de la computación y la estadística fortalecieron el desarrollo de la investigación de operaciones dando origen al término *análisis de decisiones* (*decision analysis*), que alcanzó su auge en la década de 1980s.  
 
 En la actualidad, el **análisis de decisiones se considera**: (1) un **campo multidisciplinario** o una *rama de la investigación de operaciones* que “usa las matemáticas aplicadas y el razonamiento científico para encontrar soluciones óptimas a problemas complejos” (Chen, Schauver y Chunk, 2009, p. 983)[^8], es decir, a problemas que involucran múltiples variables, objetivos, incertidumbres y restricciones, pero también múltiples involucrados (*stakeholders*) y tomadores de decisiones; (2) una **herramienta metodológica** que “permite la evaluación cuantitativa de la toma de decisiones bajo condiciones de incertidumbre” (idem); (3) una **filosofía** o **postura epistemológica** que pretende responder a preguntas tales como las siguientes “¿Cómo deben evaluarse las opciones cuando las consecuencias son inciertas? ¿Cuándo se tiene suficiente información para tomar una decisión? ¿Cuánto se debe pagar por nueva información que reduzca la incertidumbre? ¿Cuál es el nivel de riesgo ‘correcto’?” (Call y Miller, 1990, pp. 116, 115)[^9].
 
 La UEA *Análisis de Decisiones* se enfoca en desarrollar las habilidades de *pensamiento estratégico cuantitativo* indispensables para la toma de decisiones complejas. Esta UEA es parte del paquete de UEA cuantitativas de la Licenciatura en Administración y la primera de aplicación específica a la toma de decisiones. Estas habilidades van de la mano con el uso de computadoras digitales y software especializado, para que se percaten de la importancia que tiene en la administración de las empresas privadas, la administración pública y las organizaciones, en general.
 
-[Programa vigente](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211092pe.pdf).
-[Programa vigente de la UEA prerrequisito UEA Estadística I](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2132044pe.pdf).
+Considere el [programa oficial vigente de la UEA](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211092pe.pdf) y el [programa oficial vigente de Estadística I](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2132044pe.pdf), la UEA prerrequisito.
 
 [Calendario UAM vigente](http://www.uam.mx/calendario/index.html).
 
@@ -61,14 +60,12 @@ Que al finalizar el curso el alumno sea capaz de:
 #### Unidad 0. Presentación
 1. Presentación del programa
 2. Evaluación Global y de Recuperación
-3. Programa oficial vigente de la UEA ([pdf](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211092pe.pdf)) y Programa oficial vigente de la UEA prerrequisito: [Estadística I](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2132044pe.pdf)
-4. Acceso a nueva plataforma de [Virtuami](http://virtuami.izt.uam.mx/aulas/apresencial2)
-5. Prácticas:
+3. Prácticas:
     - *Práctica 0.1: Bases de trabajo colaborativo con Google Drive* (Demostrativa online).
    
-      *Objetivo*: Aprender las operaciones con archivos y directorios en Google Drive, como un ejemplo de plataformas de cómputo en la nube.
-   
-      Cree la estructura de directorios en [Google Drive](https://drive.google.com/drive/my-drive) para la entrega de controles de lectura, prácticas y proyecto final de acuerdo a un sistema de organización de archivos ([guía](https://www.youtube.com/watch?v=duNwB8xt2_w)). ([tutorial](https://www.youtube.com/watch?v=I3jii6ltINY&frags=pl%2Cwn)).
+      *Objetivo*: Aprender las operaciones con archivos y directorios en Google Drive, como un ejemplo de plataformas de cómputo en la nube.  
+      
+      Construya la estructura de directorios en [Google Drive](https://drive.google.com/drive/my-drive) para la entrega de controles de lectura, prácticas y proyecto final de acuerdo a un sistema de organización de archivos ([guía](https://www.youtube.com/watch?v=duNwB8xt2_w)). ([tutorial](https://www.youtube.com/watch?v=I3jii6ltINY&frags=pl%2Cwn)).
 
     - *Práctica 0.2: Instalación de software para grabación de audio y video* (Demostrativa online).
    
@@ -78,60 +75,38 @@ Que al finalizar el curso el alumno sea capaz de:
           - Primero instale los prerrequisitos (vea [aquí](https://github.com/vkohaupt/vokoscreenNG): [codec pack](https://www.windows10codecpack.com/) y [GStreamer](https://gstreamer.freedesktop.org/pkg/windows/1.14.4/gstreamer-1.0-x86-1.14.4.msi); alternativamente, puede usar estos [codecs](https://codecguide.com/download_kl.htm)).
           - Alternativamente, puede usar [Open Broadcaster Software (OBS Studio)](https://obsproject.com/es)) (grabación, edición y transmisión de video) ([tutorial](https://www.youtube.com/watch?v=qLuSrSiC9Xc)), si los recursos de su computadora lo permiten.  
    
-      *Parte 2*. Grabe su pantalla y capture la toma de la cámara y hable sobre las expectativas que tiene del curso usando el software (ver [tutorial](https://www.youtube.com/watch?v=mh5qV2iAiVs)). Puede agregar algún fondo musical.  
-   
-       Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito.
-   
-       Al terminar suba sus videos y su audio a su Google Drive donde corresponda, según la estructura de directorios de la Práctica 0.1.
+      *Parte 2*. Grabe su pantalla y capture la toma de la cámara y hable sobre las expectativas que tiene del curso usando el software (ver [tutorial](https://www.youtube.com/watch?v=mh5qV2iAiVs)). Puede agregar algún fondo musical. Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito. Al terminar suba sus videos y su audio a su Google Drive donde corresponda, según la estructura de directorios de la Práctica 0.1.
 
-    - *Práctica 0.3: Instalación de software libre, abierto y privativo* (Demostrativa online).
+      *Parte 3*. Active su cuenta de [Office 365 Pro Plus](http://www.uam.mx/o365/) (software de oficina) e instale su copia de [Office Pro](http://www.uam.mx/ti/soft/microsoft.html) (software de oficina) (documente el proceso).
    
-      *Objetivo*: Aprender a descargar e instalar aplicaciones portables en una USB y en computadora.
+      *Parte 4*. Si tiene computadora en casa, descargue en instale el siguiente software: [*7-zip*](https://www.7-zip.org/download.html) (compresor/descompresor), [*LibreOffice*](https://www.libreoffice.org/) (suite de oficina), [*R*](https://www.r-project.org/) (estadística) y [*RStudio*](https://www.rstudio.com/) (estadística).
    
-      *Parte 1*. Active su cuenta de [Office 365 Pro Plus](http://www.uam.mx/o365/) (software de oficina) e instale su copia de [Office Pro](http://www.uam.mx/ti/soft/microsoft.html) (software de oficina) (documente el proceso).
-   
-      *Parte 2*. Si tiene computadora en casa, descargue en instale el siguiente software: [*7-zip*](https://www.7-zip.org/download.html) (compresor/descompresor), *CMapTools* ([mapas conceptuales](https://cmap.ihmc.us/)), [*ClamWin*](http://www.clamwin.com/) (antivirus), [*LibreOffice*](https://www.libreoffice.org/) (suite de oficina) (edite un documento PDF), [*R*](https://www.r-project.org/) (estadística), [*RStudio*](https://www.rstudio.com/) (estadística).
-   
-      *Parte 3*. Para la práctica requiere una USB de por lo menos 4 Gb, misma que utilizará para varias prácticas posteriores. Descargue e instale [*PortableApps*](https://portableapps.com/) ([tutorial 1](https://www.youtube.com/watch?v=Ux_3p4lDmTg), [tutorial 2](https://www.youtube.com/watch?v=Ux_3p4lDmTg)) en su USB vacía. 
-   
-      (N. B: Desactive su antivirus para realizar la práctica y usar *PortableApps*. [guía](https://www.youtube.com/watch?v=HDEhLpS7UwM)).
-   
-      *Parte 4*. Descargue e instale [Firefox](https://portableapps.com/apps/internet/qbittorrent_portable) desde PortableApps ([tutorial](https://www.youtube.com/watch?v=zzq2kDEsiAs)) o localícela y descárguela desde la [lista de aplicaciones](https://portableapps.com/apps). En seguida, instale el plugin de bloqueo de publicidad, por ejemplo Ghostery y otros ([tutorial](https://www.youtube.com/watch?v=g3Dw_7085r8)).
-   
-      *Parte 5*. Descargue e instale el siguiente software portable en una USB: *LibreOffice* (suite de oficina) ([portable](https://portableapps.com/apps/office/libreoffice_portable)), *7-zip* (compresor/descompresor) ([portable](https://portableapps.com/apps/utilities/7-zip_portable)), [*R Portable*](https://sourceforge.net/projects/rportable/files/R-Portable/)) (estadística) y [*RStudio Portable*](https://sourceforge.net/projects/rportable/files/R-Studio/) (estadística).
+      *Parte 5*. Para la práctica en el salón, descargue e instale [*PortableApps*](https://portableapps.com/) ([tutorial 1](https://www.youtube.com/watch?v=Ux_3p4lDmTg), [tutorial 2](https://www.youtube.com/watch?v=Ux_3p4lDmTg)) en su USB vacía. Tome en cuenta que debe desactivar el antivirus para realizar la práctica y usar *PortableApps*. [guía](https://www.youtube.com/watch?v=HDEhLpS7UwM)). Luego, descargue e instale el siguiente software portable en una USB: *LibreOffice* (suite de oficina) ([portable](https://portableapps.com/apps/office/libreoffice_portable)), *7-zip* (compresor/descompresor) ([portable](https://portableapps.com/apps/utilities/7-zip_portable)), [*R Portable*](https://sourceforge.net/projects/rportable/files/R-Portable/)) (estadística) y [*RStudio Portable*](https://sourceforge.net/projects/rportable/files/R-Studio/) (estadística).
 
       ##### *Bibliografía Complementaria:*
-         - Ibiza, D. (2018, Apr 3). 1. Introducción a *Google Drive*: Primeros pasos ([tutorial](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=330s)), 2. Gestión de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=2042s)), 3. Opciones de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=3313s)), 4. Cómo compartir archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=4238s)), 5. Trabajar con documentos ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=5222s)) . In Tutorial Google Drive | Completo | Principiantes | Paso a Paso. YouTube. (video). ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk)).
-        - Universitat de les Illes Balears. Som UIB (2021). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([url](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).
-        - Alva Majo. (2018, Jul 11). Aprende a programar en 11 minutos. *YouTube* [video]. (12:32 min). ([url](https://www.youtube.com/watch?v=TAyyujKoY6k)). (Lectura 2.1.)
+         - Ibiza, D. (2018, Apr 3). 1. Introducción a *Google Drive*: Primeros pasos ([tutorial](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=330s)), 2. Gestión de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=2042s)), 3. Opciones de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=3313s)), 4. Cómo compartir archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=4238s)), 5. Trabajar con documentos ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=5222s)) . In Tutorial Google Drive | Completo | Principiantes | Paso a Paso. YouTube. (video). ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk)).  
 
 
 #### Unidad 1. Presentación
 1. Introducción
-2. La ciencia de la administración y la toma de decisiones
-3. Contexto histórico del análisis de decisiones
-4. Prácticas:  
+2. Prácticas:  
     - *Práctica 1.1: Preparación de RStudio Cloud*.  
   
       *Objetivo*: Aprender a preparar el entorno de *RStudio Cloud* para generar un libro *RMarkdown*.  
   
-      Cree su cuenta en [RStudio cloud](https://rstudio.cloud/). Luego, descargue los [archivos fuente](https://github.com/CerebralMastication/R-Cookbook/) desde *GitHub* del libro [*R Cookbook*](https://rc2e.com/). Copie el archivo comprimido (.zip) de su computadora a su propio proyecto *R Cookbook* en su cuenta de *RStudio cloud*. Una vez descomprimido, mueva todos los archivos a la raíz del proyecto. Finalmente, instale todos los paquetes necesarios, de manera progresiva, a partir de la ejecución del archivo *index.Rmd*, hasta que ya no haya errores y regenere en su propia copia del libro.  
+      Cree su cuenta en [RStudio cloud](https://rstudio.cloud/). Esto le permitirá ejecutar el código fuente de las recetas del libro, hacer las modificaciones que requiera y usarlas para sus propias necesidades.  
   
-      Esto le permitirá ejecutar el código fuente de las recetas del libro, hacer las modificaciones que requiera y usarlas para sus propias necesidades.  
+      Por último, haga un video tutorial grabando la pantalla de su equipo con [Vokoscreen-NG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html) conforme vaya realizando su práctica hasta que haya cumplido el objetivo. Suba su video a su cuenta de Google Drive donde corresponda. 
   
-      Por último, haga un video tutorial grabando la pantalla de su equipo con [Vokoscreen-NG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html) conforme vaya realizando su práctica hasta que haya cumplido el objetivo. Suba su video a su cuenta de Google Drive donde corresponda y al chat de Telegram con el profesor. 
+    - *Práctica 1.2: Fundamentos de R y RStudio*.  (Entrega: 20 de febrero de 2023).  
   
-    - *Práctica 1.2: Fundamentos de R*.  
+      *Objetivo*: Aprender a usar el R y RStudio en el entorno de *RStudio Cloud* y en su computadora personal.  
   
-      *Objetivo*: Aprender a usar el código fuente de los ejemplos de un libro de R en el entorno de *RStudio Cloud*.  
-  
-      Localice el código fuente del libro *R in a Nutshell* [pdf](https://www.guianaplants.stir.ac.uk/seminar/resources/R_in_a_Nutshell_Second_Edition.pdf) y [cargue el paquete](https://learning.oreilly.com/library/view/r-in-a/9781449377502/pr03s04.html) correspondiente. Alternativamente, descargue el [código fuente](https://resources.oreilly.com/examples/9780596801717) desde el sitio del editor y úselo en su proyecto. Luego, pruebe los ejemplos del Capítulo 3. Pruebe variaciones del código hasta que comprenda la lógica de funcionamiento de cada ejemplo y pueda usarlo para sus propias necesidades.
-  
-      Estudie las convenciones de [codificación para R de Google](https://google.github.io/styleguide/Rguide.html) para que escriba código R de manera clara y eficaz, al modificar sus ejemplos.  
-  
+      Tome como base el pequeño libro [R para Análisis de Datos](https://bookdown.org/ddiannae/curso-rdata/) de Diana García Cortés (2022) y los recursos digitales disponibles por la autora en [Github](https://github.com/ddiannae/curso-rdata). Siga las instrucciones del libro y practique a discreción hasta dominar los temas.   
+      
       Por último, haga un video tutorial grabando la pantalla de su equipo conforme vaya realizando su práctica hasta que haya cumplido el objetivo. Suba su video a su cuenta de Google Drive donde corresponda y al chat de Telegram con el profesor.   
 
-    - *Práctica 1.3. Bases de datos I: Bases de datos pequeñas*. (Entrega: 18 de marzo de 2022). 
+    - *Práctica 1.3. Bases de datos I: Bases de datos pequeñas*. (Entrega: 20 de febrero de 2023).  
 
       *Objetivo*: Aprender los principios de una base de datos y usar tablas dinámicas y filtros para la resolución de preguntas cuantitativas.
     
@@ -151,46 +126,34 @@ Que al finalizar el curso el alumno sea capaz de:
   
       *Tip*: Si bien, este problema puede resolverse aplicado filtros de manera consecutiva, también puede resolverse realizando una consulta a la base de datos mediante una tabla dinámica.  
   
-      Saque sus conclusiones y documente su experiencia en la realización de la actividad en un video de hasta 10 minutos, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
+      *Parte 4*. Repita la práctica y resuélvala con RStudio, usando un archivo Rmarkdown. Entregue el archivo fuente y el HTML generado.  
+      
+      Saque sus conclusiones y documente su experiencia en la realización de la actividad en un video de hasta 10 minutos, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
+      
 
-    - *Práctica 1.4. Base de datos II: Bases de datos geográficas*. (Fecha de entrega: 18 de marzo de 2022).  
-  
-      *Objetivo*: Crear un sistema de bases de datos geográficas con *PostgreSQL*, *R* y *QGIS*.  
-  
-      *Parte 1*. Instale [*PostgreSQL*](https://www.postgresql.org/), [*Stack Builder*](https://www.enterprisedb.com/edb-docs/d/postgresql/installation-getting-started/installation-guide-installers/11/PostgreSQL_Installation_Guide.1.09.html) y [*PostGIS*](https://www.postgis.net/) ([url](https://www.postgresql.org/download/windows/)), [*pgAdmin 4*](https://www.pgadmin.org/) en *Windows* ([guía](https://www.youtube.com/watch?v=bq9dOrwZ-KA)) y [*QGIS*](https://www.qgis.org/en/site/index.html) ([guía](https://www.youtube.com/watch?v=PG3Xmt3S9Ac)).      
-  
-      *Parte 2*. Cree un usuario del servidor *PostgreSQL* y conéctese al servidor ([guía](https://www.youtube.com/watch?v=jxIEDKzGrOs&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=1)).      
-  
-      *Parte 3*. Descargue los archivos de la base de datos geográfica ([url](http://s3.cleverelephant.ca/postgis-workshop-2018.zip)) ([tutorial *PostGIS*](https://postgis.net/workshops/postgis-intro/)). Cree una base de datos espacial ([guía](https://www.youtube.com/watch?v=UtiIY39qmhg)).      
-  
-      *Parte 4*. Use la aplicación *shp2pgsql* para importar los archivos shapefiles ([guía 1](https://postgis.net/workshops/postgis-intro/loading_data.html), [guia 2](https://www.youtube.com/watch?v=N_GvAi5RitM)) (si después de instalar *PostGIS* (en *Windows*), ocurre un error por la falta del archivo *libsqlite3-0.dll*, éste debe descargarse y copiarse al directorio base de la aplicación desde [aquí](https://www.pconlife.com/download/otherfile/35257/d56eb0e10349ffd8a57efb66d452d3a2/), por ejemplo, la [versión 64 bits](https://www.pconlife.com/download/otherfile/35257/d56eb0e10349ffd8a57efb66d452d3a2/)).      
-  
-      *Parte 5*. Conéctese a la base de datos desde *RStudio* y pruebe *R* con la base de datos ([guía](https://www.youtube.com/watch?v=-F5SpGhnNG8)).      
-  
-      *Parte 6*. Conéctese a la base de datos con *QGiS* y despliegue el mapa ([guía](https://www.youtube.com/watch?v=NYKHlSd932c)).  
-      *Parte 7*. Respalde la base de datos ([guía](https://www.youtube.com/watch?v=icEvkyIXqug&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=66&t=0s)).  
-  
-      Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito o pruebe algún otro tutorial.      
-  
-      Saque sus conclusiones y documente en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
-
-      ##### *Bibliografía Obligatoria:*
-         - Witzel, M. (2012). 9 From Scientific Management to Management Science. In *A history of management thought* (capítulo 9). London: Routledge. ([url](https://www.amazon.com/History-Management-Thought-Morgen-Witzel/dp/0415600588)) ([torrent](https://thepiratebay.org/description.php?id=7912663)) ([epub url](http://libgen.rs/book/index.php?md5=1F104CC3F1936AF817CC64261EBDB0DA)). (*Lectura 1.1.*).
-         - Drucker, P. F. (1955). "Management Science" and the manager. *Management Science 1*(2), 115-126. doi: http://doi.org/10.1287/mnsc.1.2.115 ([pdf](http://libgen.rs/scimag/10.1287%2Fmnsc.1.2.115)). (*Lectura 1.2*).
-         - Zavala, J. (2016). El análisis de decisiones: Un panorama histórico-metodológico. (Mimeo). (Disponible en el grupo de Telegram). (*Lectura 1.3*).  
-
-      ##### *Bibliografía Obligatoria:*
-         - Ensmenger, N. L. (2010). The *cosa nostra* of the data processing industry. In *The computer boys take over: Computers, programmers, and the politics of technical expertise* (pp. 137-161). USA: The MIT Press. ([pdf](https://www.mondotheque.be/wiki/images/0/0b/Ensmenger_The_Computer_Boys_Take_Over%28BookZZ.org%29.pdf)).
+##### *Bibliografía Obligatoria:*
+        - Universitat de les Illes Balears. Som UIB (2021). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([url](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).  
 
 
-#### Unidad 2. La toma de decisiones y la teoría de la elección racional
-1. ¿Qué es una decisión?
-2. La toma de decisiones como proceso cibernético
-3. Teoría de la elección racional
-4. La racionalidad limitada
-5. Tipos de problemas de decisión
-6. Tareas y Prácticas:
-    - *Tarea 2.1*: *Teoría de las bases de datos relacionales*. (Fecha de entrega: 25 de marzo de 2022).  
+#### Unidad 2. De la Teoría de la Elección Racional al Análisis de Decisiones
+1. La ciencia de la administración y la toma de decisiones
+2. Toma de decisiones, teoría de la elección racional, racionalidad limitada y cibernética
+3. ¿Qué es el análisis de decisiones?
+4. Alcances y limitaciones del análisis de decisiones
+5. Tareas y Prácticas:
+    - *Tarea 2.1: ¿Qué es el Análisis de Decisiones?*. (Entrega: 20 de febrero de 2023).   
+  
+      *Objetivo*: Aprender qué es el análisis de decisiones, su contexto y aplicación.  
+  
+      Lea el capítulo 1 del libro *Análisis de decisiones para gerentes: Una guía para tomar mejores decisiones personales y comerciales* de [David Charlesworth (2017)](https://www.amazon.com/-/es/David-Charlesworth-ebook/dp/B06ZY9XRTW) con las preguntas y respuestas argumentadas del autor y sus propias reflexiones en un archivo Rmarkdown en su proyecto de RStudio en [posit.cloud](https://posit.cloud). Coordínese con los demás compañeros y elabore una versión en español de las figuras del capítulo del libro.    
+      
+    - *Tarea 1.5: ¿Cómo enmarcar un problema de Análisis de Decisiones*. (Entrega: 22 de febrero de 2023).   
+  
+      *Objetivo*: Aprender a enmarcar un problema de análisis de decisiones.  
+  
+      Lea el capítulo 2 del libro *Análisis de decisiones para gerentes: Una guía para tomar mejores decisiones personales y comerciales* de [David Charlesworth (2017)](https://www.amazon.com/-/es/David-Charlesworth-ebook/dp/B06ZY9XRTW). Responda a las dos preguntas centrales: ¿Qué es un problema de decisión? y ¿Cómo debe plantearse y documentarse? Parta de los argumentos del autor y desarrolle sus propias reflexiones en un archivo Rmarkdown, en su proyecto de RStudio en [posit.cloud](https://posit.cloud). Coordínese con los demás compañeros y elabore una versión en español de las figuras del capítulo del libro.    
+
+- *Tarea 2.1*: *Teoría de las bases de datos relacionales*. (Fecha de entrega: 25 de marzo de 2022).  
 
       Resuelva el siguiente cuestionario ([parte 1](https://drive.google.com/file/d/17IhZFgxB1XCeEYaJjTIJxKQQ-Rv1Vs2q/view?usp=sharing), [parte 2](https://drive.google.com/file/d/1zswLrAe5IBZXhq3YylAR5Sk_EhKdGiAH/view?usp=sharing), [parte 3](https://drive.google.com/file/d/1rdmW5IvGtipYRR4W8Yxhh8sbNOlB2ct2/view?usp=sharing)) en su cuaderno de apuntes para que refuerce la teoría, a partir de la siguiente [presentación](https://drive.google.com/file/d/1leDmRFqWQygcwnYro9315PeUGWjXIF0V/view?usp=sharing) sobre el tema.  
   
@@ -200,44 +163,6 @@ Que al finalizar el curso el alumno sea capaz de:
   
       **Bibliografía**: Quiroz, J. (2003). El modelo relacional de bases de datos. *Boletín de Política Informática (INEGI)*, (6), 53-61. ([pdf](http://ingenieriasimple.com/conred/el%20modelo%20relacional.pdf)). 
 
-    - *Práctica 2.2. Base de datos III: SQL*. (Fecha de entrega: 25 de marzo de 2022).  
-  
-      *Objetivo*: Aprender las operaciones básicas de administración de bases de datos en *PostgreSQL* con *pgAdmin 4*.
-  
-      *Parte 1*: *Administración del servidor*. Utilice como base el [Curso de PostgreSQL](https://www.youtube.com/playlist?list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2), el [tutorial en línea](https://postgresqltutorial.com/) ([traducción](https://postgresqltutorial-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)), principalmente la [administración de bases de datos](https://www.postgresqltutorial.com/postgresql-administration/) ([traducción](https://www-postgresqltutorial-com.translate.goog/postgresql-administration/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)) o la [hoja de tips de PostgreSQL](https://www.postgresqltutorial.com/wp-content/uploads/2018/03/PostgreSQL-Cheat-Sheet.pdf).  
-  
-      Prerrequisitos: Debe completar la *Práctica 1.4.*.
-  
-      Conéctese al servidor de base de datos *PostgreSQL* ([guía](https://www.youtube.com/watch?v=jxIEDKzGrOs&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=1)) con [pgAdmin 4](https://www.pgadmin.org/). (Tip: Para usar pgAdmin 4 para restaurar y respaldar bases de datos, debe configurar la ruta de ubicación del servidor (*Binary PATH*) de los archivos ejecutable (C:\Program Files\PostgreSQL\14\bin) en las preferencias de pgAdmin 4.)
-  
-      *Parte 2*: *Operaciones de administración de la base de datos*. 
-  
-      Crear una base de datos ([guía](https://www.youtube.com/watch?v=GruJjmfm_gs&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=3)). Crear una tabla tal como se ve en la [guía](https://www.youtube.com/watch?v=LIUW0XWdy80&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=5&t=0s). Identifique el tipo de dato que requiere para cada columna ([guía](https://www.youtube.com/watch?v=9IEQKbItnCE&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=8&t=0s)). Modificar la tabla para alojar una lista de personas (nombre, apellido materno y paterno y su edad ([guía](https://www.youtube.com/watch?v=eEbqN7Hz7FM&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=13&t=0s)).  
-  
-      Ingresar siete registros ([guía](https://www.youtube.com/watch?v=nsU3IwSASDg&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=6&t=0s)) (Tip: Considere una llave primaria con autoincremento numérico ([guía](https://www.youtube.com/watch?v=210SPHcrWr8&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=15&t=0s)). Eliminar dos registros ([guía](https://www.youtube.com/watch?v=eJQCl5zIknA&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=11&t=0s)). Actualizar los registros cambiando los datos de la tabla ([guía](https://www.youtube.com/watch?v=2EN1amBNZvQ&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=7&t=0s)).  
-  
-      Modificar la tabla para alojar a la lista de personas su correo electrónico ([guía](https://www.youtube.com/watch?v=eEbqN7Hz7FM&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=13&t=0s)).  
-  
-      Modificar una columna para que acepte valores nulos y cambiar el tipo de dato, según la [guía](https://www.youtube.com/watch?v=sKWCb_ZEzoM&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=14&t=0s).  
-  
-      Exportar la tabla a un archivo CVS ([guía](https://www.youtube.com/watch?v=Lk5L58uIzm4&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=66)). Eliminar la tabla creada ([guía](https://www.youtube.com/watch?v=Lk5L58uIzm4&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=66)). Importar la tabla exportada ([guía](https://www.youtube.com/watch?v=w9kibRWlQQg)).  
-  
-      Respaldar (exportar) la base de datos ([guía](https://www.youtube.com/watch?v=icEvkyIXqug&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=66&t=0s)). Luego, eliminar la base de datos ([guía](https://www.youtube.com/watch?v=iqRathev-Zw&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=4&t=0s)). Finalmente, restaurar ([importar](https://www.youtube.com/watch?v=icEvkyIXqug&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=66&t=0s)) la base de datos ([guía](https://www.youtube.com/watch?v=icEvkyIXqug&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=66&t=0s)) que respaldó.  
-  
-      Para cada operación documente el script o las instrucciones que permiten su ejecución.  
-  
-      Repita y practique las operaciones hasta que entienda su lógica. Reflexione sobre lo aprendido en la práctica.
-  
-      *Parte 3*. Finalmente, pruebe restaurar la [base de datos de prueba *DVDrental*](https://www.postgresqltutorial.com/postgresql-sample-database/) descargando el ([archivo zip](https://sp.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)) que le permitirá poder probar todas las operaciones del [Tutorial](). Apóyese en el diagrama entidad-relación ([pdf](https://sp.postgresqltutorial.com/wp-content/uploads/2018/03/printable-postgresql-sample-database-diagram.pdf)) y la ([guía](https://www.postgresqltutorial.com/postgresql-sample-database/)). Siga el procedimiento para cargar la base de datos según el siguiente [tutorial](https://www.postgresqltutorial.com/load-postgresql-sample-database/) o este [otro tutorial](https://www.postgresqltutorial.com/postgresql-restore-database/) para restaurarla. **Tenga cuidado. Restaure en la base de datos correcta.** 
-  
-      Una vez restaurada la bases de datos, practique los comandos *psql* y las operaciones de consulta en una terminal y con *pgAdmin 4*, con ayuda de la hoja de tips ([cheat sheet](https://www.postgresqltutorial.com/postgresql-cheat-sheet/)).
-  
-      Entregue reporte de la práctica elaborando un video de cada operación narrando lo que muestra el video, tipo tutorial. Incluya los *scripts* en *SQL* que permiten realizar cada operación, identificando con precisión cada una.  
-  
-      Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito o pruebe algún otro tutorial.  
-  
-      Saque sus conclusiones y documente en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
-  
     - *Tarea 2.3*: *Cuestionario*. (Fecha de entrega: 30 de marzo de 2022).  
 
       *Objetivo*: Aprender el lenguaje de uso en la unidad.
@@ -248,28 +173,7 @@ Que al finalizar el curso el alumno sea capaz de:
   
       Saque sus conclusiones y documente en un video la realización de la tarea y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
 
-      ##### *Bibliografía Obligatoria:* 
-         - Pérez, D. (2013). Elección racional. *YouTube*. ([Video 2.1](https://www.youtube.com/watch?v=tPj2sEBdB3s)) (10:51 min). (Identificar los postulados básicos de la elección racional).  
-         - - Simon, H. A. (2016/1992). Why decision making is so difficult. *YouTube*. ([Video 2.2](https://www.youtube.com/watch?v=eTXkZURBq7k&list=PL1s8eXa4Q_bjXPayLmo1Hbq5cJLzcwZz7&index=3)). (2:19 min). (Identificar la complejidad de la toma de decisiones).
-         - Elster, J. (2013). Racionalidad e interés: Tratado de hombre económico contemporáneo. ([Video 2.3](https://www.youtube.com/watch?v=aBfrWUXI9ns)). (1:11:34 hr). (Identificar los postulados de la teoría de la racionalidad limitada, sus éxitos y fracasos).  
-         - Sun Tzu. *El arte de la guerra*. *YouTube*. ([Video 2.4](https://www.youtube.com/watch?v=tp8-VK56O90)). (1:30:38 hr).  
-         - Simon, H. A. (1955). A behavioral model of rational choice, *The Quarterly Journal of Economics, 69*(1), 99-118. ([pdf](https://www.suz.uzh.ch/dam/jcr:ffffffff-fad3-547b-ffff-fffff0bf4572/10.18-simon-55.pdf)). (*Lectura 2.5*).  
-         - Simon, H. A. (2000). Bounded rationality in social science: Today and tomorrow. *Mind & Society, 1*(1), 25-39. ([pdf](http://ipwna.ir/wp-content/uploads/2018/08/Bounded_rationality_in_social_Today-and-Tomorrow-irpublicpolicy.pdf)). (*Lectura 2.6*). 
-         - Cameron, S. (2002). Tools of the trade: Rational choice.  In *The economics of sin: Rational choice or no choice at all?* (pp. 14-39). Cheltenham, Glos, U.K.: Edward Elgar Publishing. ([url](http://libgen.rs/search.php?req=The+economics+of+sin%3A+Rational+choice+or+no+choice+at+all%3F&open=0&res=100&view=simple&phrase=1&column=title)) (*Lectura 2.7*). (Identificar los postulados de la teoría de la racionalidad limitada).  
-
-      ##### *Bibliografía Complementaria:*
-         - Foucault, M. (1988). El sujeto y el poder. *Revista Mexicana de Sociología, 50*(3) (Jul - Sep), 3-20. ([pdf](https://perio.unlp.edu.ar/catedras/cdac/wp-content/uploads/sites/96/2020/03/T-FOUCAULT-El-sujeto-y-el-poder.pdf)).  
-         - Cabantous, L. y Gond, J-P. (2010). Rational decision making as performative praxis: Explaining rationality's Éternel Retour. *Organization Science,22*(3), 573-586. ([pdf](https://openaccess.city.ac.uk/id/eprint/6929/1/)).  
-         - Kurtz, C. F. y Snowden, D. J. (2003). The new dynamics of strategy: Sense-making in a complex and complicated world. *IBM Systems Journal, 42*(3), 462-483. ([pdf](https://www.researchgate.net/publication/3228283_The_new_dynamics_of_strategy_Sense-making_in_a_complex_and_complicated_world)).  
-         - Novikov, D.A. (2016). *Cybernetics: From past to future*. Springer. ([url](http://libgen.rs/book/index.php?md5=C3E6D1E999983C24D496BE7CC10A69F5)).  
-         - New Economic Thinking (2015). The death of ‘*Homo economicus*’. *YouTube*. ([Video](https://www.youtube.com/watch?v=ParPPYMzfQM)). (20:29 min).  
-         - Searle, J. R. (2003). The classical model of rationality and its weaknesses. In (auth.) *Rationality in action* (pp. 1-32). Cambridge: The MIT Press. ([url](http://libgen.rs/book/index.php?md5=AE2CE1B934DFC35B2B1D8B12D2BEC6D3)).
-
  
-#### Unidad 3. El análisis de decisiones
-1. ¿Qué es el análisis de decisiones?
-3. Alcances y limitaciones del análisis de decisiones
-4. Herramientas analíticas del análisis de decisiones
 5. Tareas y prácticas:
     - *Práctica 3.1*: *Operaciones matriciales con R y aplicaciones*. (Fecha de entrega: 10 de abril de 2022).
   
@@ -346,19 +250,6 @@ Que al finalizar el curso el alumno sea capaz de:
       Suban los archivos de la práctica, creados o modificados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.  
   
       Documenten en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial y compartan el video en el grupo de Telegram.
-
-      ##### *Bibliografía Obligatoria:*
-         - Mote, V. L. y Meenakshi Malya, M. (1970). Decision analysis: Experiences and expectations. *Economic and Political Weekly, 5*(22), M53+M55+M57-M58. ([url](https://www.jstor.org/stable/4360049)) ([pdf](https://sci-hub.se/10.2307/4360049)). (Lectura 3.1).  
-         - Goodwin, P. y Wright, G. (2004). Introduction. In *[Decision analysis for management judgment](http://libgen.rs/book/index.php?md5=3B2F1C8F5947F079F9064CA6BAA7031B)* (pp. 1-13). Chichester, West Sussex, England: John Wiley & Sons. (Lectura 3.2).  
-         - Howard, R. A. (1988). Decision analysis: practice and promise, *Management Science, 34*(6), 679-695. ([url](https://www.jstor.org/stable/2632123)) ([pdf](https://sci-hub.se/10.2307/2632123)). (Lectura 3.3).  
-         - Howard, R. A. (1968). The foundations of decision analysis. *IEEE Transactions on Systems Science and Cybernetics, 4*(3), 211-219. ([url](https://ieeexplore.ieee.org/abstract/document/4082150)) ([pdf](https://sci-hub.se/10.1109/TSSC.1968.300115)). (Lectura 3.4).  
-
-      ##### *Bibliografía Complementaria:*
-         - Garber, R. (2009). An interview with Ronald A. Howard. *Decision Analysis, 6*(4), 263–272. ([url](https://pubsonline.informs.org/doi/pdf/10.1287/deca.1090.0160)) ([pdf](https://sci-hub.se/10.1287/deca.1090.0160)).  
-         - Goodwin, P. y Wright, G. (2003). How the people make decisions involving multiple objectives. In *[Decision analysis for management judgment](http://libgen.rs/book/index.php?md5=3B2F1C8F5947F079F9064CA6BAA7031B)* (pp. 14-26). Chichester, West Sussex, England: John Wiley & Sons.  
-         - Howard, R. A. (1966). *Decision analysis: Applied decision theory*. ([pdf](http://www.sdg.com/wp-content/uploads/2015/06/Decision-Analysis-Applied-Decision-Theory.pdf)).  
-         - Ralph L. Keeney, R. L. (1982). Feature Article - Decision analysis: An overview. *Operations Research, 30*(5), 803-838. ([pdf](https://pubsonline.informs.org/doi/pdf/10.1287/opre.30.5.803)).  
-         - Smith, J. E. y von Winterfeldt, D. (2004). Decision Analysis in "Management Science". *Management Science, 50*(5), 561-574. ([pdf](https://sci-hub.se/10.2307/30046097)).  
 
 
 #### Unidad 4. Los problemas de decisión
