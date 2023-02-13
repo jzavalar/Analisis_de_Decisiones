@@ -132,7 +132,7 @@ Que al finalizar el curso el alumno sea capaz de:
       
 
 ##### *Bibliografía Obligatoria:*
-        - Universitat de les Illes Balears. Som UIB (2021). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([url](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).  
+    - Universitat de les Illes Balears. Som UIB (2021). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([url](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).  
 
 
 #### Unidad 2. De la Teoría de la Elección Racional al Análisis de Decisiones
