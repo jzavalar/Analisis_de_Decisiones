@@ -57,10 +57,8 @@ Que al finalizar el curso el alumno sea capaz de:
 
 ### Contenido Sintético
 
-#### Unidad 0. Presentación
-1. Presentación del programa
-2. Evaluación Global y de Recuperación
-3. Prácticas:
+#### Unidad 0. Prerrequisitos
+1. Prácticas:
     - *Práctica 0.1: Bases de trabajo colaborativo con Google Drive* (Demostrativa online).
    
       *Objetivo*: Aprender las operaciones con archivos y directorios en Google Drive, como un ejemplo de plataformas de cómputo en la nube.  
@@ -89,7 +87,9 @@ Que al finalizar el curso el alumno sea capaz de:
 
 #### Unidad 1. Presentación
 1. Introducción
-2. Prácticas:  
+2. Presentación del programa
+3. Evaluación Global y de Recuperación
+4. Prácticas:  
     - *Práctica 1.1: Preparación de RStudio Cloud*.  
   
       *Objetivo*: Aprender a preparar el entorno de *RStudio Cloud* para generar un libro *RMarkdown*.  
@@ -252,7 +252,7 @@ Que al finalizar el curso el alumno sea capaz de:
       Documenten en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial y compartan el video en el grupo de Telegram.
 
 
-#### Unidad 4. Los problemas de decisión
+#### Unidad 3. Los problemas de decisión
 1. Modelación de los problemas de decisión
 2. Proceso de resolución de problemas de decisión
 3. Estructuración de problemas de decisión
@@ -311,37 +311,9 @@ Que al finalizar el curso el alumno sea capaz de:
      Saquen sus conclusiones y suban los archivos creados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la tarea.
 
 
-     ##### *Bibliografía Obligatoria:*
-        - Ley-Borrás, R. (2015). Deciding on the decision situation to analyze: The critical first step of a decision analysis. *Decision Analysis, 12*(1), pp. 46-58. ([pdf](https://sci-hub.se/10.1287/deca.2014.0308)) (*Lectura 4.1*).  
-        - Keeney, R. L. (2007). Developing objectives and attributes. In W. Edwards, R. F. Miles y D. von Winterfeldt. (2007). [*Advances in Decision Analysis: From foundations to applications*](http://libgen.rs/book/index.php?md5=AE826E7206D6FE17FD495BDB3BE0BC7B) (pp. 104-128), Cambridge: Cambridge University Press. (*Lectura 4.2*).
-        - Rojas, G., Fernandez, E., Whitney, C., Luedeling, E. & Cuneo, I. F. (2021). Adapting sweet cherry orchards to extreme weather events: Decision analysis in support of farmers "Investments in Central Chile.” *Agricultural Systems* 187(February): 103031. DOI: https://doi.org/10.1016/j.agsy.2020.103031 . ([url](https://sci-hub.se/10.1016/j.agsy.2020.103031)). ([video](https://www.youtube.com/watch?v=kpsqzkeg53Y)). (**Estudio de caso**). (*Lectura 4.3*).  
-
-     ##### *Bibliografía Complementaria:*
-        - Barclay, S. *et al.* (1977). Diagramming and solving decisions problems. In *Handbook for Decisions Analysis: Decisions and Designs* (pp. 1-20). Washington, D.C.: Advanced Research Projects Agency. ([pdf](https://files.eric.ed.gov/fulltext/ED153329.pdf)).  
-        - Cashin, J. A., Polimeni, R. S. (1980). *Contabilidad de costos*. Mexico: McGraw-Hill. ([url](http://libgen.rs/book/index.php?md5=84A7C8752F1C3869D0FFAE8D8ACEBEE4)).  
-        - Clemen, R. T y Kwit, R. C. (2001). The value of decision analysis at Eastman Kodak Company, 1990-1999. *Interfaces, 31*(5), pp. 74-92. ([pdf](https://sci-hub.se/10.1287/inte.31.5.74.9655)).  
-        - Clemen, R. T. y Reilly, T. (2004). *Making hard decisions with decision tools*. USA: Cengage Learning. ([url](http://libgen.rs/book/index.php?md5=741D87EE4E16DCFFD7BCBB4840CD6B78)).  
-        - Detsky, A. S., Redelmeier, D., y Abrams, H. B. (1987). What's wrong with decision analysis? Can the left brain influence the right?. *Journal of Chronic Diseases, 40*(9), pp. 831-836. ([pdf](https://libgen.rocks/ads.php?doi=10.1016/0021-9681%2887%2990181-0)).  
-        - Drury, C. (2020). *Management and cost accounting*. USA: Cengage Learning EMEA. ([url](http://libgen.rs/book/index.php?md5=32C869373F6352B932D6EF56FB9CD9D4)).  
-        - Parnell,G. S., Bresnick, T. A., & Tani, S. N. (2013). *Handbook of decision analysis*. Hoboken, New Jersey: John Wiley. ([pdf](http://library.wbi.ac.id/repository/135.pdf)).  
-        - Proctor, T. (2019). *Creative problem solving for managers: Developing skills for decision making and innovation*. London: Routledge. ([url](http://libgen.rs/book/index.php?md5=FDD1A6CBEFEF95C7EDB630312F5CF965)).  
-        - Ragsdale, C. (2008). Introduction to modeling and decision analysis. In [*Spreadsheet modeling & decision analysis: A practical introduction to management science*](http://libgen.rs/book/index.php?md5=442D6BCA8F1998623582DEF3815DD9E9). Mason, MO, USA: Cengage Learning.  
-        - Ríos, S., Ríos, D., Mateos, A. y Martín, J. (1998). *Programación lineal y aplicaciones: Ejercicios resueltos*. México: Alfa Omega Ra Ma. ([pdf](http://library.lol/main/C3553551396E715FAD11F850D70DF9F2)).  
-        - Vanderbeck, E. J. (2017). *Principios de contabilidad de costos*. Cengage Learning. ([url](http://libgen.rs/book/index.php?md5=10A696DBB7D2AB1F5BAC60C0C868D51C)).
 
 
 ### Bibliografía General:
-- Paquete [Multi-Criteria Decision Aiding (MCDA)](https://www.decision-deck.org/r/), [tutorial](https://www.decision-deck.org/r/tutorial.html#tutorial-r-mcda).
-- Cochran et al. (2015). Wiley encyclopedia of operations research and management science. Wiley. ([url](http://libgen.rs/book/index.php?md5=79C89EF789E282EC4CFD15B19CF0A91D)).
-- Bouyssou, D., Marchant, T., Pirlot, M., Perny, P., Tsoukià, A., & Vincke, P. (2000) *Evaluation and decision models: A critical perspective*. Kluwer, Dordrecht. ([url](http://libgen.rs/book/index.php?md5=D17907F555C0E2A519EA0EDCBDAC8F43)).
-- Luedeling, E. et al (2022, Feb 18). Package ‘decisionSupport’ (Quantitative Support of Decision Making under Uncertainty). *CRAN*. ([pdf](https://cran.r-project.org/web/packages/decisionSupport/decisionSupport.pdf)).
-- Gass, S. I. & Fu, M. C. (2013). Encyclopedia of operations research and management science (pp. 367-372). (3rd. Ed.). New York: Springer ScienceþBusiness Media. ([url](http://libgen.rs/book/index.php?md5=DD2A825793319105943B8B28CF0F83AB)).
-- Haber, S. H. (Ed.). (2002). Crony capitalism and economic growth in Latin America: Theory and evidence. Stanford, USA: Hoover Institution Press. ([url](http://libgen.rs/book/index.php?md5=B0750211B7978624626DF228B5CDB873)).
-- Howard, R. A., & Abbas, A. E. (2016). Foundations of decision analysis. Great Britain: Pearson Education. ([url](http://libgen.rs/book/index.php?md5=4B19F574BA8246A5BA274A7AF4BFB6A5)).
-- Krogerus, M., & Tschäppeler, R. (2012). The decision book: Fifty models for strategic thinking. London: Profile Books. ([url](http://libgen.rs/book/index.php?md5=9B263D6F2C7B79A11FA0D2B9A0880FDD)).  
-- Meyer, P., Bigaret, S., Hodgett, R., & Olteanu, A-L. (2021, May 04). Package MCDA (Support for the Multicriteria Decision Aiding Process). CRAN. ([url](https://cran.r-project.org/package=MCDA)). 
-- Sparxs Systems (2021). Enterprise Architect. Modeling Software. ([url](https://sparxsystems.com/)). ([torrents](https://thepiratebay.org/search.php?q=Enterprise+Architect&apps=on&search=Pirate+Search&page=0&orderby=))
-- Weick, K. E. (1995). *Sensemaking in organizations*. Thousand Oaks, CA, USA: Sage. ([url](http://libgen.rs/book/index.php?md5=6362CD2CBBE13DC182B79815E388052D)).
 
 - Recursos digitales en la UAM: biblioteca de la Unidad Iztapalapa ([url](http://contingencia.izt.uam.mx/wp-content/uploads/2020/04/Biblioteca-Nuevo-3b-bindani-B.pdf)), biblioteca digital ([url](https://bidi.uam.mx/index.html)), [recursos varios](http://pcyti.izt.uam.mx/recursos/infext/infoext.html).  
 - Recursos controversiales: [Library Genesis](http://gen.lib.rus.ec/) (libros, artículos, novelas), [**SciHub**](https://sci-hub.se/about) (artículos), [The Pirate Bay](https://thepiratebay.org/index.html) (P2P file sharing network) (archivos), [Academic Torrents](http://academictorrents.com/) (artículos, datos y cursos).
@@ -363,10 +335,9 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 #### Calificación
 | Factor | Porcentaje | Observaciones |
 | --- | :---: | ------------- |
-| Asistencia puntual | 10% |  |
 | Tareas|30% |Se entrega en la fecha programada |
 | Prácticas| 30% |Se entregan  en la fecha programada |
-| Exámenes| 30% | Primero (a), Segundo (b)|
+| Exámenes| 40% | Primero (a), Segundo (b)|
 | Total | 100% | |
 
 **Notas:
