@@ -128,11 +128,10 @@ Que al finalizar el curso el alumno sea capaz de:
   
       *Parte 4*. Repita la práctica y resuélvala con RStudio, usando un archivo Rmarkdown. Entregue el archivo fuente y el HTML generado.  
       
-      Saque sus conclusiones y documente su experiencia en la realización de la actividad en un video de hasta 10 minutos, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
-      
+      Saque sus conclusiones y documente su experiencia en la realización de la actividad en un video de hasta 10 minutos, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.   
 
 ##### *Bibliografía Obligatoria:*
-    - Universitat de les Illes Balears. Som UIB (2021). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([url](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).  
+- Universitat de les Illes Balears. Som UIB (2021). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([url](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).  
 
 
 #### Unidad 2. De la Teoría de la Elección Racional al Análisis de Decisiones
@@ -141,13 +140,13 @@ Que al finalizar el curso el alumno sea capaz de:
 3. ¿Qué es el análisis de decisiones?
 4. Alcances y limitaciones del análisis de decisiones
 5. Tareas y Prácticas:
-    - *Tarea 2.1: ¿Qué es el Análisis de Decisiones?*. (Entrega: 20 de febrero de 2023).   
+    - *Tarea 2.1: ¿Qué es el Análisis de Decisiones?*. (Entrega: 27 de febrero de 2023).   
   
       *Objetivo*: Aprender qué es el análisis de decisiones, su contexto y aplicación.  
   
       Lea el capítulo 1 del libro *Análisis de decisiones para gerentes: Una guía para tomar mejores decisiones personales y comerciales* de [David Charlesworth (2017)](https://www.amazon.com/-/es/David-Charlesworth-ebook/dp/B06ZY9XRTW) con las preguntas y respuestas argumentadas del autor y sus propias reflexiones en un archivo Rmarkdown en su proyecto de RStudio en [posit.cloud](https://posit.cloud). Coordínese con los demás compañeros y elabore una versión en español de las figuras del capítulo del libro.    
       
-    - *Tarea 1.5: ¿Cómo enmarcar un problema de Análisis de Decisiones*. (Entrega: 22 de febrero de 2023).   
+    - *Tarea 1.5: ¿Cómo enmarcar un problema de Análisis de Decisiones*. (Entrega: 29 de febrero de 2023).   
   
       *Objetivo*: Aprender a enmarcar un problema de análisis de decisiones.  
   
