@@ -96,9 +96,7 @@ Que al finalizar el curso el alumno sea capaz de:
   
       *Objetivo*: Aprender a preparar el entorno de *RStudio Cloud* para generar un libro *RMarkdown*.  
   
-          - Cree su cuenta en [RStudio cloud](https://rstudio.cloud/). Esto le permitirá ejecutar el código fuente de las recetas del libro, hacer las modificaciones que requiera y usarlas para sus propias necesidades.  
-  
-      Por último, haga un video tutorial grabando la pantalla de su equipo con [Vokoscreen-NG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html) conforme vaya realizando su práctica hasta que haya cumplido el objetivo. Suba su video a su cuenta de Google Drive donde corresponda. 
+      Cree su cuenta en [RStudio cloud](https://posit.cloud/). Esto le permitirá ejecutar el código fuente de R, hacer las modificaciones que requiera y usarlo para sus propias necesidades.  
   
     - *Práctica 1.2: Fundamentos de R y RStudio*.  (Entrega: 20 de febrero de 2023).  
   
@@ -112,7 +110,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
       *Objetivo*: Aprender los principios de una base de datos y usar tablas dinámicas y filtros para la resolución de preguntas cuantitativas.
     
-      *Parte 1*. Desde el sitio web del Inegi, del [Censo Nacional de Población y Vivienda del INEGI](https://www.inegi.org.mx/programas/ccpv/2010/), descargue el [Cuestionario Básico](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cpv2010_cuest_basico_d.pdf), la [Descripción de la Base de Datos](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/diccionario_cuestionario_basico.xls), una [muestra de la base de datos](https://www.inegi.org.mx/programas/ccpv/2010/), la [Síntesis Metodológica y Conceptual](http://internet.contenidos.inegi.org.mx/contenidos/Productos/prod_serv/contenidos/espanol/bvinegi/productos/metodologias/est/sm_cpv2010.pdf) y el [Cuestionario Ampliado](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cpv2010_cuest_ampliado_d.pdf).
+      *Parte 1*. Desde el sitio web del Inegi, del [Censo Nacional de Población y Vivienda del INEGI](https://www.inegi.org.mx/programas/ccpv/2010/), descargue el [Cuestionario Básico](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cpv2010_cuest_basico_d.pdf), la [Descripción de la Base de Datos](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/diccionario_cuestionario_basico.xls), una [muestra de la base de datos](https://www.inegi.org.mx/programas/ccpv/2010/) y la [Síntesis Metodológica y Conceptual](http://internet.contenidos.inegi.org.mx/contenidos/Productos/prod_serv/contenidos/espanol/bvinegi/productos/metodologias/est/sm_cpv2010.pdf).
     
       De la pestaña [Microdatos](https://www.inegi.org.mx/programas/ccpv/2010/#Microdatos), descargue la muestra de la Base de Datos de Personas ([dbf en zip](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/microdatos/ejemplobd/dummy_personas_cpv2010_dbf.zip)), Base de Datos de Viviendas ([dbf en zip](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/microdatos/ejemplobd/dummy_viviendas_cpv2010_dbf.zip)) y el Catálogo de la Integración General de Localidades (CIGEL) ([dbf en zip](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cigel_2010_hab_dbf.zip)) y los demás catálogos.
     
@@ -128,11 +126,11 @@ Que al finalizar el curso el alumno sea capaz de:
   
       *Tip*: Si bien, este problema puede resolverse aplicado filtros de manera consecutiva, también puede resolverse realizando una consulta a la base de datos mediante una tabla dinámica.  
   
-      *Parte 4*. Repita la práctica y resuélvala con RStudio, usando un archivo Rmarkdown. Entregue el archivo fuente y el HTML generado.  
+      *Parte 4*. Resuelva la práctica con RStudio, usando un archivo Rmarkdown. Entregue el archivo fuente y el HTML generado.   
       
       Saque sus conclusiones y documente su experiencia en la realización de la actividad en un video de hasta 10 minutos, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.   
 
-##### *Bibliografía Obligatoria:*
+##### *Bibliografía Obligatoria:*   
 - Universitat de les Illes Balears. Som UIB (2021). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([url](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).  
 
 
@@ -146,172 +144,32 @@ Que al finalizar el curso el alumno sea capaz de:
   
       *Objetivo*: Aprender qué es el análisis de decisiones, su contexto y aplicación.  
   
-      Lea el capítulo 1 del libro *Análisis de decisiones para gerentes: Una guía para tomar mejores decisiones personales y comerciales* de [David Charlesworth (2017)](https://www.amazon.com/-/es/David-Charlesworth-ebook/dp/B06ZY9XRTW) con las preguntas y respuestas argumentadas del autor y sus propias reflexiones en un archivo Rmarkdown en su proyecto de RStudio en [posit.cloud](https://posit.cloud). Coordínese con los demás compañeros y elabore una versión en español de las figuras del capítulo del libro.    
+      Lea el capítulo 1 del libro *Decision Analysis for Managers: A Guide for Making Better Personal and Business Decisions* de David Charlesworth (2017), en su versión epub o en su traducción al español. Estudie las preguntas y respuestas del autor y elabore sus propias reflexiones. Escríbalas en sus cuaderno. Luego, elabore un archivo Rmarkdown en su proyecto de RStudio en [posit.cloud](https://posit.cloud). Coordínese con los demás compañeros y elabore una versión en español de las figuras del capítulo del libro, si es que así lo requiere. De ser necesario, complemente con la lectura de Howard (1988).           
       
-    - *Tarea 1.5: ¿Cómo enmarcar un problema de Análisis de Decisiones*. (Entrega: 29 de febrero de 2023).   
+    - *Tarea 2.2: ¿Cómo enmarcar un problema de Análisis de Decisiones*. (Entrega: 29 de febrero de 2023).   
   
       *Objetivo*: Aprender a enmarcar un problema de análisis de decisiones.  
   
-      Lea el capítulo 2 del libro *Análisis de decisiones para gerentes: Una guía para tomar mejores decisiones personales y comerciales* de [David Charlesworth (2017)](https://www.amazon.com/-/es/David-Charlesworth-ebook/dp/B06ZY9XRTW). Responda a las dos preguntas centrales: ¿Qué es un problema de decisión? y ¿Cómo debe plantearse y documentarse? Parta de los argumentos del autor y desarrolle sus propias reflexiones en un archivo Rmarkdown, en su proyecto de RStudio en [posit.cloud](https://posit.cloud). Coordínese con los demás compañeros y elabore una versión en español de las figuras del capítulo del libro.    
+      Lea el capítulo 2 del libro *Decision Analysis for Managers: A Guide for Making Better Personal and Business Decisions* de David Charlesworth (2017), en su versión epub o en su traducción al español.    
+      
+      Responda a las dos preguntas centrales: (1) ¿Qué es un problema de decisión? y (2) ¿Cómo debe plantearse y documentarse un problema de decisión? Parta de los argumentos del autor y desarrolle sus propias reflexiones en un archivo Rmarkdown, en su proyecto de RStudio en [posit.cloud](https://posit.cloud). Coordínese con los demás compañeros y elabore una versión en español de las figuras del capítulo del libro.    
 
-- *Tarea 2.1*: *Teoría de las bases de datos relacionales*. (Fecha de entrega: 25 de marzo de 2022).  
 
-      Resuelva el siguiente cuestionario ([parte 1](https://drive.google.com/file/d/17IhZFgxB1XCeEYaJjTIJxKQQ-Rv1Vs2q/view?usp=sharing), [parte 2](https://drive.google.com/file/d/1zswLrAe5IBZXhq3YylAR5Sk_EhKdGiAH/view?usp=sharing), [parte 3](https://drive.google.com/file/d/1rdmW5IvGtipYRR4W8Yxhh8sbNOlB2ct2/view?usp=sharing)) en su cuaderno de apuntes para que refuerce la teoría, a partir de la siguiente [presentación](https://drive.google.com/file/d/1leDmRFqWQygcwnYro9315PeUGWjXIF0V/view?usp=sharing) sobre el tema.  
-  
-      Suba las fotos (legibles) de la tarea a su cuenta de *Google Drive*, en la carpeta respectiva, con el nombre de la tarea.  
-  
-      Saque sus conclusiones y documente en un video la realización de la tarea y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
-  
-      **Bibliografía**: Quiroz, J. (2003). El modelo relacional de bases de datos. *Boletín de Política Informática (INEGI)*, (6), 53-61. ([pdf](http://ingenieriasimple.com/conred/el%20modelo%20relacional.pdf)). 
-
-    - *Tarea 2.3*: *Cuestionario*. (Fecha de entrega: 30 de marzo de 2022).  
-
-      *Objetivo*: Aprender el lenguaje de uso en la unidad.
-  
-      Resuelva el siguiente [cuestionario](https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/main/Unidad%202.%20Cuestionario.md) en su cuaderno de apuntes, para que refuerce la teoría sobre el tema de la Unidad.  
-  
-      Suba las fotos (legibles) de la tarea a su cuenta de *Google Drive*, en la carpeta respectiva, con el nombre de la tarea.  
-  
-      Saque sus conclusiones y documente en un video la realización de la tarea y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
-
- 
-5. Tareas y prácticas:
-    - *Práctica 3.1*: *Operaciones matriciales con R y aplicaciones*. (Fecha de entrega: 10 de abril de 2022).
-  
-      *Objetivo*: Realizar un recordatorio sobre los vectores, las matrices y sus operaciones, usando R, como preparación para su aplicación en la programación lineal.  
-
-      *Parte 0. Preparación*. Previamente debe abrir su cuenta en [RStudio.cloud](https://rstudio.cloud/). En su proyecto de la UEA, cree un folder con el nombre la práctica, para que ahí genere sus archivos correspondientes.  
-  
-      *Parte 1. Vectores en R*. Convierta el siguiente tutorial sobre [Vectores en R](https://r-coder.com/vectores-r/) en un archivo RMarkdown (.Rmd) y genere un archivo HTML con *knit*. Para cada ejercicio, agregue un ejemplo adicional. Al final, escriba sus propias conclusiones.  
-  
-      *Parte 2. Matrices en R*. Convierta el siguiente tutorial sobre [Matrices en R](https://r-coder.com/matrices-r/) en un archivo RMarkdown (.Rmd) y genere un archivo HTML con *knit*. Para cada ejercicio, agregue un ejemplo adicional. Al final escriba sus propias conclusiones.  
-  
-      *Parte 3. Operaciones con Matrices en R*. Convierta el siguiente tutorial sobre [Operaciones con Matrices en R](https://r-coder.com/operaciones-matrices-r/) en un archivo RMarkdown (.Rmd) y genere un archivo HTML con *knit*. Para cada ejercicio, agregue un ejemplo adicional. Al final escriba sus propias conclusiones.
-  
-      *Parte 4. Métodos cualitativos para el Análisis de decisiones*. Considere el siguiente video sobre *[Métodos Cualitativos para el Análisis de Decisiones](https://www.youtube.com/watch?v=Vz2Uiy67cm0)* y, a partir de lo que aprendió en las primeras partes, conviértalo en un archivo RMarkdown (.Rmd) con la receta de la solución y genere un archivo HTML con *knit*. Para cada ejercicio, agregue un ejemplo adicional. Al final escriba sus propias conclusiones.  
-  
-      *Parte 5. Método del Valor Esperado*. Considere el siguiente video sobre *[Metodo del Valor Esperado para el Análisis de Decisiones](https://www.youtube.com/watch?v=d2D8aUZHAWs)* y, a partir de lo que aprendió en las primeras partes, conviértalo en un archivo RMarkdown (.Rmd) con la receta de la solución y genere un archivo HTML con *knit*. Para cada ejercicio, agregue un ejemplo adicional. Al final escriba sus propias conclusiones.
-    
-      Suba los archivos de la práctica a su cuenta de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.  
-  
-      Saque sus conclusiones y documente en un video la realización de la tarea y su experiencia en la realización de la actividad, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.  
-
-    - *Tarea 3.2*: *Fundamentos del análisis de decisiones*. (Fecha de entrega: 17 de abril de 2022).  
-
-      *Objetivo*: Aprender los fundamentos del análisis de decisiones.  
-
-      Resuelva el siguiente [cuestionario](https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/main/Unidad%203.%20Cuestionario.md) sobre los *fundamentos del análisis de decisiones*.
-  
-    - *Práctica 3.3. Manipulación de datos con R*. (Fecha de entrega: 24 de abril de 2022).  
-
-      *Objetivo*: Aprender la limpieza y manipulación de datos con R para el análisis de datos.  
-
-      *Parte 0*: Organícense en parejas.  
-  
-      *Parte 1*: Estudie la [Transformación de datos](https://es.r4ds.hadley.nz/transform.html#transformaciones-agrupadas-y-filtros) y resuelva los [ejercicios respectivos](https://es.r4ds.hadley.nz/transform.html#transformaciones-agrupadas-y-filtros) mediante la elaboración de un archivo RMarkdown.  
-
-      *Parte 2*: Estudie los principios de la [Ordenación de datos](https://es.r4ds.hadley.nz/datos-ordenados.html) con el paquete *tidyverse* y resuelva los ejercicios del capítulo (12.2.1, 12.3.3, 12.4.3, 12.5.1, 12.6.1) mediante la elaboración de un archivo RMarkdown.  
-
-      Suban los archivos de la práctica, creados o modificados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.  
-  
-      Saquen sus conclusiones y documenten en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial y compartan el video en el grupo de Telegram.
-
-    - *Práctica 3.4. Manipulación de datos relacionales con R*. (Fecha de entrega: 24 de abril de 2022).  
-
-      *Objetivo*: Aprender la manipulación de datos relacionales con R, como aproximación a las bases de datos relacionales.  
-
-      *Parte 0*: Organícense en parejas.  
-  
-      *Parte 1*: Prerrequisitos: Debe haber realizado las primeras dos partes de esta práctica y haber resuelto la *Tarea 2.1: Teoría de las bases de datos relacionales*.  
-  
-      *Parte 2*: Estudie los principios de manejo de [Datos relacionales](https://es.r4ds.hadley.nz/datos-relacionales.html) y resuelva los ejercicio del capítulo (13.2.1, 13.3.1, 13.4.6, 13.5.1) mediante la elaboración de un archivo RMarkdown.  
-
-      Suban los archivos de la práctica, creados o modificados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.  
-  
-      Saquen sus conclusiones y documenten en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial y compartan el video en el grupo de Telegram.
-
-    - *Práctica 3.5. Optimización con R*. (Fecha de entrega: Ninguna, pues es opcional).  
-
-      *Objetivo*: Aprender el procedimiento general de resolución de problemas de programación lineal con R.  
-
-      *Parte 0*: Organícense en parejas.  
-  
-      *Parte 1*: Repase la teoría de optimización matemática de la *programación lineal* usando R en este tutorial-ejemplo de *Optimización en R* de [Chung (2020, Jun 23)](https://rpubs.com/vchung/programacion), en este otro tutorial sobre *Optimización Lineal con R* de [Berrendero (2015)](https://caminosaleatorios.files.wordpress.com/2015/03/optimizacion-lineal-r.pdf) y el tutorial sobre *Calculadoras de Optimización* o (*Solvers*) de [Palomar (2020)](https://palomar.home.ece.ust.hk/MAFS6010R_lectures/Rsession_solvers.html), donde también encontrará soluciones para otras técnicas como *mínimos cuadrados*, *programación entera*, *programación cuadrática* y *programación mixta*, entre otros. 
-  
-      *Parte 2*: Aparte de los paquetes [lpSolve](https://cran.r-project.org/web/packages/lpSolve/index.html) y [lpSolveAPI](https://cran.r-project.org/web/packages/lpSolveAPI/index.html), es de particular interés el paquete [R Optimization Infrastructure (ROI)](https://roi.r-forge.r-project.org/) porque es la solución de optimización más completa disponible actualmente en R. 
-  
-      *Parte 3*: Enfóquese en aprender:   
-          a. A utilizar la codificación en LaTEX para escribir ecuaciones, matrices y símbolos matemáticos (ver [Editor Online](https://latex.codecogs.com/eqneditor/editor.php)),  
-          b. La codificación de vectores y matrices para reolver los problemas de optimización con los paquetes *lpSolve*, *lpSolveAPI* y *ROI* de R con RStudio,  
-          c. La graficación simple con R apoyándose en el tutorial de [Alegre Ordoñez (2019, Mar 7)](http://rstudio-pubs-static.s3.amazonaws.com/474421_3dfcb62391eb4ac495a863dea86121d9.html), y  
-          d. Reproduzcan los ejercicios respectivos, comprobando la validez y documenten el algoritmo en una compilación en un archivo *RMarkdown*.  
-
-      *Parte 4*: Explore y exponga algunos de los problemas representativos de su carrera que podría resolver utilizando estas técnicas y saquen sus conclusiones.   
-
-      Suban los archivos de la práctica, creados o modificados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.  
-  
-      Documenten en un video la realización de la práctica y su experiencia en la realización de la actividad, a modo de tutorial y compartan el video en el grupo de Telegram.
+- Howard, R. A. (1988). Decision analysis: practice and promise, *Management Science, 34*(6), 679-695. ([url](https://www.jstor.org/stable/2632123)) ([pdf](https://sci-hub.ru/10.2307/2632123))
+- Charlesworth, D. (2017). Decision analysis for managers: A guide for making better personal and business decisions. New York: Business Expert Press. [Amazon](https://www.amazon.com/-/es/David-Charlesworth-ebook/dp/B06ZY9XRTW) ([epub](https://libgen.rs/book/index.php?md5=10EE672DF770CEFD216D6F65C29FE2C1)) (traducción: [Análisis de decisiones para gerentes](https://libgen.rs/book/index.php?md5=D43F87667B1D27665BE199267253DBA9)
 
 
 #### Unidad 3. Los problemas de decisión
 1. Modelación de los problemas de decisión
 2. Proceso de resolución de problemas de decisión
 3. Estructuración de problemas de decisión
-4. La situación a analizar
-5. Modelos de decisión: 
+4. Modelos de decisión: 
    - Matriz de pagos
    - Árboles de decisión
    - Modelo de scoring
    - Modelo de norma mínima
    - Otras técnicas
-6. Tareas y prácticas
-   - *Tarea 4.1*: *Fundamentos de la estructuración de problemas de decisión*. (Fecha de entrega: 11 de mayo de 2022).  
-
-     *Objetivo*: Aprender los fundamentos de la estructuración de problemas de decisión.  
-
-     *Parte 0*: Organícense en parejas.  
-  
-     *Parte 1*: Resuelva el siguiente [cuestionario](https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/main/Unidad%204.%20Cuestionario.md) sobre la *estructuración de los problemas de decisión*, mediante la elaboración de un archivo RMarkdown.  
- 
-     Saquen sus conclusiones y suban los archivos creados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la tarea.
-
-   - *Práctica 4.2*: *Instalación y uso básico de Radiant, análitica de negocios con R y Shiny*. (Fecha de entrega: 11 de mayo de 2022).    
-      
-     *Objetivo*: Instalar y usar *Radiant* para el análisis de negocios con *R* y *Shiny* en *RStudio*.    
-      
-     *Parte 1*: Instale el plugin [Radiant](https://cran.r-project.org/web/packages/radiant.data/readme/README.html), de acuerdo a las [instrucciones](https://radiant-rstats.github.io/docs/index.html), en su instalación de *RStudio*.  
-      
-     *Parte 2*: *Instrucciones generales*. Estudie el tema de *Análisis de Decisiones* usando *árboles de decisión* en el [tutorial escrito](https://radiant-rstats.github.io/docs/model/dtree.html) de *Radiant* y en la [lista de reproducción](https://www.youtube.com/watch?v=plSeVJ7c-Iw&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw) correspondiente. 
-      
-     Utilice el [tutorial escrito](https://radiant-rstats.github.io/docs/model/dtree.html) como base para la generación del archivo *RMarkdown* que contenga las recetas correspondientes en español. Este será un entregable. 
-      
-     Además, utilice los [archivos YAML](https://uc2a9e31d90010cc1bfd4229da2a.dl.dropboxusercontent.com/zip_download_get/BH8yEm5Fx3j6a7es51fpAxNGw4eiKdA41uC8yYW-Voo8Gzh05VpCnCTEiQpyPTdSgDj0IoIkw-x-63Z0xmYavHUiFmBOtGHfr9g2Y95nrB7YQA?dl=1#) de los ejercicios como insumos, introduzca los comentarios respectivos en el archivo YAML (con # igual que en R) y traduzca lo que corresponda. Estos archivos serán sus otros entregables. 
-      
-     Una vez que haga la simulación con los árboles de decisión inicial y final, guarde sus resultados en el archivo RMarkdown.
-   
-     *Parte 3:* Estudie los primeros tres videos en la [lista de reproducción](https://www.youtube.com/watch?v=plSeVJ7c-Iw&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw) correspondiente y reproduzca los dos ejercicios (#1 y #2) que se muestran en los videos y genere el archivo *RMarkdown* traducido al español y haga su video de evidencia.  
-      
-     *Parte 4*: Estudie el tema del *análisis de sensibilidad* en *árboles de decisión* en el video 4 de la [lista de reproducción](https://www.youtube.com/watch?v=c_pCCCn6FEw&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw&index=4) correspondiente. Reproduzca el  ejercicio #3 que se muestra en el video y genere la parte correspondiente del archivo *RMarkdown* en español y haga su video de evidencia.  
-      
-     *Parte 5*: Estudie la depuración de los errores de la entrada de datos en *árboles de decisión* en el video 5 de la [lista de reproducción](https://www.youtube.com/watch?v=oiwv15bbjzs&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw&index=5) correspondiente.  Reproduzca el ejercicio #4 que se muestra en el video y genere el archivo *RMarkdown* con su informe en español y haga el video correspondiente.  
-      
-     *Parte 6*: Estudie el tema de probabilidad en *árboles de decisión* en el video 6 de la [lista de reproducción](https://www.youtube.com/watch?v=xuv9zgAcvCQ&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw&index=6) correspondiente. Reproduzca el  ejercicio #3 que se muestra en el video y genere el archivo *RMarkdown* con su informe en español y haga el video correspondiente.
-      
-     *Parte 7*: Estudie el tema de *árboles de decisión* con información imperfecta en el video 7 de la [lista de reproducción](https://www.youtube.com/watch?v=xuv9zgAcvCQ&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw&index=7) correspondiente. Reproduzca el  ejercicio #4 que se muestra en el video y genere el archivo *RMarkdown* con su informe en español y haga el video correspondiente.
-      
-     *Parte 8*: Aprenda a desarrollar los *árboles de decisión* con información imperfecta en el video 8 de la [lista de reproducción](https://www.youtube.com/watch?v=xuv9zgAcvCQ&list=PLNhtaetb48EdKRIY7MewCyvb_1x7dV3xw&index=8) correspondiente. Reproduzca el  ejercicio #2 que se muestra en el video y genere el archivo *RMarkdown* con su informe en español y haga el video correspondiente.
-      
-     Saquen sus conclusiones y suban los archivos creados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la práctica.
-
-   - *Práctica 4.3*: *Las decisiones grupales: Un enfoque deontológico*. (Fecha de entrega: 16 de mayo de 2022 a las 24:00 hr, 1 punto extra en la Unidad 4, a quien lo realice).    
-      
-     *Objetivo*: Comprender la complejidad de la toma de decisiones grupales y la importancia de la ética.    
-      
-     Desarrolle la siguiente [actividad](https://github.com/jzavalar/2211092-Analisis_de_Decisiones/blob/main/Unidad_4._Practica_4.3.md).  
- 
-     Saquen sus conclusiones y suban los archivos creados, a sus cuentas de *Google Drive*, en la carpeta respectiva, con el nombre de la tarea.
-
-
+5. Tareas y prácticas
 
 
 ### Bibliografía General:
@@ -319,7 +177,7 @@ Que al finalizar el curso el alumno sea capaz de:
 - Recursos digitales en la UAM: biblioteca de la Unidad Iztapalapa ([url](http://contingencia.izt.uam.mx/wp-content/uploads/2020/04/Biblioteca-Nuevo-3b-bindani-B.pdf)), biblioteca digital ([url](https://bidi.uam.mx/index.html)), [recursos varios](http://pcyti.izt.uam.mx/recursos/infext/infoext.html).  
 - Recursos controversiales: [Library Genesis](http://gen.lib.rus.ec/) (libros, artículos, novelas), [**SciHub**](https://sci-hub.se/about) (artículos), [The Pirate Bay](https://thepiratebay.org/index.html) (P2P file sharing network) (archivos), [Academic Torrents](http://academictorrents.com/) (artículos, datos y cursos).
 - Repositorios de software: [Software para la comunidad UAM](https://www.uam.mx/ti/soft/), [AlternativeTo](https://alternativeto.net/), [SourceForge](https://sourceforge.net/), [CDLibre](https://www.cdlibre.org/), [Software Heritage](https://www.softwareheritage.org/?lang=es), [GitHub](https://github.com/github).
-- Hernández, L. (2012, Nov 16). **El Software Libre y la educación** por Richard Stallman. *YouTube* ([url](https://www.youtube.com/watch?v=aRvorE9PJso)).  
+ 
 - Valcheva, S. (s.f.). 10 Open Source Decision Tree Software Tools. ([url](https://www.intellspot.com/open-source-decision-tree/)).
 
 - Universitat de les Illes Balears. Som UIB (2016, Sep 22). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([Lista de videos](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).
@@ -331,7 +189,7 @@ Que al finalizar el curso el alumno sea capaz de:
 ## Modalidades de Evaluación
 
 ### Evaluación Global
-La asistencia puntual a la clase es obligatoria, según el reglamento de estudios. Es importante la *participación activa clase a clase*. La falta de participación en clase y la no entrega de sus reportes de prácticas a lo largo del trimestre, tendrá repercusiones en la evaluación final que puede llegar a la reprobación del curso. Ver porcentajes de ponderación de calificación.
+La asistencia puntual a la clase es obligatoria según el reglamento de estudios. Es importante la *participación activa clase a clase*. La falta de participación en clase y la no entrega de sus reportes de prácticas a lo largo del trimestre tendrá repercusiones en la evaluación final que puede llegar a la reprobación del curso. Ver porcentajes de ponderación de calificación.
 
 #### Calificación
 | Factor | Porcentaje | Observaciones |
@@ -342,12 +200,10 @@ La asistencia puntual a la clase es obligatoria, según el reglamento de estudio
 | Total | 100% | |
 
 **Notas:
-  - **a).** Primer examen: *Teórico* (Unidades ) y *Práctico* (): Fecha: 
-  - **b).** Segundo examen: *Teórico - Práctico* (Unidad 4): Fecha: 
-  - **Evaluación Global:** Todo el curso (Teoría y Práctica) para quienes tengan baja calificación o deseen subir.
-  - **Entrega de calificaciones:** .
-
-La *evaluación final* será un examen teórico-práctico que versará sobre la totalidad de las unidades. 
+  - **a).** Primer examen: *Teórico* y *Práctico*: Fecha: por definir. 
+  - **b).** Segundo examen: *Teórico - Práctico*: Fecha: por definir. 
+  - **Evaluación Global:** Quienes no hayan aprobado los exámenes tendrán oportunidad de aplicar una evaluación global teórico-práctica de todo el curso (Teoría y Práctica). La misma oportunidad es para quienes tengan baja calificación o deseen subir.
+  - **Entrega de calificaciones:** Fecha por definir.
 
 ### Evaluación de Recuperación
 La *evaluación de recuperación* no será aplidada por el profesor, sino por la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente. Por lo que deberá coordinarse con el Coordinador de la Licenciatura.
