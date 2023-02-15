@@ -81,8 +81,10 @@ Que al finalizar el curso el alumno sea capaz de:
    
       *Parte 5*. Para la práctica en el salón, descargue e instale [*PortableApps*](https://portableapps.com/) ([tutorial 1](https://www.youtube.com/watch?v=Ux_3p4lDmTg), [tutorial 2](https://www.youtube.com/watch?v=Ux_3p4lDmTg)) en su USB vacía. Tome en cuenta que debe desactivar el antivirus para realizar la práctica y usar *PortableApps*. [guía](https://www.youtube.com/watch?v=HDEhLpS7UwM)). Luego, descargue e instale el siguiente software portable en una USB: *LibreOffice* (suite de oficina) ([portable](https://portableapps.com/apps/office/libreoffice_portable)), *7-zip* (compresor/descompresor) ([portable](https://portableapps.com/apps/utilities/7-zip_portable)), [*R Portable*](https://sourceforge.net/projects/rportable/files/R-Portable/)) (estadística) y [*RStudio Portable*](https://sourceforge.net/projects/rportable/files/R-Studio/) (estadística).
 
-      ##### *Bibliografía Complementaria:*
-         - Ibiza, D. (2018, Apr 3). 1. Introducción a *Google Drive*: Primeros pasos ([tutorial](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=330s)), 2. Gestión de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=2042s)), 3. Opciones de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=3313s)), 4. Cómo compartir archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=4238s)), 5. Trabajar con documentos ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=5222s)) . In Tutorial Google Drive | Completo | Principiantes | Paso a Paso. YouTube. (video). ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk)).  
+##### *Bibliografía Complementaria:*
+- Ibiza, D. (2018, Apr 3). 1. Introducción a *Google Drive*: 
+     1 Primeros pasos ([tutorial](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=330s))    
+     2. Gestión de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=2042s)), 3. Opciones de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=3313s)), 4. Cómo compartir archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=4238s)), 5. Trabajar con documentos ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=5222s)) . In Tutorial Google Drive | Completo | Principiantes | Paso a Paso. YouTube. (video). ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk)).  
 
 
 #### Unidad 1. Presentación
