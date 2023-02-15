@@ -59,7 +59,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
 #### Unidad 0. Prerrequisitos
 1. Prácticas:
-    - *Práctica 0.1: Bases de trabajo colaborativo con Google Drive* (Demostrativa online).
+   - *Práctica 0.1: Bases de trabajo colaborativo con Google Drive* (Demostrativa online).
    
       *Objetivo*: Aprender las operaciones con archivos y directorios en Google Drive, como un ejemplo de plataformas de cómputo en la nube.  
       
