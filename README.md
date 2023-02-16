@@ -98,13 +98,33 @@ Que al finalizar el curso el alumno sea capaz de:
   
       Cree su cuenta en [RStudio cloud](https://posit.cloud/). Esto le permitirá ejecutar el código fuente de R, hacer las modificaciones que requiera y usarlo para sus propias necesidades.  
   
-    - *Práctica 1.2: Fundamentos de R y RStudio*.  (Entrega: 20 de febrero de 2023).  
+    - *Práctica 1.2: Fundamentos de R y RStudio*.  (Entrega: 27 de febrero de 2023).  
   
       *Objetivo*: Aprender a usar el R y RStudio en el entorno de *RStudio Cloud* y en su computadora personal.  
   
       Tome como base el pequeño libro [R para Análisis de Datos](https://bookdown.org/ddiannae/curso-rdata/) de Diana García Cortés (2022) y los recursos digitales disponibles por la autora en [Github](https://github.com/ddiannae/curso-rdata). Siga las instrucciones del libro y practique a discreción hasta dominar los temas.   
       
-      Por último, haga un video tutorial grabando la pantalla de su equipo conforme vaya realizando su práctica hasta que haya cumplido el objetivo. Suba su video a su cuenta de Google Drive donde corresponda y al chat de Telegram con el profesor.   
+      Debe entregar son ejercicios de los siguientes capítulos del libro: 1, 2, 3,    
+
+    - *Práctica 1.3: Creación de documentos con RMarkdown en RStudio Cloud*. (Entrega: 20 de febrero de 2023).
+
+      *Objetivo*: Aprender los principios básicos de edición utilizando el lenguaje RMarkdown en *RStudio cloud*, al mismo tiempo que aprender a manejar vectores, matrices y sus operaciones en R y su representación gráfica usando LaTeX.
+    
+      *Parte 1*. Descargue el archivo base [LinearAlgebraR-Handout.pdf](https://github.com/wangyi-fudan/BIOL130173/blob/master/LinearAlgebraR-Handout.pdf). Convierta el archivo *.pdf* a *.docx* y haga una traducción al español del documento base o busque el archivo traducido *LinearAlgebraR-Handout_ES.docx* en el canal de la clase en Telegram.       
+      
+      *Parte 2*. Tome como base el archivo traducido y cópielo a un archivo RMarkdown. Guárdelo con el mismo nombre en su proyecto de *RStudio cloud*. Edítelo con la sintaxis de RMarkdown y re-cree el archivo equivalente del archivo base *LinearAlgebraR-Handout.pdf*. Tips: (1) Para dibujar las fórmulas matemáticas, los vectores y y las matrices, utilice un editor en línea de LaTeX como [Codecogs](https://latex.codecogs.com/eqneditor/editor.php?lang=es-es), cree las fórmulas e incruste el código correspondiente en su archivo RMarkdown (*.Rmd*). (2) Descargue las imágenes y súbalas al directorio *images* en su proyecto y luego incrústelas adecuadamente con el códigocorrespondiente en su archivo *.Rmd* ([guía](https://rpubs.com/Juve_Campos/ImagenesyMultimediaEnRmarkdown)). Concéntrese en desarrollar la capacidad de conseguir la ayuda para resolver satisfactoriamente la práctica y practique lo suficiente hasta que logre el objetivo.
+      
+      Al final, debe obtener el archivo .Rmd base para la generación de los archivos archivo HTML y PDF generados durante la conversión.
+      
+      
+    - *Práctica 1.4: Importación, guardado y exportación de datos en RStudio Cloud*.  
+
+      *Objetivo*: Aprender el manejo de archivos con R. 
+      
+      los principios básicos de edición utilizando el lenguaje RMarkdown en *RStudio cloud*, al mismo tiempo que aprender a manejar vectores, matrices y sus operaciones en R y su representación gráfica usando LaTeX.
+    
+      *Parte 1*. Descargue el archivo base [LinearAlgebraR-Handout.pdf](https://github.com/wangyi-fudan/BIOL130173      
+      
 
     - *Práctica 1.3. Bases de datos I: Bases de datos pequeñas*. (Entrega: 20 de febrero de 2023).  
 
