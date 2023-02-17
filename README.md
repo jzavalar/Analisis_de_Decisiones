@@ -115,14 +115,14 @@ Que al finalizar el curso el alumno sea capaz de:
       *Parte 2*. Tome como base el archivo traducido y cópielo a un archivo RMarkdown. Guárdelo con el mismo nombre en su proyecto de *RStudio cloud*. Edítelo con la sintaxis de RMarkdown y re-cree el archivo equivalente del archivo base *LinearAlgebraR-Handout.pdf*. 
       
       Tips:   
-      1). Para dibujar las fórmulas matemáticas, los vectores y y las matrices, utilice un editor en línea de LaTeX como [Codecogs](https://latex.codecogs.com/eqneditor/editor.php?lang=es-es), cree las fórmulas e incruste el código correspondiente en su archivo RMarkdown (*.Rmd*).   
-      2). Descargue las imágenes y súbalas al directorio *images* en su proyecto y luego incrústelas adecuadamente con el códigocorrespondiente en su archivo *.Rmd* ([guía](https://rpubs.com/Juve_Campos/ImagenesyMultimediaEnRmarkdown)).
-      3). Considere alguna de las siguientes guías en RMarkdown:
-          * [Gualchi, 2019](https://gesel.github.io/materiales/10Gu%C3%ADa_RMarkdown.pdf),
-          * [Boccardo Bosoni y Ruiz Bruzzone, 2019](https://bookdown.org/gboccardo/manual-ED-UCH/introduccion-al-uso-de-rmarkdown-para-la-compilacion-de-resultados-de-rstudio-en-diferentes-formatos.html),
-          * [The Epidemiologist R Handbook, 2022](https://epirhandbook.com/en/reports-with-r-markdown.html),
-          * [Aprende lo Básico de R Markdown en 20 Minutos](https://www.youtube.com/watch?v=6Qj8yBFgT9Q) y 
-          * [Ecuaciones (LaTeX)](https://www.youtube.com/watch?v=nd-YudmcLjQ).
+      * Para dibujar las fórmulas matemáticas, los vectores y y las matrices, utilice un editor en línea de LaTeX como [Codecogs](https://latex.codecogs.com/eqneditor/editor.php?lang=es-es), cree las fórmulas e incruste el código correspondiente en su archivo RMarkdown (*.Rmd*).   
+      * Descargue las imágenes y súbalas al directorio *images* en su proyecto y luego incrústelas adecuadamente con el códigocorrespondiente en su archivo *.Rmd* ([Campos, 2020](https://rpubs.com/Juve_Campos/ImagenesyMultimediaEnRmarkdown)).
+      * Considere alguna de las siguientes guías en RMarkdown:
+        - [Gualchi, 2019](https://gesel.github.io/materiales/10Gu%C3%ADa_RMarkdown.pdf),
+        - [Boccardo Bosoni y Ruiz Bruzzone, 2019](https://bookdown.org/gboccardo/manual-ED-UCH/introduccion-al-uso-de-rmarkdown-para-la-compilacion-de-resultados-de-rstudio-en-diferentes-formatos.html),
+        - [The Epidemiologist R Handbook, 2022](https://epirhandbook.com/en/reports-with-r-markdown.html),
+        - [Aprende lo Básico de R Markdown en 20 Minutos](https://www.youtube.com/watch?v=6Qj8yBFgT9Q) y 
+        - [Ecuaciones (LaTeX)](https://www.youtube.com/watch?v=nd-YudmcLjQ).
       Concéntrese en desarrollar la capacidad de conseguir la ayuda para resolver satisfactoriamente la práctica y practique lo suficiente hasta que logre el objetivo.
       
       Al final, debe obtener el archivo .Rmd base para la generación de los archivos archivo HTML y PDF generados durante la conversión.
