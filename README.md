@@ -149,7 +149,7 @@ Que al finalizar el curso el alumno sea capaz de:
     
       *Parte 2*. En primer lugar, utilice *Calc* de *LibreOffice* ([ayuda](https://help.libreoffice.org/Calc/Importing_and_Exporting_dBASE_Files/es)) para abrir el archivo disponible del Inegi en el formato DBF y expórtelo a cualquier otro como XLSX, XLS o CSV. En segundo lugar, utilice el paquete [*rio*](https://cran.r-project.org/web/packages/rio/) en [*RStudio*](https://rstudio.com/) para abrir (importar / exportar) y convertir alguno de los archivos en los formatos disponibles del Inegi: DBF, SAS, SAV, DTA a cualquier otro como XLSX, XLS o CSV. Básese en [este script](https://drive.google.com/file/d/15W7CjN2TmjFo5OSXbbftaWCwm8DagNWo/view?usp=sharing) y adáptelo a su caso particular hasta que le funcione correctamente.
     
-      *Parte 3*. Practique la consulta multidimensional de datos con la pequeña muestra de la base de datos descargada en la Parte 1 (DUMMY_PERSONAS_5K.dbf). Luego, revise la metodología y la solución en *Google Sheets* (en *Google Drive*) [aquí](https://drive.google.com/file/d/1Uqu6m_Fv1AqR5Nf8H_8JbffWmr_L01si/view?usp=sharing) y haga lo equivalente en *Excel* (*Microsoft Office*) y en *Calc* (*LibreOffice*).  
+      *Parte 3*. Practique la consulta multidimensional de datos con la pequeña muestra de la base de datos descargada en la Parte 1 (DUMMY_PERSONAS_5K.dbf). Luego, revise la metodología y la solución en *Google Sheets* (en *Google Drive*) [aquí](https://drive.google.com/file/d/1Uqu6m_Fv1AqR5Nf8H_8JbffWmr_L01si/view?usp=sharing) y haga lo equivalente en *Excel* y en *Calc*.  
   
       Tome como base la siguiente pregunta compuesta:      
           - *¿Cuántos jefes de familia hay en la base de datos que son estudiantes y son menores de edad?* y  
@@ -157,7 +157,7 @@ Que al finalizar el curso el alumno sea capaz de:
   
       *Tip*: Si bien, este problema puede resolverse aplicado filtros de manera consecutiva, también puede resolverse realizando una consulta a la base de datos mediante una tabla dinámica.  
   
-      *Parte 4*. Resuelva la práctica con RStudio, usando un archivo Rmarkdown. Entregue el archivo fuente y el HTML generado.   
+      *Parte 4*. Resuelva la práctica con R en RStudio, usando un archivo Rmarkdown. Entregue el archivo fuente y el reporte generado HTML generado.   
       
       Saque sus conclusiones y documente su experiencia en la realización de la actividad en un video de hasta 10 minutos, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.   
 
@@ -187,7 +187,7 @@ Que al finalizar el curso el alumno sea capaz de:
       
       Responda a las dos preguntas centrales: (1) ¿Qué es un problema de decisión? y (2) ¿Cómo debe plantearse y documentarse un problema de decisión? Parta de los argumentos del autor y desarrolle sus propias reflexiones en un archivo Rmarkdown, en su proyecto de RStudio en [posit.cloud](https://posit.cloud). Coordínese con los demás compañeros y elabore una versión en español de las figuras del capítulo del libro.    
 
-
+### Bibliografía:
 - Howard, R. A. (1988). Decision analysis: practice and promise, *Management Science, 34*(6), 679-695. ([url](https://www.jstor.org/stable/2632123)) ([pdf](https://sci-hub.ru/10.2307/2632123))
 - Charlesworth, D. (2017). Decision analysis for managers: A guide for making better personal and business decisions. New York: Business Expert Press. [Amazon](https://www.amazon.com/-/es/David-Charlesworth-ebook/dp/B06ZY9XRTW) ([epub](https://libgen.rs/book/index.php?md5=10EE672DF770CEFD216D6F65C29FE2C1)) (traducción: [Análisis de decisiones para gerentes](https://libgen.rs/book/index.php?md5=D43F87667B1D27665BE199267253DBA9)
 
@@ -202,7 +202,16 @@ Que al finalizar el curso el alumno sea capaz de:
    - Modelo de scoring
    - Modelo de norma mínima
    - Otras técnicas
-5. Tareas y prácticas
+
+### Bibliografía:
+- Drury, C. (2020). [*Management and cost accounting*](http://libgen.rs/book/index.php?md5=32C869373F6352B932D6EF56FB9CD9D4). USA: Cengage Learning EMEA.   
+- Howard, R. A. (1968). The foundations of decision analysis. *IEEE Transactions on Systems Science and Cybernetics, 4*(3), 211-219. ([url](https://ieeexplore.ieee.org/abstract/document/4082150)) ([pdf](https://sci-hub.ru/10.1109/TSSC.1968.300115)).
+- Ley-Borrás, R. (2015). Deciding on the decision situation to analyze: The critical first step of a decision analysis. *Decision Analysis, 12*(1), pp. 46-58. ([pdf](https://sci-hub.se/10.1287/deca.2014.0308)).  
+- Keeney, R. L. (2007). Developing objectives and attributes. *In* W. Edwards, R. F. Miles y D. von Winterfeldt. (2007). [*Advances in Decision Analysis: From foundations to applications*](http://libgen.rs/book/index.php?md5=AE826E7206D6FE17FD495BDB3BE0BC7B) (pp. 104-128), Cambridge: Cambridge University Press.
+- Ralph L. Keeney, R. L. (1982). Feature article - Decision Analysis: An overview. *Operations Research, 30*(5), 803-838. ([pdf](https://pubsonline.informs.org/doi/pdf/10.1287/opre.30.5.803)).  
+- Ríos, S., Ríos, D., Mateos, A. y Martín, J. (1998). *Programación lineal y aplicaciones: Ejercicios resueltos*. México: Alfa Omega Ra Ma. ([pdf](http://libgen.rs/main/C3553551396E715FAD11F850D70DF9F2)).
+- Rojas, G., Fernandez, E., Whitney, C., Luedeling, E. & Cuneo, I. F. (2021). Adapting sweet cherry orchards to extreme weather events: Decision analysis in support of farmers "Investments in Central Chile." *Agricultural Systems* 187(February): 103031. DOI: https://doi.org/10.1016/j.agsy.2020.103031 . ([url](https://sci-hub.ru/10.1016/j.agsy.2020.103031)). ([video](https://www.youtube.com/watch?v=kpsqzkeg53Y)). (**Estudio de caso**).
+- Smith, J. E. y von Winterfeldt, D. (2004). Decision Analysis in "Management Science". *Management Science, 50*(5), 561-574. ([pdf](https://sci-hub.ru/10.2307/30046097)).  
 
 
 ### Bibliografía General:
