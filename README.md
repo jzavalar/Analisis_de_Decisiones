@@ -3,7 +3,7 @@
 ## Programa Analítico de la UEA Análisis de Decisiones (Teoría y Práctica)
 ## Licenciatura en Administración
 
-**Clave de la UEA:** *2211092*, **Grupo:** *HE50*, **Trimestre:** *23-I*
+**Clave de la UEA:** *2211092*, **Grupo:** *HE51*, **Trimestre:** *23-I*
 
 **Horario:** *Lunes y miércoles* de *14:00 a 16:00*.
 
