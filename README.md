@@ -115,14 +115,14 @@ Que al finalizar el curso el alumno sea capaz de:
       *Parte 2*. Tome como base el archivo traducido y cópielo a un archivo RMarkdown. Guárdelo con el mismo nombre en su proyecto de *RStudio cloud*. Edítelo con la sintaxis de RMarkdown y re-cree el archivo equivalente del archivo base *LinearAlgebraR-Handout.pdf*. 
       
       Tips:   
-      * Para dibujar las fórmulas matemáticas, los vectores y y las matrices, utilice un editor en línea de LaTeX como [Codecogs](https://latex.codecogs.com/eqneditor/editor.php?lang=es-es), cree las fórmulas e incruste el código correspondiente en su archivo RMarkdown (*.Rmd*).   
+      * Para dibujar las fórmulas matemáticas, los vectores y las matrices, utilice un editor en línea de LaTeX como [Codecogs](https://latex.codecogs.com/eqneditor/editor.php?lang=es-es), cree las fórmulas e incruste el código correspondiente en su archivo RMarkdown (*.Rmd*).   
       * Descargue las imágenes y súbalas al directorio *images* en su proyecto y luego incrústelas adecuadamente con el códigocorrespondiente en su archivo *.Rmd* ([Campos, 2020](https://rpubs.com/Juve_Campos/ImagenesyMultimediaEnRmarkdown)).
       * Considere alguna de las siguientes guías en RMarkdown:
-        - [Gualchi, 2019](https://gesel.github.io/materiales/10Gu%C3%ADa_RMarkdown.pdf),
-        - [Boccardo Bosoni y Ruiz Bruzzone, 2019](https://bookdown.org/gboccardo/manual-ED-UCH/introduccion-al-uso-de-rmarkdown-para-la-compilacion-de-resultados-de-rstudio-en-diferentes-formatos.html),
-        - [The Epidemiologist R Handbook, 2022](https://epirhandbook.com/en/reports-with-r-markdown.html),
-        - [Aprende lo Básico de R Markdown en 20 Minutos](https://www.youtube.com/watch?v=6Qj8yBFgT9Q) y 
-        - [Ecuaciones (LaTeX)](https://www.youtube.com/watch?v=nd-YudmcLjQ).
+        - [Guía de R Markdown](https://gesel.github.io/materiales/10Gu%C3%ADa_RMarkdown.pdf) (Gualchi, 2019),
+        - [Introducción al uso de RMarkdown para la compilación de resultados de RStudio en diferentes formatos](https://bookdown.org/gboccardo/manual-ED-UCH/introduccion-al-uso-de-rmarkdown-para-la-compilacion-de-resultados-de-rstudio-en-diferentes-formatos.html) (Boccardo Bosoni y Ruiz Bruzzone, 2019),
+        - [40 Reports with R Markdown](https://epirhandbook.com/en/reports-with-r-markdown.html) (The Epidemiologist R Handbook, 2022),
+        - [Aprende lo Básico de R Markdown en 20 Minutos](https://www.youtube.com/watch?v=6Qj8yBFgT9Q) (José Antonio: Estadística Aplicada, 2021, Aug 23) y 
+        - [Ecuaciones (LaTeX) | Tutorial básico de R Markdown](https://www.youtube.com/watch?v=nd-YudmcLjQ) (DaniMedi, 2020, Sep 17).
       Concéntrese en desarrollar la capacidad de conseguir la ayuda para resolver satisfactoriamente la práctica y practique lo suficiente hasta que logre el objetivo.
       
       Al final, debe obtener el archivo .Rmd base para la generación de los archivos archivo HTML y PDF generados durante la conversión.
@@ -204,6 +204,7 @@ Que al finalizar el curso el alumno sea capaz de:
    - Otras técnicas
 
 ### Bibliografía:
+- Howard, R. A., & Abbas, A. E. (2016). Foundations of decision analysis [Global Edition]. Great Britain: Pearson Education. ([url](http://libgen.rs/book/index.php?md5=4B19F574BA8246A5BA274A7AF4BFB6A5)).
 - Drury, C. (2020). [*Management and cost accounting*](http://libgen.rs/book/index.php?md5=32C869373F6352B932D6EF56FB9CD9D4). USA: Cengage Learning EMEA.   
 - Howard, R. A. (1968). The foundations of decision analysis. *IEEE Transactions on Systems Science and Cybernetics, 4*(3), 211-219. ([url](https://ieeexplore.ieee.org/abstract/document/4082150)) ([pdf](https://sci-hub.ru/10.1109/TSSC.1968.300115)).
 - Ley-Borrás, R. (2015). Deciding on the decision situation to analyze: The critical first step of a decision analysis. *Decision Analysis, 12*(1), pp. 46-58. ([pdf](https://sci-hub.se/10.1287/deca.2014.0308)).  
@@ -212,6 +213,11 @@ Que al finalizar el curso el alumno sea capaz de:
 - Ríos, S., Ríos, D., Mateos, A. y Martín, J. (1998). *Programación lineal y aplicaciones: Ejercicios resueltos*. México: Alfa Omega Ra Ma. ([pdf](http://libgen.rs/main/C3553551396E715FAD11F850D70DF9F2)).
 - Rojas, G., Fernandez, E., Whitney, C., Luedeling, E. & Cuneo, I. F. (2021). Adapting sweet cherry orchards to extreme weather events: Decision analysis in support of farmers "Investments in Central Chile." *Agricultural Systems* 187(February): 103031. DOI: https://doi.org/10.1016/j.agsy.2020.103031 . ([url](https://sci-hub.ru/10.1016/j.agsy.2020.103031)). ([video](https://www.youtube.com/watch?v=kpsqzkeg53Y)). (**Estudio de caso**).
 - Smith, J. E. y von Winterfeldt, D. (2004). Decision Analysis in "Management Science". *Management Science, 50*(5), 561-574. ([pdf](https://sci-hub.ru/10.2307/30046097)).  
+
+- Anónimo. (2023). [Decision trees in R Analytics](https://techvidvan.com/tutorials/decision-tree-in-r/) [Tutorial En Línea] TechVidvan.
+- Anónimo. (2023). [Decision trees in R Analytics](https://techvidvan.com/tutorials/decision-tree-in-r/) [Tutorial En Línea]. TechVidvan. (datos en el paquete ISLR).
+- Anónimo. (2017). [R decision trees: The best tutorial on tree based modeling in R!](https://data-flair.training/blogs/r-decision-trees/) [Tutorial En Línea]. DataFlair. ([datos](https://goo.gl/At238b)).
+- Nijs, V. R. (2019). [Radiant: Business analytics using R and Shiny](https://radiant-rstats.github.io/docs/index.html). ([Paquete en CRAN](https://cran.r-project.org/web/packages/radiant.data/readme/README.html)) ([Código fuente](https://github.com/radiant-rstats)) ([Documentación](https://radiant-rstats.github.io/docs/)) ([Instalación](https://radiant-rstats.github.io/docs/install.html)) ([Canal en YouTube](https://www.youtube.com/@RadiantForR/featured))
 
 
 ### Bibliografía General:
@@ -222,11 +228,11 @@ Que al finalizar el curso el alumno sea capaz de:
  
 - Valcheva, S. (s.f.). 10 Open Source Decision Tree Software Tools. ([url](https://www.intellspot.com/open-source-decision-tree/)).
 
+- Guisande González, C. & Vaamonde Liste, A. (2013). [Gráficos estadísticos y mapas con R](https://libgen.rs/book/index.php?md5=8ECF29580BFE702F21D16CC2C9BDBA5C). España: Díaz de Santos.
 - Universitat de les Illes Balears. Som UIB (2016, Sep 22). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([Lista de videos](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).
-- Wickham, H. & Grolemund, G. (2017). *R for data science: Import, tidy, transform, visualize, and model data*. O'Reilly. ([url](https://r4ds.had.co.nz/)). (R para ciencia de datos, [traducción español](https://r4ds-en-espaniol.netlify.app/)). (Solución de los ejercicios, [url](https://cienciadedatos.github.io/r4ds-soluciones/index.html)).
-- Teetor, P. (2019). *R cookbook: Proven recipes for data analysis, statistics, and graphics*. O'Reilly. [Online] ([url](https://rc2e.com/)). ([traducción al español](https://translate.google.com/translate?sl=en&tl=es&u=https://rc2e.com/)).
-- Wickham, H. & Grolemund, G. (2017). R for data science. [Online] ([url](https://r4ds.had.co.nz/)), [traducción al español] ([url](https://es.r4ds.hadley.nz/)).
+- Teetor, P. (2019).  [*R cookbook: Proven recipes for data analysis, statistics, and graphics*]. O'Reilly. [Online] ([traducción al español](https://translate.google.com/translate?sl=en&tl=es&u=https://rc2e.com/)).
 - RStudio cheatsheets. ([url](https://github.com/rstudio/cheatsheets)).
+- Wickham, H. & Grolemund, G. (2017). [*R for data science: Import, tidy, transform, visualize, and model data*](https://rc2e.com/). O'Reilly. ([url](https://r4ds.had.co.nz/)). ([R para ciencia de datos](https://es.r4ds.hadley.nz)). ([Solución de los ejercicios](https://cienciadedatos.github.io/r4ds-soluciones/index.html)).
 
 ## Modalidades de Evaluación
 
