@@ -239,7 +239,7 @@ Que al finalizar el curso el alumno sea capaz de:
 ## Modalidades de Evaluación
 
 ### Evaluación Global
-La asistencia puntual a la clase es obligatoria según el reglamento de estudios. Es importante la *participación activa clase a clase*. La falta de participación en clase y la no entrega de sus reportes de prácticas a lo largo del trimestre tendrá repercusiones en la evaluación final que puede llegar a la reprobación del curso. Ver porcentajes de ponderación de calificación.
+La asistencia puntual a la clase es obligatoria según el reglamento de estudios. Para tener derecho a presentar los exámenes debe tener una asistencia superior o igual al 80%. Es importante la *participación activa clase a clase*. La falta de participación en clase y la no entrega de sus reportes de prácticas a lo largo del trimestre tendrá repercusiones en la evaluación final que puede llegar a la reprobación del curso. Ver porcentajes de ponderación de calificación.
 
 #### Calificación
 | Factor | Porcentaje | Observaciones |
@@ -252,7 +252,7 @@ La asistencia puntual a la clase es obligatoria según el reglamento de estudios
 **Notas:
   - **a).** Primer examen: *Teórico* y *Práctico*: Fecha: por definir. 
   - **b).** Segundo examen: *Teórico - Práctico*: Fecha: por definir. 
-  - **Evaluación Global:** Quienes no hayan aprobado los exámenes tendrán oportunidad de aplicar una evaluación global teórico-práctica de todo el curso (Teoría y Práctica). La misma oportunidad es para quienes tengan baja calificación o deseen subir.
+  - **Evaluación Global:** Quienes no hayan aprobado los exámenes tendrán oportunidad de aplicar una evaluación global teórico-práctica de todo el curso (Teoría y Práctica). La misma oportunidad es para quienes tengan baja calificación o deseen subir. 
   - **Entrega de calificaciones:** Fecha por definir.
 
 ### Evaluación de Recuperación
