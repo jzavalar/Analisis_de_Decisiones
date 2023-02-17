@@ -1,6 +1,6 @@
 <img src="https://github.com/jzavalar/2211088-informatica/blob/main/conjunto-baseIzt.png" alt="UAM Iztapalapa" width="60%"/>
 
-## Programa Analítico de la UEA An (Teoría y Práctica)
+## Programa Analítico de la UEA Análisis de Decisiones (Teoría y Práctica)
 ## Licenciatura en Administración
 
 **Clave de la UEA:** *2211092*, **Grupo:** *HE50*, **Trimestre:** *23-I*
