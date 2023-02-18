@@ -127,39 +127,23 @@ Que al finalizar el curso el alumno sea capaz de:
       
       Al final, debe obtener el archivo .Rmd base para la generación de los archivos archivo HTML y PDF generados durante la conversión.
       
-      
-    - *Práctica 1.4: Importación, guardado y exportación de datos en RStudio Cloud*.  
+    - *Práctica 1.4: Bases de datos I: Bases de datos pequeñas*.  
 
-      *Objetivo*: Aprender el manejo de archivos con R. 
-      
-      los principios básicos de edición utilizando el lenguaje RMarkdown en *RStudio cloud*, al mismo tiempo que aprender a manejar vectores, matrices y sus operaciones en R y su representación gráfica usando LaTeX.
+      *Objetivo*: Aprender el manejo de archivos con R*. (Entrega: 20 de febrero de 2023).
+       
+      *Parte 1*. Desde el sitio web del Inegi, del [Censo Nacional de Población y Vivienda del INEGI](https://www.inegi.org.mx/programas/ccpv/2010/), descargue el [Cuestionario Básico](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cpv2010_cuest_basico_d.pdf), la [Descripción de la Base de Datos](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/diccionario_cuestionario_basico.xls).
     
-      *Parte 1*. Descargue el archivo base [LinearAlgebraR-Handout.pdf](https://github.com/wangyi-fudan/BIOL130173      
-      
-
-    - *Práctica 1.3. Bases de datos I: Bases de datos pequeñas*. (Entrega: 20 de febrero de 2023).  
-
-      *Objetivo*: Aprender los principios de una base de datos y usar tablas dinámicas y filtros para la resolución de preguntas cuantitativas.
-    
-      *Parte 1*. Desde el sitio web del Inegi, del [Censo Nacional de Población y Vivienda del INEGI](https://www.inegi.org.mx/programas/ccpv/2010/), descargue el [Cuestionario Básico](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cpv2010_cuest_basico_d.pdf), la [Descripción de la Base de Datos](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/diccionario_cuestionario_basico.xls), una [muestra de la base de datos](https://www.inegi.org.mx/programas/ccpv/2010/) y la [Síntesis Metodológica y Conceptual](http://internet.contenidos.inegi.org.mx/contenidos/Productos/prod_serv/contenidos/espanol/bvinegi/productos/metodologias/est/sm_cpv2010.pdf).
-    
-      De la pestaña [Microdatos](https://www.inegi.org.mx/programas/ccpv/2010/#Microdatos), descargue la muestra de la Base de Datos de Personas ([dbf en zip](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/microdatos/ejemplobd/dummy_personas_cpv2010_dbf.zip)), Base de Datos de Viviendas ([dbf en zip](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/microdatos/ejemplobd/dummy_viviendas_cpv2010_dbf.zip)) y el Catálogo de la Integración General de Localidades (CIGEL) ([dbf en zip](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cigel_2010_hab_dbf.zip)) y los demás catálogos.
+      De la pestaña [Microdatos](https://www.inegi.org.mx/programas/ccpv/2010/#Microdatos), descargue la muestra de la base de datos de personas en formato DBF y comprimido (.ZIP) [dummy_personas_cpv2010_dbf.zip](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/microdatos/ejemplobd/dummy_personas_cpv2010_dbf.zip)), la muestra de la base de datos de viviendas en alguno de los otros formatos disponibles: SAV, DTA o SAS comprimido (.ZIP) y el Catálogo de la Integración General de Localidades (CIGEL) (archivo [cigel_2010_hab_dbf.zip](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cigel_2010_hab_dbf.zip) en formato DBF comprimido).
     
       También descargue el archivo [DUMMY_PERSONAS_5K.dbf.zip](https://drive.google.com/file/d/1TNXXZZQ9GEJKU8UD-YyuklF4a1E8w_0b/view?usp=sharing), que es una muestra muy pequeña de la base de datos, para realizar el ejercicio.
     
-      *Parte 2*. En primer lugar, utilice *Calc* de *LibreOffice* ([ayuda](https://help.libreoffice.org/Calc/Importing_and_Exporting_dBASE_Files/es)) para abrir el archivo disponible del Inegi en el formato DBF y expórtelo a cualquier otro como XLSX, XLS o CSV. En segundo lugar, utilice el paquete [*rio*](https://cran.r-project.org/web/packages/rio/) en [*RStudio*](https://rstudio.com/) para abrir (importar / exportar) y convertir alguno de los archivos en los formatos disponibles del Inegi: DBF, SAS, SAV, DTA a cualquier otro como XLSX, XLS o CSV. Básese en [este script](https://drive.google.com/file/d/15W7CjN2TmjFo5OSXbbftaWCwm8DagNWo/view?usp=sharing) y adáptelo a su caso particular hasta que le funcione correctamente.
-    
-      *Parte 3*. Practique la consulta multidimensional de datos con la pequeña muestra de la base de datos descargada en la Parte 1 (DUMMY_PERSONAS_5K.dbf). Luego, revise la metodología y la solución en *Google Sheets* (en *Google Drive*) [aquí](https://drive.google.com/file/d/1Uqu6m_Fv1AqR5Nf8H_8JbffWmr_L01si/view?usp=sharing) y haga lo equivalente en *Excel* y en *Calc*.  
+      *Parte 2*. Utilice el paquete [*rio*](https://cran.r-project.org/web/packages/rio/) en *RStudio* para abrir (importar) los archivos del Inegi de la Parte 1 (DBF, SAS, SAV, DTA). Después de importar el archivo, expórtelo a XLSX, en su directorio de trabajo. Por último, convierta otro archivo de XLSX a CSV. Tome como base el script en R [manejo de archivos del inegi.R](https://drive.google.com/file/d/15W7CjN2TmjFo5OSXbbftaWCwm8DagNWo/view?usp=sharing) y cámbielo y adáptelo a su contexto particular, hasta que funcione correctamente.       
   
-      Tome como base la siguiente pregunta compuesta:      
-          - *¿Cuántos jefes de familia hay en la base de datos que son estudiantes y son menores de edad?* y  
-          - *¿Cuál es su distribución por edad y sexo?*  
-  
-      *Tip*: Si bien, este problema puede resolverse aplicado filtros de manera consecutiva, también puede resolverse realizando una consulta a la base de datos mediante una tabla dinámica.  
-  
-      *Parte 4*. Resuelva la práctica con R en RStudio, usando un archivo Rmarkdown. Entregue el archivo fuente y el reporte generado HTML generado.   
+      *Parte 4*. Reflexione y responda: *¿Qué diferencias existen entre las tres operaciones básicas que proporciona el paquetew rio de R?* Consulte la ayuda del paquete *rio* para que conozca el alcance del mismo.  
       
-      Saque sus conclusiones y documente su experiencia en la realización de la actividad en un video de hasta 10 minutos, a modo de tutorial, y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.   
+      *Parte 5*. Por último, estudie las instrucciones de *manipulación de archivos* con R con el tutorial [R Manipulation of Files and Directories](https://felixfan.github.io/File-Manipulation/) al convertirlo en un archivo RMarkdown.  
+      
+      Saque sus conclusiones y documente su experiencia en la realización de la actividad en un video de hasta 10 minutos, a modo de tutorial. Suba los archivos creados o modificados a su proyecto de RStudio, donde corresponda.   
 
 ##### *Bibliografía Obligatoria:*   
 - Universitat de les Illes Balears. Som UIB (2021). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([url](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).  
