@@ -115,7 +115,7 @@ Que al finalizar el curso el alumno sea capaz de:
       *Parte 2*. Tome como base el archivo traducido y cópielo a un archivo RMarkdown. Guárdelo con el mismo nombre en su proyecto de *RStudio cloud*. Edítelo con la sintaxis de RMarkdown y re-cree el archivo equivalente del archivo base *LinearAlgebraR-Handout.pdf*. 
       
       Tips:   
-      * Para dibujar las fórmulas matemáticas, los vectores y las matrices, utilice un editor en línea de LaTeX como [Codecogs](https://latex.codecogs.com/eqneditor/editor.php?lang=es-es), cree las fórmulas e incruste el código correspondiente en su archivo RMarkdown (*.Rmd*).   
+      * Para dibujar las fórmulas matemáticas, los vectores y las matrices, utilice un editor en línea como el editor de ecuaciones [HostMath](https://www.hostmath.com/) en LaTeX, cree las fórmulas e incruste el código correspondiente en su archivo RMarkdown (*.Rmd*).   
       * Descargue las imágenes y súbalas al directorio *images* en su proyecto y luego incrústelas adecuadamente con el códigocorrespondiente en su archivo *.Rmd* ([Campos, 2020](https://rpubs.com/Juve_Campos/ImagenesyMultimediaEnRmarkdown)).
       * Considere alguna de las siguientes guías en RMarkdown:
         - [Guía de R Markdown](https://gesel.github.io/materiales/10Gu%C3%ADa_RMarkdown.pdf) (Gualchi, 2019),
