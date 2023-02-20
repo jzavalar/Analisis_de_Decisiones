@@ -127,9 +127,9 @@ Que al finalizar el curso el alumno sea capaz de:
       
       Al final, debe obtener el archivo .Rmd base para la generación de los archivos archivo HTML y PDF generados durante la conversión.
       
-    - *Práctica 1.4: Bases de datos I: Bases de datos pequeñas*.  
+    - *Práctica 1.4: Bases de datos I: Bases de datos pequeñas*. (Entrega: 20 de febrero de 2023).   
 
-      *Objetivo*: Aprender el manejo de archivos con R*. (Entrega: 20 de febrero de 2023).
+      *Objetivo*: Aprender el manejo de archivos con R.
        
       *Parte 1*. Desde el sitio web del Inegi, del [Censo Nacional de Población y Vivienda del INEGI](https://www.inegi.org.mx/programas/ccpv/2010/), descargue el [Cuestionario Básico](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cpv2010_cuest_basico_d.pdf), la [Descripción de la Base de Datos](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/diccionario_cuestionario_basico.xls).
     
