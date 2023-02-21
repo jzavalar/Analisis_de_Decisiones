@@ -218,7 +218,7 @@ Que al finalizar el curso el alumno sea capaz de:
 - Universitat de les Illes Balears. Som UIB (2016, Sep 22). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([Lista de videos](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).
 - Teetor, P. (2019).  [*R cookbook: Proven recipes for data analysis, statistics, and graphics*]. O'Reilly. [Online] ([traducción al español](https://translate.google.com/translate?sl=en&tl=es&u=https://rc2e.com/)).
 - RStudio cheatsheets. ([url](https://github.com/rstudio/cheatsheets)).
-- Wickham, H. & Grolemund, G. (2017). [*R for data science: Import, tidy, transform, visualize, and model data*](https://rc2e.com/). O'Reilly. ([url](https://r4ds.had.co.nz/)). ([R para ciencia de datos](https://es.r4ds.hadley.nz)). ([Solución de los ejercicios](https://cienciadedatos.github.io/r4ds-soluciones/index.html)).
+- Wickham, H. & Grolemund, G. (2017). [*R for data science: Import, tidy, transform, visualize, and model data*](https://r4ds.had.co.nz/). O'Reilly. ([R para ciencia de datos](https://es.r4ds.hadley.nz)). ([Solución de los ejercicios](https://cienciadedatos.github.io/r4ds-soluciones/index.html)).
 
 ## Modalidades de Evaluación
 
