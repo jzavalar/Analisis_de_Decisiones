@@ -127,7 +127,7 @@ Que al finalizar el curso el alumno sea capaz de:
       
       Al final, debe obtener el archivo .Rmd base para la generación de los archivos archivo HTML y PDF generados durante la conversión.
       
-    - *Práctica 1.4: Bases de datos I: Bases de datos pequeñas*. (Entrega: 20 de febrero de 2023).   
+    - *Práctica 1.4: Bases de datos I: Bases de datos pequeñas*. (Entrega: 13 de marzo de 2023).   
 
       *Objetivo*: Aprender el manejo de archivos con R.
        
