@@ -155,7 +155,7 @@ Que al finalizar el curso el alumno sea capaz de:
 3. ¿Qué es el análisis de decisiones?
 4. Alcances y limitaciones del análisis de decisiones
 5. Tareas y Prácticas:
-    - *Tarea 2.1: ¿Qué es el Análisis de Decisiones?*. (Entrega: 27 de febrero de 2023).   
+    - *Tarea 2.1: ¿Qué es el Análisis de Decisiones?*. (Entrega: 13 de marzo de 2023).   
   
       *Objetivo*: Aprender qué es el análisis de decisiones, su contexto y aplicación.  
   
@@ -163,7 +163,7 @@ Que al finalizar el curso el alumno sea capaz de:
       
       Coordínese con los demás compañeros y elabore una versión en español de las figuras del capítulo del libro, si es que así lo requiere. De ser necesario, complemente con la lectura de Howard (1988).          
       
-    - *Tarea 2.2: ¿Cómo enmarcar un problema de Análisis de Decisiones*. (Entrega: 29 de febrero de 2023).   
+    - *Tarea 2.2: ¿Cómo enmarcar un problema de Análisis de Decisiones*. (Entrega: 13 de marzo de 2023).   
   
       *Objetivo*: Aprender a enmarcar un problema de análisis de decisiones.  
   
