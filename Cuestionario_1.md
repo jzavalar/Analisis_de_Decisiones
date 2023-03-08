@@ -26,7 +26,7 @@ A partir de los elementos analizados con anterioridad, **escriban un breve ensay
 1. Introducción  
 2. Fundamentos del análisis de decisiones en un contexto gerencial  
 3. Ciclo del análisis de decisiones  
-4. Opiniones personales en forma de fortalezas y debilidades del análisis de decisiones y  
+4. Opiniones personales en forma de fortalezas y debilidades del análisis de decisiones  
 5. Conclusiones. 
 
 *N.B.:* Es muy importante que aprendan a ser originales y no caigan en la tentación de copiar y pegar texto, sin citar la fuente, porque además de ser plagio, su aprendizaje será reducido.    
