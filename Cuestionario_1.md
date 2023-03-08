@@ -22,7 +22,7 @@ Instrucciones: En grupo de 2 o de manera individual, organícense y resuelvan en
     e. Compare las promesas del análisis de decisiones con los progresos de la inteligencia artificial en 2022  
 4. A partir de la lectura de Howard (1968), responda ¿en qué consiste la metodología del análisis de decisiones?  
 
-A partir de los elementos analizados con anterioridad, **escriban un breve ensayo colectivo de 1,000 palabras**, en RMarkdown, en cinco partes:   
+A partir de los elementos analizados con anterioridad, **escriban un breve ensayo colectivo de 1,000 palabras**, en RMarkdown, en su proyecto en [posit.cloud](), en cinco partes:   
 1. Introducción  
 2. Fundamentos del análisis de decisiones en un contexto gerencial  
 3. Ciclo del análisis de decisiones  
