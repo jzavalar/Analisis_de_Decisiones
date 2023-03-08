@@ -198,6 +198,7 @@ Que al finalizar el curso el alumno sea capaz de:
 - Ríos, S., Ríos, D., Mateos, A. y Martín, J. (1998). *Programación lineal y aplicaciones: Ejercicios resueltos*. México: Alfa Omega Ra Ma. ([pdf](http://libgen.rs/main/C3553551396E715FAD11F850D70DF9F2)).
 - Rojas, G., Fernandez, E., Whitney, C., Luedeling, E. & Cuneo, I. F. (2021). Adapting sweet cherry orchards to extreme weather events: Decision analysis in support of farmers "Investments in Central Chile." *Agricultural Systems* 187(February): 103031. DOI: https://doi.org/10.1016/j.agsy.2020.103031 . ([url](https://sci-hub.ru/10.1016/j.agsy.2020.103031)). ([video](https://www.youtube.com/watch?v=kpsqzkeg53Y)). (**Estudio de caso**).
 - Smith, J. E. y von Winterfeldt, D. (2004). Decision Analysis in "Management Science". *Management Science, 50*(5), 561-574. ([pdf](https://sci-hub.ru/10.2307/30046097)).  
+- Fox, J. (2016). Applied regression analysis and generalized linear models*. Thousand Oaks, CA: Sage. ([pdf](https://libgen.rs/book/index.php?md5=51DA2C83D6A72D575E6BD179DD61DFE6)). 	
 
 - Anónimo. (2023). [Decision trees in R Analytics](https://techvidvan.com/tutorials/decision-tree-in-r/) [Tutorial En Línea] TechVidvan.
 - Anónimo. (2023). [Decision trees in R Analytics](https://techvidvan.com/tutorials/decision-tree-in-r/) [Tutorial En Línea]. TechVidvan. (datos en el paquete ISLR).
@@ -205,7 +206,8 @@ Que al finalizar el curso el alumno sea capaz de:
 - Chicaiza, A. (2020). [Modelo de otorgamiento de crédito (AD Science Analytics)](https://rpubs.com/Alex_Deiiv/CreditScoring). RPubs. (Datos en xls: [German Credit Case Data](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/3d0fbded046c53a5fb72d3bcd2064ac9_GermanCredit.xls)) ([Otra versión](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)) de German Credit Case Data).
 - Nijs, V. R. (2019). [Radiant: Business analytics using R and Shiny](https://radiant-rstats.github.io/docs/index.html). ([Paquete en CRAN](https://cran.r-project.org/web/packages/radiant.data/readme/README.html)) ([Código fuente](https://github.com/radiant-rstats)) ([Documentación](https://radiant-rstats.github.io/docs/)) ([Instalación](https://radiant-rstats.github.io/docs/install.html)) ([Canal en YouTube](https://www.youtube.com/@RadiantForR/featured))
 - Deehr, J. (2017, Aug 28). [Multi objective decision analysis [MODA] in R](https://rstudio-pubs-static.s3.amazonaws.com/300421_0e5019919ff146ab9d16e27b09fbf767.html). RPubs. [DecisionAnalysis-package: DecisionAnalysis: Multi-Objective Decision Analysis [MODA]](https://rdrr.io/github/AFIT-R/MODA/man/DecisionAnalysis-package.html#heading-0). ([Datos](http://nflsavant.com/)) ([traducción](https://rstudio--pubs--static-s3-amazonaws-com.translate.goog/300421_0e5019919ff146ab9d16e27b09fbf767.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)).
-- AFIT Data Science Lab. (2018). DecisionAnalysis. [[AFIT-R/MODA: Implementation of Multi Objective Decision Analysis](https://rdrr.io/github/AFIT-R/MODA/)]. RDRR. [[Código fuente en GitHub](https://github.com/AFIT-R/DecisionAnalysis)].
+- AFIT Data Science Lab. (2018). DecisionAnalysis. [[AFIT-R/MODA: Implementation of Multi Objective Decision Analysis](https://rdrr.io/github/AFIT-R/MODA/)]. RDRR. [[Código fuente en GitHub](https://github.com/AFIT-R/DecisionAnalysis)].  
+- Kuhn, M. & Silge, J. (2022,Dec 20). [Tidy modeling with R: A framework for modeling in the tydiverse](https://www.tmwr.org/). O'Reilly. ([GitHub](https://github.com/tidymodels/TMwR)).  
 
 ### Bibliografía General:
 
@@ -218,8 +220,8 @@ Que al finalizar el curso el alumno sea capaz de:
 - Guisande González, C. & Vaamonde Liste, A. (2013). [Gráficos estadísticos y mapas con R](https://libgen.rs/book/index.php?md5=8ECF29580BFE702F21D16CC2C9BDBA5C). España: Díaz de Santos.
 - Universitat de les Illes Balears. Som UIB (2016, Sep 22). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([Lista de videos](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).
 - Teetor, P. (2019).  [*R cookbook: Proven recipes for data analysis, statistics, and graphics*]. O'Reilly. [Online] ([traducción al español](https://translate.google.com/translate?sl=en&tl=es&u=https://rc2e.com/)).
-- RStudio cheatsheets. ([url](https://github.com/rstudio/cheatsheets)).
-- Wickham, H. & Grolemund, G. (2017). [*R for data science: Import, tidy, transform, visualize, and model data*](https://r4ds.had.co.nz/). O'Reilly. ([R para ciencia de datos](https://es.r4ds.hadley.nz)). ([Solución de los ejercicios](https://cienciadedatos.github.io/r4ds-soluciones/index.html)).
+- RStudio cheatsheets. ([url](https://github.com/rstudio/cheatsheets)).  
+- Wickham, H. & Grolemund, G. (2017). [*R for data science: Import, tidy, transform, visualize, and model data*](https://r4ds.had.co.nz/). O'Reilly. ([R para ciencia de datos](https://es.r4ds.hadley.nz)). ([Solución de los ejercicios](https://cienciadedatos.github.io/r4ds-soluciones/index.html)).  
 
 ## Modalidades de Evaluación
 
