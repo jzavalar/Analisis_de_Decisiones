@@ -172,7 +172,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
 ### Bibliografía:
 - Howard, R. A. (1988). Decision analysis: practice and promise, *Management Science, 34*(6), 679-695. ([url](https://www.jstor.org/stable/2632123)) ([pdf](https://sci-hub.ru/10.2307/2632123))
-- Charlesworth, D. (2017). Decision analysis for managers: A guide for making better personal and business decisions. New York: Business Expert Press. [Amazon](https://www.amazon.com/-/es/David-Charlesworth-ebook/dp/B06ZY9XRTW) ([epub](https://libgen.rs/book/index.php?md5=10EE672DF770CEFD216D6F65C29FE2C1)) (traducción: [Análisis de decisiones para gerentes](https://libgen.rs/book/index.php?md5=D43F87667B1D27665BE199267253DBA9)
+- Charlesworth, D. (2017). [Decision analysis for managers: A guide for making better personal and business decisions](https://libgen.rs/book/index.php?md5=10EE672DF770CEFD216D6F65C29FE2C1). New York: Business Expert Press. (traducción: [Análisis de decisiones para gerentes](https://libgen.rs/book/index.php?md5=D43F87667B1D27665BE199267253DBA9)).
 
 
 #### Unidad 3. Los problemas de decisión
