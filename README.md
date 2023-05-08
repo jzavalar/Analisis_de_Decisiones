@@ -148,7 +148,6 @@ Que al finalizar el curso el alumno sea capaz de:
 ##### *Bibliografía Obligatoria:*   
 - Universitat de les Illes Balears. Som UIB (2021). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([url](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).  
 
-
 #### Unidad 2. De la 'Teoría de la Elección Racional' al 'Análisis de Decisiones'
 1. La ciencia de la administración y la toma de decisiones
 2. Toma de decisiones, teoría de la elección racional, racionalidad limitada y cibernética
@@ -217,6 +216,7 @@ Que al finalizar el curso el alumno sea capaz de:
  
 - Valcheva, S. (s.f.). 10 Open Source Decision Tree Software Tools. ([url](https://www.intellspot.com/open-source-decision-tree/)).
 
+- Walum, H., & De Leon, D. (2022). Teacups, giraffes, & statistics (Tazas de té, jirafas y estadística). GitHub. [Módulos](https://tinystats.github.io/teacups-giraffes-and-statistics/) [Proyecto en RMarkdown](https://github.com/tinystats/teacups-giraffes-and-statistics) [Una deliciosa serie de módulos para aprender estadística y codificación en R para estudiantes, científicos y entusiastas de la estadística.]
 - Guisande González, C. & Vaamonde Liste, A. (2013). [Gráficos estadísticos y mapas con R](https://libgen.rs/book/index.php?md5=8ECF29580BFE702F21D16CC2C9BDBA5C). España: Díaz de Santos.
 - Universitat de les Illes Balears. Som UIB (2016, Sep 22). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([Lista de videos](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).
 - Teetor, P. (2019).  [*R cookbook: Proven recipes for data analysis, statistics, and graphics*]. O'Reilly. [Online] ([traducción al español](https://translate.google.com/translate?sl=en&tl=es&u=https://rc2e.com/)).
