@@ -105,7 +105,6 @@ Que al finalizar el curso el alumno sea capaz de:
       Tome como base el pequeño libro [R para Análisis de Datos](https://bookdown.org/ddiannae/curso-rdata/) de Diana García Cortés (2022) y los recursos digitales disponibles por la autora en [Github](https://github.com/ddiannae/curso-rdata). Siga las instrucciones del libro y practique a discreción hasta dominar los temas.   
       
       Debe entregar son ejercicios de los siguientes capítulos del libro, cada uno en un script o archivo .R en su proyecto *RStudio cloud*.    
-
     - *Práctica 1.3: Creación de documentos con RMarkdown en RStudio Cloud*. (Entrega: 20 de febrero de 2023).
 
       *Objetivo*: Aprender los principios básicos de edición utilizando el lenguaje RMarkdown en *RStudio cloud* y, al mismo tiempo, aprender a manejar vectores, matrices y sus operaciones en R y su representación gráfica usando LaTeX.
@@ -139,7 +138,7 @@ Que al finalizar el curso el alumno sea capaz de:
     
       *Parte 2*. Utilice el paquete [*rio*](https://cran.r-project.org/web/packages/rio/) en *RStudio* para abrir (importar) los archivos del Inegi de la Parte 1 (DBF, SAS, SAV, DTA). Después de importar el archivo, expórtelo a XLSX, en su directorio de trabajo. Por último, convierta otro archivo de XLSX a CSV. Tome como base el script en R [manejo de archivos del inegi.R](https://drive.google.com/file/d/15W7CjN2TmjFo5OSXbbftaWCwm8DagNWo/view?usp=sharing) y cámbielo y adáptelo a su contexto particular, hasta que funcione correctamente.       
   
-      *Parte 4*. Reflexione y responda: *¿Qué diferencias existen entre las tres operaciones básicas que proporciona el paquetew rio de R?* Consulte la ayuda del paquete *rio* para que conozca el alcance del mismo.  
+      *Parte 4*. Reflexione y responda: *¿Qué diferencias existen entre las tres operaciones básicas que proporciona el paquete **rio** de R?* Consulte la ayuda del paquete *rio* para que conozca el alcance del mismo.  
       
       *Parte 5*. Por último, estudie las instrucciones de *manipulación de archivos* con R con el tutorial [R Manipulation of Files and Directories](https://felixfan.github.io/File-Manipulation/) al convertirlo en un archivo RMarkdown.  
       
