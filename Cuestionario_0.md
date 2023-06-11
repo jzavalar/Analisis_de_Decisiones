@@ -8,7 +8,7 @@ Marzo de 2023
 
 #### Cuestionario 0
 
-Instrucciones: Organícense en grupos de dos o de manera individual, resuelvam en su cuaderno el siguiente cuestionario 
+Instrucciones: Resuelva en su cuaderno el siguiente cuestionario 
 
 1. ¿Qué es una decisión? ¿Qué es una decisión programada?  
 2. ¿Qué tipo de decisiones hay? Haga una clasificación.  
@@ -27,7 +27,7 @@ A partir de los elementos analizados con anterioridad, **escriba un breve ensayo
 3. Fortalezas y debilidades de la teoría de la elección racional
 4. Conclusiones.
  
-Luego, pásenlo en limpio en un archivo RMarkdown en su proyecto en [posit.cloud]().
+Luego, pásenlo en limpio en un archivo RMarkdown en su proyecto en [posit.cloud](posit.cloud).
 
 *N.B.:* Es muy importante que aprenda a ser original y no caiga en la tentación de copiar y pegar texto, sin citar la fuente, porque además de ser plagio, su aprendizaje ser.    
 
