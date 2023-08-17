@@ -1,13 +1,13 @@
-<img src="https://github.com/jzavalar/2211088-informatica/blob/main/conjunto-baseIzt.png" alt="UAM Iztapalapa" width="60%"/>
+<img src="https://github.com/jzavalar/2211088-informatica/blob/main/images/conjunto-baseIzt.png" alt="UAM Iztapalapa" width="60%"/>
 
 ## Programa Analítico de la UEA Análisis de Decisiones (Teoría y Práctica)
 ## Licenciatura en Administración
 
-**Clave de la UEA:** *2211092*, **Grupo:** *HE51*, **Trimestre:** *23-I*
+**Clave de la UEA:** *2211092*, **Grupo:** *OPEXT51*, **Trimestre:** *23 Primavera*
 
-**Horario:** *Lunes y miércoles* de *14:00 a 16:00*.
+**Horario:** *Lunes y miércoles* de *18:00 a 20:00*.
 
-**Salón:** Anexo A, Sala J (AA-J).
+**Salón:** Edificio H-214.
 
 **Asesorías:**  *Martes* de *20:00* a *22:00 hr*, vía [Telegram](https://telegram.org/apps), previa solicitud.
 
@@ -15,12 +15,12 @@
 
 **Contacte al profesor**:
 - Correo electrónico: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx)
-- Telegram: <img src="https://github.com/jzavalar/2211088-informatica/blob/main/telegram_logo.svg" alt="Telegram" width="3%"/> [@jzavalar](https://telegram.me/jzavalar)
+- Telegram: <img src="https://github.com/jzavalar/2211088-informatica/blob/main/images/telegram_logo.svg" alt="Telegram" width="3%"/> [@jzavalar](https://telegram.me/jzavalar)
 
 
 ### Introducción
 
-Afines de los años 1930s, a solicitud del gobierno británico, el profesor P.M.S. Blackett y su equipo de científicos e ingenieros desarrollaron métodos para "resolver problemas técnicos relacionados con el desarrollo de nuevas armas y equipo durante la Segunda Guerra Mundial" (Jaiswal, 1997, p. 2)[^1], con un enfoque hacia problemas técnicos operativos (p. 4). Según, este autor, después de la Segunda Guerra Mundial, los científicos e ingenieros asociados con el profesor Blackett pasaron de la industria militar a los sectores civiles como el transporte, la salud y la industria, convencidos de que podían analizar esas operaciones con las mismas herramientas analíticas (p. 4).   
+Afines de los años 1930s, a solicitud del gobierno británico, el profesor P.M.S. Blackett y su equipo de científicos e ingenieros desarrollaron métodos para "resolver problemas técnicos relacionados con el desarrollo de nuevas armas y equipo durante la Segunda Guerra Mundial" (Jaiswal, 1997, p. 2)[^1], con un enfoque hacia problemas técnicos operativos (p. 4). Según, este autor, después de la Segunda Guerra Mundial, los científicos e ingenieros asociados con el profesor Blackett pasaron de la industria militar a los sectores civiles como el transporte, la salud y la industria, convencidos de que podían analizar esas operaciones con las mismas herramientas analíticas (p. 4).  
 
 Así surgió la **investigación de operaciones** (*operations research*) que se concibió como una "colección de herramientas y técnicas que podían utilizarse para mejorar sistemas bajo el control de un encargado independientemente de su campo de la actividad" (idem). El arsenal metodológico y computacional de la posguerra incluyó la *programación lineal*, la *teoría de juegos*, la *programación dinámica*, la *simulación de eventos discretos* con la computadora digital, adicionalmente a las *teorías de inventarios y colas*, el *modelado de Markov* y los métodos básicos de *optimización*. Actualmente, la *investigación de operaciones* se define como "la aplicación de los métodos de la ciencia a problemas complejos que se presentan en la dirección y la administración de grandes sistemas de hombres, máquinas, materiales y dinero, en la industria, los negocios, el gobierno y la defensa" (Gass y Fu, 2013, p. viii)[^2]; aunque también se define como "la ciencia de decidir cómo obtener el mejor diseño y cómo operar los sistemas hombre-máquina" y como "un método científico para proveer de los departamentos ejecutivos una base cuantitativa para la toma de decisiones" (idem).  
 
@@ -98,14 +98,15 @@ Que al finalizar el curso el alumno sea capaz de:
   
       Cree su cuenta en [RStudio cloud](https://posit.cloud/) que le permitirá ejecutar código fuente de R en la nube, hacer las modificaciones que requiera y usarlo para sus propias necesidades.  
   
-    - *Práctica 1.2: Fundamentos de R y RStudio*. (Entrega: 27 de febrero de 2023).  
+    - *Práctica 1.2: Fundamentos de R y RStudio*. (Entrega: ).  
   
       *Objetivo*: Aprender a usar el R y RStudio en el entorno de *RStudio Cloud* y en su computadora personal.  
   
       Tome como base el pequeño libro [R para Análisis de Datos](https://bookdown.org/ddiannae/curso-rdata/) de Diana García Cortés (2022) y los recursos digitales disponibles por la autora en [Github](https://github.com/ddiannae/curso-rdata). Siga las instrucciones del libro y practique a discreción hasta dominar los temas.   
       
       Debe entregar son ejercicios de los siguientes capítulos del libro, cada uno en un script o archivo .R en su proyecto *RStudio cloud*.    
-    - *Práctica 1.3: Creación de documentos con RMarkdown en RStudio Cloud*. (Entrega: 20 de febrero de 2023).
+      
+    - *Práctica 1.3: Creación de documentos con RMarkdown en RStudio Cloud*. (Entrega: ).
 
       *Objetivo*: Aprender los principios básicos de edición utilizando el lenguaje RMarkdown en *RStudio cloud* y, al mismo tiempo, aprender a manejar vectores, matrices y sus operaciones en R y su representación gráfica usando LaTeX.
     
@@ -126,7 +127,7 @@ Que al finalizar el curso el alumno sea capaz de:
       
       Al final, debe obtener el archivo .Rmd base para la generación de los archivos archivo HTML y PDF generados durante la conversión.
       
-    - *Práctica 1.4: Bases de datos I: Bases de datos pequeñas*. (Entrega: 13 de marzo de 2023).   
+    - *Práctica 1.4: Bases de datos I: Bases de datos pequeñas*. (Entrega: 13 de marzo de 2023).  
 
       *Objetivo*: Aprender el manejo de archivos con R.
        
@@ -136,7 +137,7 @@ Que al finalizar el curso el alumno sea capaz de:
     
       También descargue el archivo [DUMMY_PERSONAS_5K.dbf.zip](https://drive.google.com/file/d/1TNXXZZQ9GEJKU8UD-YyuklF4a1E8w_0b/view?usp=sharing), que es una muestra muy pequeña de la base de datos, para realizar el ejercicio.
     
-      *Parte 2*. Utilice el paquete [*rio*](https://cran.r-project.org/web/packages/rio/) en *RStudio* para abrir (importar) los archivos del Inegi de la Parte 1 (DBF, SAS, SAV, DTA). Después de importar el archivo, expórtelo a XLSX, en su directorio de trabajo. Por último, convierta otro archivo de XLSX a CSV. Tome como base el script en R [manejo de archivos del inegi.R](https://drive.google.com/file/d/15W7CjN2TmjFo5OSXbbftaWCwm8DagNWo/view?usp=sharing) y cámbielo y adáptelo a su contexto particular, hasta que funcione correctamente.       
+      *Parte 2*. Utilice el paquete [*rio*](https://cran.r-project.org/web/packages/rio/) en *RStudio* para abrir (importar) los archivos del Inegi de la Parte 1 (DBF, SAS, SAV, DTA). Después de importar el archivo, expórtelo a XLSX, en su directorio de trabajo. Por último, convierta otro archivo de XLSX a CSV. Tome como base el script en R [manejo de archivos del inegi.R](https://drive.google.com/file/d/15W7CjN2TmjFo5OSXbbftaWCwm8DagNWo/view?usp=sharing) y cámbielo y adáptelo a su contexto particular, hasta que funcione correctamente.  
   
       *Parte 4*. Reflexione y responda: *¿Qué diferencias existen entre las tres operaciones básicas que proporciona el paquete **rio** de R?* Consulte la ayuda del paquete *rio* para que conozca el alcance del mismo.  
       
@@ -153,7 +154,7 @@ Que al finalizar el curso el alumno sea capaz de:
 3. ¿Qué es el análisis de decisiones?
 4. Alcances y limitaciones del análisis de decisiones
 5. Tareas y Prácticas:
-    - *Tarea 2.1: ¿Qué es el Análisis de Decisiones?*. (Entrega: 13 de marzo de 2023).   
+    - *Tarea 2.1: ¿Qué es el Análisis de Decisiones?*. (Entrega: ).   
   
       *Objetivo*: Aprender qué es el análisis de decisiones, su contexto y aplicación.  
   
@@ -161,11 +162,11 @@ Que al finalizar el curso el alumno sea capaz de:
       
       Coordínese con los demás compañeros y elabore una versión en español de las figuras del capítulo del libro, si es que así lo requiere. De ser necesario, complemente con la lectura de Howard (1988).          
       
-    - *Tarea 2.2: ¿Cómo enmarcar un problema de Análisis de Decisiones*. (Entrega: 13 de marzo de 2023).   
+    - *Tarea 2.2: ¿Cómo enmarcar un problema de Análisis de Decisiones*. (Entrega: ).   
   
       *Objetivo*: Aprender a enmarcar un problema de análisis de decisiones.  
   
-      Lea el capítulo 2 del libro *Decision Analysis for Managers: A Guide for Making Better Personal and Business Decisions* de David Charlesworth (2017), en su versión epub o en su traducción al español.    
+      Lea el capítulo 1 del libro *Decision Analysis for Managers: A Guide for Making Better Personal and Business Decisions* de David Charlesworth (2017), en su versión epub o en su traducción al español.    
       
       Responda a las dos preguntas centrales: (1) ¿Qué es un problema de decisión? y (2) ¿Cómo debe plantearse y documentarse un problema de decisión? Parta de los argumentos del autor y desarrolle sus propias reflexiones en un archivo Rmarkdown, en su proyecto de RStudio en [posit.cloud](https://posit.cloud). Coordínese con los demás compañeros y elabore una versión en español de las figuras del capítulo del libro.    
 
@@ -184,6 +185,12 @@ Que al finalizar el curso el alumno sea capaz de:
    - Modelo de scoring
    - Modelo de norma mínima
    - Otras técnicas
+5. Tareas y Prácticas:
+    - *Tarea 3.1: ¿Qué es el Análisis de Decisiones?*. (Entrega: ).   
+  
+      *Objetivo*: Aprender qué es el análisis de decisiones, su contexto y aplicación.  
+  
+      Lea el capítulo 1 del libro *Decision Analysis for Managers: A Guide for Making Better Personal and Business Decisions* de David Charlesworth (2017), en su versión epub o en su traducción al español. Estudie las preguntas y respuestas del autor y elabore sus propias reflexiones. Escríbalas en sus cuaderno. Luego, elabore un archivo Rmarkdown en su proyecto de RStudio en [posit.cloud](https://posit.cloud) y súbalo a su proyecto con el nombre de la tarea.
 
 ### Bibliografía:
 - Howard, R. A., & Abbas, A. E. (2016). Foundations of decision analysis [Global Edition]. Great Britain: Pearson Education. ([url](http://libgen.rs/book/index.php?md5=4B19F574BA8246A5BA274A7AF4BFB6A5)).
