@@ -69,6 +69,8 @@ Que al finalizar el curso el alumno sea capaz de:
    
       *Objetivo*: Aprender a descargar e instalar un software para grabar video y una para audio y aprender a buscar tutoriales en YouTube para utilizarlo.
    
+      *Parte 0*. Si no tiene permitido instalar software en su computadora, instale VirtualBox e instale una máquina virtual de Windows (con un periodo de prueba de 90 días) o Fedora Linux Workstation; la que Usted considere pertinente. Opcionalmente, instale Fedora Linux junto a Windows y cree un sistema de doble arranque.
+
       *Parte 1*. Instale [vokoScreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen-download.html) o instale la aplicación de su preferencia.
           - Primero instale los prerrequisitos (vea [aquí](https://github.com/vkohaupt/vokoscreenNG): [codec pack](https://www.windows10codecpack.com/) y [GStreamer](https://gstreamer.freedesktop.org/pkg/windows/1.14.4/gstreamer-1.0-x86-1.14.4.msi); alternativamente, puede usar estos [codecs](https://codecguide.com/download_kl.htm)).
           - Alternativamente, puede usar [Open Broadcaster Software (OBS Studio)](https://obsproject.com/es)) (grabación, edición y transmisión de video) ([tutorial](https://www.youtube.com/watch?v=qLuSrSiC9Xc)), si los recursos de su computadora lo permiten.  
@@ -98,7 +100,7 @@ Que al finalizar el curso el alumno sea capaz de:
   
       Cree su cuenta en [RStudio cloud](https://posit.cloud/) que le permitirá ejecutar código fuente de R en la nube, hacer las modificaciones que requiera y usarlo para sus propias necesidades.  
   
-    - *Práctica 1.2: Fundamentos de R y RStudio*. (Entrega: ).  
+    - *Práctica 1.2: Fundamentos de R y RStudio*. (Entrega: Fecha por definir).  
   
       *Objetivo*: Aprender a usar el R y RStudio en el entorno de *RStudio Cloud* y en su computadora personal.  
   
@@ -106,7 +108,7 @@ Que al finalizar el curso el alumno sea capaz de:
       
       Debe entregar son ejercicios de los siguientes capítulos del libro, cada uno en un script o archivo .R en su proyecto *RStudio cloud*.    
       
-    - *Práctica 1.3: Creación de documentos con RMarkdown en RStudio Cloud*. (Entrega: ).
+    - *Práctica 1.3: Creación de documentos con RMarkdown en RStudio Cloud*. (Entrega: Fecha por definir).
 
       *Objetivo*: Aprender los principios básicos de edición utilizando el lenguaje RMarkdown en *RStudio cloud* y, al mismo tiempo, aprender a manejar vectores, matrices y sus operaciones en R y su representación gráfica usando LaTeX.
     
@@ -127,7 +129,7 @@ Que al finalizar el curso el alumno sea capaz de:
       
       Al final, debe obtener el archivo .Rmd base para la generación de los archivos archivo HTML y PDF generados durante la conversión.
       
-    - *Práctica 1.4: Bases de datos I: Bases de datos pequeñas*. (Entrega: 13 de marzo de 2023).  
+    - *Práctica 1.4: Bases de datos I: Bases de datos pequeñas*. (Entrega: Fecha por definir).  
 
       *Objetivo*: Aprender el manejo de archivos con R.
        
@@ -154,7 +156,7 @@ Que al finalizar el curso el alumno sea capaz de:
 3. ¿Qué es el análisis de decisiones?
 4. Alcances y limitaciones del análisis de decisiones
 5. Tareas y Prácticas:
-    - *Tarea 2.1: ¿Qué es el Análisis de Decisiones?*. (Entrega: ).   
+    - *Tarea 2.1: ¿Qué es el Análisis de Decisiones?*. (Entrega: Fecha por definir).   
   
       *Objetivo*: Aprender qué es el análisis de decisiones, su contexto y aplicación.  
   
@@ -162,7 +164,7 @@ Que al finalizar el curso el alumno sea capaz de:
       
       Coordínese con los demás compañeros y elabore una versión en español de las figuras del capítulo del libro, si es que así lo requiere. De ser necesario, complemente con la lectura de Howard (1988).          
       
-    - *Tarea 2.2: ¿Cómo enmarcar un problema de Análisis de Decisiones*. (Entrega: ).   
+    - *Tarea 2.2: ¿Cómo enmarcar un problema de Análisis de Decisiones*. (Entrega: Fecha por definir).   
   
       *Objetivo*: Aprender a enmarcar un problema de análisis de decisiones.  
   
@@ -186,7 +188,7 @@ Que al finalizar el curso el alumno sea capaz de:
    - Modelo de norma mínima
    - Otras técnicas
 5. Tareas y Prácticas:
-    - *Tarea 3.1: ¿Qué es el Análisis de Decisiones?*. (Entrega: ).   
+    - *Tarea 3.1: ¿Qué es el Análisis de Decisiones?*. (Entrega: Fecha por definir).   
   
       *Objetivo*: Aprender qué es el análisis de decisiones, su contexto y aplicación.  
   
