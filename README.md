@@ -239,9 +239,9 @@ La asistencia puntual a la clase es obligatoria según el reglamento de estudios
 #### Calificación
 | Factor | Porcentaje | Observaciones |
 | --- | :---: | ------------- |
-| Tareas|20% |Se entrega en la fecha programada |
-| Prácticas| 40% |Se entregan  en la fecha programada |
-| Exámenes| 40% | Primero (a), Segundo (b)|
+| Tareas|40% |Se entrega en la fecha programada |
+| Prácticas| 30% |Se entregan  en la fecha programada |
+| Exámenes| 30% | Primero (a), Segundo (b)|
 | Total | 100% | |
 
 **Notas:
