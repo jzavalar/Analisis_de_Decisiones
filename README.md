@@ -107,7 +107,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
       *Parte 1*. Prepare la Unidad 1 de Rangel (2012, pp. 11-14) y convierta el archivo *.pdf* a un archivo RMarkdown (*.Rmd*). Edítelo con la sintaxis de RMarkdown y *LaTex*. Guárdelo con el mismo nombre en su proyecto de *RStudio*. Finalmente, pruebe la calidad del archivo generando su archivo *.html* con *knitr*.
   
-      *Parte 2*. Extraiga el código del Ejemplo 1 (Rangel, 2012, pp. 13-14) y convierta el código al archivo RMarkdown (*Matricula. Ejercicio 1.Rmd*). Edítelo con la sintaxis de *RMarkdown* y *LaTex* y trabaje el ejemplo incrustando *chunks* de código R para calcular el ejercicio y obtener lo mismos resultados. Enfóquese en comprender el *algoritmo*.
+      *Parte 2*. Extraiga el código del Ejemplo 1 (Rangel, 2012, pp. 13-14) y convierta el código al archivo RMarkdown (*Matricula. Ejercicio 1.Rmd*). Edítelo con la sintaxis de *RMarkdown* y *LaTex*. Enfóquese en comprender el *algoritmo*.
       
       Tips:
       
@@ -155,13 +155,32 @@ Que al finalizar el curso el alumno sea capaz de:
    - Otras técnicas
 5. Tareas y Prácticas:
 
-    - *Tarea 3.1: ¿Qué es el Análisis de Decisiones?*. (Entrega: Fecha por definir).   
-  
-      *Objetivo*: Aprender qué es el análisis de decisiones, su contexto y aplicación.  
-  
-      Lea el capítulo 1 del libro *Decision Analysis for Managers: A Guide for Making Better Personal and Business Decisions* de David Charlesworth (2017), en su versión epub o en su traducción al español. Estudie las preguntas y respuestas del autor y elabore sus propias reflexiones. Escríbalas en sus cuaderno. Luego, elabore un archivo Rmarkdown en su proyecto de RStudio en [posit.cloud](https://posit.cloud) y súbalo a su proyecto con el nombre de la tarea.
+   - *Práctica 3.1: Elaboración de informes con RMarkdown en RStudio*. (Entrega: Fecha por definir).
 
-### Bibliografía:
+      *Objetivo*: Aprender a incrustar código R en archivos RMarkdown en *RStudio*.
+
+      *Parte 1*. Como prerrequisito debe haber realizado la Práctica 1.2. Extraiga el código del Ejemplo 1 (Rangel, 2012, pp. 13-14) y convierta el código al archivo RMarkdown (*Matricula. Ejercicio 1.Rmd*). Edítelo con la sintaxis de *RMarkdown* y *LaTex* y trabaje el ejemplo incrustando *chunks* de código R para calcular el ejercicio y obtener lo mismos resultados. Enfóquese en comprender el *algoritmo*.
+      
+      Al final, debe obtener el archivo .Rmd base para la generación de los archivos archivo HTML y PDF generados durante la conversión. Debe subir el entregable a su proyecto en [RStudio.cloud](https://posit.cloud/).
+
+   - *Práctica 3.2: Practica de encuadre de los problemas de decisión*. (Entrega: Fecha por definir).
+
+      *Objetivo*: Practicar el algoritmo de encuadre de problemas de decisión*.
+
+     *Parte 1*. Como prerrequisito debe haber realizado la Práctica 3.1. Utilice el machote del código del Ejemplo 1 (Rangel, 2012, pp. 13-14) y resuelva los ejercicios de la Unidad 1 en su cuaderno. Luego, compruebe cada uno al calcular el ejercicio usando R y obtener lo mismos resultados. Enfóquese en *aprender el algoritmo*. Llame a su archivo *Matricula. Ejercicios 1.Rmd*. Compruebe que puede generar la solución para cada ejercicio generando el reporte en un archivo HTML, a partir del archivo fuente.
+      
+     Al final, debe obtener el archivo *.Rmd* base para la generación de los archivos archivo HTML y PDF generados durante la conversión. Debe subir el entregable a su proyecto en [RStudio.cloud](https://posit.cloud/).
+
+   - *Tarea 3.3: Encuadre de un problema de decisión*. (Entrega: Fecha por definir).
+
+      *Objetivo*: Aprender los conceptos del encuadre de un problema de decisión.
+
+      *Parte 1*. Elabore en su cuaderno la síntesis de los conceptos de la Unidad 1 con un glosario y u mapa conceptual. Concéntrese en entender y dominar el lenguaje. 
+
+### *Bibliografía Obligatoria*:
+- Irizarry, R. A. (2023). Capítulo 24: Procesamiento de cadenas. In *Introducción a la ciencia de datos: Análisis de datos y algoritmos de predicción con R* ([url](https://rafalab.dfci.harvard.edu/dslibro/procesamiento-de-cadenas.html)).
+
+##### *Bibliografía Complementaria:*   
 - Howard, R. A., & Abbas, A. E. (2016). Foundations of decision analysis [Global Edition]. Great Britain: Pearson Education. ([url](http://libgen.rs/book/index.php?md5=4B19F574BA8246A5BA274A7AF4BFB6A5)).
 - Drury, C. (2020). [*Management and cost accounting*](http://libgen.rs/book/index.php?md5=32C869373F6352B932D6EF56FB9CD9D4). USA: Cengage Learning EMEA.   
 - Howard, R. A. (1968). The foundations of decision analysis. *IEEE Transactions on Systems Science and Cybernetics, 4*(3), 211-219. ([url](https://ieeexplore.ieee.org/abstract/document/4082150)) ([pdf](https://sci-hub.ru/10.1109/TSSC.1968.300115)).
