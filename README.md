@@ -63,23 +63,23 @@ Que al finalizar el curso el alumno sea capaz de:
    
       *Objetivo*: Aprender las operaciones con archivos y directorios en Google Drive, como un ejemplo de plataformas de cómputo en la nube.  
       
-      Construya la estructura de directorios en [Google Drive](https://drive.google.com/drive/my-drive) para la entrega de controles de lectura, prácticas y proyecto final de acuerdo a un sistema de organización de archivos ([guía](https://www.youtube.com/watch?v=duNwB8xt2_w)). ([tutorial](https://www.youtube.com/watch?v=I3jii6ltINY&frags=pl%2Cwn)).
+      Construya la estructura de directorios en [Google Drive](https://drive.google.com/drive/my-drive) para la Tareas, Prácticas y Exámenes, de acuerdo a un sistema de organización de archivos ([guía](https://www.youtube.com/watch?v=duNwB8xt2_w)). ([tutorial](https://www.youtube.com/watch?v=I3jii6ltINY&frags=pl%2Cwn)).
 
     - *Práctica 0.2: Instalación de software para grabación de audio y video* (Demostrativa online).
    
       *Objetivo*: Aprender a descargar e instalar un software para grabar video y una para audio y aprender a buscar tutoriales en YouTube para utilizarlo.
    
-      *Parte 0*. Si no tiene permitido instalar software en su computadora, instale VirtualBox e instale una máquina virtual de Windows (con un periodo de prueba de 90 días) o Fedora Linux Workstation; la que Usted considere pertinente. Opcionalmente, instale Fedora Linux junto a Windows y cree un sistema de doble arranque.
+      *Parte 0*. Si no tiene permitido instalar software en su computadora, instale VirtualBox e instale una máquina virtual de Windows (con un periodo de prueba de 90 días) o Fedora Linux Workstation; la que usted considere pertinente; o mejor: instale Fedora Linux junto a Windows y cree un sistema de doble arranque.
 
       *Parte 1*. Instale [vokoScreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen-download.html) o instale la aplicación de su preferencia.
           - Primero instale los prerrequisitos (vea [aquí](https://github.com/vkohaupt/vokoscreenNG): [codec pack](https://www.windows10codecpack.com/) y [GStreamer](https://gstreamer.freedesktop.org/pkg/windows/1.14.4/gstreamer-1.0-x86-1.14.4.msi); alternativamente, puede usar estos [codecs](https://codecguide.com/download_kl.htm)).
           - Alternativamente, puede usar [Open Broadcaster Software (OBS Studio)](https://obsproject.com/es)) (grabación, edición y transmisión de video) ([tutorial](https://www.youtube.com/watch?v=qLuSrSiC9Xc)), si los recursos de su computadora lo permiten.  
    
-      *Parte 2*. Grabe su pantalla y capture la toma de la cámara y hable sobre las expectativas que tiene del curso usando el software (ver [tutorial](https://www.youtube.com/watch?v=mh5qV2iAiVs)). Puede agregar algún fondo musical. Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito. Al terminar suba sus videos y su audio a su Google Drive donde corresponda, según la estructura de directorios de la Práctica 0.1.
+      *Parte 2*. Grabe su pantalla y capture la toma de la cámara y hable sobre las expectativas que tiene del curso usando el software (ver [tutorial](https://www.youtube.com/watch?v=mh5qV2iAiVs)). Puede agregar algún fondo musical. Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito.
 
-      *Parte 3*. Active su cuenta de [Office 365 Pro Plus](http://www.uam.mx/o365/) (software de oficina) e instale su copia de [Office Pro](http://www.uam.mx/ti/soft/microsoft.html) (software de oficina) (documente el proceso).
+      *Parte 3*. Active su cuenta de [Office 365 Pro Plus](http://www.uam.mx/o365/) (software de oficina) e instale su copia de [Office Pro](http://www.uam.mx/ti/soft/microsoft.html) (software de oficina).
    
-      *Parte 4*. Si tiene computadora en casa, descargue en instale el siguiente software: [*7-zip*](https://www.7-zip.org/download.html) (compresor/descompresor), [*LibreOffice*](https://www.libreoffice.org/) (suite de oficina), [*R*](https://www.r-project.org/) (estadística) y [*RStudio*](https://www.rstudio.com/) (estadística).
+      *Parte 4*. Si tiene computadora en casa, descargue en instale el siguiente software: [*7-zip*](https://www.7-zip.org/download.html) (compresor/descompresor), [*LibreOffice*](https://www.libreoffice.org/) (suite de oficina), [*R*](https://www.r-project.org/) (estadística) y [*RStudio*](https://posit.co/) (estadística).
    
       *Parte 5*. Para la práctica en el salón, descargue e instale [*PortableApps*](https://portableapps.com/) ([tutorial 1](https://www.youtube.com/watch?v=Ux_3p4lDmTg), [tutorial 2](https://www.youtube.com/watch?v=Ux_3p4lDmTg)) en su USB vacía. Tome en cuenta que debe desactivar el antivirus para realizar la práctica y usar *PortableApps*. [guía](https://www.youtube.com/watch?v=HDEhLpS7UwM)). Luego, descargue e instale el siguiente software portable en una USB: *LibreOffice* (suite de oficina) ([portable](https://portableapps.com/apps/office/libreoffice_portable)), *7-zip* (compresor/descompresor) ([portable](https://portableapps.com/apps/utilities/7-zip_portable)), [*R Portable*](https://sourceforge.net/projects/rportable/files/R-Portable/)) (estadística) y [*RStudio Portable*](https://sourceforge.net/projects/rportable/files/R-Studio/) (estadística).
 
@@ -99,56 +99,38 @@ Que al finalizar el curso el alumno sea capaz de:
       *Objetivo*: Aprender a preparar el entorno de *RStudio Cloud* para generar un libro *RMarkdown*.  
   
       Cree su cuenta en [RStudio cloud](https://posit.cloud/) que le permitirá ejecutar código fuente de R en la nube, hacer las modificaciones que requiera y usarlo para sus propias necesidades.  
-  
-    - *Práctica 1.2: Fundamentos de R y RStudio*. (Entrega: Fecha por definir).  
-  
-      *Objetivo*: Aprender a usar el R y RStudio en el entorno de *RStudio Cloud* y en su computadora personal.  
-  
-      Tome como base el pequeño libro [R para Análisis de Datos](https://bookdown.org/ddiannae/curso-rdata/) de Diana García Cortés (2022) y los recursos digitales disponibles por la autora en [Github](https://github.com/ddiannae/curso-rdata). Siga las instrucciones del libro y practique a discreción hasta dominar los temas.   
-      
-      Debe entregar son ejercicios de los siguientes capítulos del libro, cada uno en un script o archivo .R en su proyecto *RStudio cloud*.    
-      
-    - *Práctica 1.3: Creación de documentos con RMarkdown en RStudio Cloud*. (Entrega: Fecha por definir).
+ 
+     
+    - *Práctica 1.2: Creación de documentos con RMarkdown en RStudio Cloud*. (Entrega: Fecha por definir).
 
-      *Objetivo*: Aprender los principios básicos de edición utilizando el lenguaje RMarkdown en *RStudio cloud* y, al mismo tiempo, aprender a manejar vectores, matrices y sus operaciones en R y su representación gráfica usando LaTeX.
-    
-      *Parte 1*. Descargue el archivo base [LinearAlgebraR-Handout.pdf](https://github.com/wangyi-fudan/BIOL130173/blob/master/LinearAlgebraR-Handout.pdf). Convierta el archivo *.pdf* a *.docx* y haga una traducción al español del documento base o busque el archivo traducido *LinearAlgebraR-Handout_ES.docx* en el canal de la clase en Telegram.  
+      *Objetivo*: Aprender los principios básicos de edición utilizando el lenguaje RMarkdown en *RStudio* y LaTeX.
+
+      *Parte 1*. Prepare la Unidad 1 de Rangel (2012, pp. 11-14) y convierta el archivo *.pdf* a un archivo RMarkdown (*.Rmd*). Edítelo con la sintaxis de RMarkdown y *LaTex*. Guárdelo con el mismo nombre en su proyecto de *RStudio*. Finalmente, pruebe la calidad del archivo generando su archivo *.html* con *knitr*.
+  
+      *Parte 2*. Extraiga el código del Ejemplo 1 (Rangel, 2012, pp. 13-14) y convierta el código al archivo RMarkdown (*Matricula. Ejercicio 1.Rmd*). Edítelo con la sintaxis de *RMarkdown* y *LaTex* y trabaje el ejemplo incrustando *chunks* de código R para calcular el ejercicio y obtener lo mismos resultados. Enfóquese en comprender el *algoritmo*.
       
-      *Parte 2*. Tome como base el archivo traducido y cópielo a un archivo RMarkdown. Guárdelo con el mismo nombre en su proyecto de *RStudio cloud*. Edítelo con la sintaxis de RMarkdown y re-cree el archivo equivalente del archivo base *LinearAlgebraR-Handout.pdf*. 
+      Tips:
       
-      Tips:   
-      * Para dibujar las fórmulas matemáticas, los vectores y las matrices, utilice un editor en línea como el editor de ecuaciones [HostMath](https://www.hostmath.com/) en LaTeX, cree las fórmulas e incruste el código correspondiente en su archivo RMarkdown (*.Rmd*).   
-      * Descargue las imágenes y súbalas al directorio *images* en su proyecto y luego incrústelas adecuadamente con el códigocorrespondiente en su archivo *.Rmd* ([Campos, 2020](https://rpubs.com/Juve_Campos/ImagenesyMultimediaEnRmarkdown)).
-      * Considere alguna de las siguientes guías en RMarkdown:
-        - [Guía de R Markdown](https://gesel.github.io/materiales/10Gu%C3%ADa_RMarkdown.pdf) (Gualchi, 2019),
-        - [Introducción al uso de RMarkdown para la compilación de resultados de RStudio en diferentes formatos](https://bookdown.org/gboccardo/manual-ED-UCH/introduccion-al-uso-de-rmarkdown-para-la-compilacion-de-resultados-de-rstudio-en-diferentes-formatos.html) (Boccardo Bosoni y Ruiz Bruzzone, 2019),
-        - [40 Reports with R Markdown](https://epirhandbook.com/en/reports-with-r-markdown.html) (The Epidemiologist R Handbook, 2022),
-        - [Aprende lo Básico de R Markdown en 20 Minutos](https://www.youtube.com/watch?v=6Qj8yBFgT9Q) (José Antonio: Estadística Aplicada, 2021, Aug 23) y 
-        - [Ecuaciones (LaTeX) | Tutorial básico de R Markdown](https://www.youtube.com/watch?v=nd-YudmcLjQ) (DaniMedi, 2020, Sep 17).
-      Concéntrese en desarrollar la capacidad de conseguir la ayuda para resolver satisfactoriamente la práctica y practique lo suficiente hasta que logre el objetivo.
+      * Para dibujar las fórmulas matemáticas utilice un editor en línea como el editor de ecuaciones [HostMath](https://www.hostmath.com/) en LaTeX, cree las fórmulas e incruste el código correspondiente en su archivo RMarkdown (*.Rmd*).   
+      * Descargue las imágenes y súbalas al directorio *images* en su cuenta y repositorio en GitHub y luego incrústelas adecuadamente con el código correspondiente en su archivo *.Rmd*.
+      * Considere alguna de las referencias de la bibliografía obligatoria y complementaria.
+      * Concéntrese en desarrollar la capacidad de conseguir la ayuda para resolver satisfactoriamente la práctica y practique lo suficiente hasta que logre el objetivo.
       
       Al final, debe obtener el archivo .Rmd base para la generación de los archivos archivo HTML y PDF generados durante la conversión.
-      
-    - *Práctica 1.4: Bases de datos I: Bases de datos pequeñas*. (Entrega: Fecha por definir).  
 
-      *Objetivo*: Aprender el manejo de archivos con R.
-       
-      *Parte 1*. Desde el sitio web del Inegi, del [Censo Nacional de Población y Vivienda del INEGI](https://www.inegi.org.mx/programas/ccpv/2010/), descargue el [Cuestionario Básico](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cpv2010_cuest_basico_d.pdf), la [Descripción de la Base de Datos](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/diccionario_cuestionario_basico.xls).
-    
-      De la pestaña [Microdatos](https://www.inegi.org.mx/programas/ccpv/2010/#Microdatos), descargue la muestra de la base de datos de personas en formato DBF y comprimido (.ZIP) [dummy_personas_cpv2010_dbf.zip](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/microdatos/ejemplobd/dummy_personas_cpv2010_dbf.zip)), la muestra de la base de datos de viviendas en alguno de los otros formatos disponibles: SAV, DTA o SAS comprimido (.ZIP) y el Catálogo de la Integración General de Localidades (CIGEL) (archivo [cigel_2010_hab_dbf.zip](https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/cigel_2010_hab_dbf.zip) en formato DBF comprimido).
-    
-      También descargue el archivo [DUMMY_PERSONAS_5K.dbf.zip](https://drive.google.com/file/d/1TNXXZZQ9GEJKU8UD-YyuklF4a1E8w_0b/view?usp=sharing), que es una muestra muy pequeña de la base de datos, para realizar el ejercicio.
-    
-      *Parte 2*. Utilice el paquete [*rio*](https://cran.r-project.org/web/packages/rio/) en *RStudio* para abrir (importar) los archivos del Inegi de la Parte 1 (DBF, SAS, SAV, DTA). Después de importar el archivo, expórtelo a XLSX, en su directorio de trabajo. Por último, convierta otro archivo de XLSX a CSV. Tome como base el script en R [manejo de archivos del inegi.R](https://drive.google.com/file/d/15W7CjN2TmjFo5OSXbbftaWCwm8DagNWo/view?usp=sharing) y cámbielo y adáptelo a su contexto particular, hasta que funcione correctamente.  
-  
-      *Parte 4*. Reflexione y responda: *¿Qué diferencias existen entre las tres operaciones básicas que proporciona el paquete **rio** de R?* Consulte la ayuda del paquete *rio* para que conozca el alcance del mismo.  
       
-      *Parte 5*. Por último, estudie las instrucciones de *manipulación de archivos* con R con el tutorial [R Manipulation of Files and Directories](https://felixfan.github.io/File-Manipulation/) al convertirlo en un archivo RMarkdown.  
-      
-      Saque sus conclusiones y documente su experiencia en la realización de la actividad en un video de hasta 10 minutos, a modo de tutorial. Suba los archivos creados o modificados a su proyecto de RStudio, donde corresponda.   
-
 ##### *Bibliografía Obligatoria:*   
-- Universitat de les Illes Balears. Som UIB (2021). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([url](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).  
+- Rangel N., L. M. (2012). *Guía de estudio de la asignatura Análisis de Decisiones*. Facultad de Estudios Superiores Acatlán, UNAM.   
+      
+##### *Bibliografía Complementaria:*   
+- Boccardo Bosoni y Ruiz Bruzzone. (2019). [Introducción al uso de RMarkdown para la compilación de resultados de RStudio en diferentes formatos](https://bookdown.org/gboccardo/manual-ED-UCH/introduccion-al-uso-de-rmarkdown-para-la-compilacion-de-resultados-de-rstudio-en-diferentes-formatos.html).
+- Campos (2020). [Imágenes y multimedia en Rmarkdown](https://rpubs.com/Juve_Campos/ImagenesyMultimediaEnRmarkdown).
+- DaniMedi (2020, Sep 17). [Ecuaciones (LaTeX) | Tutorial básico de R Markdown](https://www.youtube.com/watch?v=nd-YudmcLjQ).
+- Gualchi. (2019). [Guía de R Markdown](https://gesel.github.io/materiales/10Gu%C3%ADa_RMarkdown.pdf).
+- José Antonio: Estadística Aplicada (2021, Aug 23). [Aprende lo Básico de R Markdown en 20 Minutos](https://www.youtube.com/watch?v=6Qj8yBFgT9Q).  
+- The Epidemiologist R Handbook. (2022). [40 Reports with R Markdown](https://epirhandbook.com/en/reports-with-r-markdown.html).
+- Universitat de les Illes Balears. Som UIB (2021). MOOC Aprende R : Introducción al tratamiento de datos con R y RStudio. *YouTube*. ([url](https://www.youtube.com/playlist?list=PLnXFIHWLWQXFOIOdpAv2ioBHQuYgV7x2t)).
+
 
 #### Unidad 2. De la 'Teoría de la Elección Racional' al 'Análisis de Decisiones'
 1. La ciencia de la administración y la toma de decisiones
@@ -156,6 +138,7 @@ Que al finalizar el curso el alumno sea capaz de:
 3. ¿Qué es el análisis de decisiones?
 4. Alcances y limitaciones del análisis de decisiones
 5. Tareas y Prácticas:
+
     - *Tarea 2.1: ¿Qué es el Análisis de Decisiones?*. (Entrega: Fecha por definir).   
   
       *Objetivo*: Aprender qué es el análisis de decisiones, su contexto y aplicación.  
