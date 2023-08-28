@@ -103,7 +103,7 @@ Que al finalizar el curso el alumno sea capaz de:
      
     - *Práctica 1.2: Creación de documentos con RMarkdown en RStudio Cloud*. (Entrega: Fecha por definir).
 
-      *Objetivo*: Aprender los principios básicos de edición utilizando el lenguaje RMarkdown en *RStudio* y LaTeX.
+      *Objetivo*: Aprender los principios básicos de edición utilizando el lenguaje RMarkdown en *RStudio* y *LaTeX*.
 
       *Parte 1*. Prepare la Unidad 1 de Rangel (2012, pp. 11-14) y convierta el archivo *.pdf* a un archivo RMarkdown (*.Rmd*). Edítelo con la sintaxis de RMarkdown y *LaTex*. Guárdelo con el mismo nombre en su proyecto de *RStudio*. Finalmente, pruebe la calidad del archivo generando su archivo *.html* con *knitr*.
   
@@ -116,7 +116,7 @@ Que al finalizar el curso el alumno sea capaz de:
       * Considere alguna de las referencias de la bibliografía obligatoria y complementaria.
       * Concéntrese en desarrollar la capacidad de conseguir la ayuda para resolver satisfactoriamente la práctica y practique lo suficiente hasta que logre el objetivo.
       
-      Al final, debe obtener el archivo .Rmd base para la generación de los archivos archivo HTML y PDF generados durante la conversión.
+      Al final, debe obtener el archivo .Rmd base para la generación de los archivos archivo HTML y PDF generados durante la conversión. Debe subir el entregable a su proyecto en [RStudio.cloud](https://posit.cloud/).
 
       
 ##### *Bibliografía Obligatoria:*   
@@ -139,25 +139,8 @@ Que al finalizar el curso el alumno sea capaz de:
 4. Alcances y limitaciones del análisis de decisiones
 5. Tareas y Prácticas:
 
-    - *Tarea 2.1: ¿Qué es el Análisis de Decisiones?*. (Entrega: Fecha por definir).   
-  
-      *Objetivo*: Aprender qué es el análisis de decisiones, su contexto y aplicación.  
-  
-      Lea el capítulo 1 del libro *Decision Analysis for Managers: A Guide for Making Better Personal and Business Decisions* de David Charlesworth (2017), en su versión epub o en su traducción al español. Estudie las preguntas y respuestas del autor y elabore sus propias reflexiones. Escríbalas en sus cuaderno. Luego, elabore un archivo Rmarkdown en su proyecto de RStudio en [posit.cloud](https://posit.cloud) y súbalo a su proyecto con el nombre de la tarea.
-      
-      Coordínese con los demás compañeros y elabore una versión en español de las figuras del capítulo del libro, si es que así lo requiere. De ser necesario, complemente con la lectura de Howard (1988).          
-      
-    - *Tarea 2.2: ¿Cómo enmarcar un problema de Análisis de Decisiones*. (Entrega: Fecha por definir).   
-  
-      *Objetivo*: Aprender a enmarcar un problema de análisis de decisiones.  
-  
-      Lea el capítulo 1 del libro *Decision Analysis for Managers: A Guide for Making Better Personal and Business Decisions* de David Charlesworth (2017), en su versión epub o en su traducción al español.    
-      
-      Responda a las dos preguntas centrales: (1) ¿Qué es un problema de decisión? y (2) ¿Cómo debe plantearse y documentarse un problema de decisión? Parta de los argumentos del autor y desarrolle sus propias reflexiones en un archivo Rmarkdown, en su proyecto de RStudio en [posit.cloud](https://posit.cloud). Coordínese con los demás compañeros y elabore una versión en español de las figuras del capítulo del libro.    
-
 ### Bibliografía:
 - Howard, R. A. (1988). Decision analysis: practice and promise, *Management Science, 34*(6), 679-695. ([url](https://www.jstor.org/stable/2632123)) ([pdf](https://sci-hub.ru/10.2307/2632123))
-- Charlesworth, D. (2017). [Decision analysis for managers: A guide for making better personal and business decisions](https://libgen.rs/book/index.php?md5=10EE672DF770CEFD216D6F65C29FE2C1). New York: Business Expert Press. (traducción: [Análisis de decisiones para gerentes](https://libgen.rs/book/index.php?md5=D43F87667B1D27665BE199267253DBA9)).
 
 
 #### Unidad 3. Los problemas de decisión
@@ -171,6 +154,7 @@ Que al finalizar el curso el alumno sea capaz de:
    - Modelo de norma mínima
    - Otras técnicas
 5. Tareas y Prácticas:
+
     - *Tarea 3.1: ¿Qué es el Análisis de Decisiones?*. (Entrega: Fecha por definir).   
   
       *Objetivo*: Aprender qué es el análisis de decisiones, su contexto y aplicación.  
