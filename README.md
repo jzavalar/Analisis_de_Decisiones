@@ -179,6 +179,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
 ### *Bibliografía Obligatoria*:
 - Irizarry, R. A. (2023). Capítulo 24: Procesamiento de cadenas. In *Introducción a la ciencia de datos: Análisis de datos y algoritmos de predicción con R* ([url](https://rafalab.dfci.harvard.edu/dslibro/procesamiento-de-cadenas.html)).
+- Anonymous (2017, Nov 23). [How to use LaTeX code in R chunk in R-Markdown?](https://stackoverflow.com/questions/47463861/how-to-use-latex-code-in-r-chunk-in-r-markdown).
 
 ##### *Bibliografía Complementaria:*   
 - Howard, R. A., & Abbas, A. E. (2016). Foundations of decision analysis [Global Edition]. Great Britain: Pearson Education. ([url](http://libgen.rs/book/index.php?md5=4B19F574BA8246A5BA274A7AF4BFB6A5)).
