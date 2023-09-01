@@ -100,22 +100,18 @@ Que al finalizar el curso el alumno sea capaz de:
   
       Cree su cuenta en [RStudio cloud](https://posit.cloud/) que le permitirá ejecutar código fuente de R en la nube, hacer las modificaciones que requiera y usarlo para sus propias necesidades.  
  
-     
-    - *Práctica 1.2: Creación de documentos con RMarkdown en RStudio Cloud*. (Entrega: Fecha por definir).
+   - *Práctica 1.2: Elaboración de informes con RMarkdown en RStudio*. (Entrega: 4 de septiembre de 2023).
 
-      *Objetivo*: Aprender los principios básicos de edición utilizando el lenguaje RMarkdown en *RStudio* y *LaTeX*.
+     *Objetivo*: Aprender GitHub y archivos RMarkdown en *RStudio*.
 
-      *Parte 1*. Prepare la Unidad 1 de Rangel (2012, pp. 11-14) y convierta el archivo *.pdf* a un archivo RMarkdown (*.Rmd*). Edítelo con la sintaxis de RMarkdown y *LaTex*. Guárdelo con el mismo nombre en su proyecto de *RStudio*. Finalmente, pruebe la calidad del archivo generando su archivo *.html* con *knitr*.
-  
-      *Parte 2*. Extraiga el código del Ejemplo 1 (Rangel, 2012, pp. 13-14) y convierta el código al archivo RMarkdown (*Matricula. Ejercicio 1.Rmd*). Edítelo con la sintaxis de *RMarkdown* y *LaTex*. Enfóquese en comprender el *algoritmo*.
-      
-      Tips:
-      
-      * Para dibujar las fórmulas matemáticas utilice un editor en línea como el editor de ecuaciones [HostMath](https://www.hostmath.com/) en LaTeX, cree las fórmulas e incruste el código correspondiente en su archivo RMarkdown (*.Rmd*).   
-      * Descargue las imágenes y súbalas al directorio *images* en su cuenta y repositorio en GitHub y luego incrústelas adecuadamente con el código correspondiente en su archivo *.Rmd*.
-      * Considere alguna de las referencias de la bibliografía obligatoria y complementaria.
-      * Concéntrese en desarrollar la capacidad de conseguir la ayuda para resolver satisfactoriamente la práctica y practique lo suficiente hasta que logre el objetivo.
-      
+     *Parte 1*. Cree una cuenta en [GitHub](https://github.com/). Aprenda a GitHub en línea ([tutorial](https://www.youtube.com/watch?v=hWglK8nWh60)) y con la aplicación [GitHub Desktop](https://desktop.github.com/) ([tutorial](https://www.youtube.com/watch?v=TuOQBfhp-r0)).
+
+     *Parte 2*. Cree un repositorio llamado Analisis_de_Decisiones. En él cree cuatro directorios, uno por unidad, con nombres como *Unidad_x*. En cada Unidad organice sus archivos fuente *.Rmd* con nombres pertinentes para sus tareas (como *Tarea 1.Rmd*) y prácticas (como *Práctica 1.Rmd*) y un directorio *imagenes* con las fotografías de sus tareas que enlazará en sus archivos.  
+
+     *Parte 3*. Copie el texto de la Unidad 1 (Rangel, 2012, pp. 11-16), corríjalo y conviértalo a un archivo RMarkdown (*Unidad 1.Rmd*) usando RStudio. Edítelo correctamente con la sintaxis de *RMarkdown* e incruste código *LaTex* para lo que resulte pertinente.
+
+     *Parte 4*. Extraiga el Ejemplo 1 y aprenda a incrustar *chunks* de código R para calcular el ejercicio y obtener los resultados de su ejecución, embebiendo código *LaTex* para automatizar lo que requiera ([tip](https://stackoverflow.com/questions/47463861/how-to-use-latex-code-in-r-chunk-in-r-markdown)). Enfóquese en aprender la sintaxis de *Markdown* y *LaTex*. Dibuje las fórmulas matemáticas con un editor en línea como [HostMath](https://www.hostmath.com/). Aprenda a corregir los errores en sus archivos RMarkdown (*.Rmd*) y aprenda el funcionamiento de las herramientas para en generar los archivos *.html*, con el paquete *knitr*, en RStudio, de manera local y en la nube [RStudio.cloud](https://posit.cloud/).
+
       Al final, debe obtener el archivo .Rmd base para la generación de los archivos archivo HTML y PDF generados durante la conversión. Debe subir el entregable a su proyecto en [RStudio.cloud](https://posit.cloud/).
 
       
@@ -155,46 +151,37 @@ Que al finalizar el curso el alumno sea capaz de:
    - Otras técnicas
 5. Tareas y Prácticas:
 
-   - *Práctica 3.0: Elaboración de informes con RMarkdown en RStudio*. (Entrega: 4 de septiembre de 2023).
+   - *Tarea 3.1: Introducción: Encuadre de un problema de decisión*. (Entrega: 4 de septiembre de 2023).
 
-     *Objetivo*: Aprender GitHub y archivos RMarkdown en *RStudio*.
+     *Objetivo*: Aprender los conceptos del encuadre de un problema de decisión.
 
-     *Parte 1*. Cree una cuenta en [GitHub](https://github.com/). Aprenda a GitHub en línea ([tutorial](https://www.youtube.com/watch?v=hWglK8nWh60)) y con la aplicación [GitHub Desktop](https://desktop.github.com/) ([tutorial](https://www.youtube.com/watch?v=TuOQBfhp-r0)).
+     *Parte 1*. Elabore *en su cuaderno* la síntesis de los conceptos de la Unidad 1 (Rangel, 2012, pp. 11-16) con un *glosario* y un *mapa conceptual*, por ejemplo, con [CmapTools](https://cmap.ihmc.us/) ([pdf](https://cmap.ihmc.us/publications/researchpapers/conceptmapsintegratingknowinfvisual.pdf)). Concéntrese en entender y dominar los términos del lenguaje.
 
-     *Parte 2*. Cree un repositorio llamado Analisis_de_Decisiones. En él cree cuatro directorios, uno por unidad, con nombres como *Unidad_x*. En cada Unidad organice sus archivos fuente *.Rmd* con nombres pertinentes para sus tareas (como *Tarea 1.Rmd*) y prácticas (como *Práctica 1.Rmd*) y un directorio *imagenes* con las fotografías de sus tareas que enlazará en sus archivos.  
+     *Parte 2*. Transcriba *en su cuaderno* el Ejemplo 1 y el grupo de ejercicios de la Unidad 1. Aplique los conceptos y el machote del Ejemplo 1, según se solicite en cada ejercicio. Resolver los ejercicios, con lápiz y papel, en su cuaderno, reforzará sus conocimientos, así que realice una aplicación reflexiva y no mecánica de los conceptos. Socialice sus conocimientos y dudas con sus compañeros a través del grupo de Telegram. Haga equipo con uno o dos compañeros de grupos.
 
-     *Parte 3*. Copie el texto de la Unidad 1 (Rangel, 2012, pp. 13-14), corríjalo y conviértalo a un archivo RMarkdown (*Unidad 1.Rmd*) usando RStudio. Edítelo correctamente con la sintaxis de *RMarkdown* e incruste código *LaTex* para lo que resulte pertinente.
+     Tome buenas fotografías de su tarea y súbalas a su cuenta de GitHub y enlácelas en un archivo Markdown del reporte de su tarea, explicando lo que se ilustra en las fotografías.
 
-     *Parte 4*. Extraiga el Ejemplo 1 y aprenda a incrustar *chunks* de código R para calcular el ejercicio y obtener los resultados de su ejecución, embebiendo código *LaTex* para automatizar lo que requiera. Enfóquese en aprender la sintaxis de *Markdown* y *LaTex*.
+   - *Práctica 3.2: Introducción: Encuadre de los problemas de decisión*. (Entrega: 4 de septiembre de 2023).
 
-     Al final, debe obtener el archivo *.Rmd* base para la generación de los archivos archivo HTML y PDF generados durante la conversión. Debe subir el entregable a su proyecto en [RStudio.cloud](https://posit.cloud/).
+     *Objetivo*: Practicar el algoritmo de encuadre de problemas de decisión*.
 
+     *Parte 1*. Como prerrequisito debe haber realizado las tareas y prácticas previas.
 
-   - *Tarea 3.1: Encuadre de un problema de decisión*. (Entrega: 4 de septiembre de 2023).
+     *Parte 2*· Utilice el machote del código del Ejemplo 1 (Rangel, 2012, pp. 13-14) y resuélvalo en un archivo RMarkdown, embebiendo texto, código R, código LaTex. Demuestre que obtiene los mismos resultados. Llame a su archivo *Ejemplo 1.Rmd* y súbalo a su cuenta de GitHub donde corresponda. Instale los paquetes que requiera desde CRAN y úselos en RStudio. 
 
-      *Objetivo*: Aprender los conceptos del encuadre de un problema de decisión.
-
-      *Parte 1*. Elabore en su cuaderno la síntesis de los conceptos de la Unidad 1 Ejemplo 1 (Rangel, 2012, pp. 13-14) con un glosario y un mapa conceptual. Concéntrese en entender y dominar el lenguaje.
+     *Parte 3*. Resuelva los ejercicios de la Unidad 1 en un archivo RMarkdown llamado *Ejercicios 1.Rmd* y súbalo a su cuenta de GitHub donde corresponda y haga una copia a su cuenta de [RStudio en la nube](https://posit.cloud/). Asegúrese que puede generar atomáticamente y correctamente la solución para cada ejercicio, generando el reporte en un archivo *html*, a partir del archivo fuente *.Rmd*.
   
-      *Parte 2*. Transcriba en su cuaderno los apuntes del Ejemplo 1. Concéntrese en entender y dominar el algoritmo.
-  
-      Tome buenas fotografías de su tarea y súbalas a su cuenta de GitHub y enlácelas en un archivo Markdown, explicando lo que se ilustra en las fotografías.
+     Enfóquese en *comprender y aprender el algoritmo*, en aprender a utilizar nombres de variables, tipos de datos y estructuras de datos pertinentes y sus operaciones, en R. Aprenda a depurar y corregir los errores de compilación ([*Debugging*](https://adv--r-hadley-nz.translate.goog/debugging.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)) de R.
 
+     Si quiere aprender más, consulte los [recursos de aprendizaje gratuitos](https://hadley.nz/) del creador de RStudio, el profesor Hadley Wickham o revise la mayor complicación de recursos de aprendizaje de R: [Big book of R](https://www.bigbookofr.com/). (Sitio web) (La compilación más grande de libros y fuentes documentales sobre R). Si se tien más cómodo, use el [traductor de Google](https://translate.google.com/) y lea en su propio idioma.
 
-   - *Práctica 3.2: Practica de encuadre de los problemas de decisión*. (Entrega: 4 de septiembre de 2023).
-
-      *Objetivo*: Practicar el algoritmo de encuadre de problemas de decisión*.
-
-     *Parte 1*. Como prerrequisito debe haber realizado la Práctica 3.1. Utilice el machote del código del Ejemplo 1 (Rangel, 2012, pp. 13-14) y resuelva los ejercicios de la Unidad 1 en su cuaderno. Enfóquese en *comprender y aprender el algoritmo*. Al resolver los ejercicios, con lápiz y papel, en su cuaderno, reforzará sus conocimientos. 
-
-     *Parte 2*. Luego, compruebe cada ejercicio usando R y demuestre que obtiene los mismos resultados. Llame a su archivo *Matricula. Unidad 1. Ejercicios 1.Rmd*. Asegúrese que puede generar correctamente la solución para cada ejercicio, generando el reporte en un archivo *HTML*, a partir del archivo fuente *.Rmd*.
-      
-     Al final, debe obtener el archivo *.Rmd* base para la generación de los archivos archivo HTML y PDF generados durante la conversión. Debe subir el entregable a su proyecto en [RStudio.cloud](https://posit.cloud/).
-
+     Suba sus archivos generados a su cuenta de GitHub y pruébelos en su proyecto en [RStudio.cloud](https://posit.cloud/).
 
 ### *Bibliografía Obligatoria*:
 - Irizarry, R. A. (2023). Capítulo 24: Procesamiento de cadenas. In *Introducción a la ciencia de datos: Análisis de datos y algoritmos de predicción con R* ([url](https://rafalab.dfci.harvard.edu/dslibro/procesamiento-de-cadenas.html)).
 - Anonymous (2017, Nov 23). [How to use LaTeX code in R chunk in R-Markdown?](https://stackoverflow.com/questions/47463861/how-to-use-latex-code-in-r-chunk-in-r-markdown).
+- Wickham, H. (). [22 Debugging](https://adv-r.hadley.nz/debugging.html). In *Advanced R*. Chapman & Hall’s. ([traducción](https://adv--r-hadley-nz.translate.goog/debugging.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp) ([pdf]())
+- Baruffa, O. (2023, Aug 27). [Big book of R](https://www.bigbookofr.com/). (Sitio web) (La compilación más grande de libros y fuentes documentales sobre R).
 
 ##### *Bibliografía Complementaria:*   
 - Howard, R. A., & Abbas, A. E. (2016). Foundations of decision analysis [Global Edition]. Great Britain: Pearson Education. ([url](http://libgen.rs/book/index.php?md5=4B19F574BA8246A5BA274A7AF4BFB6A5)).
