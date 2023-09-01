@@ -151,13 +151,13 @@ Que al finalizar el curso el alumno sea capaz de:
    - Otras técnicas
 5. Tareas y Prácticas:
 
-   - *Tarea 3.1: Introducción: Encuadre de un problema de decisión*. (Entrega: 4 de septiembre de 2023).
+   - *Tarea 3.1: I. Introducción: Encuadre de un problema de decisión*. (Entrega: 4 de septiembre de 2023).
 
      *Objetivo*: Aprender los conceptos del encuadre de un problema de decisión.
 
      *Parte 1*. Elabore *en su cuaderno* la síntesis de los conceptos de la Unidad 1 (Rangel, 2012, pp. 11-16) con un *glosario* y un *mapa conceptual*, por ejemplo, con [CmapTools](https://cmap.ihmc.us/) ([pdf](https://cmap.ihmc.us/publications/researchpapers/conceptmapsintegratingknowinfvisual.pdf)). Concéntrese en entender y dominar los términos del lenguaje.
 
-     *Parte 2*. Transcriba *en su cuaderno* el Ejemplo 1 y el grupo de ejercicios de la Unidad 1. Aplique los conceptos y el machote del Ejemplo 1, según se solicite en cada ejercicio. Resolver los ejercicios, con lápiz y papel, en su cuaderno, reforzará sus conocimientos, así que realice una aplicación reflexiva y no mecánica de los conceptos. Socialice sus conocimientos y dudas con sus compañeros a través del grupo de Telegram. Haga equipo con uno o dos compañeros de grupos.
+     *Parte 2*. Transcriba *en su cuaderno* el Ejemplo 1 y el grupo de ejercicios de la Unidad 1. Aplique los conceptos y el machote del Ejemplo 1, según se solicite en cada ejercicio. Resolver los ejercicios, con lápiz y papel, en su cuaderno, reforzará sus conocimientos, así que realice una aplicación reflexiva y no mecánica de los conceptos. Socialice sus conocimientos y dudas con sus compañeros a través del grupo de Telegram. Haga equipo con uno o dos compañeros del grupo.
 
      Tome buenas fotografías de su tarea y súbalas a su cuenta de GitHub y enlácelas en un archivo Markdown del reporte de su tarea, explicando lo que se ilustra en las fotografías.
 
@@ -167,7 +167,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
      *Parte 1*. Como prerrequisito debe haber realizado las tareas y prácticas previas.
 
-     *Parte 2*· Utilice el machote del código del Ejemplo 1 (Rangel, 2012, pp. 13-14) y resuélvalo en un archivo RMarkdown, embebiendo texto, código R, código LaTex. Demuestre que obtiene los mismos resultados. Llame a su archivo *Ejemplo 1.Rmd* y súbalo a su cuenta de GitHub donde corresponda. Instale los paquetes que requiera desde CRAN y úselos en RStudio. 
+     *Parte 2*· Utilice el machote del código del Ejemplo 1 (Rangel, 2012, pp. 13-14) y resuélvalo en un archivo RMarkdown, embebiendo texto, código R y código LaTex. Demuestre que obtiene los mismos resultados. Llame a su archivo *Ejemplo 1.Rmd* y súbalo a su cuenta de GitHub donde corresponda. Instale los paquetes que requiera desde CRAN y úselos en RStudio. 
 
      *Parte 3*. Resuelva los ejercicios de la Unidad 1 en un archivo RMarkdown llamado *Ejercicios 1.Rmd* y súbalo a su cuenta de GitHub donde corresponda y haga una copia a su cuenta de [RStudio en la nube](https://posit.cloud/). Asegúrese que puede generar atomáticamente y correctamente la solución para cada ejercicio, generando el reporte en un archivo *html*, a partir del archivo fuente *.Rmd*.
   
@@ -176,6 +176,75 @@ Que al finalizar el curso el alumno sea capaz de:
      Si quiere aprender más, consulte los [recursos de aprendizaje gratuitos](https://hadley.nz/) del creador de RStudio, el profesor Hadley Wickham o revise la mayor complicación de recursos de aprendizaje de R: [Big book of R](https://www.bigbookofr.com/). (Sitio web) (La compilación más grande de libros y fuentes documentales sobre R). Si se tien más cómodo, use el [traductor de Google](https://translate.google.com/) y lea en su propio idioma.
 
      Suba sus archivos generados a su cuenta de GitHub y pruébelos en su proyecto en [RStudio.cloud](https://posit.cloud/).
+
+   - *Tarea 3.3: II. Decisiones bajo completa incertidumbre*. (Entrega: 11 de septiembre de 2023).
+
+     *Objetivo*: Aprender los conceptos de la toma de decisiones bajo completa incertidumbre.
+
+     *Parte 1*. Elabore *en su cuaderno* la síntesis de los conceptos de la Unidad 2 (Rangel, 2012, pp. 17-24), (*criterios de elección no probabilísticos*) con un *glosario*. Haga un contraste de las ventajas y desventajas de los cuatro criterios: (1) *maximin de Wald*, (2) *maximax*, (3) *criterio de Hurwitz* (*Índice* $\alpha$) y (4) *pesar minimax* (*criterio de Savage*). Concéntrese en entender y dominar los términos del lenguaje.
+
+     *Parte 2*. Transcriba *en su cuaderno* el Ejemplo 2 (pp. 18-21) y el grupo de ejercicios de la Unidad 2. Aplique los conceptos y el machote del Ejemplo 2, según se solicite en cada ejercicio. Nuevamente, considere que resolver los ejercicios, con lápiz y papel en su cuaderno, reforzará sus conocimientos, así que realice una aplicación reflexiva y no mecánica de los conceptos.
+
+     Tome buenas fotografías de su tarea y súbalas a su cuenta de GitHub y enlácelas en un archivo Markdown del reporte de su tarea, explicando lo que se ilustra en las fotografías.
+
+   - *Práctica 3.4: II: Decisiones bajo completa incertidumbre*. (Entrega: 11 de septiembre de 2023).
+
+     *Objetivo*: Aplicar los algoritmos de problemas de decisión bajo completa incertidumbre.
+
+     *Parte 1*. Como prerrequisito debe haber realizado las tareas y prácticas previas.
+
+     *Parte 2*· Utilice el machote del código del Ejemplo 2 y resuélvalo en un archivo RMarkdown, embebiendo texto, código R y código LaTex. Demuestre que obtiene los mismos resultados. Llame a su archivo *Ejemplo 1.Rmd* y súbalo a su cuenta de GitHub donde corresponda. Instale los paquetes que requiera desde CRAN y úselos en RStudio. 
+
+     *Parte 3*. Resuelva los ejercicios de la Unidad 2 en un archivo RMarkdown llamado *Ejercicios 2.Rmd* y súbalo a su cuenta de GitHub donde corresponda y haga una copia a su cuenta de [RStudio en la nube](https://posit.cloud/). Asegúrese que puede generar atomáticamente y correctamente la solución para cada ejercicio, generando el reporte en un archivo *html*, a partir del archivo fuente *.Rmd*.
+  
+     Enfóquese en *comprender y aprender el algoritmo*, en aprender a utilizar nombres de variables, tipos de datos y estructuras de datos pertinentes y sus operaciones, en R. 
+
+     Suba sus archivos generados a su cuenta de GitHub y pruébelos en su proyecto en [RStudio.cloud](https://posit.cloud/).
+
+- *Tarea 3.5: III. Decisiones bajo riesgo*. (Entrega: 18 de septiembre de 2023).
+
+     *Objetivo*: Aprender los conceptos de la toma de decisiones bajo riesgo.
+
+     *Parte 1*. Elabore *en su cuaderno* la síntesis de los conceptos de la Unidad 3 (Rangel, 2012, pp. 25-54), con un *glosario*:
+          1. Criterios para la toma de decisiones sin experimentación
+             1.1. Criterio de Laplace
+             1.2. Criterio de la máxima posibilidad
+3.1.3 Regla de decisión de Bayes (VEM}
+3.1.4 Minimización de la pérdida de oportunidad esperada (POE)
+Grupo de ejercicios 3
+3.2 Valor esperado de la información perfecta (VEIP)
+3.2.1 Método1
+3.2.2 Método 2
+Grupo de ejercicios 4
+3.3 Análisis de sensibilidad
+3.4 Árboles de decisión
+Grupo de ejercicios 5
+3.5 Criterios para la torna de decisiones con experimentación
+3.6 Análisis en la forma extensiva
+Grupo de ejercicios 6
+
+
+  Haga un contraste de las ventajas y desventajas de los cuatro criterios: (1) *maximin de Wald*, (2) *maximax*, (3) *criterio de Hurwitz* (*Índice* $\alpha$) y (4) *pesar minimax* (*criterio de Savage*). Concéntrese en entender y dominar los términos del lenguaje.
+
+     *Parte 2*. Transcriba *en su cuaderno* el Ejemplo 2 (pp. 18-21) y el grupo de ejercicios de la Unidad 2. Aplique los conceptos y el machote del Ejemplo 2, según se solicite en cada ejercicio. Nuevamente, considere que resolver los ejercicios, con lápiz y papel en su cuaderno, reforzará sus conocimientos, así que realice una aplicación reflexiva y no mecánica de los conceptos.
+
+     Tome buenas fotografías de su tarea y súbalas a su cuenta de GitHub y enlácelas en un archivo Markdown del reporte de su tarea, explicando lo que se ilustra en las fotografías.
+
+   - *Práctica 3.2: II: Decisiones bajo completa incertidumbre*. (Entrega: 11 de septiembre de 2023).
+
+     *Objetivo*: Aplicar los algoritmos de problemas de decisión bajo completa incertidumbre.
+
+     *Parte 1*. Como prerrequisito debe haber realizado las tareas y prácticas previas.
+
+     *Parte 2*· Utilice el machote del código del Ejemplo 2 y resuélvalo en un archivo RMarkdown, embebiendo texto, código R y código LaTex. Demuestre que obtiene los mismos resultados. Llame a su archivo *Ejemplo 1.Rmd* y súbalo a su cuenta de GitHub donde corresponda. Instale los paquetes que requiera desde CRAN y úselos en RStudio. 
+
+     *Parte 3*. Resuelva los ejercicios de la Unidad 2 en un archivo RMarkdown llamado *Ejercicios 2.Rmd* y súbalo a su cuenta de GitHub donde corresponda y haga una copia a su cuenta de [RStudio en la nube](https://posit.cloud/). Asegúrese que puede generar atomáticamente y correctamente la solución para cada ejercicio, generando el reporte en un archivo *html*, a partir del archivo fuente *.Rmd*.
+  
+     Enfóquese en *comprender y aprender el algoritmo*, en aprender a utilizar nombres de variables, tipos de datos y estructuras de datos pertinentes y sus operaciones, en R. 
+
+     Suba sus archivos generados a su cuenta de GitHub y pruébelos en su proyecto en [RStudio.cloud](https://posit.cloud/).
+
+
 
 ### *Bibliografía Obligatoria*:
 - Irizarry, R. A. (2023). Capítulo 24: Procesamiento de cadenas. In *Introducción a la ciencia de datos: Análisis de datos y algoritmos de predicción con R* ([url](https://rafalab.dfci.harvard.edu/dslibro/procesamiento-de-cadenas.html)).
