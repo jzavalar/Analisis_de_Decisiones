@@ -205,28 +205,23 @@ Que al finalizar el curso el alumno sea capaz de:
 
      *Objetivo*: Aprender los conceptos de la toma de decisiones bajo riesgo.
 
-     *Parte 1*. Elabore *en su cuaderno* la síntesis de los conceptos de la Unidad 3 (Rangel, 2012, pp. 25-54), con un *glosario*:
-          1. Criterios para la toma de decisiones sin experimentación
-             1.1. Criterio de Laplace
-             1.2. Criterio de la máxima posibilidad
-3.1.3 Regla de decisión de Bayes (VEM}
-3.1.4 Minimización de la pérdida de oportunidad esperada (POE)
-Grupo de ejercicios 3
-3.2 Valor esperado de la información perfecta (VEIP)
-3.2.1 Método1
-3.2.2 Método 2
-Grupo de ejercicios 4
-3.3 Análisis de sensibilidad
-3.4 Árboles de decisión
-Grupo de ejercicios 5
-3.5 Criterios para la torna de decisiones con experimentación
-3.6 Análisis en la forma extensiva
-Grupo de ejercicios 6
+     *Parte 1*. Elabore *en su cuaderno* la síntesis de los conceptos de la Unidad 3 (Rangel, 2012, pp. 25-54), con un *glosario* de manera progresiva y los ejercicios correspondientes de la Práctica 3.6:
+     - 3.1. Criterios para la toma de decisiones sin experimentación  
+            (a) Criterio de Laplace  
+            (b) Criterio de la máxima posibilidad  
+            (c) Regla de decisión de Bayes (VEM)  
+            (d) Minimización de la pérdida de oportunidad esperada (POE))  
+     - 3.2. Valor esperado de la información perfecta (VEIP):  
+            (a) Método 1  
+            (b) Método 2  
+     - 3.3. Análisis de sensibilidad
+     - 3.4. Árboles de decisión
+     - 3.5. Criterios para la torna de decisiones con experimentación
+     - 3.6. Análisis en la forma extensiva
+  
+     Tome nota de los supuestos de cada criterio. Concéntrese en entender y dominar los términos del lenguaje.
 
-
-  Haga un contraste de las ventajas y desventajas de los cuatro criterios: (1) *maximin de Wald*, (2) *maximax*, (3) *criterio de Hurwitz* (*Índice* $\alpha$) y (4) *pesar minimax* (*criterio de Savage*). Concéntrese en entender y dominar los términos del lenguaje.
-
-     *Parte 2*. Transcriba *en su cuaderno* el Ejemplo 2 (pp. 18-21) y el grupo de ejercicios de la Unidad 2. Aplique los conceptos y el machote del Ejemplo 2, según se solicite en cada ejercicio. Nuevamente, considere que resolver los ejercicios, con lápiz y papel en su cuaderno, reforzará sus conocimientos, así que realice una aplicación reflexiva y no mecánica de los conceptos.
+     *Parte 2*. Transcriba *en su cuaderno* los Ejemplos 3 (pp. 18-21) y el grupo de ejercicios de la Unidad 2. Aplique los conceptos y el machote del Ejemplo 2, según se solicite en cada ejercicio. Nuevamente, considere que resolver los ejercicios, con lápiz y papel en su cuaderno, reforzará sus conocimientos, así que realice una aplicación reflexiva y no mecánica de los conceptos.
 
      Tome buenas fotografías de su tarea y súbalas a su cuenta de GitHub y enlácelas en un archivo Markdown del reporte de su tarea, explicando lo que se ilustra en las fotografías.
 
