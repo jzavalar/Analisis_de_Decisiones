@@ -155,27 +155,42 @@ Que al finalizar el curso el alumno sea capaz de:
    - Otras técnicas
 5. Tareas y Prácticas:
 
-   - *Práctica 3.1: Elaboración de informes con RMarkdown en RStudio*. (Entrega: Fecha por definir).
+   - *Práctica 3.0: Elaboración de informes con RMarkdown en RStudio*. (Entrega: 4 de septiembre de 2023).
 
-      *Objetivo*: Aprender a incrustar código R en archivos RMarkdown en *RStudio*.
+     *Objetivo*: Aprender GitHub y archivos RMarkdown en *RStudio*.
 
-      *Parte 1*. Como prerrequisito debe haber realizado la Práctica 1.2. Extraiga el código del Ejemplo 1 (Rangel, 2012, pp. 13-14) y convierta el código al archivo RMarkdown (*Matricula. Ejercicio 1.Rmd*). Edítelo con la sintaxis de *RMarkdown* y *LaTex* y trabaje el ejemplo incrustando *chunks* de código R para calcular el ejercicio y obtener lo mismos resultados. Enfóquese en comprender el *algoritmo*.
-      
-      Al final, debe obtener el archivo .Rmd base para la generación de los archivos archivo HTML y PDF generados durante la conversión. Debe subir el entregable a su proyecto en [RStudio.cloud](https://posit.cloud/).
+     *Parte 1*. Cree una cuenta en [GitHub](https://github.com/). Aprenda a GitHub en línea ([tutorial](https://www.youtube.com/watch?v=hWglK8nWh60)) y con la aplicación [GitHub Desktop](https://desktop.github.com/) ([tutorial](https://www.youtube.com/watch?v=TuOQBfhp-r0)).
 
-   - *Práctica 3.2: Practica de encuadre de los problemas de decisión*. (Entrega: Fecha por definir).
+     *Parte 2*. Cree un repositorio llamado Analisis_de_Decisiones. En él cree cuatro directorios, uno por unidad, con nombres como *Unidad_x*. En cada Unidad organice sus archivos fuente *.Rmd* con nombres pertinentes para sus tareas (como *Tarea 1.Rmd*) y prácticas (como *Práctica 1.Rmd*) y un directorio *imagenes* con las fotografías de sus tareas que enlazará en sus archivos.  
 
-      *Objetivo*: Practicar el algoritmo de encuadre de problemas de decisión*.
+     *Parte 3*. Copie el texto de la Unidad 1 (Rangel, 2012, pp. 13-14), corríjalo y conviértalo a un archivo RMarkdown (*Unidad 1.Rmd*) usando RStudio. Edítelo correctamente con la sintaxis de *RMarkdown* e incruste código *LaTex* para lo que resulte pertinente.
 
-     *Parte 1*. Como prerrequisito debe haber realizado la Práctica 3.1. Utilice el machote del código del Ejemplo 1 (Rangel, 2012, pp. 13-14) y resuelva los ejercicios de la Unidad 1 en su cuaderno. Luego, compruebe cada uno al calcular el ejercicio usando R y obtener lo mismos resultados. Enfóquese en *aprender el algoritmo*. Llame a su archivo *Matricula. Ejercicios 1.Rmd*. Compruebe que puede generar la solución para cada ejercicio generando el reporte en un archivo HTML, a partir del archivo fuente.
-      
+     *Parte 4*. Extraiga el Ejemplo 1 y aprenda a incrustar *chunks* de código R para calcular el ejercicio y obtener los resultados de su ejecución, embebiendo código *LaTex* para automatizar lo que requiera. Enfóquese en aprender la sintaxis de *Markdown* y *LaTex*.
+
      Al final, debe obtener el archivo *.Rmd* base para la generación de los archivos archivo HTML y PDF generados durante la conversión. Debe subir el entregable a su proyecto en [RStudio.cloud](https://posit.cloud/).
 
-   - *Tarea 3.3: Encuadre de un problema de decisión*. (Entrega: Fecha por definir).
+
+   - *Tarea 3.1: Encuadre de un problema de decisión*. (Entrega: 4 de septiembre de 2023).
 
       *Objetivo*: Aprender los conceptos del encuadre de un problema de decisión.
 
-      *Parte 1*. Elabore en su cuaderno la síntesis de los conceptos de la Unidad 1 con un glosario y u mapa conceptual. Concéntrese en entender y dominar el lenguaje. 
+      *Parte 1*. Elabore en su cuaderno la síntesis de los conceptos de la Unidad 1 Ejemplo 1 (Rangel, 2012, pp. 13-14) con un glosario y un mapa conceptual. Concéntrese en entender y dominar el lenguaje.
+  
+      *Parte 2*. Transcriba en su cuaderno los apuntes del Ejemplo 1. Concéntrese en entender y dominar el algoritmo.
+  
+      Tome buenas fotografías de su tarea y súbalas a su cuenta de GitHub y enlácelas en un archivo Markdown, explicando lo que se ilustra en las fotografías.
+
+
+   - *Práctica 3.2: Practica de encuadre de los problemas de decisión*. (Entrega: 4 de septiembre de 2023).
+
+      *Objetivo*: Practicar el algoritmo de encuadre de problemas de decisión*.
+
+     *Parte 1*. Como prerrequisito debe haber realizado la Práctica 3.1. Utilice el machote del código del Ejemplo 1 (Rangel, 2012, pp. 13-14) y resuelva los ejercicios de la Unidad 1 en su cuaderno. Enfóquese en *comprender y aprender el algoritmo*. Al resolver los ejercicios, con lápiz y papel, en su cuaderno, reforzará sus conocimientos. 
+
+     *Parte 2*. Luego, compruebe cada ejercicio usando R y demuestre que obtiene los mismos resultados. Llame a su archivo *Matricula. Unidad 1. Ejercicios 1.Rmd*. Asegúrese que puede generar correctamente la solución para cada ejercicio, generando el reporte en un archivo *HTML*, a partir del archivo fuente *.Rmd*.
+      
+     Al final, debe obtener el archivo *.Rmd* base para la generación de los archivos archivo HTML y PDF generados durante la conversión. Debe subir el entregable a su proyecto en [RStudio.cloud](https://posit.cloud/).
+
 
 ### *Bibliografía Obligatoria*:
 - Irizarry, R. A. (2023). Capítulo 24: Procesamiento de cadenas. In *Introducción a la ciencia de datos: Análisis de datos y algoritmos de predicción con R* ([url](https://rafalab.dfci.harvard.edu/dslibro/procesamiento-de-cadenas.html)).
