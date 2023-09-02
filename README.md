@@ -236,7 +236,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Tome buenas fotografías de su tarea, súbalas a su cuenta de GitHub y enlácelas en un archivo Markdown del reporte de su tarea, explicando lo que se ilustra en las fotografías.
 
 
-- *Práctica 3.6: III. Decisiones bajo riesgo*. (Entrega: 18 de septiembre de 2023).
+- *Práctica 3.6: III. Decisiones bajo riesgo*. (Entrega: 25 de septiembre de 2023).
 
   *Objetivo*: Aprender los conceptos de la toma de decisiones bajo riesgo usando R.
 
