@@ -308,16 +308,16 @@ La asistencia puntual a la clase es obligatoria según el reglamento de estudios
 #### Calificación
 | Factor | Porcentaje | Observaciones |
 | --- | :---: | ------------- |
-| Tareas|40% |Se entrega en la fecha programada |
-| Prácticas| 30% |Se entregan  en la fecha programada |
-| Exámenes| 30% | Primero (a), Segundo (b)|
+| Tareas|40% | Fecha límite: 18 de octubre de 2023, 18:00 hr |
+| Prácticas| 30% | Fecha límite: 18 de octubre de 2023, 18:00 hr |
+| Exámenes| 30% | Fecha: 18 de octubre de 2023, 18:00 hr|
 | Total | 100% | |
 
 **Notas:
   - **a).** Primer examen: *Teórico* y *Práctico*: Fecha: por definir. 
   - **b).** Segundo examen: *Teórico - Práctico*: Fecha: por definir. 
   - **Evaluación Global:** Quienes no hayan aprobado los exámenes tendrán oportunidad de aplicar una evaluación global teórico-práctica de todo el curso (Teoría y Práctica). La misma oportunidad es para quienes tengan baja calificación o deseen subir. 
-  - **Entrega de calificaciones:** Fecha por definir.
+  - **Entrega de calificaciones:** Lunes 23 de octubre de 2023.
 
 ### Evaluación de Recuperación
 La *evaluación de recuperación* no será aplidada por el profesor, sino por la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente. Por lo que deberá coordinarse con el Coordinador de la Licenciatura.
