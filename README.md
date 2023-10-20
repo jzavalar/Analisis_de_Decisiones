@@ -40,6 +40,17 @@ Considere el [programa oficial vigente de la UEA Análisis de Decisiones](http:/
 
 [Calendario UAM vigente](http://www.uam.mx/calendario/index.html).  
 
+**Notas:**
+[^1]: Jaiswal, N. K. (1997). *Military operations research: Quantitative decision making*. New York: Springer Science+Business Media.
+[^2]: Gass, S. I. y Fu, M. C. (2013). Preface. *In* Saul I. Gass y Michael C. Fu (Eds.). *Encyclopedia of operations research and management science*. New York, Heidelberg, Dordrecht, London: Springer
+[^3]: Hitch, C. (1955). An appreciation of systems analysis. *Journal of the Operations Research Society of America, 3*(4), 466-481.
+[^4]: Simon, H. A. (1955). A behavioral model of rational choice. *The Quarterly Journal of Economics, 69*(1) (Feb), 99-118.
+[^5]: Beer, S. (1967). *Management science: The business use of operations research*. Doubleday
+[^6]: Witzel, M. (2012). *A History of Management Thought*. London: Routledge.
+[^7]: Buchanan, L y O'Connell, A. (2006). A brief history of decision making. *Harvard Business Review, 84*(1), 32-41, 132.
+[^8]: Chen, N. C., Shauver, M. J., & Chung, K. C. (2009). A primer on use of decision analysis methodology in hand surgery. *The Journal of Hand Surgery, 34*(6), 983-990.
+[^9]: Call, H. J., y Miller, W. A. (1990). A comparison of approaches and implementations for automating decision analysis. *Reliability Engineering & System Safety, 30*(1-3), 115-162.
+
 
 ### Objetivos  
 
@@ -322,13 +333,3 @@ La asistencia puntual a la clase es obligatoria según el reglamento de estudios
 ### Evaluación de Recuperación
 La *evaluación de recuperación* no será aplidada por el profesor, sino por la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente. Por lo que deberá coordinarse con el Coordinador de la Licenciatura.
 
-**Notas:**
-[^1]: Jaiswal, N. K. (1997). *Military operations research: Quantitative decision making*. New York: Springer Science+Business Media.
-[^2]: Gass, S. I. y Fu, M. C. (2013). Preface. *In* Saul I. Gass y Michael C. Fu (Eds.). *Encyclopedia of operations research and management science*. New York, Heidelberg, Dordrecht, London: Springer
-[^3]: Hitch, C. (1955). An appreciation of systems analysis. *Journal of the Operations Research Society of America, 3*(4), 466-481.
-[^4]: Simon, H. A. (1955). A behavioral model of rational choice. *The Quarterly Journal of Economics, 69*(1) (Feb), 99-118.
-[^5]: Beer, S. (1967). *Management science: The business use of operations research*. Doubleday
-[^6]: Witzel, M. (2012). *A History of Management Thought*. London: Routledge.
-[^7]: Buchanan, L y O'Connell, A. (2006). A brief history of decision making. *Harvard Business Review, 84*(1), 32-41, 132.
-[^8]: Chen, N. C., Shauver, M. J., & Chung, K. C. (2009). A primer on use of decision analysis methodology in hand surgery. *The Journal of Hand Surgery, 34*(6), 983-990.
-[^9]: Call, H. J., y Miller, W. A. (1990). A comparison of approaches and implementations for automating decision analysis. *Reliability Engineering & System Safety, 30*(1-3), 115-162.
