@@ -1,4 +1,4 @@
-<img src="https://github.com/jzavalar/2211088-informatica/blob/main/images/conjunto-baseIzt.png" alt="UAM Iztapalapa" width="60%"/>
+<img src="https://github.com/jzavalar/informatica/blob/main/images/conjunto-baseIzt.png" alt="UAM Iztapalapa" width="60%"/>
 
 ## Programa Analítico de la UEA Análisis de Decisiones (Teoría y Práctica)
 ## Licenciatura en Administración
@@ -15,7 +15,7 @@
 
 **Contacte al profesor**:
 - Correo electrónico: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx)
-- Telegram: <img src="https://github.com/jzavalar/2211088-informatica/blob/main/images/telegram_logo.svg" alt="Telegram" width="3%"/> [@jzavalar](https://telegram.me/jzavalar)
+- Telegram: <img src="https://github.com/jzavalar/informatica/blob/main/images/telegram_logo.svg" alt="Telegram" width="3%"/> [@jzavalar](https://telegram.me/jzavalar)
 
 
 ### Introducción
@@ -39,17 +39,6 @@ La UEA *Análisis de Decisiones* se enfoca en desarrollar las habilidades de *pe
 Considere el [programa oficial vigente de la UEA Análisis de Decisiones](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211092pe.pdf) y el [programa oficial vigente de Estadística I](http://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2132044pe.pdf), la UEA prerrequisito.   
 
 [Calendario UAM vigente](http://www.uam.mx/calendario/index.html).  
-
-**Notas:**
-[^1]: Jaiswal, N. K. (1997). *Military operations research: Quantitative decision making*. New York: Springer Science+Business Media.
-[^2]: Gass, S. I. y Fu, M. C. (2013). Preface. *In* Saul I. Gass y Michael C. Fu (Eds.). *Encyclopedia of operations research and management science*. New York, Heidelberg, Dordrecht, London: Springer
-[^3]: Hitch, C. (1955). An appreciation of systems analysis. *Journal of the Operations Research Society of America, 3*(4), 466-481.
-[^4]: Simon, H. A. (1955). A behavioral model of rational choice. *The Quarterly Journal of Economics, 69*(1) (Feb), 99-118.
-[^5]: Beer, S. (1967). *Management science: The business use of operations research*. Doubleday
-[^6]: Witzel, M. (2012). *A History of Management Thought*. London: Routledge.
-[^7]: Buchanan, L y O'Connell, A. (2006). A brief history of decision making. *Harvard Business Review, 84*(1), 32-41, 132.
-[^8]: Chen, N. C., Shauver, M. J., & Chung, K. C. (2009). A primer on use of decision analysis methodology in hand surgery. *The Journal of Hand Surgery, 34*(6), 983-990.
-[^9]: Call, H. J., y Miller, W. A. (1990). A comparison of approaches and implementations for automating decision analysis. *Reliability Engineering & System Safety, 30*(1-3), 115-162.
 
 
 ### Objetivos  
@@ -177,7 +166,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
   *Parte 1*. Como prerrequisito debe haber realizado las tareas y prácticas previas.
 
-  *Parte 2*· Utilice el machote del código del Ejemplo 1 (Rangel, 2012, pp. 13-14) y resuélvalo en un archivo RMarkdown, embebiendo texto, código R y código LaTex. Demuestre que obtiene los mismos resultados. Llame a su archivo *Ejemplo 1.Rmd* y súbalo a su cuenta de GitHub donde corresponda. Instale los paquetes que requiera desde CRAN y úselos en RStudio. 
+  *Parte 2*· Utilice el machote del código del Ejemplo 1 ([Rangel, 2012](https://library.bz/uploads/main/2e0058c96a3774d8a8d050470bebb977.pdf), pp. 13-14) y resuélvalo en un archivo RMarkdown, embebiendo texto, código R y código LaTex. Demuestre que obtiene los mismos resultados. Llame a su archivo *Ejemplo 1.Rmd* y súbalo a su cuenta de GitHub donde corresponda. Instale los paquetes que requiera desde CRAN y úselos en RStudio. 
 
   *Parte 3*. Resuelva los ejercicios de la Unidad 1 en un archivo RMarkdown llamado *Ejercicios 1.Rmd* y súbalo a su cuenta de GitHub donde corresponda y haga una copia a su cuenta de [RStudio en la nube](https://posit.cloud/). Asegúrese que puede generar atomáticamente y correctamente la solución para cada ejercicio, generando el reporte en un archivo *html*, a partir del archivo fuente *.Rmd*.
   
@@ -269,6 +258,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
 
 ### *Bibliografía Obligatoria*:
+- Rangel Nafaile, L. M. (2012). Guía de estudio de la asignatura Análisis de Decisiones, México, D.F.: Universidad Nacional Autónoma de México, ([pdf](https://library.bz/uploads/main/2e0058c96a3774d8a8d050470bebb977.pdf)). 
 - Irizarry, R. A. (2023). Capítulo 24: Procesamiento de cadenas. In *Introducción a la ciencia de datos: Análisis de datos y algoritmos de predicción con R* ([url](https://rafalab.dfci.harvard.edu/dslibro/procesamiento-de-cadenas.html)).
 - Anonymous (2017, Nov 23). [How to use LaTeX code in R chunk in R-Markdown?](https://stackoverflow.com/questions/47463861/how-to-use-latex-code-in-r-chunk-in-r-markdown).
 - Wickham, H. (). [22 Debugging](https://adv-r.hadley.nz/debugging.html). In *Advanced R*. Chapman & Hall’s. ([traducción](https://adv--r-hadley-nz.translate.goog/debugging.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp) ([pdf]())
@@ -331,5 +321,37 @@ La asistencia puntual a la clase es obligatoria según el reglamento de estudios
   - **Entrega de calificaciones:** Lunes 23 de octubre de 2023.
 
 ### Evaluación de Recuperación
-La *evaluación de recuperación* no será aplidada por el profesor, sino por la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente. Por lo que deberá coordinarse con el Coordinador de la Licenciatura.
+
+La *evaluación de recuperación* será aplidada por el profesor, bajo los lineamientos de la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente, por lo que deberá ponerse en contacto con el Coordinador ([correo electrónico](mailto:coordinacion.uam.admon@gmail.com)) y/o con el profesor:
+- **Correo electrónico:** [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx), **Telegram:** <img src="https://github.com/jzavalar/Informatica/blob/main/images/telegram_logo.svg" alt="Telegram" width="3%"/> [jzavalar.t.me](https://jzavalar.t.me)
+
+La evaluación de recuperación consistirá en la presentación de un examen de opción múltiple, a través de la plataforma [Virtuami](http://virtuami.izt.uam.mx/aulas/avmacca/login/index.php), que pretende cubrir los objetivos y el contenido del [programa oficial](https://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf), por ello, el temario de la evaluación es el siguiente:
+l. Introducción.
+2. Metodología del proceso de deci~ión.
+3. Relación información - proceso de decisión.
+4. Tipología de los problemas de decisión.
+5. Estructuración de un problema de decisión.
+6. Modelos de decisión.
+     a. Modelo de norma mínima
+     b. Modelo de scoring
+     c. Árboles de decisión
+     d. Matriz de pagos.
+
+El programa oficial indica que la Evaluación de Recuperación *"incluirá una **evaluación escrita** que podrá ser- **global** o complementaria con base en los contenidos del programa y **un trabajo** que deberá entregarse en la fecha señalada en el calendario de evaluaciones de recuperación aprobado por
+el Consejo Académico". Por lo anterior, **se solicita que el alumno presente la transcripción** de los **conceptos** y los **ejemplos** y  los **ejercicios** resueltos de las primeras tres unidades de la siguiente obra:
+
+     - Rangel Nafaile, L. M. (2012). *Guía de estudio de la asignatura Análisis de Decisiones*, México, D.F.: Universidad Nacional Autónoma de México, ([pdf](https://library.bz/uploads/main/2e0058c96a3774d8a8d050470bebb977.pdf)).
+
+Compleméntese con lo que considere conveniente de la bibliografía incluida en este programa.
+
+**Notas:**
+[^1]: Jaiswal, N. K. (1997). *Military operations research: Quantitative decision making*. New York: Springer Science+Business Media.
+[^2]: Gass, S. I. y Fu, M. C. (2013). Preface. *In* Saul I. Gass y Michael C. Fu (Eds.). *Encyclopedia of operations research and management science*. New York, Heidelberg, Dordrecht, London: Springer
+[^3]: Hitch, C. (1955). An appreciation of systems analysis. *Journal of the Operations Research Society of America, 3*(4), 466-481.
+[^4]: Simon, H. A. (1955). A behavioral model of rational choice. *The Quarterly Journal of Economics, 69*(1) (Feb), 99-118.
+[^5]: Beer, S. (1967). *Management science: The business use of operations research*. Doubleday
+[^6]: Witzel, M. (2012). *A History of Management Thought*. London: Routledge.
+[^7]: Buchanan, L y O'Connell, A. (2006). A brief history of decision making. *Harvard Business Review, 84*(1), 32-41, 132.
+[^8]: Chen, N. C., Shauver, M. J., & Chung, K. C. (2009). A primer on use of decision analysis methodology in hand surgery. *The Journal of Hand Surgery, 34*(6), 983-990.
+[^9]: Call, H. J., y Miller, W. A. (1990). A comparison of approaches and implementations for automating decision analysis. *Reliability Engineering & System Safety, 30*(1-3), 115-162.
 
