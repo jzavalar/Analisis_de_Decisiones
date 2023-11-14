@@ -7,7 +7,7 @@
 
 **Horario:** *Lunes y miércoles* de *18:00 a 20:00*.
 
-**Salón:** Edificio H-214.
+**Salón:** Edificio H-214-B.
 
 **Asesorías:**  *Martes* de *20:00* a *22:00 hr*, vía [Telegram](https://telegram.org/apps), previa solicitud.
 
@@ -59,27 +59,17 @@ Que al finalizar el curso el alumno sea capaz de:
 
 #### Unidad 0. Prerrequisitos
 1. Prácticas:
-   - *Práctica 0.1: Bases de trabajo colaborativo con Google Drive* (Demostrativa online).
+   - *Práctica 0.1: Activación de software* ().
    
       *Objetivo*: Aprender las operaciones con archivos y directorios en Google Drive, como un ejemplo de plataformas de cómputo en la nube.  
       
-      Construya la estructura de directorios en [Google Drive](https://drive.google.com/drive/my-drive) para la Tareas, Prácticas y Exámenes, de acuerdo a un sistema de organización de archivos ([guía](https://www.youtube.com/watch?v=duNwB8xt2_w)). ([tutorial](https://www.youtube.com/watch?v=I3jii6ltINY&frags=pl%2Cwn)).
+      *Parte 1*. Construya la estructura de directorios en [Google Drive](https://drive.google.com/drive/my-drive) para la Tareas, Prácticas y Exámenes, de acuerdo a un sistema de organización de archivos ([guía](https://www.youtube.com/watch?v=duNwB8xt2_w)). ([tutorial](https://www.youtube.com/watch?v=I3jii6ltINY&frags=pl%2Cwn)).
 
-    - *Práctica 0.2: Instalación de software para grabación de audio y video* (Demostrativa online).
+      *Parte 2*. Active su cuenta de [Office 365 Pro Plus](http://www.uam.mx/o365/) (software de oficina).
    
-      *Objetivo*: Aprender a descargar e instalar un software para grabar video y una para audio y aprender a buscar tutoriales en YouTube para utilizarlo.
-   
-      *Parte 0*. Si no tiene permitido instalar software en su computadora, instale VirtualBox e instale una máquina virtual de Windows (con un periodo de prueba de 90 días) o Fedora Linux Workstation; la que usted considere pertinente; o mejor: instale Fedora Linux junto a Windows y cree un sistema de doble arranque.
+      *Parte 3*. Si tiene computadora en casa, descargue en instale el siguiente software: [*7-zip*](https://www.7-zip.org/download.html) (compresor/descompresor), [*OnlyOffice*](https://www.onlyoffice.com/) (suite de oficina), [*R*](https://www.r-project.org/) (estadística) y [*RStudio*](https://posit.co/) (estadística).
 
-      *Parte 1*. Instale [vokoScreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen-download.html) o instale la aplicación de su preferencia.
-          - Primero instale los prerrequisitos (vea [aquí](https://github.com/vkohaupt/vokoscreenNG): [codec pack](https://www.windows10codecpack.com/) y [GStreamer](https://gstreamer.freedesktop.org/pkg/windows/1.14.4/gstreamer-1.0-x86-1.14.4.msi); alternativamente, puede usar estos [codecs](https://codecguide.com/download_kl.htm)).
-          - Alternativamente, puede usar [Open Broadcaster Software (OBS Studio)](https://obsproject.com/es)) (grabación, edición y transmisión de video) ([tutorial](https://www.youtube.com/watch?v=qLuSrSiC9Xc)), si los recursos de su computadora lo permiten.  
-   
-      *Parte 2*. Grabe su pantalla y capture la toma de la cámara y hable sobre las expectativas que tiene del curso usando el software (ver [tutorial](https://www.youtube.com/watch?v=mh5qV2iAiVs)). Puede agregar algún fondo musical. Busque en YouTube los tutoriales que le sirvan para completar la práctica con éxito.
-
-      *Parte 3*. Active su cuenta de [Office 365 Pro Plus](http://www.uam.mx/o365/) (software de oficina) e instale su copia de [Office Pro](http://www.uam.mx/ti/soft/microsoft.html) (software de oficina).
-   
-      *Parte 4*. Si tiene computadora en casa, descargue en instale el siguiente software: [*7-zip*](https://www.7-zip.org/download.html) (compresor/descompresor), [*LibreOffice*](https://www.libreoffice.org/) (suite de oficina), [*R*](https://www.r-project.org/) (estadística) y [*RStudio*](https://posit.co/) (estadística).
+      *Parte 4*. Cree su cuenta en [RStudio cloud](https://posit.cloud/) que le permitirá ejecutar código fuente de R en la nube, hacer las modificaciones que requiera y usarlo para sus propias necesidades.
    
       *Parte 5*. Para la práctica en el salón, descargue e instale [*PortableApps*](https://portableapps.com/) ([tutorial 1](https://www.youtube.com/watch?v=Ux_3p4lDmTg), [tutorial 2](https://www.youtube.com/watch?v=Ux_3p4lDmTg)) en su USB vacía. Tome en cuenta que debe desactivar el antivirus para realizar la práctica y usar *PortableApps*. [guía](https://www.youtube.com/watch?v=HDEhLpS7UwM)). Luego, descargue e instale el siguiente software portable en una USB: *LibreOffice* (suite de oficina) ([portable](https://portableapps.com/apps/office/libreoffice_portable)), *7-zip* (compresor/descompresor) ([portable](https://portableapps.com/apps/utilities/7-zip_portable)), [*R Portable*](https://sourceforge.net/projects/rportable/files/R-Portable/)) (estadística) y [*RStudio Portable*](https://sourceforge.net/projects/rportable/files/R-Studio/) (estadística).
 
@@ -94,29 +84,23 @@ Que al finalizar el curso el alumno sea capaz de:
 2. Presentación del programa
 3. Evaluación Global y de Recuperación
 4. Prácticas:  
-    - *Práctica 1.1: Preparación de RStudio Cloud*.  
-  
-      *Objetivo*: Aprender a preparar el entorno de *RStudio Cloud* para generar un libro *RMarkdown*.  
-  
-      Cree su cuenta en [RStudio cloud](https://posit.cloud/) que le permitirá ejecutar código fuente de R en la nube, hacer las modificaciones que requiera y usarlo para sus propias necesidades.  
- 
-   - *Práctica 1.2: Elaboración de informes con RMarkdown en RStudio*. (Entrega: 4 de septiembre de 2023).
+    - *Práctica 1.1: Elaboración de informes con RMarkdown en RStudio*. (Entrega: de 2023).
 
-     *Objetivo*: Aprender GitHub y archivos RMarkdown en *RStudio*.
+     *Objetivo*: Aprender a crear y editar archivos RMarkdown en *RStudio*.
 
-     *Parte 1*. Cree una cuenta en [GitHub](https://github.com/). Aprenda a GitHub en línea ([tutorial](https://www.youtube.com/watch?v=hWglK8nWh60)) y con la aplicación [GitHub Desktop](https://desktop.github.com/) ([tutorial](https://www.youtube.com/watch?v=TuOQBfhp-r0)).
+     *Parte 1*. Utilice el [Curso R para análisis de datos](https://bookdown.org/ddiannae/curso-rdata/) (García, 2022.) (en esa URL está disponible el archivo pdf) para estudiar R. Copie el texto a un archivo *.Rmd*. Utilícelo para consulta y reprodúzcalo, según lo necesite.
 
-     *Parte 2*. Cree un repositorio llamado Analisis_de_Decisiones. En él cree cuatro directorios, uno por unidad, con nombres como *Unidad_x*. En cada Unidad organice sus archivos fuente *.Rmd* con nombres pertinentes para sus tareas (como *Tarea 1.Rmd*) y prácticas (como *Práctica 1.Rmd*) y un directorio *imagenes* con las fotografías de sus tareas que enlazará en sus archivos.  
+     Aprenda a incrustar *chunks* de código R para calcular el ejercicio y obtener los resultados de su ejecución, embebiendo código *LaTex* para automatizar lo que requiera ([tip](https://stackoverflow.com/questions/47463861/how-to-use-latex-code-in-r-chunk-in-r-markdown)). Enfóquese en aprender la sintaxis de *Markdown* y *LaTex*. Dibuje las fórmulas matemáticas con un editor en línea como [HostMath](https://www.hostmath.com/) o el bot [InLaTeXbot](https://t.me/inlatexbot) en Telegram. Aprenda a corregir los errores en sus archivos RMarkdown (*.Rmd*) y aprenda el funcionamiento de las herramientas para en generar los archivos *.html*, con el paquete [*knitr*](https://www.r-project.org/nosvn/pandoc/knitr.html), en RStudio, de manera local y en la nube [RStudio.cloud](https://posit.cloud/).
 
-     *Parte 3*. Copie el texto de la Unidad 1 (Rangel, 2012, pp. 11-16), corríjalo y conviértalo a un archivo RMarkdown (*Unidad 1.Rmd*) usando RStudio. Edítelo correctamente con la sintaxis de *RMarkdown* e incruste código *LaTex* para lo que resulte pertinente.
+     *Parte 2*. Copie el texto de la Unidad 1 (Rangel, 2012, pp. 11-16), corríjalo y conviértalo a un archivo RMarkdown (*Unidad 1.Rmd*) usando RStudio. Edítelo correctamente con la sintaxis de *RMarkdown* e incruste código *LaTex* para lo que resulte pertinente.
 
-     *Parte 4*. Extraiga el Ejemplo 1 y aprenda a incrustar *chunks* de código R para calcular el ejercicio y obtener los resultados de su ejecución, embebiendo código *LaTex* para automatizar lo que requiera ([tip](https://stackoverflow.com/questions/47463861/how-to-use-latex-code-in-r-chunk-in-r-markdown)). Enfóquese en aprender la sintaxis de *Markdown* y *LaTex*. Dibuje las fórmulas matemáticas con un editor en línea como [HostMath](https://www.hostmath.com/). Aprenda a corregir los errores en sus archivos RMarkdown (*.Rmd*) y aprenda el funcionamiento de las herramientas para en generar los archivos *.html*, con el paquete *knitr*, en RStudio, de manera local y en la nube [RStudio.cloud](https://posit.cloud/).
+     *Parte 3*. Extraiga el Ejemplo 1 (Rangel, 2012) y resuélvalo con R. 
 
-      Al final, debe obtener el archivo .Rmd base para la generación de los archivos archivo HTML y PDF generados durante la conversión. Debe subir el entregable a su proyecto en [RStudio.cloud](https://posit.cloud/).
+     Al final, debe obtener el archivo .Rmd base para la generación de los archivos archivo HTML y PDF generados durante la conversión. Debe subir el entregable a su proyecto en [RStudio.cloud](https://posit.cloud/).
 
       
 ##### *Bibliografía Obligatoria:*   
-- Rangel N., L. M. (2012). *Guía de estudio de la asignatura Análisis de Decisiones*. Facultad de Estudios Superiores Acatlán, UNAM.   
+- Rangel N., L. M. (2012). [*Guía de estudio de la asignatura Análisis de Decisiones*](https://libgen.rs/book/index.php?md5=2E0058C96A3774D8A8D050470BEBB977). México, D.F.: Facultad de Estudios Superiores Acatlán, UNAM.   
       
 ##### *Bibliografía Complementaria:*   
 - Boccardo Bosoni y Ruiz Bruzzone. (2019). [Introducción al uso de RMarkdown para la compilación de resultados de RStudio en diferentes formatos](https://bookdown.org/gboccardo/manual-ED-UCH/introduccion-al-uso-de-rmarkdown-para-la-compilacion-de-resultados-de-rstudio-en-diferentes-formatos.html).
@@ -154,11 +138,9 @@ Que al finalizar el curso el alumno sea capaz de:
 
   *Objetivo*: Aprender los conceptos del encuadre de un problema de decisión.
 
-  *Parte 1*. Elabore *en su cuaderno* la síntesis de los conceptos de la Unidad 1 (Rangel, 2012, pp. 11-16) con un *glosario* y un *mapa conceptual*, por ejemplo, con [CmapTools](https://cmap.ihmc.us/) ([pdf](https://cmap.ihmc.us/publications/researchpapers/conceptmapsintegratingknowinfvisual.pdf)). Concéntrese en entender y dominar los términos del lenguaje.
+  *Parte 1*. Transcriba *en su cuaderno* el Ejemplo 1 y el grupo de ejercicios de la Unidad 1. Aplique los conceptos y el machote del Ejemplo 1, según se solicite en cada ejercicio. Resolver los ejercicios, con lápiz y papel, en su cuaderno, reforzará sus conocimientos, así que realice una aplicación reflexiva y no mecánica de los conceptos. Socialice sus conocimientos y dudas con sus compañeros a través del grupo de Telegram. Haga equipo con uno o dos compañeros del grupo.
 
-  *Parte 2*. Transcriba *en su cuaderno* el Ejemplo 1 y el grupo de ejercicios de la Unidad 1. Aplique los conceptos y el machote del Ejemplo 1, según se solicite en cada ejercicio. Resolver los ejercicios, con lápiz y papel, en su cuaderno, reforzará sus conocimientos, así que realice una aplicación reflexiva y no mecánica de los conceptos. Socialice sus conocimientos y dudas con sus compañeros a través del grupo de Telegram. Haga equipo con uno o dos compañeros del grupo.
-
-  Tome buenas fotografías de su tarea y súbalas a su cuenta de GitHub y enlácelas en un archivo Markdown del reporte de su tarea, explicando lo que se ilustra en las fotografías.
+  Tome buenas fotografías de su tarea y súbalas a su cuenta de Google Drive.
 
 - *Práctica 3.2: I. Introducción: Encuadre de los problemas de decisión*. (Entrega: 4 de septiembre de 2023).
 
@@ -166,7 +148,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
   *Parte 1*. Como prerrequisito debe haber realizado las tareas y prácticas previas.
 
-  *Parte 2*· Utilice el machote del código del Ejemplo 1 ([Rangel, 2012](https://library.bz/uploads/main/2e0058c96a3774d8a8d050470bebb977.pdf), pp. 13-14) y resuélvalo en un archivo RMarkdown, embebiendo texto, código R y código LaTex. Demuestre que obtiene los mismos resultados. Llame a su archivo *Ejemplo 1.Rmd* y súbalo a su cuenta de GitHub donde corresponda. Instale los paquetes que requiera desde CRAN y úselos en RStudio. 
+  *Parte 2*· Utilice el machote del código del Ejemplo 1 (Rangel, 2012, pp. 13-14) y resuélvalo en un archivo RMarkdown, embebiendo texto, código R y código LaTex. Demuestre que obtiene los mismos resultados. Llame a su archivo *Ejemplo 1.Rmd* y súbalo a su cuenta de GitHub donde corresponda. Instale los paquetes que requiera desde CRAN y úselos en RStudio. 
 
   *Parte 3*. Resuelva los ejercicios de la Unidad 1 en un archivo RMarkdown llamado *Ejercicios 1.Rmd* y súbalo a su cuenta de GitHub donde corresponda y haga una copia a su cuenta de [RStudio en la nube](https://posit.cloud/). Asegúrese que puede generar atomáticamente y correctamente la solución para cada ejercicio, generando el reporte en un archivo *html*, a partir del archivo fuente *.Rmd*.
   
