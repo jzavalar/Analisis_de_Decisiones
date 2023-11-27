@@ -291,9 +291,9 @@ La asistencia puntual a la clase es obligatoria según el reglamento de estudios
 #### Calificación
 | Factor | Porcentaje | Observaciones |
 | --- | :---: | ------------- |
-| Tareas|40% | Fecha límite: 18 de octubre de 2023, 18:00 hr |
-| Prácticas| 30% | Fecha límite: 18 de octubre de 2023, 18:00 hr |
-| Exámenes| 30% | Fecha: 18 de octubre de 2023, 18:00 hr|
+| Tareas|15% | Fecha límite: A más tardar el día en que se vea el tema en clase |
+| Prácticas| 15% | Fecha límite: A más tardar el día en que se vea el tema en clase |
+| Exámenes| 70% | Fecha: Por definir |
 | Total | 100% | |
 
 **Notas:
