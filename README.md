@@ -291,9 +291,9 @@ La asistencia puntual a la clase es obligatoria según el reglamento de estudios
 #### Calificación
 | Factor | Porcentaje | Observaciones |
 | --- | :---: | ------------- |
-| Tareas|15% | Fecha límite: A más tardar el día en que se vea el tema en clase |
-| Prácticas| 15% | Fecha límite: A más tardar el día en que se vea el tema en clase |
-| Exámenes| 70% | Fecha: Por definir |
+| Tareas|20% | Fecha límite: A más tardar el día en que se vea el tema en clase |
+| Prácticas| 20% | Fecha límite: A más tardar el día en que se vea el tema en clase |
+| Exámenes| 60% | Fecha: Por definir |
 | Total | 100% | |
 
 **Notas:
