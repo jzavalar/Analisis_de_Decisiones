@@ -159,7 +159,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Suba sus archivos a su proyecto en [RStudio.cloud](https://posit.cloud/).
 
 
-- *Tarea 3.3: II. Decisiones bajo completa incertidumbre*. (Entrega: 11 de septiembre de 2023).
+- *Tarea 3.3: II. Decisiones bajo completa incertidumbre*. (Entrega: Por definir).
 
   *Objetivo*: Aprender los conceptos de la toma de decisiones bajo completa incertidumbre.
 
@@ -170,7 +170,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Tome buenas fotografías de su tarea y súbalas a su cuenta de GitHub y enlácelas en un archivo Markdown del reporte de su tarea, explicando lo que se ilustra en las fotografías.
 
 
-- *Práctica 3.4: II: Decisiones bajo completa incertidumbre*. (Entrega: 11 de septiembre de 2023).
+- *Práctica 3.4: II: Decisiones bajo completa incertidumbre*. (Entrega: Por definir).
 
   *Objetivo*: Aprender y practicar los algoritmos de problemas de decisión bajo completa incertidumbre usando R.
 
@@ -185,7 +185,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Suba sus archivos generados a su cuenta de GitHub y pruébelos en su proyecto en [RStudio.cloud](https://posit.cloud/).
 
 
-- *Tarea 3.5: III. Decisiones bajo riesgo*. (Entrega: 18 de septiembre de 2023).
+- *Tarea 3.5: III. Decisiones bajo riesgo*. (Entrega: Por definir).
 
   *Objetivo*: Aprender los conceptos de la toma de decisiones bajo riesgo.
 
@@ -215,10 +215,10 @@ Que al finalizar el curso el alumno sea capaz de:
 
   *Parte 8*. Ejemplo 6 y Grupo de ejercicios 6
 
-  Tome buenas fotografías de su tarea, súbalas a su cuenta de GitHub y enlácelas en un archivo Markdown del reporte de su tarea, explicando lo que se ilustra en las fotografías.
+  Tome buenas fotografías de su tarea, súbalas a Telegram y enlácelas en un archivo Markdown del reporte de su tarea, explicando lo que se ilustra en las fotografías.
 
 
-- *Práctica 3.6: III. Decisiones bajo riesgo*. (Entrega: 25 de septiembre de 2023).
+- *Práctica 3.6: III. Decisiones bajo riesgo*. (Entrega: Por definir).
 
   *Objetivo*: Aprender los conceptos de la toma de decisiones bajo riesgo usando R.
 
