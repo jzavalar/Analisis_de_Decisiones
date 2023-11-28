@@ -150,7 +150,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
   *Parte 2*· Utilice el machote del código del Ejemplo 1 (Rangel, 2012, pp. 13-14) y resuélvalo en un archivo RMarkdown, embebiendo texto, código R y código LaTex. Demuestre que obtiene los mismos resultados. Llame a su archivo *Ejemplo 1.Rmd* y súbalo a su cuenta de GitHub donde corresponda. Instale los paquetes que requiera desde CRAN y úselos en RStudio. 
 
-  *Parte 3*. Resuelva los ejercicios de la Unidad 1 en un archivo RMarkdown llamado *Ejercicios 1.Rmd* y súbalo a su cuenta de GitHub donde corresponda y haga una copia a su cuenta de [RStudio en la nube](https://posit.cloud/). Asegúrese que puede generar atomáticamente y correctamente la solución para cada ejercicio, generando el reporte en un archivo *html*, a partir del archivo fuente *.Rmd*.
+  *Parte 3*. Resuelva los ejercicios de la Unidad 1 en un archivo RMarkdown llamado *Ejercicios 1.Rmd* y súbalo a su cuenta de [RStudio en la nube](https://posit.cloud/). Asegúrese que puede generar atomáticamente y correctamente la solución para cada ejercicio, generando el reporte en un archivo *html*, a partir del archivo fuente *.Rmd*.
   
   Enfóquese en *comprender y aprender el algoritmo*, en aprender a utilizar nombres de variables, tipos de datos y estructuras de datos pertinentes y sus operaciones, en R. Aprenda a depurar y corregir los errores de compilación ([*Debugging*](https://adv--r-hadley-nz.translate.goog/debugging.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)) de R.
 
