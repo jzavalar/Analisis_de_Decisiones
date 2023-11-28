@@ -140,7 +140,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
   *Parte 1*. Transcriba *en su cuaderno* el Ejemplo 1 y el grupo de ejercicios de la Unidad 1. Aplique los conceptos y el machote del Ejemplo 1, según se solicite en cada ejercicio. Resolver los ejercicios, con lápiz y papel, en su cuaderno, reforzará sus conocimientos, así que realice una aplicación reflexiva y no mecánica de los conceptos. Socialice sus conocimientos y dudas con sus compañeros a través del grupo de Telegram. Haga equipo con uno o dos compañeros del grupo.
 
-  Tome buenas fotografías de su tarea y súbalas a su cuenta de Google Drive.
+  Tome buenas fotografías de su tarea y súbalas al grupo de Telegram, antes de la clase, en la fecha programada.
 
 - *Práctica 3.2: I. Introducción: Encuadre de los problemas de decisión*. (Entrega: 4 de diciembre de 2023).
 
@@ -156,7 +156,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
   Si quiere aprender más, consulte los [recursos de aprendizaje gratuitos](https://hadley.nz/) del creador de RStudio, el profesor Hadley Wickham o revise la mayor complicación de recursos de aprendizaje de R: [Big book of R](https://www.bigbookofr.com/). (Sitio web) (La compilación más grande de libros y fuentes documentales sobre R). Si se tien más cómodo, use el [traductor de Google](https://translate.google.com/) y lea en su propio idioma.
 
-  Suba sus archivos generados a su cuenta de GitHub y pruébelos en su proyecto en [RStudio.cloud](https://posit.cloud/).
+  Suba sus archivos a su proyecto en [RStudio.cloud](https://posit.cloud/).
 
 
 - *Tarea 3.3: II. Decisiones bajo completa incertidumbre*. (Entrega: 11 de septiembre de 2023).
