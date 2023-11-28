@@ -134,7 +134,7 @@ Que al finalizar el curso el alumno sea capaz de:
    - Modelo de norma mínima
    - Otras técnicas
 5. Tareas y Prácticas:
-- *Tarea 3.1: I. Introducción: Encuadre de un problema de decisión*. (Entrega: 4 de septiembre de 2023).
+- *Tarea 3.1: I. Introducción: Encuadre de un problema de decisión*. (Entrega: 4 de diciembre de 2023).
 
   *Objetivo*: Aprender los conceptos del encuadre de un problema de decisión.
 
@@ -142,7 +142,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
   Tome buenas fotografías de su tarea y súbalas a su cuenta de Google Drive.
 
-- *Práctica 3.2: I. Introducción: Encuadre de los problemas de decisión*. (Entrega: 4 de septiembre de 2023).
+- *Práctica 3.2: I. Introducción: Encuadre de los problemas de decisión*. (Entrega: 4 de diciembre de 2023).
 
   *Objetivo*: Aprender y practicar el algoritmo de encuadre de problemas de decisión  usando R.
 
