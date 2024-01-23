@@ -291,16 +291,16 @@ La asistencia puntual a la clase es obligatoria según el reglamento de estudios
 #### Calificación
 | Factor | Porcentaje | Observaciones |
 | --- | :---: | ------------- |
-| Tareas|20% | Fecha límite: A más tardar el día en que se vea el tema en clase |
-| Prácticas| 20% | Fecha límite: A más tardar el día en que se vea el tema en clase |
-| Exámenes| 60% | Fecha: Por definir |
+| Tareas|20% | Fecha límite: 31 de enero de 2024 |
+| Prácticas| 20% | Fecha límite: 31 de enero de 2024 |
+| Exámenes| 60% | Fecha: 31 de enero de 2024 |
 | Total | 100% | |
 
 **Notas:
-  - **a).** Primer examen: *Teórico* y *Práctico*: Fecha: por definir. 
-  - **b).** Segundo examen: *Teórico - Práctico*: Fecha: por definir. 
+  - **a).** Primer examen: *Teórico*: Fecha: 31 de enero de 2024. 
+  - **b).** Segundo examen: *Práctico*: Fecha: 31 de enero de 2024. 
   - **Evaluación Global:** Quienes no hayan aprobado los exámenes tendrán oportunidad de aplicar una evaluación global teórico-práctica de todo el curso (Teoría y Práctica). La misma oportunidad es para quienes tengan baja calificación o deseen subir. 
-  - **Entrega de calificaciones:** Lunes 23 de octubre de 2023.
+  - **Entrega de calificaciones:** Miércoles 7 de febrero de 2024.
 
 ### Evaluación de Recuperación
 
@@ -309,7 +309,7 @@ La *evaluación de recuperación* será aplicada por el profesor sinodal, bajo l
 
 La evaluación de recuperación consistirá en la presentación de un examen de opción múltiple, a través de la plataforma [Virtuami](http://virtuami.izt.uam.mx/aulas/avmacca/login/index.php), que pretende cubrir los objetivos y el contenido del [programa oficial](https://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf), por ello, el temario de la evaluación es el siguiente:
 l. Introducción.
-2. Metodología del proceso de deci~ión.
+2. Metodología del proceso de decisión.
 3. Relación información - proceso de decisión.
 4. Tipología de los problemas de decisión.
 5. Estructuración de un problema de decisión.
