@@ -304,10 +304,9 @@ La asistencia puntual a la clase es obligatoria según el reglamento de estudios
 
 ### Evaluación de Recuperación
 
-La *evaluación de recuperación* será aplicada por el profesor sinodal, bajo los lineamientos de la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente, por lo que deberá ponerse en contacto con el Coordinador ([correo electrónico](mailto:coordinacion.uam.admon@gmail.com)) y/o con el profesor:
-- **Correo electrónico:** [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx), **Telegram:** <img src="https://github.com/jzavalar/Informatica/blob/main/images/telegram_logo.svg" alt="Telegram" width="3%"/> [jzavalar.t.me](https://jzavalar.t.me)
+La *evaluación de recuperación* será aplicada por el profesor sinodal, bajo los lineamientos de la Coordinación de la Licenciatura en Administración, de acuerdo a las políticas definidas por la misma y será realizada según el calendario vigente.
 
-La evaluación de recuperación consistirá en la presentación de un examen de opción múltiple, a través de la plataforma [Virtuami](http://virtuami.izt.uam.mx/aulas/avmacca/login/index.php), que pretende cubrir los objetivos y el contenido del [programa oficial](https://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf), por ello, el temario de la evaluación es el siguiente:
+La evaluación de recuperación consistirá en la presentación de un examen que pretende cubrir los objetivos y el contenido del [programa oficial](https://csh.izt.uam.mx/sistemadivisional/SDIP/pac/2211088pe.pdf), por ello, el temario de la evaluación es el siguiente:
 l. Introducción.
 2. Metodología del proceso de decisión.
 3. Relación información - proceso de decisión.
@@ -319,12 +318,12 @@ l. Introducción.
      c. Árboles de decisión
      d. Matriz de pagos.
 
-El programa oficial indica que la Evaluación de Recuperación *"incluirá una **evaluación escrita** que podrá ser- **global** o complementaria con base en los contenidos del programa y **un trabajo** que deberá entregarse en la fecha señalada en el calendario de evaluaciones de recuperación aprobado por
-el Consejo Académico". Por lo anterior, **se solicita que el alumno presente la transcripción** de los **conceptos** y los **ejemplos** y  los **ejercicios** resueltos de las primeras tres unidades de la siguiente obra:
+El programa oficial indica que la Evaluación de Recuperación "incluirá una **evaluación escrita** que podrá ser- **global** o complementaria con base en los contenidos del programa **Y un trabajo** que deberá entregarse en la fecha señalada en el calendario de evaluaciones de recuperación aprobado por
+el Consejo Académico". 
 
-     - Rangel Nafaile, L. M. (2012). *Guía de estudio de la asignatura Análisis de Decisiones*, México, D.F.: Universidad Nacional Autónoma de México, ([pdf](https://library.bz/uploads/main/2e0058c96a3774d8a8d050470bebb977.pdf)).
+Por lo anterior, **se solicita** como **prerrequisito** que el alumno realice la transcripción**, en su cuaderno, de los **conceptos** y los **ejemplos** y  sus **grupos de ejercicios** resueltos de las primeras tres unidades de la *[Guía de estudio de la asignatura Análisis de Decisiones](https://libgen.rs/book/index.php?md5=2E0058C96A3774D8A8D050470BEBB977)* (Rangel Nafaile, 2012). El prerrequisito garantiza que esté preparado para realizar el examen global. Sin embargo, puede usar cualquier otra bibliografía que juzgue conveniente como la incluida en este programa.
 
-Compleméntese con lo que considere conveniente de la bibliografía incluida en este programa.
+La **evaluación de recuperación** será el día **22 de febrero de 2024** a las **10:00**, en el salón asignado por la coordinación de la Licenciatura en Administración y consistirá en **resolver un par de problemas** de análisis de decisiones, semejantes a los de la guía. Debe abordar un enfoque metodológico que incluya el encuadre del problema, el razonamiento del análisis y la solución o respuesta concreta, según se le pida en el problema. Para ello, debe presentarse, puntualmente, con bolígrafo, lápiz y calculadora (no se aceptará el uso de teléfono celular como calculadora). La duración del examen será de 2 horas. La calificación se le entregará 24 horas después.
 
 **Notas:**
 [^1]: Jaiswal, N. K. (1997). *Military operations research: Quantitative decision making*. New York: Springer Science+Business Media.
