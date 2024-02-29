@@ -3,19 +3,20 @@
 ## Programa Analítico de la UEA Análisis de Decisiones (Teoría)
 ## Licenciatura en Administración
 
-**Clave de la UEA:** *2211092*, **Grupo:** *OPEXT51*, **Trimestre:** *23 Primavera*
+**Clave de la UEA:** *2211092*, **Trimestre:** *24 Invierno*
 
-**Horario:** *Lunes y miércoles* de *18:00 a 20:00*.
+**Grupo:** *HE12*: *Lunes y miércoles* de *14:00 a 16:00*.
+**Grupo:** *0PEXT252*: *Lunes y miércoles* de *16:00 a 18:00*.
 
-**Salón:** Edificio H-214-B.
+**Salón:** Edificio H-214.
 
 **Asesorías:**  *Martes* de *20:00* a *22:00 hr*, vía [Telegram](https://telegram.org/apps), previa solicitud.
 
-**Profesor:** *dr. Jesús Zavala Ruiz*
+*profr. dr. Jesús Zavala Ruiz*
 
 **Contacte al profesor**:
 - Correo electrónico: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx)
-- Telegram: <img src="https://github.com/jzavalar/informatica/blob/main/images/telegram_logo.svg" alt="Telegram" width="3%"/> [@jzavalar](https://telegram.me/jzavalar)
+- Telegram: <img src="https://github.com/jzavalar/informatica/blob/main/images/telegram_logo.svg" alt="Telegram" width="3%"/> [@jzavalar](https://t.me/jzavalar)
 
 
 ### Introducción
@@ -65,7 +66,7 @@ Que al finalizar el curso el alumno sea capaz de:
       
       *Parte 1*. Aprenda un sistema de organización de archivos ([guía](https://www.youtube.com/watch?v=duNwB8xt2_w)). ([tutorial](https://www.youtube.com/watch?v=I3jii6ltINY&frags=pl%2Cwn)).
 
-      *Parte 2*. Active su cuenta de [Office 365 Pro Plus](http://www.uam.mx/o365/) (software de oficina).
+      *Parte 2*. Active su cuenta de [Office 365 Pro Plus](https://www.uam.mx/o365/index.html) (software de oficina).
    
       *Parte 3*. Si tiene computadora en casa, descargue en instale el siguiente software: [*7-zip*](https://www.7-zip.org/download.html) (compresor/descompresor), [*OnlyOffice*](https://www.onlyoffice.com/) (suite de oficina), [*R*](https://www.r-project.org/) (software para análisis de datos y estadística) y [*RStudio*](https://posit.co/) (GUI para R).
 
@@ -75,8 +76,12 @@ Que al finalizar el curso el alumno sea capaz de:
 
 ##### *Bibliografía Complementaria:*
 - Ibiza, D. (2018, Apr 3). 1. Introducción a *Google Drive*: 
-     1 Primeros pasos ([tutorial](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=330s))    
-     2. Gestión de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=2042s)), 3. Opciones de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=3313s)), 4. Cómo compartir archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=4238s)), 5. Trabajar con documentos ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=5222s)) . In Tutorial Google Drive | Completo | Principiantes | Paso a Paso. YouTube. (video). ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk)).  
+     1. Primeros pasos ([tutorial](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=330s))    
+     2. Gestión de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=2042s))
+     3. Opciones de archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=3313s))
+     4. Cómo compartir archivos y carpetas ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=4238s))
+     5. Trabajar con documentos ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=5222s))
+  In _Tutorial Google Drive | Completo | Principiantes | Paso a Paso_. YouTube. (video). ([url](https://www.youtube.com/watch?v=aLPTDIS-8dk)).  
 
 
 #### Unidad 1. Presentación
