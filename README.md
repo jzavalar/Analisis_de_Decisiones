@@ -89,7 +89,7 @@ Que al finalizar el curso el alumno sea capaz de:
 2. Presentación del programa
 3. Evaluación Global y de Recuperación
 4. Prácticas:  
-    - *Práctica 1.1: Elaboración de informes con RMarkdown en RStudio*. (Entrega: de 2023).
+    - *Práctica 1.1: Elaboración de informes con RMarkdown en RStudio*. (Entrega: por definir).
 
      *Objetivo*: Aprender a crear y editar archivos RMarkdown en *RStudio*.
 
@@ -139,7 +139,7 @@ Que al finalizar el curso el alumno sea capaz de:
    - Modelo de norma mínima
    - Otras técnicas
 5. Tareas y Prácticas:
-- *Tarea 3.1: I. Introducción: Encuadre de un problema de decisión*. (Entrega: 4 de diciembre de 2023).
+- *Tarea 3.1: I. Introducción: Encuadre de un problema de decisión*. (Entrega: Por definir).
 
   *Objetivo*: Aprender los conceptos del encuadre de un problema de decisión.
 
@@ -147,7 +147,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
   Tome buenas fotografías de su tarea y súbalas al grupo de Telegram, antes de la clase, en la fecha programada.
 
-- *Práctica 3.2: I. Introducción: Encuadre de los problemas de decisión*. (Entrega: 4 de diciembre de 2023).
+- *Práctica 3.2: I. Introducción: Encuadre de los problemas de decisión*. (Entrega: Por definir).
 
   *Objetivo*: Aprender y practicar el algoritmo de encuadre de problemas de decisión  usando R.
 
@@ -296,16 +296,16 @@ La asistencia puntual a la clase es obligatoria según el reglamento de estudios
 #### Calificación
 | Factor | Porcentaje | Observaciones |
 | --- | :---: | ------------- |
-| Tareas|20% | Fecha límite: 31 de enero de 2024 |
-| Prácticas| 20% | Fecha límite: 31 de enero de 2024 |
-| Exámenes| 60% | Fecha: 31 de enero de 2024 |
+| Tareas|15% | Fecha límite: Por definir |
+| Prácticas| 15% | Fecha límite: Por definir |
+| Exámenes| 70% | Fecha: Por definir |
 | Total | 100% | |
 
 **Notas:
-  - **a).** Primer examen: *Teórico*: Fecha: 31 de enero de 2024. 
-  - **b).** Segundo examen: *Práctico*: Fecha: 31 de enero de 2024. 
+  - **a).** Primer examen: *Teórico*: Fecha: Por definir. 
+  - **b).** Segundo examen: *Práctico*: Fecha: Por definir. 
   - **Evaluación Global:** Quienes no hayan aprobado los exámenes tendrán oportunidad de aplicar una evaluación global teórico-práctica de todo el curso (Teoría y Práctica). La misma oportunidad es para quienes tengan baja calificación o deseen subir. 
-  - **Entrega de calificaciones:** Miércoles 7 de febrero de 2024.
+  - **Entrega de calificaciones:** Por definir.
 
 ### Evaluación de Recuperación
 
@@ -328,7 +328,7 @@ el Consejo Académico".
 
 Por lo anterior, **se solicita** como **prerrequisito** que el alumno realice la transcripción**, en su cuaderno, de los **conceptos** y los **ejemplos** y  sus **grupos de ejercicios** resueltos de las primeras tres unidades de la *[Guía de estudio de la asignatura Análisis de Decisiones](https://libgen.rs/book/index.php?md5=2E0058C96A3774D8A8D050470BEBB977)* (Rangel Nafaile, 2012). El prerrequisito garantiza que esté preparado para realizar el examen global. Sin embargo, puede usar cualquier otra bibliografía que juzgue conveniente como la incluida en este programa.
 
-La **evaluación de recuperación** será el día **22 de febrero de 2024** a las **10:00**, en el salón C219, asignado por la coordinación de Servicios Escolares y consistirá en **resolver un par de problemas** de análisis de decisiones, semejantes a los de la guía. El valor del examen es del 100%. Debe abordar un enfoque metodológico que incluya el encuadre del problema, el razonamiento del análisis y la solución o respuesta concreta, según se le pida en el problema. Para ello, debe presentarse, puntualmente, con bolígrafo, lápiz y calculadora (no se aceptará el uso de teléfono celular como calculadora). La duración del examen será de 2 horas. La calificación se le entregará 24 horas después.
+La **evaluación de recuperación** será el día **por definir** a las **10:00**, en el salón C219, asignado por la coordinación de Servicios Escolares y consistirá en **resolver un par de problemas** de análisis de decisiones, semejantes a los de la guía. El valor del examen es del 100%. Debe abordar un enfoque metodológico que incluya el encuadre del problema, el razonamiento del análisis y la solución o respuesta concreta, según se le pida en el problema. Para ello, debe presentarse, puntualmente, con bolígrafo, lápiz y calculadora (no se aceptará el uso de teléfono celular como calculadora). La duración del examen será de 2 horas. La calificación se le entregará 24 horas después.
 
 **Notas:**
 [^1]: Jaiswal, N. K. (1997). [*Military operations research: Quantitative decision making*](https://libgen.rs/book/index.php?md5=98AE66E1BEA25F94C02261DD3A990CF1). New York: Springer Science+Business Media.
