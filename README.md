@@ -5,10 +5,9 @@
 
 **Clave de la UEA:** *2211092*, **Trimestre:** *24 Invierno*
 
-**Grupo:** *HE12*: *Lunes y miércoles* de *14:00 a 16:00*.
-**Grupo:** *0PEXT252*: *Lunes y miércoles* de *16:00 a 18:00*.
+**Grupo:** *0PEXT251*: *Lunes y miércoles* de *18:00 a 20:00*.
 
-**Salón:** Edificio H-214.
+**Salón:** Edificio Anexo Edificio A-Sala K.
 
 **Asesorías:**  *Martes* de *20:00* a *22:00 hr*, vía [Telegram](https://telegram.org/apps), previa solicitud.
 
@@ -66,7 +65,7 @@ Que al finalizar el curso el alumno sea capaz de:
       
       *Parte 1*. Aprenda un sistema de organización de archivos ([guía](https://www.youtube.com/watch?v=duNwB8xt2_w)). ([tutorial](https://www.youtube.com/watch?v=I3jii6ltINY&frags=pl%2Cwn)).
 
-      *Parte 2*. Active su cuenta de [Office 365 Pro Plus](https://www.uam.mx/o365/index.html) (software de oficina).
+      *Parte 2*. Active su cuenta de [Office 365 Pro Plus](https://www.uam.mx/o365/index.html) (software de oficina). Active su cuenta de [Telegram](https://telegram.org/). 
    
       *Parte 3*. Si tiene computadora en casa, descargue en instale el siguiente software: [*7-zip*](https://www.7-zip.org/download.html) (compresor/descompresor), [*OnlyOffice*](https://www.onlyoffice.com/) (suite de oficina), [*R*](https://www.r-project.org/) (software para análisis de datos y estadística) y [*RStudio*](https://posit.co/) (GUI para R).
 
