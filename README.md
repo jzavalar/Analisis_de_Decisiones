@@ -3,7 +3,7 @@
 ## Programa Analítico de la UEA Análisis de Decisiones (Teoría)
 ## Licenciatura en Administración
 
-**Clave de la UEA:** *2211092*, **Trimestre:** *24 Invierno*
+**Clave de la UEA:** *2211092*, **Trimestre:** *24 Primavera*
 
 **Grupo:** *0PEXT251*: *Lunes y miércoles* de *18:00 a 20:00*.
 
