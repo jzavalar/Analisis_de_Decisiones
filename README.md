@@ -88,7 +88,7 @@ Que al finalizar el curso el alumno sea capaz de:
 2. Presentación del programa
 3. Evaluación Global y de Recuperación
 4. Prácticas:  
-    - *Práctica 1.1: Elaboración de informes con RMarkdown en RStudio*. (Entrega: por definir).
+    - *Práctica 1.1: Elaboración de informes con RMarkdown en RStudio*. (Entrega: Semana 2).
 
      *Objetivo*: Aprender a crear y editar archivos RMarkdown en *RStudio*.
 
@@ -138,7 +138,7 @@ Que al finalizar el curso el alumno sea capaz de:
    - Modelo de norma mínima
    - Otras técnicas
 5. Tareas y Prácticas:
-- *Tarea 3.1: I. Introducción: Encuadre de un problema de decisión*. (Entrega: Por definir).
+- *Tarea 3.1: I. Introducción: Encuadre de un problema de decisión*. (Entrega: Semana 2).
 
   *Objetivo*: Aprender los conceptos del encuadre de un problema de decisión.
 
@@ -146,7 +146,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
   Tome buenas fotografías de su tarea y súbalas al grupo de Telegram, antes de la clase, en la fecha programada.
 
-- *Práctica 3.2: I. Introducción: Encuadre de los problemas de decisión*. (Entrega: Por definir).
+- *Práctica 3.2: I. Introducción: Encuadre de los problemas de decisión*. (Entrega: Semana 2).
 
   *Objetivo*: Aprender y practicar el algoritmo de encuadre de problemas de decisión  usando R.
 
@@ -163,7 +163,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Suba sus archivos a su proyecto en [RStudio.cloud](https://posit.cloud/).
 
 
-- *Tarea 3.3: II. Decisiones bajo completa incertidumbre*. (Entrega: Por definir).
+- *Tarea 3.3: II. Decisiones bajo completa incertidumbre*. (Entrega: Semana 3).
 
   *Objetivo*: Aprender los conceptos de la toma de decisiones bajo completa incertidumbre.
 
@@ -174,7 +174,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Tome buenas fotografías de su tarea y súbalas a su cuenta de GitHub y enlácelas en un archivo Markdown del reporte de su tarea, explicando lo que se ilustra en las fotografías.
 
 
-- *Práctica 3.4: II: Decisiones bajo completa incertidumbre*. (Entrega: Por definir).
+- *Práctica 3.4: II: Decisiones bajo completa incertidumbre*. (Entrega: Semana 3).
 
   *Objetivo*: Aprender y practicar los algoritmos de problemas de decisión bajo completa incertidumbre usando R.
 
@@ -189,7 +189,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Suba sus archivos generados a su cuenta de GitHub y pruébelos en su proyecto en [RStudio.cloud](https://posit.cloud/).
 
 
-- *Tarea 3.5: III. Decisiones bajo riesgo*. (Entrega: Por definir).
+- *Tarea 3.5: III. Decisiones bajo riesgo*.
 
   *Objetivo*: Aprender los conceptos de la toma de decisiones bajo riesgo.
 
@@ -197,32 +197,32 @@ Que al finalizar el curso el alumno sea capaz de:
 
   **Parte pares**. Transcriba *en su cuaderno* el ejemplo y resuelva el grupo de ejercicios correspondiente. Aplique los conceptos y el machote del Ejemplo correspondiente, según se solicite en cada ejercicio.
   
-  *Parte 1*. 3.1 Criterios para la toma de decisiones sin experimentación:  
+  *Parte 1*. 3.1 Criterios para la toma de decisiones sin experimentación: (Entrega: Semana 4)  
      - 3.1.1 Criterio de Laplace  
      - 3.1.2 Criterio de la máxima posibilidad  
      - 3.1.3 Regla de decisión de Bayes (VEM)  
      - 3.1.4 Minimización de la pérdida de oportunidad esperada (POE)                
   
-  *Parte 2*. Ejemplo 3 y Grupo de ejercicios 3  
+  *Parte 2*. Ejemplo 3 y Grupo de ejercicios 3  (Entrega: Semana 5)
 
   *Parte 3*. 3.2 Valor esperado de la información perfecta (VEIP)
      - 3.2.1 Método 1
      - 3.2.2 Método 2         
 
-  *Parte 4*. Ejemplo 4 y Grupo de ejercicios 4  
+  *Parte 4*. Ejemplo 4 y Grupo de ejercicios 4  (Entrega: Semana 6)
 
-  *Parte 5*. 3.3 Análisis de sensibilidad y 3.4 Árboles de decisión  
+  *Parte 5*. 3.3 Análisis de sensibilidad y 3.4 Árboles de decisión (Entrega: Semana 6)  
 
-  *Parte 6*. Ejemplo 5 y Grupo de ejercicios 5  
+  *Parte 6*. Ejemplo 5 y Grupo de ejercicios 5  (Entrega: Semana 7)
 
   *Parte 7*. 3.5 Criterios para la torna de decisiones con experimentación y 3.6 Análisis en la forma extensiva         
 
-  *Parte 8*. Ejemplo 6 y Grupo de ejercicios 6
+  *Parte 8*. Ejemplo 6 y Grupo de ejercicios 6 (Entrega: Semana 8)
 
   Tome buenas fotografías de su tarea, súbalas a Telegram y enlácelas en un archivo Markdown del reporte de su tarea, explicando lo que se ilustra en las fotografías.
 
 
-- *Práctica 3.6: III. Decisiones bajo riesgo*. (Entrega: Por definir).
+- *Práctica 3.6: III. Decisiones bajo riesgo*. (Entrega: Semana 9).
 
   *Objetivo*: Aprender los conceptos de la toma de decisiones bajo riesgo usando R.
 
