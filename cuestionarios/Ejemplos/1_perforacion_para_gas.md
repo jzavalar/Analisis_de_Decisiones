@@ -243,14 +243,14 @@ El **análisis a posteriori** implica utilizar nueva información para ajustar l
 ### Información disponible
 
 1. **Probabilidad inicial de encontrar gas (antes de la prueba)**:  
-   $ P(\theta_1) = 0.6 $  
-   $ P(\theta_2) = 1 - P(\theta_1) = 0.4 $  
+   $P(\theta_1) = 0.6$  
+   $P(\theta_2) = 1 - P(\theta_1) = 0.4$  
 
 2. **Información de la prueba**:
    - La prueba indicó que **no hay gas**.
    - **Tasa de error de la prueba**:
-     - **Falso negativo**: $ P(\text{Prueba indica no gas} \lor \theta_1) = 0.3 $
-     - **Verdadero negativo**: $ P(\text{Prueba indica no gas} \lor \theta_2) = 0.9 $
+     - **Falso negativo**: $P(\text{Prueba indica no gas} \lor \theta_1) = 0.3$
+     - **Verdadero negativo**: $P(\text{Prueba indica no gas} \lor \theta_2) = 0.9$
 
 3. **Costo de la prueba**:  
    - $30,000.
@@ -279,7 +279,7 @@ $P(\text{Prueba indica no gas}) = 0.18 + 0.36 = 0.54$
 $P(\theta_1 \lor \text{Prueba indica no gas}) = \frac{0.3 \times 0.6}{0.54} = \frac{0.18}{0.54} = 0.333$
 
 
-### Paso 3: Cálculo de la probabilidad a posteriori \( P(\theta_2 | \text{Prueba indica no gas}) \)
+### Paso 3: Cálculo de la probabilidad a posteriori $P(\theta_2 \lor \text{Prueba indica no gas})$
 
 $P(\theta_2 \lor \text{Prueba indica no gas}) = 1 - P(\theta_1 \lor \text{Prueba indica no gas}) = 1 - 0.333 = 0.667$
 
