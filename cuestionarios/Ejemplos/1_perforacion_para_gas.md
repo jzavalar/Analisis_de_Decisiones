@@ -336,15 +336,14 @@ Ahora, resuelve el problema considerando que **las pruebas de sonido indicaron q
 ### Respuesta
 Para resolver el problema considerando que las pruebas de sonido indicaron que había gas presente, seguiremos estos pasos:
 
-1. Actualizar las probabilidades *a posteriori* usando la nueva evidencia.
-2. Construir un árbol de decisión para ilustrar el problema.
-3. Realizar un análisis y seleccionar la mejor decisión.
-
 #### 1. Actualización de Probabilidades
 
 La prueba indicó que *hay gas*. La tasa de error de la prueba es la siguiente:
-- **Tasa de falso positivo**: La prueba indica gas cuando no hay gas en el 10% de los casos. Es decir, $P(\text{Prueba indica gas} | \theta_2) = 0.1$.
-- **Tasa de verdadero positivo**: La prueba indica gas cuando hay gas en el 70% de los casos. Es decir, $P(\text{Prueba indica gas} | \theta_1) = 0.7$.
+- **Tasa de falso positivo**
+  La prueba indica gas cuando no hay gas en el 10% de los casos. Es decir, $P(\text{Prueba indica gas} | \theta_2) = 0.1$.
+
+- **Tasa de verdadero positivo**
+  La prueba indica gas cuando hay gas en el 70% de los casos. Es decir, $P(\text{Prueba indica gas} | \theta_1) = 0.7$.
 
 Calculamos la probabilidad a posteriori de que haya gas dado que la prueba indicó gas:  
 
