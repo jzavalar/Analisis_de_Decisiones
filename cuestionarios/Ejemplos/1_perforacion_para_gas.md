@@ -98,9 +98,9 @@ El **criterio maximax** es **optimista**. Se elige la acción que tiene el mejor
 
 El **criterio de Hurwicz** es un compromiso entre el pesimismo y el optimismo, ponderando los mejores y peores resultados con un coeficiente $\alpha$ que refleja el nivel de optimismo (0 ≤ $\alpha$ ≤ 1).
 
-La fórmula es:  
-$$
-\text{Valor Hurwicz} = \alpha \times (\text{máximo pago}) + (1-\alpha) \times (\text{mínimo pago})
+La fórmula es:   
+$$ 
+\text{Valor Hurwicz} = \alpha \times (\text{máximo pago}) + (1-\alpha) \times (\text{mínimo pago}) 
 $$
 
 **Escenario pesimista ($\alpha < 0.5$)**
