@@ -282,7 +282,7 @@ Donde:
 $P(\text{Prueba indica no gas}) = P(\text{Prueba indica no gas} | \theta_1) P(\theta_1) + P(\text{Prueba indica no gas} | \theta_2) P(\theta_2)$
 
 
-### Paso 1: Cálculo de \( P(\text{Prueba indica no gas}) \)
+### Paso 1: Cálculo de $P(\text{Prueba indica no gas})$
 
 $P(\text{Prueba indica no gas}) = (0.3 \times 0.6) + (0.9 \times 0.4)$
 
