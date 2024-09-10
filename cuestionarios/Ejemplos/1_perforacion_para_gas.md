@@ -101,7 +101,7 @@ El **criterio de Hurwicz** es un compromiso entre el pesimismo y el optimismo, p
 La fórmula es:   
 $\text{Valor Hurwicz} = \alpha \times (\text{máximo pago}) + (1-\alpha) \times (\text{mínimo pago})$
 
-**Escenario pesimista ($\alpha < 0.5$)**
+#### Escenario pesimista ($\alpha < 0.5$)
 Supongamos $\alpha = 0.3$ (más pesimista).
 
 - **Acción $a_1$**:  
@@ -112,7 +112,7 @@ Supongamos $\alpha = 0.3$ (más pesimista).
 
 **Elección**: Para $\alpha = 0.3$, se elige **$a_2$ (desarrollar el campo)**.
 
-**Escenario neutro ($\alpha = 0.5$)**
+#### Escenario neutro ($\alpha = 0.5$)
 Si $\alpha = 0.5$, el decisor es neutral.
 
 - **Acción $a_1$**:  
@@ -123,7 +123,7 @@ Si $\alpha = 0.5$, el decisor es neutral.
 
 **Elección**: Para $\alpha = 0.5$, se elige **$a_2$ (desarrollar el campo)**.
 
-**Escenario optimista ($\alpha > 0.5$)**
+#### Escenario optimista ($\alpha > 0.5$)
 Supongamos $\alpha = 0.7$ (más optimista).
 
 - **Acción $a_1$**:  
@@ -134,7 +134,7 @@ Supongamos $\alpha = 0.7$ (más optimista).
 
 **Elección**: Para $\alpha = 0.7$, se elige **$a_2$ (desarrollar el campo)**.
 
-**Conclusión del criterio de Hurwicz**
+#### Conclusión del criterio de Hurwicz
 Independientemente del valor de $\alpha$, se elige **$a_2$ (desarrollar el campo)**, ya que pondera mejor los resultados máximos.
 
 ### 3.d. Criterio de Savage (Pesar Minimax)
@@ -147,6 +147,14 @@ El **criterio de Savage** busca minimizar la "pérdida de oportunidad" o "regret
 |-----------------------------------------|-----------------------------|------------------------------|
 | **Acción $a_1$ (Aceptar oferta)**       | $1,900,000 - 120,000 = 1,780,000 | $60,000 - 60,000 = 0              |
 | **Acción $a_2$ (Desarrollar el campo)** | $1,900,000 - 1,900,000 = 0   | $60,000 - (-100,000) = 160,000 |
+
+Resumen de la matriz de pérdida de oportunidad:
+
+| **Decisiones/Estados de la Naturaleza** | **$\theta_1$ (Hay gas)**    | **$\theta_2$ (No hay gas)**  |
+|-----------------------------------------|-----------------------------|------------------------------|
+| **Acción $a_1$ (Aceptar oferta)**       | $1,780,000 | $0              |
+| **Acción $a_2$ (Desarrollar el campo)** | $0   | $160,000 |
+
 
 **Elección según el criterio minimax**
 El decisor selecciona la acción que minimiza la pérdida máxima posible.
