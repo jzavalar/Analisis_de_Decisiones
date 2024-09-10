@@ -148,7 +148,7 @@ El **criterio de Savage** busca minimizar la "pérdida de oportunidad" o "regret
 | **Acción $a_1$ (Aceptar oferta)**       | $1,900,000 - 120,000 = 1,780,000 | $60,000 - 60,000 = 0              |
 | **Acción $a_2$ (Desarrollar el campo)** | $1,900,000 - 1,900,000 = 0   | $60,000 - (-100,000) = 160,000 |
 
-Resumen de la matriz de pérdida de oportunidad:
+Matriz de pérdida de oportunidad:
 
 | **Decisiones/Estados de la Naturaleza** | **$\theta_1$ (Hay gas)**    | **$\theta_2$ (No hay gas)**  |
 |-----------------------------------------|-----------------------------|------------------------------|
