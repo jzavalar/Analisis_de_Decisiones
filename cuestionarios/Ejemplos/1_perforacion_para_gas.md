@@ -106,9 +106,11 @@ $\text{Valor Hurwicz} = \alpha \times (\text{máximo pago}) + (1-\alpha) \times 
 Supongamos $\alpha = 0.3$ (más pesimista).
 
 - **Acción $a_1$**:  
+
   $H(a_1) = 0.3 \times \$120,000 + 0.7 \times \$60,000 = \$36,000 + \$42,000 = \$78,000$
     
 - **Acción $a_2$**:  
+
   $H(a_2) = 0.3 \times \$1,900,000 + 0.7 \times (-\$100,000) = \$570,000 - \$70,000 = \$500,000$  
 
 **Elección**: Para $\alpha = 0.3$, se elige **$a_2$ (desarrollar el campo)**.
@@ -117,9 +119,11 @@ Supongamos $\alpha = 0.3$ (más pesimista).
 Si $\alpha = 0.5$, el decisor es neutral.
 
 - **Acción $a_1$**:  
+
   $H(a_1) = 0.5 \times \$120,000 + 0.5 \times \$60,000 = \$60,000 + \$30,000 = \$90,000$
 
 - **Acción $a_2$**:  
+
   $H(a_2) = 0.5 \times \$1,900,000 + 0.5 \times (-\$100,000) = \$950,000 - \$50,000 = \$900,000$
 
 **Elección**: Para $\alpha = 0.5$, se elige **$a_2$ (desarrollar el campo)**.
@@ -128,9 +132,11 @@ Si $\alpha = 0.5$, el decisor es neutral.
 Supongamos $\alpha = 0.7$ (más optimista).
 
 - **Acción $a_1$**:  
+
   $H(a_1) = 0.7 \times \$120,000 + 0.3 \times \$60,000 = \$84,000 + \$18,000 = \$102,000$  
   
 - **Acción $a_2$**:  
+
   $H(a_2) = 0.7 \times \$1,900,000 + 0.3 \times (-\$100,000) = \$1,330,000 - \$30,000 = \$1,300,000$  
 
 **Elección**: Para $\alpha = 0.7$, se elige **$a_2$ (desarrollar el campo)**.
@@ -188,9 +194,11 @@ A continuación, a partir de la matriz de pagos, realiza el "análisis bajo ries
 El **criterio de Laplace** asume equiprobabilidad entre los estados. Calculamos el valor esperado (VE) de cada acción:
 
 - **Acción $a_1$ (Aceptar oferta)**:
+
   $VE(a_1) = \frac{1}{2} \times (\$120,000 + \$60,000) = \$90,000$
 
 - **Acción $a_2$ (Desarrollar el campo)**:
+
   $VE(a_2) = \frac{1}{2} \times (\$1,900,000 + (-\$100,000)) = \$900,000$
 
 **Elección**: Se elige la **acción $a_2$ (desarrollar el campo)**.
@@ -208,9 +216,11 @@ Este criterio selecciona la acción con el mejor pago en el estado más probable
 Criterio de la Regla de Bayes o del Valor Esperado Medio (VEM). El valor esperado se calcula ponderando los pagos con las probabilidades. Con $P(\theta_1) = p = 0.7$:
 
 - **Acción $a_1$ (Aceptar oferta)**:
+
   $VE(a_1) = \$102,000$
 
 - **Acción $a_2$ (Desarrollar el campo)**:
+
   $VE(a_2) = \$1,300,000$
 
 **Elección**: Se elige la **acción $a_2$ (desarrollar el campo)**.
@@ -220,9 +230,11 @@ Criterio de la Regla de Bayes o del Valor Esperado Medio (VEM). El valor esperad
 Construimos la matriz de pérdida de oportunidad y calculamos la la Pérdida de Oportunidad Esperada (POE) para cada acción:
 
 - **Acción $a_1$ (Aceptar oferta)**:  
+
   $POE(a_1) = \$1,246,000$
   
 - **Acción $a_2$ (Desarrollar el campo)**:
+
   $POE(a_2) = \$48,000$
 
 **Elección**: Se elige la **acción $a_2$ (desarrollar el campo)**.
@@ -244,16 +256,17 @@ El **análisis a posteriori** implica utilizar nueva información para ajustar l
 ### Información disponible
 
 1. **Probabilidad inicial de encontrar gas (antes de la prueba)**:  
+
    $P(\theta_1) = 0.6$  
    $P(\theta_2) = 1 - P(\theta_1) = 0.4$  
 
-2. **Información de la prueba**:
+3. **Información de la prueba**:
    - La prueba indicó que **no hay gas**.
    - **Tasa de error de la prueba**:
      - **Falso negativo**: $P(\text{Prueba indica no gas} | \theta_1) = 0.3$
      - **Verdadero negativo**: $P(\text{Prueba indica no gas} | \theta_2) = 0.9$
 
-3. **Costo de la prueba**:  
+4. **Costo de la prueba**:  
    - $30,000.
 
 ## Aplicación del Teorema de Bayes
@@ -272,19 +285,22 @@ $P(\text{Prueba indica no gas}) = P(\text{Prueba indica no gas} | \theta_1) P(\t
 ### Paso 1: Cálculo de \( P(\text{Prueba indica no gas}) \)
 
 $P(\text{Prueba indica no gas}) = (0.3 \times 0.6) + (0.9 \times 0.4)$
+
 $P(\text{Prueba indica no gas}) = 0.18 + 0.36 = 0.54$
 
 
-### Paso 2: Cálculo de la probabilidad a posteriori
+### Paso 2: Cálculo de la probabilidad *a posteriori*
+
 $P(\theta_1 | \text{Prueba indica no gas}) = \frac{0.3 \times 0.6}{0.54} = \frac{0.18}{0.54} = 0.333$
 
 
-### Paso 3: Cálculo de la probabilidad a posteriori $P(\theta_2 | \text{Prueba indica no gas})$
+### Paso 3: Cálculo de la probabilidad *a posteriori* 
+
 $P(\theta_2 | \text{Prueba indica no gas}) = 1 - P(\theta_1 | \text{Prueba indica no gas}) = 1 - 0.333 = 0.667$
 
-## Análisis de decisiones a posteriori
+## Análisis de decisiones *a posteriori*
 
-Con las probabilidades a posteriori, se actualizan las estimaciones de los posibles resultados en la matriz de pagos. Recordemos la matriz de pagos original:
+Con las probabilidades *a posteriori*, se actualizan las estimaciones de los posibles resultados en la matriz de pagos. Recordemos la matriz de pagos original:
 
 | **Decisiones/Estados de la Naturaleza** | **$\theta_1$ (Hay gas)**    | **$\theta_2$ (No hay gas)**  |
 |-----------------------------------------|-----------------------------|------------------------------|
@@ -296,10 +312,13 @@ Utilizaremos la **regla de Bayes (Valor Esperado Medio - VEM)** con las nuevas p
 ### Cálculo del Valor Esperado Medio (VEM):
 
 - **Acción $a_1$ (Aceptar oferta)**:
+
   $VEM}(a_1) = P(\theta_1 | \text{Prueba indica no gas}) \times 120,000 + P(\theta_2 | \text{Prueba indica no gas}) \times 60,000$
+
   $\text{VEM}(a_1) = (0.333 \times 120,000) + (0.667 \times 60,000) = 40,000 + 40,020 = 80,020$
 
 - **Acción $a_2$ (Desarrollar el campo)**:
+
   $\text{VEM}(a_2) = P(\theta_1 | \text{Prueba indica no gas}) \times 1,900,000 + P(\theta_2 | \text{Prueba indica no gas}) \times (-100,000)$
 
   $\text{VEM}(a_2) = (0.333 \times 1,900,000) + (0.667 \times -100,000) = 633,700 - 66,700 = 567,000$
