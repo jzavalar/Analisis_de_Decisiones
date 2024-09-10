@@ -20,27 +20,25 @@ Respuesta:
 
 # 2. Encuadre del Problema
 
-# Análisis de Decisiones: Encuadre del Problema
-
 Este problema puede ser enmarcado dentro del análisis de decisiones de la investigación de operaciones, utilizando la teoría de decisiones bajo incertidumbre. Vamos a descomponerlo para identificar los elementos principales:
 
-### a) El Decisor:
+### a) El Decisor
 El **decisor** es el **propietario del terreno**. Es quien tiene que tomar una decisión sobre si aceptar la oferta de la compañía de energéticos o desarrollar él mismo el campo de gas natural.
 
-### b) Las acciones o decisiones posibles:
+### b) Las acciones o decisiones posibles
 El propietario tiene dos posibles **acciones** o **decisiones**:
 
 - **Acción $a_1$**: **Aceptar la oferta de la compañía de energéticos**. El propietario cede los derechos de exploración y recibe $60,000 dólares de forma segura. Además, si se descubre gas, obtendrá $60,000 adicionales.
 
 - **Acción $a_2$**: **Desarrollar él mismo el campo**. Esto implica contratar equipos para explorar el campo con un costo inicial de $100,000 dólares. Si se encuentra gas, los beneficios serían de $2 millones de dólares, pero si no hay gas, el propietario perdería los $100,000 invertidos.
 
-### c) Los estados de la naturaleza:
+### c) Los estados de la naturaleza
 Los **estados de la naturaleza** son los escenarios externos que afectan las consecuencias de las decisiones. En este caso, los estados son:
 
 - **Estado $\theta_1$**: **Hay gas** en el terreno.
 - **Estado $\theta_2$**: **No hay gas** en el terreno.
 
-### d) Función de consecuencias o matriz de pagos:
+### d) Función de Consecuencias o Matriz de Pagos
 La **función de consecuencias** o **matriz de pagos** describe los resultados (en términos monetarios) de cada decisión, bajo cada estado de la naturaleza.
 
 Podemos organizarla así:
@@ -68,14 +66,14 @@ Este es el primer paso del análisis de decisiones, que consiste en enmarcar el 
 
 Vamos a desarrollar el **análisis de decisiones bajo completa incertidumbre** usando diferentes **criterios de elección no probabilísticos**:
 
-### a) **Criterio Maximin de Wald**
+### 3.a. Criterio Maximin de Wald
 El **criterio maximin** es un enfoque pesimista que selecciona la acción que maximiza el **mínimo** beneficio posible, protegiéndose contra el peor escenario.
 
-#### Algoritmo básico:
+**Algoritmo básico**:
 1. Para cada acción, identifica la **mínima** ganancia posible (el peor escenario para esa acción).
 2. Selecciona la acción con el **máximo** de esos mínimos.
 
-#### Aplicación:
+**Aplicación**
 Tomemos la matriz de pagos:
 
 $$$
@@ -94,20 +92,20 @@ $$$
 
 La **acción seleccionada** bajo el criterio maximin es **$a_1$** (Aceptar la oferta), ya que su peor escenario ($60,000$) es mejor que el peor escenario de $a_2$ (-$100,000$).
 
-### b) **Criterio Maximax**
+### 3.b. Criterio Maximax
 El **criterio maximax** es un enfoque **optimista**, que selecciona la acción que maximiza el **máximo** beneficio posible, esperando el mejor resultado.
 
-#### Algoritmo básico:
+**Algoritmo básico**
 1. Para cada acción, identifica la **máxima** ganancia posible (el mejor escenario para esa acción).
 2. Selecciona la acción con el **máximo** de esos máximos.
 
-#### Aplicación:
+**Aplicación**
 - Para $a_1$, el máximo es $120,000$.
 - Para $a_2$, el máximo es $1,900,000$.
 
 La **acción seleccionada** bajo el criterio maximax es **$a_2$** (Desarrollar el campo), ya que tiene el mayor beneficio posible ($1,900,000$).
 
-### c) **Criterio de Hurwicz**
+### 3.c. Criterio de Hurwicz
 El **criterio de Hurwicz** es un compromiso entre el pesimismo y el optimismo. Utiliza un parámetro $\alpha$, que representa el nivel de optimismo del decisor. La fórmula pondera el mejor y el peor resultado de cada acción:
 
 $$$
@@ -117,7 +115,7 @@ $$$
 - Si $\alpha = 1$, es completamente optimista (equivalente al criterio maximax).
 - Si $\alpha = 0$, es completamente pesimista (equivalente al criterio maximin).
 
-#### Aplicación:
+**Aplicación**
 Para $a_1$: 
 $$$
 H(a_1) = \alpha \times 120,000 + (1 - \alpha) \times 60,000
@@ -150,20 +148,20 @@ Ahora evaluamos con diferentes valores de $\alpha$:
    $$$
    Aquí se selecciona **$a_2$** (Desarrollar el campo).
 
-#### Explicación de $\alpha$:
+**Explicación de $\alpha$**
 - **Pesimista**: Con $\alpha$ bajo ($0 \leq \alpha < 0.5$), se da más peso al peor escenario.
 - **Neutro**: Con $\alpha = 0.5$, se ponderan igualmente los mejores y peores escenarios.
 - **Optimista**: Con $\alpha$ alto ($0.5 < \alpha \leq 1$), se da más peso al mejor escenario.
 
-### d) **Criterio Minimax de Savage (Pérdida de Oportunidad)**
+### 3.d. Criterio Minimax de Savage
 El **criterio minimax** de **Savage** minimiza el **remordimiento** o la **pérdida de oportunidad**. Este criterio considera cuánto se perdería en comparación con la mejor decisión posible en cada estado de la naturaleza.
 
-#### Algoritmo básico:
+**Algoritmo básico**
 1. Construir la **matriz de pérdida de oportunidad** restando el pago de cada acción del mejor pago en cada estado de la naturaleza.
 2. Identificar el **máximo** valor de pérdida de oportunidad para cada acción.
 3. Seleccionar la acción con el **mínimo** de esos máximos.
 
-#### Matriz de pérdida de oportunidad:
+**Matriz de pérdida de oportunidad**
 Calculamos los máximos por estado:
 - En $\theta_1$ (Hay gas), el máximo es $1,900,000$.
 - En $\theta_2$ (No hay gas), el máximo es $60,000$.
@@ -181,7 +179,7 @@ a_2 \ (\text{Desarrollar el campo}) & 1,900,000 - 1,900,000 = 0 & 60,000 - (-100
 \end{array}
 $$$
 
-#### Selección de la acción:
+**Selección de la acción**
 - Para $a_1$, la pérdida máxima es $1,780,000$.
 - Para $a_2$, la pérdida máxima es $160,000$.
 
@@ -189,7 +187,7 @@ La **acción seleccionada** bajo el criterio minimax es **$a_2$** (Desarrollar e
 
 ---
 
-### Resumen de Decisiones por Criterio:
+### Resumen de Decisiones por Criterio
 - **Maximin de Wald**: $a_1$ (Aceptar la oferta).
 - **Maximax**: $a_2$ (Desarrollar el campo).
 - **Hurwicz**: Depende de $\alpha$ (para $\alpha = 0.3$, $\alpha = 0.5$, y $\alpha = 0.7$, se selecciona $a_2$).
