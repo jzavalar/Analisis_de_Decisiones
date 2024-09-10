@@ -409,7 +409,7 @@ Para cada escenario, calculamos el valor esperado:
     
   - **Acción $a_2$ (Desarrollar el campo)**  
 
-    $VEM}(a_2 | \text{Gas}) = 1,900,000$
+    $VEM(a_2 | \text{Gas}) = 1,900,000$
 
 
 - **Valor Esperado (Prueba indica no gas)**
