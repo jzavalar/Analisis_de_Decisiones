@@ -195,11 +195,11 @@ El **criterio de Laplace** asume equiprobabilidad entre los estados. Calculamos 
 
 - **Acción $a_1$ (Aceptar oferta)**:
 
-  $VE(a_1) = \frac{1}{2} \times (\$120,000 + \$60,000) = \$90,000$
+  $VE(a_1) = \frac{1}{2} \times (120,000 + 60,000) = 90,000$
 
 - **Acción $a_2$ (Desarrollar el campo)**:
 
-  $VE(a_2) = \frac{1}{2} \times (\$1,900,000 + (-\$100,000)) = \$900,000$
+  $VE(a_2) = \frac{1}{2} \times (1,900,000 + (-100,000)) = 900,000$
 
 **Elección**: Se elige la **acción $a_2$ (desarrollar el campo)**.
 
@@ -217,11 +217,11 @@ Criterio de la Regla de Bayes o del Valor Esperado Medio (VEM). El valor esperad
 
 - **Acción $a_1$ (Aceptar oferta)**:  
 
-  $VE(a_1) = \$102,000$
+  $VE(a_1) = 102,000$
 
 - **Acción $a_2$ (Desarrollar el campo)**:  
 
-  $VE(a_2) = \$1,300,000$
+  $VE(a_2) = 1,300,000$
 
 **Elección**: Se elige la **acción $a_2$ (desarrollar el campo)**.
 
@@ -231,11 +231,11 @@ Construimos la matriz de pérdida de oportunidad y calculamos la la Pérdida de 
 
 - **Acción $a_1$ (Aceptar oferta)**:  
 
-  $POE(a_1) = \$1,246,000$
+  $POE(a_1) = 1,246,000$
   
 - **Acción $a_2$ (Desarrollar el campo)**:
 
-  $POE(a_2) = \$48,000$
+  $POE(a_2) = 48,000$
 
 **Elección**: Se elige la **acción $a_2$ (desarrollar el campo)**.
 
