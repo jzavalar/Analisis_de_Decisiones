@@ -76,7 +76,7 @@ El **criterio maximin** es un enfoque pesimista que selecciona la acción que ma
 **Aplicación**
 Tomemos la matriz de pagos:
 
-$$$
+$$
 \begin{array}{|c|c|c|}
 \hline
 \text{Decisiones/Estados de la Naturaleza} & \theta_1 \ (\text{Hay gas}) & \theta_2 \ (\text{No hay gas}) \\
@@ -85,7 +85,7 @@ a_1 \ (\text{Aceptar oferta}) & 120,000 & 60,000 \\
 a_2 \ (\text{Desarrollar el campo}) & 1,900,000 & -100,000 \\
 \hline
 \end{array}
-$$$
+$$
 
 - Para $a_1$, el mínimo es $60,000$.
 - Para $a_2$, el mínimo es $-100,000$.
