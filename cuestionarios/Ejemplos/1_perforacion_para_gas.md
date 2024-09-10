@@ -129,18 +129,18 @@ El criterio Maximax consiste en seleccionar la alternativa que maximiza el máxi
 
 El criterio de Hurwicz combina los conceptos de Maximin y Maximax ponderando cada uno de ellos con un factor de optimismo denominado alpha.
 
-Para alpha = 1/3, se utiliza 1 - alpha = 2/3.
+Para $alpha = 1/3$, se utiliza $1 - alpha = 2/3$.
 
 Calculemos la utilidad de cada decisión:
 
 - Para D1:  
-  $U(D1) = \frac{1}{3} \times (60,000) + \frac{2}{3} \times (60,000) = 60,000 $
+  $H(D1) = \frac{1}{3} \times (60,000) + \frac{2}{3} \times (60,000) = 60,000 $
    
 
 - Para D2:  
-  \( U(D2) = \frac{1}{3} \times (1,900,000) + \frac{2}{3} \times (-100,000) \)\
-  \( U(D2) = \frac{1}{3} \times 1,900,000 - \frac{2}{3} \times 100,000 \) \
-  \( U(D2) = 630,000 - 66,667 = 563,333.33 \)
+  $ H(D2) = \frac{1}{3} \times (1,900,000) + \frac{2}{3} \times (-100,000) $
+  $ H(D2) = \frac{1}{3} \times 1,900,000 - \frac{2}{3} \times 100,000 \) $
+  $ H(D2) = 630,000 - 66,667 = 563,333.33 $
 
 **Decisión:** Escoger D2 (No aceptar la oferta / Desarrollar), ya que tiene un valor esperado superior.
 
@@ -215,13 +215,13 @@ El criterio de Laplace asigna la misma probabilidad a cada estado de la naturale
 
 **Cálculo Laplace:**
 - Para D1: 
-  \[
+  $$$
   U(D1) = \frac{1}{2} \times 60,000 + \frac{1}{2} \times 60,000 = 60,000
-  \]
+  $$$
 - Para D2:
-  \[
+  $$$
   U(D2) = \frac{1}{2} \times 1,900,000 + \frac{1}{2} \times (-100,000) = \frac{1,900,000 - 100,000}{2} = \frac{1,800,000}{2} = 900,000
-  \]
+  $$$
 
 **Decisión:** Escoger D2.
 
@@ -237,20 +237,20 @@ Se calcula el valor esperado (VE) de cada decisión, teniendo en cuenta las prob
 
 **Cálculo del Valor Esperado:**
 - Para D1:
-  \[
+  $$$
   VE(D1) = P(S1) \times 60,000 + P(S2) \times 60,000
-  \]
-  \[
+  $$$
+  $$$
   VE(D1) = 0.3 \times 60,000 + 0.7 \times 60,000 = 60,000
-  \]
+  $$$
 
 - Para D2:
-  \[
+  $$$
   VE(D2) = P(S1) \times 1,900,000 + P(S2) \times (-100,000)
-  \]
-  \[
+  $$$
+  $$$
   VE(D2) = 0.3 \times 1,900,000 + 0.7 \times (-100,000) = 570,000 - 70,000 = 500,000
-  \]
+  $$$
 
 **Decisión:** Escoger D1, ya que su valor esperado es superior.
 
@@ -279,13 +279,13 @@ Matriz de Pérdidas:
 
 Calculamos ahora el valor esperado de pérdidas para cada decisión:
 - Para D1:
-  \[
+  $$$
   VE_{\text{Pérdidas}}(D1) = 0.3 \times 1,840,000 + 0.7 \times 0 = 552,000
-  \]
+  $$$
 - Para D2:
-  \[
+  $$$
   VE_{\text{Pérdidas}}(D2) = 0.3 \times 0 + 0.7 \times 100,000 = 70,000 
-  \]
+  $$$
 
 **Decisión:** Escoger D2, ya que tiene una menor pérdida esperada.
 
@@ -317,27 +317,27 @@ Para analizar este nuevo escenario de decisión, utilizaremos el Teorema de Baye
 
 Usando el Teorema de Bayes, actualizamos la probabilidad a posteriori de que hay gas dado que la prueba indica que no hay gas:
 
-\[
+$$$
 P(G | T_{\neg G}) = \frac{P(T_{\neg G} | G) \cdot P(G)}{P(T_{\neg G})}
-\]
+$$$
 
 Primero, tenemos que calcular \( P(T_{\neg G}) \):
-\[
+$$$
 P(T_{\neg G}) = P(T_{\neg G} | G) \cdot P(G) + P(T_{\neg G} | \neg G) \cdot P(\neg G)
-\]
-\[
+$$$
+$$$
 P(T_{\neg G}) = (0.3 \cdot 0.6) + (0.1 \cdot 0.4) = 0.18 + 0.04 = 0.22
-\]
+$$$
 
 Ahora, podemos calcular \( P(G | T_{\neg G}) \):
-\[
+$$$
 P(G | T_{\neg G}) = \frac{0.3 \cdot 0.6}{0.22} = \frac{0.18}{0.22} \approx 0.8182
-\]
+$$$
 
 Y, por consiguiente:
-\[
+$$$
 P(\neg G | T_{\neg G}) = 1 - P(G | T_{\neg G}) = 1 - 0.8182 \approx 0.1818
-\]
+$$$
 
 ### Paso 4: Creación de la Nueva Matriz de Pagos
 
@@ -355,23 +355,23 @@ Con las probabilidades a posteriori, procedemos a construir la nueva matriz de p
 Ahora, calculamos el Valor Esperado para cada opción:
 
 - Para D1:
-  \[
+  $$$
   VE(D1) = P(G | T_{\neg G}) \cdot 60,000 + P(\neg G | T_{\neg G}) \cdot 60,000
-  \]
-  \[
+  $$$
+  $$$
   VE(D1) = 0.8182 \cdot 60,000 + 0.1818 \cdot 60,000 = 60,000
-  \]
+  $$$
 
 - Para D2:
-  \[
+  $$$
   VE(D2) = P(G | T_{\neg G}) \cdot 1,900,000 + P(\neg G | T_{\neg G}) \cdot (-100,000)
-  \]
-  \[
+  $$$
+  $$$
   VE(D2) = 0.8182 \cdot 1,900,000 + 0.1818 \cdot (-100,000)
-  \]
-  \[
+  $$$
+  $$$
   VE(D2) = 1,555,556 - 18,182 \approx 1,537,374
-  \]
+  $$$
 
 ### Paso 6: Decisión Recomendada Bajo el Criterio a Posteriori
 
@@ -418,27 +418,27 @@ En este caso, tenemos que calcular:
 
 Usando el Teorema de Bayes:
 
-\[
+$$$
 P(G | T_G) = \frac{P(T_G | G) \cdot P(G)}{P(T_G)}
-\]
+$$$
 
 Calcularemos primero \( P(T_G) \):
-\[
+$$$
 P(T_G) = P(T_G | G) \cdot P(G) + P(T_G | \neg G) \cdot P(\neg G)
-\]
-\[
+$$$
+$$$
 P(T_G) = (0.7 \cdot 0.6) + (0.1 \cdot 0.4) = 0.42 + 0.04 = 0.46
-\]
+$$$
 
 Ahora, podemos calcular \( P(G | T_G) \):
-\[
+$$$
 P(G | T_G) = \frac{0.7 \cdot 0.6}{0.46} = \frac{0.42}{0.46} \approx 0.9130
-\]
+$$$
 
 Y, por lo tanto:
-\[
+$$$
 P(\neg G | T_G) = 1 - P(G | T_G) = 1 - 0.9130 \approx 0.0870
-\]
+$$$
 
 ### Paso 4: Construcción de la Nueva Matriz de Pagos
 
@@ -456,26 +456,26 @@ Usando las probabilidades a posteriori, creamos la nueva matriz de pagos:
 Ahora, calculamos el Valor Esperado (VE) para cada opción:
 
 - Para D1:
-  \[
+  $$$
   VE(D1) = P(G | T_G) \cdot 60,000 + P(\neg G | T_G) \cdot 60,000
-  \]
-  \[
+  $$$
+  $$$
   VE(D1) = 0.9130 \cdot 60,000 + 0.0870 \cdot 60,000
-  \]
-  \[
+  $$$
+  $$$
   VE(D1) = 54,780 + 5,220 = 60,000
-  \]
+  $$$
 
 - Para D2:
-  \[
+  $$$
   VE(D2) = P(G | T_G) \cdot 1,900,000 + P(\neg G | T_G) \cdot (-100,000)
-  \]
-  \[
+  $$$
+  $$$
   VE(D2) = 0.9130 \cdot 1,900,000 + 0.0870 \cdot (-100,000)
-  \]
-  \[
+  $$$
+  $$$
   VE(D2) = 1,734,700 - 8,700 = 1,726,000
-  \]
+  $$$
 
 ### Paso 6: Decisión Recomendada Bajo el Criterio A Posteriori
 
@@ -527,22 +527,22 @@ Si no se realizan las pruebas de sonido, el valor esperado se basa en la decisi�
 - **Aceptar la oferta (D2)**:
   - Valor: $60,000 (si hay gas) o $60,000 (si no hay gas).
   - Valor Esperado (VE):
-  \[
+  $$$
   VE(D2) = P(G) \cdot 60,000 + P(\neg G) \cdot 60,000 = 0.6 \cdot 60,000 + 0.4 \cdot 60,000 = 60,000
-  \]
+  $$$
 
 - **No aceptar la oferta (D3)**:
   - Valor: $1,900,000 (si hay gas) o -$100,000 (si no hay gas).
   - Valor Esperado (VE):
-  \[
+  $$$
   VE(D3) = P(G) \cdot 1,900,000 + P(\neg G) \cdot (-100,000)
-  \]
+  $$$
   \[
   VE(D3) = 0.6 \cdot 1,900,000 + 0.4 \cdot (-100,000)
-  \]
-  \[
+  $$$
+  $$$
   VE(D3) = 1,140,000 - 40,000 = 1,100,000
-  \]
+  $$$
 
 ### Paso 4: Cálculo de Valores Esperados Si Se Realizan Pruebas de Sonido
 
@@ -561,50 +561,50 @@ Ahora consideramos la opción de realizar pruebas de sonido (D1):
      
 Las probabilidades de los resultados después de hacer las pruebas serían:
 
-\[
+$$$
 P(T_G | G) = 0.7 \quad \text{y} \quad P(T_G | \neg G) = 0.1
-\]
+$$$
 
 Calculamos primero \( P(T_G) \):
 
-\[
+$$$
 P(T_G) = P(T_G | G) \cdot P(G) + P(T_G | \neg G) \cdot P(\neg G) 
-\]
+$$$
 
-\[
+$$$
 P(T_G) = (0.7 \cdot 0.6) + (0.1 \cdot 0.4) = 0.42 + 0.04 = 0.46
-\]
+$$$
 
 Ahora para las probabilidades a posteriori:
 
-\[
+$$$
 P(G | T_G) = \frac{P(T_G | G) \cdot P(G)}{P(T_G)} = \frac{0.7 \cdot 0.6}{0.46} \approx 0.913
-\]
+$$$
 
-\[
+$$$
 P(\neg G | T_G) = 1 - P(G | T_G) \approx 0.087
-\]
+$$$
 
 #### Valores Esperados Después de Pruebas
 
 - **Aceptar oferta tras pruebas (D2)**:
-\[
+$$$
 VE(D2) = P(G | T_G) \cdot 60,000 + P(\neg G | T_G) \cdot 60,000
-\]
-\[
+$$$
+$$$
 VE(D2) = 0.913 \cdot 60,000 + 0.087 \cdot 60,000 = 60,000
-\]
+$$$
 
 - **No aceptar oferta tras pruebas (D3)**:
-\[
+$$$
 VE(D3) = P(G | T_G) \cdot 1,900,000 + P(\neg G | T_G) \cdot (-100,000)
-\]
-\[
+$$$
+$$$
 VE(D3) = 0.913 \cdot 1,900,000 + 0.087 \cdot (-100,000)
-\]
-\[
+$$$
+$$$
 VE(D3) = 1,734,700 - 8,700 = 1,726,000
-\]
+$$$
 
 ### Paso 5: Decisión Recomendada
 
