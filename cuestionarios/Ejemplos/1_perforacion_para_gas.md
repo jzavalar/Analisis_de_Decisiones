@@ -66,18 +66,17 @@ Este es el primer paso del análisis de decisiones, que consiste en enmarcar el 
 ### Prompt
 A continuación, realiza el "análisis de decisiones bajo completa incertidumbre". Para ello, utiliza los siguientes "criterios de elección no probabilísticos": a) Criterio maximin de Wald, b) Criterio maximax, c) Criterio de Hurwicz y d) Pesar minimax o Criterio de Savage. En el análisis del criterio de Hurwicz contrasta el análisis< con el índice $\alpha$ en los tres escenarios posibles: pesimista (0 menor o igual a $\alpha$ menor a 0.5), neutro ($\alpha$ igual a 0.5), optimista (0.5 menor a $\alpha$ menor o igual a 1). En el análisis del criterio de Savage incluye la matriz de pérdida de oportunidad. Desarrolla tu respuesta con los conceptos involucrados y el razonamiento que hay detrás de cada criterio, seguido del algoritmo básico y la elección. Haz una exposición didáctica y breve, pero suficiente para comprender cabalmente cada criterio.
 
-# Análisis de Decisiones Bajo Completa Incertidumbre
-
+### Respuesta
 Este análisis utiliza varios **criterios de elección no probabilísticos** para tomar una decisión bajo incertidumbre completa. El problema plantea una situación en la que el decisor no conoce las probabilidades de los estados de la naturaleza, por lo que debe basarse en criterios alternativos.
 
-## Matriz de Pagos
+#### Matriz de Pagos
 
 | **Decisiones/Estados de la Naturaleza** | **$\theta_1$ (Hay gas)**    | **$\theta_2$ (No hay gas)**  |
 |-----------------------------------------|-----------------------------|------------------------------|
 | **Acción $a_1$ (Aceptar oferta)**       | $120,000                    | $60,000                      |
 | **Acción $a_2$ (Desarrollar el campo)** | $1,900,000                  | -$100,000                    |
 
-## a) Criterio Maximin (de Wald)
+### 3.a. Criterio Maximin (de Wald)
 
 El **criterio maximin** es conservador o **pesimista**. El decisor selecciona la acción cuyo peor resultado es el mejor posible.
 
@@ -86,7 +85,7 @@ El **criterio maximin** es conservador o **pesimista**. El decisor selecciona la
 
 **Elección**: Según este criterio, se elige la **acción $a_1$ (aceptar la oferta)**, ya que $60,000 es mejor que -$100,000.
 
-## b) Criterio Maximax
+### 3.b. Criterio Maximax
 
 El **criterio maximax** es **optimista**. Se elige la acción que tiene el mejor resultado máximo posible.
 
@@ -95,72 +94,72 @@ El **criterio maximax** es **optimista**. Se elige la acción que tiene el mejor
 
 **Elección**: Según este criterio, se elige la **acción $a_2$ (desarrollar el campo)**, ya que $1,900,000 es el máximo valor posible.
 
-## c) Criterio de Hurwicz
+### 3.c. Criterio de Hurwicz
 
 El **criterio de Hurwicz** es un compromiso entre el pesimismo y el optimismo, ponderando los mejores y peores resultados con un coeficiente $\alpha$ que refleja el nivel de optimismo (0 ≤ $\alpha$ ≤ 1).
 
 La fórmula es:
-\[
+$$
 \text{Valor Hurwicz} = \alpha \times (\text{máximo pago}) + (1-\alpha) \times (\text{mínimo pago})
-\]
+$$
 
-### Escenario pesimista ($\alpha < 0.5$):
+**Escenario pesimista ($\alpha < 0.5$)**
 Supongamos $\alpha = 0.3$ (más pesimista).
 
 - **Acción $a_1$**:
-\[
+$$
 H(a_1) = 0.3 \times 120,000 + 0.7 \times 60,000 = 36,000 + 42,000 = 78,000
-\]
+$$
 - **Acción $a_2$**:
-\[
+$$
 H(a_2) = 0.3 \times 1,900,000 + 0.7 \times (-100,000) = 570,000 - 70,000 = 500,000
-\]
+$$
 
 **Elección**: Para $\alpha = 0.3$, se elige **$a_2$ (desarrollar el campo)**.
 
-### Escenario neutro ($\alpha = 0.5$):
+**Escenario neutro ($\alpha = 0.5$)**
 Si $\alpha = 0.5$, el decisor es neutral.
 
 - **Acción $a_1$**:
-\[
+$$
 H(a_1) = 0.5 \times 120,000 + 0.5 \times 60,000 = 60,000 + 30,000 = 90,000
-\]
+$$
 - **Acción $a_2$**:
-\[
+$$
 H(a_2) = 0.5 \times 1,900,000 + 0.5 \times (-100,000) = 950,000 - 50,000 = 900,000
-\]
+$$
 
 **Elección**: Para $\alpha = 0.5$, se elige **$a_2$ (desarrollar el campo)**.
 
-### Escenario optimista ($\alpha > 0.5$):
+**Escenario optimista ($\alpha > 0.5$)**
 Supongamos $\alpha = 0.7$ (más optimista).
 
 - **Acción $a_1$**:
-\[
+$$
 H(a_1) = 0.7 \times 120,000 + 0.3 \times 60,000 = 84,000 + 18,000 = 102,000
-\]
+$$
 - **Acción $a_2$**:
-\[
+$$
 H(a_2) = 0.7 \times 1,900,000 + 0.3 \times (-100,000) = 1,330,000 - 30,000 = 1,300,000
-\]
+$$
 
 **Elección**: Para $\alpha = 0.7$, se elige **$a_2$ (desarrollar el campo)**.
 
-### Conclusión del criterio de Hurwicz:
+**Conclusión del criterio de Hurwicz**
 Independientemente del valor de $\alpha$, se elige **$a_2$ (desarrollar el campo)**, ya que pondera mejor los resultados máximos.
 
-## d) Criterio de Savage (Pesar Minimax)
+### 3.d. Criterio de Savage (Pesar Minimax)
 
 El **criterio de Savage** busca minimizar la "pérdida de oportunidad" o "regret". Primero, construimos la **matriz de pérdida de oportunidad**.
 
-### Matriz de pérdida de oportunidad:
+**Matriz de pérdida de oportunidad**
 
 | **Decisiones/Estados de la Naturaleza** | **$\theta_1$ (Hay gas)**    | **$\theta_2$ (No hay gas)**  |
 |-----------------------------------------|-----------------------------|------------------------------|
 | **Acción $a_1$ (Aceptar oferta)**       | $1,900,000 - 120,000 = 1,780,000 | $60,000 - 60,000 = 0              |
 | **Acción $a_2$ (Desarrollar el campo)** | $1,900,000 - 1,900,000 = 0   | $60,000 - (-100,000) = 160,000 |
 
-### Elección según el criterio minimax:
+**Elección según el criterio minimax**
 El decisor selecciona la acción que minimiza la pérdida máxima posible.
 
 - **Acción $a_1$**: La pérdida máxima es $1,780,000.
@@ -168,9 +167,10 @@ El decisor selecciona la acción que minimiza la pérdida máxima posible.
 
 **Elección**: Según este criterio, se elige **$a_2$ (desarrollar el campo)**, ya que su pérdida máxima es considerablemente menor.
 
-## Conclusión General
+### Conclusión General
 
 - Según los **criterios maximin** y **Savage**, se elige la **acción $a_1$ (aceptar la oferta)**, ya que es una opción conservadora.
 - Según los **criterios maximax**, **Hurwicz**, y **minimax**, se elige la **acción $a_2$ (desarrollar el campo)**, debido a la alta posibilidad de obtener un gran beneficio.
 
 El decisor deberá elegir entre estas acciones dependiendo de su aversión al riesgo y su nivel de optimismo.
+
