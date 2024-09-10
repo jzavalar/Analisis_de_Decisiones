@@ -10,13 +10,12 @@ A continuación voy a mostrar el uso de *[ChatGPT][]* como una herramienta poder
 
 En este primer prompt se solicita que, a partir del texto del problema, se realice el encuadre del problema.
 
+### Prompt
 Te voy a dar un problema para que me ayudes con la realización de varios análisis desde la perspectiva de la teoría de decisiones (análisis de decisiones) de la investigación de operaciones. El texto del problema es el siguiente:  
 
 "Una gran compañía de energéticos ofrece al dueño de un terreno $60,000 dólares por los derechos de exploración de gas natural en un sitio determinado y la opción para un desarrollo futuro. La opción, si se ejerce, vale $60,000 adicionales para el propietario, pero esto ocurrirá sólo si se descubre gas natural durante la etapa de exploración. El propietario, considerando que el interés de la compañía es una buena indicación de que existe gas, está tentado a desarrollar él mismo el campo. Para hacer esto, deberá contratar equipos locales con experiencia en exploración y desarrollo. El costo inicial es de $100,000, los que se perderán si no se encuentra gas. Sin embargo, si descubre gas, el propietario estima un beneficio neto de 2 millones de dólares." 
 
 El primer análisis que debes hacer es el "Encuadre del problema", que consiste en identificar en el texto del problema: a) El Decisor, b) Las acciones o decisiones posibles, c) Los estados de la naturaleza y d) La función de consecuencias o matriz de pagos. Abunda brevemente exponiendo los conceptos involucrados. Modifica tu propuesta nombrando las acciones como $a_1$, $a_2$, etc. y los estados de la naturaleza como $\theta_1$, $\theta_2$, etc. 
-
-Respuesta:
 
 # 2. Encuadre del Problema
 
@@ -48,13 +47,13 @@ Podemos organizarla así:
 | **Acción $a_1$ (Aceptar oferta)**       | $120,000                    | $60,000                      |
 | **Acción $a_2$ (Desarrollar el campo)** | $1,900,000                  | -$100,000                    |
 
-#### Explicación:
+### Explicación
 - Si el propietario toma la acción $a_1$ (aceptar la oferta de la compañía) y ocurre el estado $\theta_1$ (hay gas), recibe $60,000 por los derechos de exploración y $60,000 adicionales, sumando $120,000.
 - Si toma la acción $a_1$ y ocurre el estado $\theta_2$ (no hay gas), recibe únicamente $60,000.
 - Si el propietario toma la acción $a_2$ (desarrollar él mismo el campo) y ocurre el estado $\theta_1$ (hay gas), obtiene $2 millones de dólares, menos el costo de $100,000, lo que da una ganancia neta de $1,900,000.
 - Si toma la acción $a_2$ y ocurre el estado $\theta_2$ (no hay gas), pierde los $100,000 invertidos.
 
-### Resumen de los conceptos involucrados:
+### Resumen
 - **Decisor**: Es el individuo o la entidad que toma una decisión basada en las consecuencias esperadas de sus posibles acciones.
 - **Acciones** ($a_1$, $a_2$): Son las alternativas disponibles para el decisor, cada una de las cuales conduce a resultados diferentes dependiendo del estado de la naturaleza.
 - **Estados de la naturaleza** ($\theta_1$, $\theta_2$): Son factores externos que afectan el resultado de una decisión, pero que están fuera del control del decisor. En este caso, $\theta_1$ indica que hay gas y $\theta_2$ indica que no hay gas.
@@ -64,132 +63,114 @@ Este es el primer paso del análisis de decisiones, que consiste en enmarcar el 
 
 ## 3. Análisis de decisiones bajo *completa incertidumbre*
 
-Vamos a desarrollar el **análisis de decisiones bajo completa incertidumbre** usando diferentes **criterios de elección no probabilísticos**:
+### Prompt
+A continuación, realiza el "análisis de decisiones bajo completa incertidumbre". Para ello, utiliza los siguientes "criterios de elección no probabilísticos": a) Criterio maximin de Wald, b) Criterio maximax, c) Criterio de Hurwicz y d) Pesar minimax o Criterio de Savage. En el análisis del criterio de Hurwicz contrasta el análisis< con el índice $\alpha$ en los tres escenarios posibles: pesimista (0 menor o igual a $\alpha$ menor a 0.5), neutro ($\alpha$ igual a 0.5), optimista (0.5 menor a $\alpha$ menor o igual a 1). En el análisis del criterio de Savage incluye la matriz de pérdida de oportunidad. Desarrolla tu respuesta con los conceptos involucrados y el razonamiento que hay detrás de cada criterio, seguido del algoritmo básico y la elección. Haz una exposición didáctica y breve, pero suficiente para comprender cabalmente cada criterio.
 
-### 3.a. Criterio Maximin de Wald
-El **criterio maximin** es un enfoque pesimista que selecciona la acción que maximiza el **mínimo** beneficio posible, protegiéndose contra el peor escenario.
+# Análisis de Decisiones Bajo Completa Incertidumbre
 
-**Algoritmo básico**:
-1. Para cada acción, identifica la **mínima** ganancia posible (el peor escenario para esa acción).
-2. Selecciona la acción con el **máximo** de esos mínimos.
+Este análisis utiliza varios **criterios de elección no probabilísticos** para tomar una decisión bajo incertidumbre completa. El problema plantea una situación en la que el decisor no conoce las probabilidades de los estados de la naturaleza, por lo que debe basarse en criterios alternativos.
 
-**Aplicación**
-Tomemos la matriz de pagos:
+## Matriz de Pagos
 
-$$
-\begin{array}{|c|c|c|}
-\hline
-\text{Decisiones/Estados de la Naturaleza} & \theta_1 \ (\text{Hay gas}) & \theta_2 \ (\text{No hay gas}) \\
-\hline
-a_1 \ (\text{Aceptar oferta}) & 120,000 & 60,000 \\
-a_2 \ (\text{Desarrollar el campo}) & 1,900,000 & -100,000 \\
-\hline
-\end{array}
-$$
+| **Decisiones/Estados de la Naturaleza** | **$\theta_1$ (Hay gas)**    | **$\theta_2$ (No hay gas)**  |
+|-----------------------------------------|-----------------------------|------------------------------|
+| **Acción $a_1$ (Aceptar oferta)**       | $120,000                    | $60,000                      |
+| **Acción $a_2$ (Desarrollar el campo)** | $1,900,000                  | -$100,000                    |
 
-- Para $a_1$, el mínimo es \$60,000.
-- Para $a_2$, el mínimo es \$-100,000.
+## a) Criterio Maximin (de Wald)
 
-La **acción seleccionada** bajo el criterio maximin es **$a_1$** (Aceptar la oferta), ya que su peor escenario (\$60,000) es mejor que el peor escenario de $a_2$ (-\$100,000).
+El **criterio maximin** es conservador o **pesimista**. El decisor selecciona la acción cuyo peor resultado es el mejor posible.
 
-### 3.b. Criterio Maximax
-El **criterio maximax** es un enfoque **optimista**, que selecciona la acción que maximiza el **máximo** beneficio posible, esperando el mejor resultado.
+- **Acción $a_1$ (Aceptar oferta)**: El peor resultado es $60,000.
+- **Acción $a_2$ (Desarrollar el campo)**: El peor resultado es -$100,000.
 
-**Algoritmo básico**
-1. Para cada acción, identifica la **máxima** ganancia posible (el mejor escenario para esa acción).
-2. Selecciona la acción con el **máximo** de esos máximos.
+**Elección**: Según este criterio, se elige la **acción $a_1$ (aceptar la oferta)**, ya que $60,000 es mejor que -$100,000.
 
-**Aplicación**
-- Para $a_1$, el máximo es $120,000$.
-- Para $a_2$, el máximo es $1,900,000$.
+## b) Criterio Maximax
 
-La **acción seleccionada** bajo el criterio maximax es **$a_2$** (Desarrollar el campo), ya que tiene el mayor beneficio posible ($1,900,000$).
+El **criterio maximax** es **optimista**. Se elige la acción que tiene el mejor resultado máximo posible.
 
-### 3.c. Criterio de Hurwicz
-El **criterio de Hurwicz** es un compromiso entre el pesimismo y el optimismo. Utiliza un parámetro $\alpha$, que representa el nivel de optimismo del decisor. La fórmula pondera el mejor y el peor resultado de cada acción:
+- **Acción $a_1$ (Aceptar oferta)**: El mejor resultado es $120,000.
+- **Acción $a_2$ (Desarrollar el campo)**: El mejor resultado es $1,900,000.
 
-$$$
-H(a_i) = \alpha \times \text{máximo de } a_i + (1 - \alpha) \times \text{mínimo de } a_i
-$$$
+**Elección**: Según este criterio, se elige la **acción $a_2$ (desarrollar el campo)**, ya que $1,900,000 es el máximo valor posible.
 
-- Si $\alpha = 1$, es completamente optimista (equivalente al criterio maximax).
-- Si $\alpha = 0$, es completamente pesimista (equivalente al criterio maximin).
+## c) Criterio de Hurwicz
 
-**Aplicación**
-Para $a_1$: 
-$$$
-H(a_1) = \alpha \times 120,000 + (1 - \alpha) \times 60,000
-$$$
-Para $a_2$: 
-$$$
-H(a_2) = \alpha \times 1,900,000 + (1 - \alpha) \times (-100,000)
-$$$
+El **criterio de Hurwicz** es un compromiso entre el pesimismo y el optimismo, ponderando los mejores y peores resultados con un coeficiente $\alpha$ que refleja el nivel de optimismo (0 ≤ $\alpha$ ≤ 1).
 
-Ahora evaluamos con diferentes valores de $\alpha$:
+La fórmula es:
+\[
+\text{Valor Hurwicz} = \alpha \times (\text{máximo pago}) + (1-\alpha) \times (\text{mínimo pago})
+\]
 
-1. **Pesimista** ($0 \leq \alpha < 0.5$): Tomemos $\alpha = 0.3$.
-   $$$
-   H(a_1) = 0.3 \times 120,000 + 0.7 \times 60,000 = 36,000 + 42,000 = 78,000 \
-   H(a_2) = 0.3 \times 1,900,000 + 0.7 \times (-100,000) = 570,000 - 70,000 = 500,000
-   $$$
-   Aquí se selecciona **$a_2$** (Desarrollar el campo).
+### Escenario pesimista ($\alpha < 0.5$):
+Supongamos $\alpha = 0.3$ (más pesimista).
 
-2. **Neutro** ($\alpha = 0.5$):
-   $$$
-   H(a_1) = 0.5 \times 120,000 + 0.5 \times 60,000 = 60,000 + 30,000 = 90,000 \
-   H(a_2) = 0.5 \times 1,900,000 + 0.5 \times (-100,000) = 950,000 - 50,000 = 900,000
-   $$$
-   Aquí se selecciona **$a_2$** (Desarrollar el campo).
+- **Acción $a_1$**:
+\[
+H(a_1) = 0.3 \times 120,000 + 0.7 \times 60,000 = 36,000 + 42,000 = 78,000
+\]
+- **Acción $a_2$**:
+\[
+H(a_2) = 0.3 \times 1,900,000 + 0.7 \times (-100,000) = 570,000 - 70,000 = 500,000
+\]
 
-3. **Optimista** ($0.5 < \alpha \leq 1$): Tomemos $\alpha = 0.7$.
-   $$$
-   H(a_1) = 0.7 \times 120,000 + 0.3 \times 60,000 = 84,000 + 18,000 = 102,000 \
-   H(a_2) = 0.7 \times 1,900,000 + 0.3 \times (-100,000) = 1,330,000 - 30,000 = 1,300,000
-   $$$
-   Aquí se selecciona **$a_2$** (Desarrollar el campo).
+**Elección**: Para $\alpha = 0.3$, se elige **$a_2$ (desarrollar el campo)**.
 
-**Explicación de $\alpha$**
-- **Pesimista**: Con $\alpha$ bajo ($0 \leq \alpha < 0.5$), se da más peso al peor escenario.
-- **Neutro**: Con $\alpha = 0.5$, se ponderan igualmente los mejores y peores escenarios.
-- **Optimista**: Con $\alpha$ alto ($0.5 < \alpha \leq 1$), se da más peso al mejor escenario.
+### Escenario neutro ($\alpha = 0.5$):
+Si $\alpha = 0.5$, el decisor es neutral.
 
-### 3.d. Criterio Minimax de Savage
-El **criterio minimax** de **Savage** minimiza el **remordimiento** o la **pérdida de oportunidad**. Este criterio considera cuánto se perdería en comparación con la mejor decisión posible en cada estado de la naturaleza.
+- **Acción $a_1$**:
+\[
+H(a_1) = 0.5 \times 120,000 + 0.5 \times 60,000 = 60,000 + 30,000 = 90,000
+\]
+- **Acción $a_2$**:
+\[
+H(a_2) = 0.5 \times 1,900,000 + 0.5 \times (-100,000) = 950,000 - 50,000 = 900,000
+\]
 
-**Algoritmo básico**
-1. Construir la **matriz de pérdida de oportunidad** restando el pago de cada acción del mejor pago en cada estado de la naturaleza.
-2. Identificar el **máximo** valor de pérdida de oportunidad para cada acción.
-3. Seleccionar la acción con el **mínimo** de esos máximos.
+**Elección**: Para $\alpha = 0.5$, se elige **$a_2$ (desarrollar el campo)**.
 
-**Matriz de pérdida de oportunidad**
-Calculamos los máximos por estado:
-- En $\theta_1$ (Hay gas), el máximo es $1,900,000$.
-- En $\theta_2$ (No hay gas), el máximo es $60,000$.
+### Escenario optimista ($\alpha > 0.5$):
+Supongamos $\alpha = 0.7$ (más optimista).
 
-Ahora restamos estos valores de los pagos:
+- **Acción $a_1$**:
+\[
+H(a_1) = 0.7 \times 120,000 + 0.3 \times 60,000 = 84,000 + 18,000 = 102,000
+\]
+- **Acción $a_2$**:
+\[
+H(a_2) = 0.7 \times 1,900,000 + 0.3 \times (-100,000) = 1,330,000 - 30,000 = 1,300,000
+\]
 
-$$$
-\begin{array}{|c|c|c|}
-\hline
-\text{Decisiones/Estados de la Naturaleza} & \theta_1 \ (\text{Hay gas}) & \theta_2 \ (\text{No hay gas}) \\
-\hline
-a_1 \ (\text{Aceptar oferta}) & 1,900,000 - 120,000 = 1,780,000 & 60,000 - 60,000 = 0 \\
-a_2 \ (\text{Desarrollar el campo}) & 1,900,000 - 1,900,000 = 0 & 60,000 - (-100,000) = 160,000 \\
-\hline
-\end{array}
-$$$
+**Elección**: Para $\alpha = 0.7$, se elige **$a_2$ (desarrollar el campo)**.
 
-**Selección de la acción**
-- Para $a_1$, la pérdida máxima es $1,780,000$.
-- Para $a_2$, la pérdida máxima es $160,000$.
+### Conclusión del criterio de Hurwicz:
+Independientemente del valor de $\alpha$, se elige **$a_2$ (desarrollar el campo)**, ya que pondera mejor los resultados máximos.
 
-La **acción seleccionada** bajo el criterio minimax es **$a_2$** (Desarrollar el campo), ya que minimiza la pérdida de oportunidad.
+## d) Criterio de Savage (Pesar Minimax)
 
----
+El **criterio de Savage** busca minimizar la "pérdida de oportunidad" o "regret". Primero, construimos la **matriz de pérdida de oportunidad**.
 
-### Resumen de Decisiones por Criterio
-- **Maximin de Wald**: $a_1$ (Aceptar la oferta).
-- **Maximax**: $a_2$ (Desarrollar el campo).
-- **Hurwicz**: Depende de $\alpha$ (para $\alpha = 0.3$, $\alpha = 0.5$, y $\alpha = 0.7$, se selecciona $a_2$).
-- **Minimax de Savage**: $a_2$ (Desarrollar el campo).
+### Matriz de pérdida de oportunidad:
 
+| **Decisiones/Estados de la Naturaleza** | **$\theta_1$ (Hay gas)**    | **$\theta_2$ (No hay gas)**  |
+|-----------------------------------------|-----------------------------|------------------------------|
+| **Acción $a_1$ (Aceptar oferta)**       | $1,900,000 - 120,000 = 1,780,000 | $60,000 - 60,000 = 0              |
+| **Acción $a_2$ (Desarrollar el campo)** | $1,900,000 - 1,900,000 = 0   | $60,000 - (-100,000) = 160,000 |
+
+### Elección según el criterio minimax:
+El decisor selecciona la acción que minimiza la pérdida máxima posible.
+
+- **Acción $a_1$**: La pérdida máxima es $1,780,000.
+- **Acción $a_2$**: La pérdida máxima es $160,000.
+
+**Elección**: Según este criterio, se elige **$a_2$ (desarrollar el campo)**, ya que su pérdida máxima es considerablemente menor.
+
+## Conclusión General
+
+- Según los **criterios maximin** y **Savage**, se elige la **acción $a_1$ (aceptar la oferta)**, ya que es una opción conservadora.
+- Según los **criterios maximax**, **Hurwicz**, y **minimax**, se elige la **acción $a_2$ (desarrollar el campo)**, debido a la alta posibilidad de obtener un gran beneficio.
+
+El decisor deberá elegir entre estas acciones dependiendo de su aversión al riesgo y su nivel de optimismo.
