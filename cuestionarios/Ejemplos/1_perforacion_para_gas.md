@@ -98,7 +98,7 @@ El **criterio maximax** es **optimista**. Se elige la acción que tiene el mejor
 
 El **criterio de Hurwicz** es un compromiso entre el pesimismo y el optimismo, ponderando los mejores y peores resultados con un coeficiente $\alpha$ que refleja el nivel de optimismo (0 ≤ $\alpha$ ≤ 1).
 
-La fórmula es:
+La fórmula es:  
 $$
 \text{Valor Hurwicz} = \alpha \times (\text{máximo pago}) + (1-\alpha) \times (\text{mínimo pago})
 $$
@@ -106,11 +106,11 @@ $$
 **Escenario pesimista ($\alpha < 0.5$)**
 Supongamos $\alpha = 0.3$ (más pesimista).
 
-- **Acción $a_1$**:
+- **Acción $a_1$**:  
 $$  
 H(a_1) = 0.3 \times 120,000 + 0.7 \times 60,000 = 36,000 + 42,000 = 78,000
 $$  
-- **Acción $a_2$**:
+- **Acción $a_2$**:  
 $$  
 H(a_2) = 0.3 \times 1,900,000 + 0.7 \times (-100,000) = 570,000 - 70,000 = 500,000
 $$  
@@ -120,11 +120,11 @@ $$
 **Escenario neutro ($\alpha = 0.5$)**
 Si $\alpha = 0.5$, el decisor es neutral.
 
-- **Acción $a_1$**:
+- **Acción $a_1$**:  
 $$
 H(a_1) = 0.5 \times 120,000 + 0.5 \times 60,000 = 60,000 + 30,000 = 90,000
 $$
-- **Acción $a_2$**:
+- **Acción $a_2$**:  
 $$
 H(a_2) = 0.5 \times 1,900,000 + 0.5 \times (-100,000) = 950,000 - 50,000 = 900,000
 $$
@@ -134,11 +134,11 @@ $$
 **Escenario optimista ($\alpha > 0.5$)**
 Supongamos $\alpha = 0.7$ (más optimista).
 
-- **Acción $a_1$**:
+- **Acción $a_1$**:  
 $$
 H(a_1) = 0.7 \times 120,000 + 0.3 \times 60,000 = 84,000 + 18,000 = 102,000
 $$
-- **Acción $a_2$**:
+- **Acción $a_2$**:  
 $$
 H(a_2) = 0.7 \times 1,900,000 + 0.3 \times (-100,000) = 1,330,000 - 30,000 = 1,300,000
 $$
