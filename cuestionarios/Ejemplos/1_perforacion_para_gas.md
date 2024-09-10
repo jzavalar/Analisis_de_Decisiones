@@ -247,7 +247,7 @@ En todos los criterios, la **acción $a_2$ (desarrollar el campo)** es la mejor 
 
 ### Prompt
 A partir de la matriz de pagos original, realiza el "análisis a posteriori" bajo la siguiente información complementaria: 
-"El propietario ha decidido realizar pruebas con sonido en el sitio en donde se sospecha que haya gas natural, con un costo de $30,000. Las pruebas de sonido indican que no hay gas presente, pero la prueba no es perfecta. La compañía que realizó las pruebas acepta que 30% de las veces la prueba indicará que no hay gas cuando en realidad éste existe. Cuando no existe gas, la prueba es acertada 90% de las veces. Empleando estos datos, actualícese la estimación inicial del propietario de que la probabilidad de encontrar gas es de 0.6 y determínese después la decisión recomendada bajo el 'criterio a posteriori'."
+"El propietario ha decidido **realizar pruebas con sonido** en el sitio en donde se sospecha que haya gas natural, con un costo de $30,000. Las **pruebas de sonido** indican que **no hay gas** presente, pero la prueba no es perfecta. La compañía que realizó las pruebas acepta que 30% de las veces la prueba indicará que no hay gas cuando en realidad éste existe. Cuando no existe gas, la prueba es acertada 90% de las veces. Empleando estos datos, actualícese la estimación inicial del propietario de que la probabilidad de encontrar gas es de 0.6 y determínese después la decisión recomendada bajo el '**criterio a posteriori**'."
 
 ### Respuesta
 
@@ -331,7 +331,7 @@ Después de actualizar las probabilidades utilizando la nueva información propo
 ## 6. Análisis de deciciones con experimentación
 
 ### Prompt
-Ahora, resuelve el problema considerando que las pruebas de sonido indicaron que había gas presente. Desarrolla un árbol de decisión que ilustre el problema y la solucion. Realiza una breve argumentación del análisis.
+Ahora, resuelve el problema considerando que **las pruebas de sonido indicaron que había gas** presente. Desarrolla un árbol de decisión que ilustre el problema y la solucion. Realiza una breve argumentación del análisis.
 
 ### Respuesta
 Para resolver el problema considerando que las pruebas de sonido indicaron que había gas presente, seguiremos estos pasos:
@@ -343,34 +343,25 @@ Para resolver el problema considerando que las pruebas de sonido indicaron que h
 #### 1. Actualización de Probabilidades
 
 La prueba indicó que *hay gas*. La tasa de error de la prueba es la siguiente:
-- **Tasa de falso positivo**: La prueba indica gas cuando no hay gas en el 10% de los casos. Es decir, \( P(\text{Prueba indica gas} | \theta_2) = 0.1 \).
-- **Tasa de verdadero positivo**: La prueba indica gas cuando hay gas en el 70% de los casos. Es decir, \( P(\text{Prueba indica gas} | \theta_1) = 0.7 \).
+- **Tasa de falso positivo**: La prueba indica gas cuando no hay gas en el 10% de los casos. Es decir, $P(\text{Prueba indica gas} | \theta_2) = 0.1$.
+- **Tasa de verdadero positivo**: La prueba indica gas cuando hay gas en el 70% de los casos. Es decir, $P(\text{Prueba indica gas} | \theta_1) = 0.7$.
 
-Calculamos la probabilidad a posteriori de que haya gas dado que la prueba indicó gas:
+Calculamos la probabilidad a posteriori de que haya gas dado que la prueba indicó gas:  
 
-\[
-P(\theta_1 | \text{Prueba indica gas}) = \frac{P(\text{Prueba indica gas} | \theta_1) \cdot P(\theta_1)}{P(\text{Prueba indica gas})}
-\]
+$$P(\theta_1 | \text{Prueba indica gas}) = \frac{P(\text{Prueba indica gas} | \theta_1) \cdot P(\theta_1)}{P(\text{Prueba indica gas})}$  
 
-Donde:
+Donde:  
 
-\[
-P(\text{Prueba indica gas}) = P(\text{Prueba indica gas} | \theta_1) \cdot P(\theta_1) + P(\text{Prueba indica gas} | \theta_2) \cdot P(\theta_2)
-\]
+$P(\text{Prueba indica gas}) = P(\text{Prueba indica gas} | \theta_1) \cdot P(\theta_1) + P(\text{Prueba indica gas} | \theta_2) \cdot P(\theta_2)$  
 
-**Cálculo**
+**Cálculo**  
 
-\[
-P(\text{Prueba indica gas}) = (0.7 \times 0.6) + (0.1 \times 0.4) = 0.42 + 0.04 = 0.46
-\]
+$P(\text{Prueba indica gas}) = (0.7 \times 0.6) + (0.1 \times 0.4) = 0.42 + 0.04 = 0.46$
 
-\[
-P(\theta_1 | \text{Prueba indica gas}) = \frac{0.7 \times 0.6}{0.46} = \frac{0.42}{0.46} \approx 0.913
-\]
+$P(\theta_1 | \text{Prueba indica gas}) = \frac{0.7 \times 0.6}{0.46} = \frac{0.42}{0.46} \approx 0.913$
 
-\[
-P(\theta_2 | \text{Prueba indica gas}) = 1 - P(\theta_1 | \text{Prueba indica gas}) = 1 - 0.913 = 0.087
-\]
+$P(\theta_2 | \text{Prueba indica gas}) = 1 - P(\theta_1 | \text{Prueba indica gas}) = 1 - 0.913 = 0.087$
+
 
 #### 2. Construcción del Árbol de Decisión
 
@@ -385,7 +376,7 @@ Para cada resultado, se consideran las decisiones disponibles y los valores espe
 
 **Árbol de Decisión**
 
-```
+```Ruby
 Decisión Inicial
 |
 |-- Realizar Prueba de Sonido ($30,000)
@@ -412,34 +403,31 @@ Decisión Inicial
 Para cada escenario, calculamos el valor esperado:
 
 - **Valor Esperado (Prueba indica gas)**
-  - **Acción $a_1$ (Aceptar oferta)**:
-    \[
-    \text{VEM}(a_1 | \text{Gas}) = 120,000
-    \]
-  - **Acción $a_2$ (Desarrollar el campo)**
-    \[
-    \text{VEM}(a_2 | \text{Gas}) = 1,900,000
-    \]
+  - **Acción $a_1$ (Aceptar oferta)**:  
+
+    $VEM(a_1 | \text{Gas}) = 120,000$
+    
+  - **Acción $a_2$ (Desarrollar el campo)**  
+
+    $VEM}(a_2 | \text{Gas}) = 1,900,000$
+
 
 - **Valor Esperado (Prueba indica no gas)**
-  - **Acción $a_1$ (Aceptar oferta)**:
-    \[
-    \text{VEM}(a_1 | \text{No gas}) = 60,000
-    \]
+  - **Acción $a_1$ (Aceptar oferta)**:  
+    
+    $VEM(a_1 | \text{No gas}) = 60,000$
+    
   - **Acción $a_2$ (Desarrollar el campo)**:
-    \[
-    \text{VEM}(a_2 | \text{No gas}) = -100,000
-    \]
+    
+    $VEM(a_2 | \text{No gas}) = -100,000$
+    
 
 **Cálculo del Valor Esperado Medio (VEM) Total**
 
-\[
-\text{VEM}(a_1) = (0.913 \times 120,000) + (0.087 \times 60,000) = 109,560 + 5,220 = 114,780
-\]
+$VEM(a_1) = (0.913 \times 120,000) + (0.087 \times 60,000) = 109,560 + 5,220 = 114,780$
 
-\[
-\text{VEM}(a_2) = (0.913 \times 1,900,000) + (0.087 \times -100,000) = 1,734,700 - 8,700 = 1,726,000
-\]
+$VEM(a_2) = (0.913 \times 1,900,000) + (0.087 \times -100,000) = 1,734,700 - 8,700 = 1,726,000$
+
 
 #### Decisión Recomendada
 
