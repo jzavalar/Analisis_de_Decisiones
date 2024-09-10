@@ -249,8 +249,8 @@ El **análisis a posteriori** implica utilizar nueva información para ajustar l
 2. **Información de la prueba**:
    - La prueba indicó que **no hay gas**.
    - **Tasa de error de la prueba**:
-     - **Falso negativo**: $P(\text{Prueba indica no gas} \lor \theta_1) = 0.3$
-     - **Verdadero negativo**: $P(\text{Prueba indica no gas} \lor \theta_2) = 0.9$
+     - **Falso negativo**: $P(\text{Prueba indica no gas} | \theta_1) = 0.3$
+     - **Verdadero negativo**: $P(\text{Prueba indica no gas} | \theta_2) = 0.9$
 
 3. **Costo de la prueba**:  
    - $30,000.
@@ -261,11 +261,11 @@ El **Teorema de Bayes** nos permite calcular la **probabilidad a posteriori** de
 
 El teorema de Bayes se expresa como:
 
-$P(\theta_1 \lor \text{Prueba indica no gas}) = \frac{P(\text{Prueba indica no gas} \lor \theta_1) P(\theta_1)}{P(\text{Prueba indica no gas})}$
+$P(\theta_1 | \text{Prueba indica no gas}) = \frac{P(\text{Prueba indica no gas} | \theta_1) P(\theta_1)}{P(\text{Prueba indica no gas})}$
 
 Donde:
 
-$P(\text{Prueba indica no gas}) = P(\text{Prueba indica no gas} \lor \theta_1) P(\theta_1) + P(\text{Prueba indica no gas} \lor \theta_2) P(\theta_2)$
+$P(\text{Prueba indica no gas}) = P(\text{Prueba indica no gas} | \theta_1) P(\theta_1) + P(\text{Prueba indica no gas} | \theta_2) P(\theta_2)$
 
 
 ### Paso 1: Cálculo de \( P(\text{Prueba indica no gas}) \)
@@ -274,14 +274,12 @@ $P(\text{Prueba indica no gas}) = (0.3 \times 0.6) + (0.9 \times 0.4)$
 $P(\text{Prueba indica no gas}) = 0.18 + 0.36 = 0.54$
 
 
-### Paso 2: Cálculo de la probabilidad a posteriori $P(\theta_1 | \text{Prueba indica no gas})$
+### Paso 2: Cálculo de la probabilidad a posteriori
+$P(\theta_1 | \text{Prueba indica no gas}) = \frac{0.3 \times 0.6}{0.54} = \frac{0.18}{0.54} = 0.333$
 
-$P(\theta_1 \lor \text{Prueba indica no gas}) = \frac{0.3 \times 0.6}{0.54} = \frac{0.18}{0.54} = 0.333$
 
-
-### Paso 3: Cálculo de la probabilidad a posteriori $P(\theta_2 \lor \text{Prueba indica no gas})$
-
-$P(\theta_2 \lor \text{Prueba indica no gas}) = 1 - P(\theta_1 \lor \text{Prueba indica no gas}) = 1 - 0.333 = 0.667$
+### Paso 3: Cálculo de la probabilidad a posteriori $P(\theta_2 | \text{Prueba indica no gas})$
+$P(\theta_2 | \text{Prueba indica no gas}) = 1 - P(\theta_1 | \text{Prueba indica no gas}) = 1 - 0.333 = 0.667$
 
 ## Análisis de decisiones a posteriori
 
@@ -297,11 +295,11 @@ Utilizaremos la **regla de Bayes (Valor Esperado Medio - VEM)** con las nuevas p
 ### Cálculo del Valor Esperado Medio (VEM):
 
 - **Acción $a_1$ (Aceptar oferta)**:
-  $VEM}(a_1) = P(\theta_1 \lor \text{Prueba indica no gas}) \times 120,000 + P(\theta_2 \lor \text{Prueba indica no gas}) \times 60,000$
+  $VEM}(a_1) = P(\theta_1 | \text{Prueba indica no gas}) \times 120,000 + P(\theta_2 | \text{Prueba indica no gas}) \times 60,000$
   $\text{VEM}(a_1) = (0.333 \times 120,000) + (0.667 \times 60,000) = 40,000 + 40,020 = 80,020$
 
 - **Acción $a_2$ (Desarrollar el campo)**:
-  $\text{VEM}(a_2) = P(\theta_1 \lor \text{Prueba indica no gas}) \times 1,900,000 + P(\theta_2 \lor \text{Prueba indica no gas}) \times (-100,000)$
+  $\text{VEM}(a_2) = P(\theta_1 | \text{Prueba indica no gas}) \times 1,900,000 + P(\theta_2 | \text{Prueba indica no gas}) \times (-100,000)$
 
   $\text{VEM}(a_2) = (0.333 \times 1,900,000) + (0.667 \times -100,000) = 633,700 - 66,700 = 567,000$
 
