@@ -1,4 +1,6 @@
-# Planteamiento del problema
+# Problema 1. Analizar la perforación de un pozo para extraer gar natural
+
+## Planteamiento del problema
 
 Una gran compañía de energéticos ofrece al dueño de un terreno $60,000 por los derechos de exploración de gas natural en un sitio determinado y la opción para un desarrollo futuro. La opción, si se ejerce, vale $60,000 adicionales para el propietario, pero esto ocurrirá sólo si se descubre gas natural durante la etapa de exploración. El propietario, considerando que el interés de la compañía es una buena indicación de que existe gas, está tentado a desarrollar él mismo el campo. Para hacer esto, deberá contratar equipos locales con experiencia en exploración y desarrollo. El costo inicial es de $100,000, los que se perderán si no se encuentra gas. Sin embargo, si descubre gas, el propietario estima un beneficio neto de 2 millones de dólares.
 
@@ -13,45 +15,45 @@ El decisor en este caso es el **propietario del terreno**. Este individuo debe t
 ### b. Decisiones:
 El propietario tiene las siguientes decisiones posibles:
 
-- **D1:** Aceptar la oferta de $60,000 y permitir a la compañía realizar la exploración.
-- **D2:** No aceptar la oferta y no permitir la exploración por parte de la compañía.
-- **D3:** Decidir desarrollar por sí mismo la exploración y posible extracción de gas, lo que requiere una inversión inicial de $100,000.
+- **$D_1$:** Aceptar la oferta de $60,000 y permitir a la compañía realizar la exploración.
+- **$D_2$:** No aceptar la oferta y no permitir la exploración por parte de la compañía.
+- **$D_3$:** Decidir desarrollar por sí mismo la exploración y posible extracción de gas, lo que requiere una inversión inicial de $100,000.
 
 ### c. Estados de la naturaleza:
 Los posibles estados de la naturaleza (resultados de la exploración) que pueden ocurrir son:
 
-- **S1:** Se encuentra gas natural.
-- **S2:** No se encuentra gas natural.
+- **$S_1$:** Se encuentra gas natural.
+- **$S_2$:** No se encuentra gas natural.
 
 ### d. Matriz de Pago:
 Ahora, construyamos la matriz de pago para cada combinación de decisiones y estados de la naturaleza.
 
-- **Para D1 (Aceptar la oferta):**
-  - Si S1 (se encuentra gas natural): el propietario recibe $60,000.
-  - Si S2 (no se encuentra gas natural): el propietario recibe $60,000.
+- **Para $D_1$ (Aceptar la oferta):**
+  - Si $S_1$ (se encuentra gas natural): el propietario recibe $60,000.
+  - Si $S_2$ (no se encuentra gas natural): el propietario recibe $60,000.
 
-- **Para D2 (No aceptar la oferta):**
-  - En ambos estados (S1, S2): el propietario no recibe nada porque no hay exploración ni desarrollo.
+- **Para $D_2$ (No aceptar la oferta):**
+  - En ambos estados ($S_1$, $S_2$): el propietario no recibe nada porque no hay exploración ni desarrollo.
 
-- **Para D3 (Desarrollar por sí mismo):**
-  - Si S1 (se encuentra gas natural): el beneficio neto será de $2,000,000 - $100,000 (costo inicial) = $1,900,000.
-  - Si S2 (no se encuentra gas natural): el propietario pierde $100,000.
+- **Para $D_3$ (Desarrollar por sí mismo):**
+  - Si $S_1$ (se encuentra gas natural): el beneficio neto será de $2,000,000 - $100,000 (costo inicial) = $1,900,000.
+  - Si $S_2$ (no se encuentra gas natural): el propietario pierde $100,000.
 
 Ahora podemos organizar esta información en forma de una matriz de pago:
 
-| Decisiones/Estados | Se encuentra gas (S1) | No se encuentra gas (S2) |
+| Decisiones/Estados | Se encuentra gas ($S_1$) | No se encuentra gas ($S_2$) |
 |--------------------|-----------------------|---------------------------|
-| **Aceptar oferta (D1)**     | $60,000               | $60,000                     |
-| **No aceptar oferta (D2)**  | $0                    | $0                          |
-| **Desarrollar (D3)**        | $1,900,000            | -$100,000                  |
+| **Aceptar oferta ($D_1$)**     | $60,000               | $60,000                     |
+| **No aceptar oferta ($D_2$)**  | $0                    | $0                          |
+| **Desarrollar ($D_3$)**        | $1,900,000            | -$100,000                  |
 
 Con esta matriz, el propietario puede evaluar las diferentes decisiones disponibles en función de los posibles estados de la naturaleza y así tomar una decisión informada.
 
 ## 2. Ajuste del encuadre
 
-En tu propuesta, une D2 y D3 en una misma: D2 y haz de nuevo el encuadre.
+En tu propuesta, une $D_2$ y $D_3$ en una misma: $D_2$ y haz de nuevo el encuadre.
 
-Claro, vamos a unir las decisiones D2 (No aceptar la oferta) y D3 (Desarrollar por sí mismo) en una sola decisión, que llamaremos D2. Esto simplificará la toma de decisiones del propietario en base a la oferta de la compañía de energéticos. 
+Claro, vamos a unir las decisiones $D_2$ (No aceptar la oferta) y $D_3$ (Desarrollar por sí mismo) en una sola decisión, que llamaremos $D_2$. Esto simplificará la toma de decisiones del propietario en base a la oferta de la compañía de energéticos. 
 
 ### a. Decisor:
 El **propietario del terreno** es el decisor que debe tomar la decisión sobre cómo proceder respecto a la oferta de la compañía energética y la posibilidad de explorar gas natural.
@@ -59,32 +61,32 @@ El **propietario del terreno** es el decisor que debe tomar la decisión sobre c
 ### b. Decisiones:
 El propietario tiene las siguientes decisiones posibles:
 
-- **D1:** Aceptar la oferta de $60,000 y permitir a la compañía realizar la exploración.
-- **D2:** No aceptar la oferta y optar por no permitir la exploración, o decidir desarrollar él mismo la exploración, lo que implica un costo inicial de $100,000.
+- **$D_1$:** Aceptar la oferta de $60,000 y permitir a la compañía realizar la exploración.
+- **$D_2$:** No aceptar la oferta y optar por no permitir la exploración, o decidir desarrollar él mismo la exploración, lo que implica un costo inicial de $100,000.
 
 ### c. Estados de la naturaleza:
 Los posibles estados de la naturaleza (resultados de la exploración que pueden ocurrir) son:
 
-- **S1:** Se encuentra gas natural.
-- **S2:** No se encuentra gas natural.
+- **$S_1$:** Se encuentra gas natural.
+- **$S_2$:** No se encuentra gas natural.
 
 ### d. Matriz de Pago:
 Ahora, construyamos la matriz de pago considerando las decisiones combinadas y sus respectivos resultados:
 
-- **Para D1 (Aceptar la oferta):**
-  - Si S1 (se encuentra gas natural): el propietario recibe $60,000.
-  - Si S2 (no se encuentra gas natural): el propietario recibe $60,000.
+- **Para $D_1$ (Aceptar la oferta):**
+  - Si $S_1$ (se encuentra gas natural): el propietario recibe $60,000.
+  - Si $S_2$ (no se encuentra gas natural): el propietario recibe $60,000.
 
-- **Para D2 (No aceptar la oferta o desarrollar por sí mismo):**
-  - Si S1 (se encuentra gas natural): el beneficio neto será de $2,000,000 - $100,000 (costo inicial) = $1,900,000.
-  - Si S2 (no se encuentra gas natural): el propietario pierde $100,000.
+- **Para $D_2$ (No aceptar la oferta o desarrollar por sí mismo):**
+  - Si $S_1$ (se encuentra gas natural): el beneficio neto será de $2,000,000 - $100,000 (costo inicial) = $1,900,000.
+  - Si $S_2$ (no se encuentra gas natural): el propietario pierde $100,000.
 
 La matriz de pago quedará de la siguiente manera:
 
-| Decisiones/Estados | Se encuentra gas (S1) | No se encuentra gas (S2) |
+| Decisiones/Estados | Se encuentra gas ($S_1$) | No se encuentra gas ($S_2$) |
 |--------------------|-----------------------|---------------------------|
-| **Aceptar oferta (D1)**     | $60,000               | $60,000                     |
-| **No aceptar oferta / Desarrollar (D2)**  | $1,900,000           | -$100,000                  |
+| **Aceptar oferta ($D_1$)**     | $60,000               | $60,000                     |
+| **No aceptar oferta / Desarrollar ($D_2$)**  | $1,900,000           | -$100,000                  |
 
 Esta nueva estructura facilitada permite al propietario analizar de manera más eficiente las posibles consecuencias financieras de cada decisión frente a los estados de la naturaleza y tomar una decisión informada.
 
@@ -94,36 +96,36 @@ A partir de tu propuesta, realiza el análisis de decisiones con cada uno de los
 
 Vamos a realizar el análisis de decisiones bajo completa incertidumbre utilizando los criterios solicitados. Los criterios que analizaremos son: Maximin de Wald, Maximax, Hurwicz y Savage. Primero, recordemos la matriz de pago que hemos generado:
 
-| Decisiones/Estados | Se encuentra gas (S1) | No se encuentra gas (S2) |
+| Decisiones/Estados | Se encuentra gas ($S_1$) | No se encuentra gas ($S_2$) |
 |--------------------|-----------------------|---------------------------|
-| **Aceptar oferta (D1)**     | $60,000               | $60,000                     |
-| **No aceptar oferta / Desarrollar (D2)**  | $1,900,000           | -$100,000                  |
+| **Aceptar oferta ($D_1$)**     | $60,000               | $60,000                     |
+| **No aceptar oferta / Desarrollar ($D_2$)**  | $1,900,000           | -$100,000                  |
 
 ### a. Maximin de Wald
 
 El criterio Maximin (o de Wald) consiste en seleccionar la alternativa que maximiza el mínimo resultado posible.
 
-- Para D1: el mínimo pago es $60,000.
-- Para D2: el mínimo pago es -$100,000.
+- Para $D_1$: el mínimo pago es $60,000.
+- Para $D_2$: el mínimo pago es -$100,000.
 
 **Maximin:**
-- D1:  $60,000 (mínimo)
-- D2: -$100,000 (mínimo)
+- $D_1$:  $60,000 (mínimo)
+- $D_2$: -$100,000 (mínimo)
 
-**Decisión:** Escoger D1 (Aceptar la oferta), ya que tiene el mayor mínimo resultado.
+**Decisión:** Escoger $D_1$ (Aceptar la oferta), ya que tiene el mayor mínimo resultado.
 
 ### b. Maximax
 
 El criterio Maximax consiste en seleccionar la alternativa que maximiza el máximo resultado posible. 
 
-- Para D1: el máximo pago es $60,000.
-- Para D2: el máximo pago es $1,900,000.
+- Para $D_1$: el máximo pago es $60,000.
+- Para $D_2$: el máximo pago es $1,900,000.
 
 **Maximax:**
-- D1: $60,000 (máximo)
-- D2: $1,900,000 (máximo)
+- $D_1$: $60,000 (máximo)
+- $D_2$: $1,900,000 (máximo)
 
-**Decisión:** Escoger D2 (No aceptar la oferta / Desarrollar), ya que tiene el mayor resultado máximo.
+**Decisión:** Escoger $D_2$ (No aceptar la oferta / Desarrollar), ya que tiene el mayor resultado máximo.
 
 ### c. Hurwicz (con alpha = 1/3)
 
@@ -133,16 +135,16 @@ Para $alpha = 1/3$, se utiliza $1 - alpha = 2/3$.
 
 Calculemos la utilidad de cada decisión:
 
-- Para D1:  
-  $H(D1) = \frac{1}{3} \times (60,000) + \frac{2}{3} \times (60,000) = 60,000 $
+- Para $D_1$:  
+  $H(D_1) = \frac{1}{3} \times (60,000) + \frac{2}{3} \times (60,000) = 60,000 $
    
 
-- Para D2:  
-  $ H(D2) = \frac{1}{3} \times (1,900,000) + \frac{2}{3} \times (-100,000) $
-  $ H(D2) = \frac{1}{3} \times 1,900,000 - \frac{2}{3} \times 100,000 \) $
-  $ H(D2) = 630,000 - 66,667 = 563,333.33 $
+- Para $D_2$:  
+  $ H(D_2) = \frac{1}{3} \times (1,900,000) + \frac{2}{3} \times (-100,000) $
+  $ H(D_2) = \frac{1}{3} \times 1,900,000 - \frac{2}{3} \times 100,000 \) $
+  $ H($D_2$) = 630,000 - 66,667 = 563,333.33 $
 
-**Decisión:** Escoger D2 (No aceptar la oferta / Desarrollar), ya que tiene un valor esperado superior.
+**Decisión:** Escoger $D_2$ (No aceptar la oferta / Desarrollar), ya que tiene un valor esperado superior.
 
 ### d. Savage
 
@@ -152,40 +154,40 @@ El criterio de Savage se basa en la minimización de la pérdida de oportunidad.
 
 Construimos una matriz de pérdidas con respecto a las decisiones, sustrayendo el pago de cada estado del resultado máximo de cada estado.
 
-| Decisiones/Estados | Se encuentra gas (S1) | No se encuentra gas (S2) |
+| Decisiones/Estados | Se encuentra gas ($S_1$) | No se encuentra gas ($S_2$) |
 |--------------------|-----------------------|---------------------------|
-| **Aceptar oferta (D1)**     | 0                     | 160,000                   |
-| **No aceptar oferta / Desarrollar (D2)**  | 1,900,000           | 0                         |
+| **Aceptar oferta ($D_1$)**     | 0                     | 160,000                   |
+| **No aceptar oferta / Desarrollar ($D_2$)**  | 1,900,000           | 0                         |
 
 ### Cálculo de las pérdidas:
 
-- Para S1:
-  - D1 = $60,000; máximo = $1,900,000 -> Pérdida = $1,900,000 - $60,000 = $1,840,000
-  - D2 = $1,900,000; máximo = $1,900,000 -> Pérdida = $1,900,000 - $1,900,000 = $0
+- Para $S_1$:
+  - $D_1$ = $60,000; máximo = $1,900,000 -> Pérdida = $1,900,000 - $60,000 = $1,840,000
+  - $D_2$ = $1,900,000; máximo = $1,900,000 -> Pérdida = $1,900,000 - $1,900,000 = $0
 
-- Para S2:
-  - D1 = $60,000; máximo = $60,000 -> Pérdida = $60,000 - $60,000 = $0
-  - D2 = -$100,000; máximo = $0 -> Pérdida = 0 - (-$100,000) = $100,000
+- Para $S_2$:
+  - $D_1$ = $60,000; máximo = $60,000 -> Pérdida = $60,000 - $60,000 = $0
+  - $D_2$ = -$100,000; máximo = $0 -> Pérdida = 0 - (-$100,000) = $100,000
 
 Matriz de Pérdidas de Oportunidad:
 
-| Decisiones/Estados | Se encuentra gas (S1) | No se encuentra gas (S2) |
+| Decisiones/Estados | Se encuentra gas ($S_1$) | No se encuentra gas ($S_2$) |
 |--------------------|-----------------------|---------------------------|
-| **Aceptar oferta (D1)**     | $1,840,000            | $0                         |
-| **No aceptar oferta / Desarrollar (D2)**  | $0                   | $100,000                   |
+| **Aceptar oferta ($D_1$)**     | $1,840,000            | $0                         |
+| **No aceptar oferta / Desarrollar ($D_2$)**  | $0                   | $100,000                   |
 
 Ahora buscamos el máximo de las pérdidas para cada decisión:
 
-- Para D1: máximo de pérdidas = $1,840,000
-- Para D2: máximo de pérdidas = $100,000
+- Para $D_1$: máximo de pérdidas = $1,840,000
+- Para $D_2$: máximo de pérdidas = $100,000
 
-**Decisión:** Escoger D2 (No aceptar la oferta / Desarrollar), ya que tiene la menor pérdida máxima.
+**Decisión:** Escoger $D_2$ (No aceptar la oferta / Desarrollar), ya que tiene la menor pérdida máxima.
 
 ### Resumen de decisiones:
-- **Maximin:** D1 (Aceptar la oferta)
-- **Maximax:** D2 (No aceptar la oferta / Desarrollar)
-- **Hurwicz:** D2 (No aceptar la oferta / Desarrollar)
-- **Savage:** D2 (No aceptar la oferta / Desarrollar)
+- **Maximin:** $D_1$ (Aceptar la oferta)
+- **Maximax:** $D_2$ (No aceptar la oferta / Desarrollar)
+- **Hurwicz:** $D_2$ (No aceptar la oferta / Desarrollar)
+- **Savage:** $D_2$ (No aceptar la oferta / Desarrollar)
 
 En conclusión, la mayoría de los criterios sugieren que es preferible optar por no aceptar la oferta y desarrollar por sí mismo la exploración.
 
@@ -193,66 +195,66 @@ En conclusión, la mayoría de los criterios sugieren que es preferible optar po
 
 Ahora, a partir de los datos del problema inicial, determina las decisiones recomendables, bajo riesgo o con métodos sin experimentación, bajo los siguientes criterios: Laplace, Máxima Posibilidad, Bayes (VEM) y Minimización de la oportunidad de pérdida esperada (POE). Crea la matriz extendida y agrega las probabilidades para cada estado de la naturaleza en una fila. Para cada criterio, exhibe la matriz de pago con esos datos adicionales.
 
-Para realizar el análisis de decisiones bajo riesgo utilizando los métodos solicitados (Laplace, Máxima Posibilidad, Bayes), vamos a incorporar probabilidades a los estados de la naturaleza (S1 y S2). Asumiremos las siguientes probabilidades para los resultados:
+Para realizar el análisis de decisiones bajo riesgo utilizando los métodos solicitados (Laplace, Máxima Posibilidad, Bayes), vamos a incorporar probabilidades a los estados de la naturaleza ($S_1$ y $S_2$). Asumiremos las siguientes probabilidades para los resultados:
 
-- **P(S1) = 0.3** (probabilidad de que se encuentre gas natural).
-- **P(S2) = 0.7** (probabilidad de que no se encuentre gas natural).
+- **P($S_1$) = 0.3** (probabilidad de que se encuentre gas natural).
+- **P($S_2$) = 0.7** (probabilidad de que no se encuentre gas natural).
 
 Ahora, vamos a crear la matriz extendida que incluya las probabilidades de los estados de la naturaleza en una fila. 
 
 ### Matriz de Pago Extendida
 
-| Decisiones/Estados | Se encuentra gas (S1) | No se encuentra gas (S2) | Probabilidades |
+| Decisiones/Estados | Se encuentra gas ($S_1$) | No se encuentra gas ($S_2$) | Probabilidades |
 |--------------------|-----------------------|---------------------------|-----------------|
-| **Aceptar oferta (D1)**     | $60,000               | $60,000                     | 0.3             |
-| **No aceptar oferta / Desarrollar (D2)**  | $1,900,000           | -$100,000                  | 0.7             |
+| **Aceptar oferta ($D_1$)**     | $60,000               | $60,000                     | 0.3             |
+| **No aceptar oferta / Desarrollar ($D_2$)**  | $1,900,000           | -$100,000                  | 0.7             |
 
 ### a. Criterio de Laplace
 
 El criterio de Laplace asigna la misma probabilidad a cada estado de la naturaleza, independientemente de las probabilidades reales.
 
-- Hay 2 estados, entonces la probabilidad de cada uno es: \(P(S1) = P(S2) = 0.5\).
+- Hay 2 estados, entonces la probabilidad de cada uno es: \(P($S_1$) = P($S_2$) = 0.5\).
 
 **Cálculo Laplace:**
-- Para D1: 
+- Para $D_1$: 
   $$$
-  U(D1) = \frac{1}{2} \times 60,000 + \frac{1}{2} \times 60,000 = 60,000
+  U(D_1) = \frac{1}{2} \times 60,000 + \frac{1}{2} \times 60,000 = 60,000
   $$$
-- Para D2:
+- Para $D_2$:
   $$$
-  U(D2) = \frac{1}{2} \times 1,900,000 + \frac{1}{2} \times (-100,000) = \frac{1,900,000 - 100,000}{2} = \frac{1,800,000}{2} = 900,000
+  U(D_2) = \frac{1}{2} \times 1,900,000 + \frac{1}{2} \times (-100,000) = \frac{1,900,000 - 100,000}{2} = \frac{1,800,000}{2} = 900,000
   $$$
 
-**Decisión:** Escoger D2.
+**Decisión:** Escoger $D_2$.
 
 ### b. Criterio de Máxima Posibilidad
 
-Este criterio selecciona la alternativa asociada al estado de la naturaleza más probable (S2, en este caso).
+Este criterio selecciona la alternativa asociada al estado de la naturaleza más probable ($S_2$, en este caso).
 
-**Decisión:** Escoger D2, ya que la probabilidad de S2 es mayor (0.7).
+**Decisión:** Escoger $D_2$, ya que la probabilidad de $S_2$ es mayor (0.7).
 
 ### c. Criterio de Bayes (Valor Esperado de la Máxima)
 
 Se calcula el valor esperado (VE) de cada decisión, teniendo en cuenta las probabilidades dadas.
 
 **Cálculo del Valor Esperado:**
-- Para D1:
+- Para $D_1$:
   $$$
-  VE(D1) = P(S1) \times 60,000 + P(S2) \times 60,000
-  $$$
-  $$$
-  VE(D1) = 0.3 \times 60,000 + 0.7 \times 60,000 = 60,000
-  $$$
-
-- Para D2:
-  $$$
-  VE(D2) = P(S1) \times 1,900,000 + P(S2) \times (-100,000)
+  VE(D_1) = P(S_1) \times 60,000 + P(S_2) \times 60,000
   $$$
   $$$
-  VE(D2) = 0.3 \times 1,900,000 + 0.7 \times (-100,000) = 570,000 - 70,000 = 500,000
+  VE(D_1) = 0.3 \times 60,000 + 0.7 \times 60,000 = 60,000
   $$$
 
-**Decisión:** Escoger D1, ya que su valor esperado es superior.
+- Para $D_2$:
+  $$$
+  VE(D_2) = P(S_1) \times 1,900,000 + P(S_2) \times (-100,000)
+  $$$
+  $$$
+  VE(D_2) = 0.3 \times 1,900,000 + 0.7 \times (-100,000) = 570,000 - 70,000 = 500,000
+  $$$
+
+**Decisión:** Escoger $D_1$, ya que su valor esperado es superior.
 
 ### d. Minimización de la Oportunidad de Pérdida Esperada (POE)
 
@@ -262,40 +264,40 @@ Para el criterio de minimización de la oportunidad de pérdida esperada, primer
 
 Calculamos la pérdida para cada decisión, sustrayendo el pago de cada estado del resultado máximo de cada estado.
 
-- Para S1: 
-  - D1 = $60,000; máximo = $1,900,000 → Pérdida = $1,900,000 - $60,000 = $1,840,000 
-  - D2 = $1,900,000; máximo = $1,900,000 → Pérdida = $1,900,000 - $1,900,000 = $0
+- Para $S_1$: 
+  - $D_1$ = $60,000; máximo = $1,900,000 → Pérdida = $1,900,000 - $60,000 = $1,840,000 
+  - $D_2$ = $1,900,000; máximo = $1,900,000 → Pérdida = $1,900,000 - $1,900,000 = $0
 
-- Para S2:
-  - D1 = $60,000; máximo = $60,000 → Pérdida = $60,000 - $60,000 = $0 
-  - D2 = -$100,000; máximo = $0 → Pérdida = 0 - (-$100,000) = $100,000 
+- Para $S_2$:
+  - $D_1$ = $60,000; máximo = $60,000 → Pérdida = $60,000 - $60,000 = $0 
+  - $D_2$ = -$100,000; máximo = $0 → Pérdida = 0 - (-$100,000) = $100,000 
 
 Matriz de Pérdidas:
 
-| Decisiones/Estados | Se encuentra gas (S1) | No se encuentra gas (S2) |
+| Decisiones/Estados | Se encuentra gas ($S_1$) | No se encuentra gas ($S_2$) |
 |--------------------|-----------------------|---------------------------|
-| **Aceptar oferta (D1)**     | $1,840,000            | $0                         |
-| **No aceptar oferta / Desarrollar (D2)**  | $0                   | $100,000                   |
+| **Aceptar oferta ($D_1$)**     | $1,840,000            | $0                         |
+| **No aceptar oferta / Desarrollar ($D_2$)**  | $0                   | $100,000                   |
 
 Calculamos ahora el valor esperado de pérdidas para cada decisión:
-- Para D1:
+- Para $D_1$:
   $$$
-  VE_{\text{Pérdidas}}(D1) = 0.3 \times 1,840,000 + 0.7 \times 0 = 552,000
+  VE_{\text{Pérdidas}}(D_1) = 0.3 \times 1,840,000 + 0.7 \times 0 = 552,000
   $$$
-- Para D2:
+- Para $D_2$:
   $$$
-  VE_{\text{Pérdidas}}(D2) = 0.3 \times 0 + 0.7 \times 100,000 = 70,000 
+  VE_{\text{Pérdidas}}(D_2) = 0.3 \times 0 + 0.7 \times 100,000 = 70,000 
   $$$
 
-**Decisión:** Escoger D2, ya que tiene una menor pérdida esperada.
+**Decisión:** Escoger $D_2$, ya que tiene una menor pérdida esperada.
 
 ### Resumen de decisiones:
-- **Laplace:** D2
-- **Máxima Posibilidad:** D2
-- **Bayes (Valor Esperado):** D1
-- **Minimización de POE:** D2
+- **Laplace:** $D_2$
+- **Máxima Posibilidad:** $D_2$
+- **Bayes (Valor Esperado):** $D_1$
+- **Minimización de POE:** $D_2$
 
-Esto nos da una idea de cómo se debe actuar bajo diferentes criterios de decisión bajo riesgo. Algunos criterios están alineados en preferir D2, mientras que el criterio de Bayes sugiere optar por D1.
+Esto nos da una idea de cómo se debe actuar bajo diferentes criterios de decisión bajo riesgo. Algunos criterios están alineados en preferir $D_2$, mientras que el criterio de Bayes sugiere optar por $D_1$.
 
 ## 5. Análisis bajo experimentación 
 
@@ -305,13 +307,13 @@ Para analizar este nuevo escenario de decisión, utilizaremos el Teorema de Baye
 
 ### Paso 1: Definición de las Probabilidades Iniciales
 
-- **Probabilidad inicial de encontrar gas (\( P(G) \)) = 0.6**
-- **Probabilidad de no encontrar gas (\( P(\neg G) \)) = 0.4**
+- **Probabilidad inicial de encontrar gas ($ P(G) $) = 0.6**
+- **Probabilidad de no encontrar gas ($ P(\neg G) $) = 0.4**
 
 ### Paso 2: Resultados de las Pruebas de Sonido
 
-- Probabilidad de que la prueba indique que **no hay gas** (\( T_{\neg G} \)) cuando efectivamente hay gas (\( P(T_{\neg G} | G) \)) = 0.3
-- Probabilidad de que la prueba indique que **no hay gas** (\( T_{\neg G} \)) cuando efectivamente no hay gas (\( P(T_{\neg G} | \neg G) \)) = 0.1 (es decir, 90% de acierto significa 10% de error).
+- Probabilidad de que la prueba indique que **no hay gas** ($ T_{\neg G} $) cuando efectivamente hay gas ($ P(T_{\neg G} | G) $) = 0.3
+- Probabilidad de que la prueba indique que **no hay gas** (\( T_{\neg G} \)) cuando efectivamente no hay gas ($ P(T_{\neg G} | \neg G) $) = 0.1 (es decir, 90% de acierto significa 10% de error).
   
 ### Paso 3: Cálculo de Probabilidades A Posteriori
 
@@ -347,35 +349,35 @@ Con las probabilidades a posteriori, procedemos a construir la nueva matriz de p
 
 | Decisiones/Estados                     | Se encuentra gas (G) | No se encuentra gas (\( \neg G \)) | Probabilidades A Posteriori |
 |----------------------------------------|-----------------------|-------------------------------------|-----------------------------|
-| **Aceptar oferta (D1)**               | $60,000               | $60,000                             | 0.8182                      |
-| **No aceptar oferta / Desarrollar (D2)** | $1,900,000           | -$100,000                          | 0.1818                      |
+| **Aceptar oferta ($D_1$)**               | $60,000               | $60,000                             | 0.8182                      |
+| **No aceptar oferta / Desarrollar ($D_2$)** | $1,900,000           | -$100,000                          | 0.1818                      |
 
 ### Paso 5: Cálculo de los Valores Esperados
 
 Ahora, calculamos el Valor Esperado para cada opción:
 
-- Para D1:
+- Para $D_1$:
   $$$
-  VE(D1) = P(G | T_{\neg G}) \cdot 60,000 + P(\neg G | T_{\neg G}) \cdot 60,000
+  VE(D_1) = P(G | T_{\neg G}) \cdot 60,000 + P(\neg G | T_{\neg G}) \cdot 60,000
   $$$
   $$$
-  VE(D1) = 0.8182 \cdot 60,000 + 0.1818 \cdot 60,000 = 60,000
+  VE(D_1) = 0.8182 \cdot 60,000 + 0.1818 \cdot 60,000 = 60,000
   $$$
 
-- Para D2:
+- Para $D_2$:
   $$$
-  VE(D2) = P(G | T_{\neg G}) \cdot 1,900,000 + P(\neg G | T_{\neg G}) \cdot (-100,000)
-  $$$
-  $$$
-  VE(D2) = 0.8182 \cdot 1,900,000 + 0.1818 \cdot (-100,000)
+  VE(D_2) = P(G | T_{\neg G}) \cdot 1,900,000 + P(\neg G | T_{\neg G}) \cdot (-100,000)
   $$$
   $$$
-  VE(D2) = 1,555,556 - 18,182 \approx 1,537,374
+  VE(D_2) = 0.8182 \cdot 1,900,000 + 0.1818 \cdot (-100,000)
+  $$$
+  $$$
+  VE($D_2$) = 1,555,556 - 18,182 \approx 1,537,374
   $$$
 
 ### Paso 6: Decisión Recomendada Bajo el Criterio a Posteriori
 
-**Decisión:** Escoger D2 (No aceptar la oferta / Desarrollar), ya que su Valor Esperado es significativamente mayor que D1.
+**Decisión:** Escoger $D_2$ (No aceptar la oferta / Desarrollar), ya que su Valor Esperado es significativamente mayor que D1.
 
 ### Paso 7: Árbol de Decisiones
 
@@ -388,7 +390,7 @@ A continuación se presenta el árbol de decisiones:
             [No Hay Gas]             [Hay Gas]
              (0.1818)                    (0.8182)
              /    \                      /        \
-           D1      D2                 D1          D2
+           D1      $D_2$                 D1          $D_2$
         (60,000)  (1,900,000)     (60,000)   (1,900,000)
 ```
 
@@ -448,38 +450,38 @@ Usando las probabilidades a posteriori, creamos la nueva matriz de pagos:
 
 | Decisiones/Estados                     | Se encuentra gas (G) | No se encuentra gas (\( \neg G \)) | Probabilidades A Posteriori |
 |----------------------------------------|-----------------------|-------------------------------------|-----------------------------|
-| **Aceptar oferta (D1)**               | $60,000               | $60,000                             | 0.9130                      |
-| **No aceptar oferta / Desarrollar (D2)** | $1,900,000           | -$100,000                          | 0.0870                      |
+| **Aceptar oferta ($D_1$)**               | $60,000               | $60,000                             | 0.9130                      |
+| **No aceptar oferta / Desarrollar ($D_2$)** | $1,900,000           | -$100,000                          | 0.0870                      |
 
 ### Paso 5: Cálculo de los Valores Esperados
 
 Ahora, calculamos el Valor Esperado (VE) para cada opción:
 
-- Para D1:
+- Para $D_1$:
   $$$
-  VE(D1) = P(G | T_G) \cdot 60,000 + P(\neg G | T_G) \cdot 60,000
-  $$$
-  $$$
-  VE(D1) = 0.9130 \cdot 60,000 + 0.0870 \cdot 60,000
+  VE(D_1) = P(G | T_G) \cdot 60,000 + P(\neg G | T_G) \cdot 60,000
   $$$
   $$$
-  VE(D1) = 54,780 + 5,220 = 60,000
+  VE(D_1) = 0.9130 \cdot 60,000 + 0.0870 \cdot 60,000
+  $$$
+  $$$
+  VE(D_1) = 54,780 + 5,220 = 60,000
   $$$
 
-- Para D2:
+- Para $D_2$:
   $$$
-  VE(D2) = P(G | T_G) \cdot 1,900,000 + P(\neg G | T_G) \cdot (-100,000)
-  $$$
-  $$$
-  VE(D2) = 0.9130 \cdot 1,900,000 + 0.0870 \cdot (-100,000)
+  VE($D_2$) = P(G | T_G) \cdot 1,900,000 + P(\neg G | T_G) \cdot (-100,000)
   $$$
   $$$
-  VE(D2) = 1,734,700 - 8,700 = 1,726,000
+  VE($D_2$) = 0.9130 \cdot 1,900,000 + 0.0870 \cdot (-100,000)
+  $$$
+  $$$
+  VE($D_2$) = 1,734,700 - 8,700 = 1,726,000
   $$$
 
 ### Paso 6: Decisión Recomendada Bajo el Criterio A Posteriori
 
-**Decisión:** Escoger D2 (No aceptar la oferta / Desarrollar), ya que su Valor Esperado es mayor que D1 (1,726,000 vs 60,000).
+**Decisión:** Escoger $D_2$ (No aceptar la oferta / Desarrollar), ya que su Valor Esperado es mayor que $D_1$ (1,726,000 vs 60,000).
 
 ### Paso 7: Árbol de Decisiones
 
@@ -491,7 +493,7 @@ A continuación, se presenta el árbol de decisiones con el resultado de las pru
                                   /            \
                         [Hay Gas (0.9130)]    [No Hay Gas (0.0870)]
                                    /                    \
-                                 D1                      D2
+                                 D1                      $D_2$
                           (Pago $60,000)          (Pago $1,900,000)
                                                   (Pago -$100,000)
 ```
@@ -515,8 +517,8 @@ Cuando las pruebas de sonido aún no se han realizado y se está considerando si
 
 Las decisiones disponibles en este caso son:
 
-1. Realizar pruebas de sonido (D1).
-2. No realizar pruebas y decidir directamente sobre la oferta (D2).
+1. Realizar pruebas de sonido ($D_1$).
+2. No realizar pruebas y decidir directamente sobre la oferta ($D_2$).
 
 ### Paso 3: Cálculo de Valores Esperados Sin Realizar Pruebas
 
@@ -524,40 +526,40 @@ Las decisiones disponibles en este caso son:
 
 Si no se realizan las pruebas de sonido, el valor esperado se basa en la decisión de aceptar la oferta o no.
 
-- **Aceptar la oferta (D2)**:
+- **Aceptar la oferta ($D_2$)**:
   - Valor: $60,000 (si hay gas) o $60,000 (si no hay gas).
   - Valor Esperado (VE):
   $$$
-  VE(D2) = P(G) \cdot 60,000 + P(\neg G) \cdot 60,000 = 0.6 \cdot 60,000 + 0.4 \cdot 60,000 = 60,000
+  VE($D_2$) = P(G) \cdot 60,000 + P(\neg G) \cdot 60,000 = 0.6 \cdot 60,000 + 0.4 \cdot 60,000 = 60,000
   $$$
 
-- **No aceptar la oferta (D3)**:
+- **No aceptar la oferta ($D_3$)**:
   - Valor: $1,900,000 (si hay gas) o -$100,000 (si no hay gas).
   - Valor Esperado (VE):
   $$$
-  VE(D3) = P(G) \cdot 1,900,000 + P(\neg G) \cdot (-100,000)
+  VE($D_3$) = P(G) \cdot 1,900,000 + P(\neg G) \cdot (-100,000)
   $$$
   \[
-  VE(D3) = 0.6 \cdot 1,900,000 + 0.4 \cdot (-100,000)
+  VE($D_3$) = 0.6 \cdot 1,900,000 + 0.4 \cdot (-100,000)
   $$$
   $$$
-  VE(D3) = 1,140,000 - 40,000 = 1,100,000
+  VE($D_3$) = 1,140,000 - 40,000 = 1,100,000
   $$$
 
 ### Paso 4: Cálculo de Valores Esperados Si Se Realizan Pruebas de Sonido
 
-Ahora consideramos la opción de realizar pruebas de sonido (D1):
+Ahora consideramos la opción de realizar pruebas de sonido ($D_1$):
 
 #### Valores Esperados Si Se Realizan Pruebas
 
-1. **Si hacemos pruebas (D1)**, entonces tenemos los siguientes resultados posibles:
+1. **Si hacemos pruebas ($D_1$)**, entonces tenemos los siguientes resultados posibles:
 
    - **Hay gas (70% probabilidad)**
-     - Aceptamos la oferta (D2): $60,000
-     - No aceptamos la oferta (D3): $1,900,000
+     - Aceptamos la oferta ($D_2$): $60,000
+     - No aceptamos la oferta ($D_3$): $1,900,000
    - **No hay gas (10% probabilidad)**
-     - Aceptamos la oferta (D2): $60,000
-     - No aceptamos la oferta (D3): -$100,000
+     - Aceptamos la oferta ($D_2$): $60,000
+     - No aceptamos la oferta ($D_3$): -$100,000
      
 Las probabilidades de los resultados después de hacer las pruebas serían:
 
@@ -587,23 +589,23 @@ $$$
 
 #### Valores Esperados Después de Pruebas
 
-- **Aceptar oferta tras pruebas (D2)**:
+- **Aceptar oferta tras pruebas ($D_2$)**:
 $$$
-VE(D2) = P(G | T_G) \cdot 60,000 + P(\neg G | T_G) \cdot 60,000
+VE($D_2$) = P(G | T_G) \cdot 60,000 + P(\neg G | T_G) \cdot 60,000
 $$$
 $$$
-VE(D2) = 0.913 \cdot 60,000 + 0.087 \cdot 60,000 = 60,000
+VE($D_2$) = 0.913 \cdot 60,000 + 0.087 \cdot 60,000 = 60,000
 $$$
 
-- **No aceptar oferta tras pruebas (D3)**:
+- **No aceptar oferta tras pruebas ($D_3$)**:
 $$$
-VE(D3) = P(G | T_G) \cdot 1,900,000 + P(\neg G | T_G) \cdot (-100,000)
-$$$
-$$$
-VE(D3) = 0.913 \cdot 1,900,000 + 0.087 \cdot (-100,000)
+VE($D_3$) = P(G | T_G) \cdot 1,900,000 + P(\neg G | T_G) \cdot (-100,000)
 $$$
 $$$
-VE(D3) = 1,734,700 - 8,700 = 1,726,000
+VE($D_3$) = 0.913 \cdot 1,900,000 + 0.087 \cdot (-100,000)
+$$$
+$$$
+VE($D_3$) = 1,734,700 - 8,700 = 1,726,000
 $$$
 
 ### Paso 5: Decisión Recomendada
@@ -620,7 +622,7 @@ Ahora que hemos calculado los valores esperados, podemos organizarlo en el árbo
               [Con Gas]        [Sin Gas]               [Aceptar Oferta]   [No Aceptar Oferta]
                (0.913)          (0.087)                        |                  |
                 /     \          /     \                  (60,000)           (1,100,000)
-         D2      D3      D2     D3
+         $D_2$      $D_3$      $D_2$     $D_3$
       (60,000) (1,726,000)   (60,000)  (-100,000)
 ```
 
