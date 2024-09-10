@@ -171,3 +171,63 @@ El decisor selecciona la acción que minimiza la pérdida máxima posible.
 
 El decisor deberá elegir entre estas acciones dependiendo de su aversión al riesgo y su nivel de optimismo.
 
+## 4. Análisis de decisiones bajo riesgo sin experimentación
+
+A continuación, a partir de la matriz de pagos, realiza el "análisis bajo riesgo" de la "toma de decisiones sin experimentación", bajo los siguientes criterios: a. Criterio de Laplace, b. Criterio de la máxima posibilidad, c. Regla de decisión de Bayes (Valor Esperado Medio, VEM) y d. Minimización de la pérdida de oportunidad esperada (POE). Desarrolla tu respuesta con los conceptos involucrados y el razonamiento que hay detrás de cada criterio, seguido del algoritmo básico para su solución y la elección elegida. Haz una exposición didáctica y breve, pero suficiente, para comprender cabalmente cada criterio. En segundo lugar, codifica la respuesta en markdown compatible al 100% para publicarlo en GitHub.
+
+### Matriz de Pagos
+
+| **Decisiones/Estados de la Naturaleza** | **$\theta_1$ (Hay gas)**    | **$\theta_2$ (No hay gas)**  |
+|-----------------------------------------|-----------------------------|------------------------------|
+| **Acción $a_1$ (Aceptar oferta)**       | $120,000                    | $60,000                      |
+| **Acción $a_2$ (Desarrollar el campo)** | $1,900,000                  | -$100,000                    |
+
+### 4.a. Criterio de Laplace
+
+El **criterio de Laplace** asume equiprobabilidad entre los estados. Calculamos el valor esperado (VE) de cada acción:
+
+- **Acción $a_1$ (Aceptar oferta)**:
+  $VE(a_1) = \frac{1}{2} \times (120,000 + 60,000) = 90,000$
+
+- **Acción $a_2$ (Desarrollar el campo)**:
+  $VE(a_2) = \frac{1}{2} \times (1,900,000 + (-100,000)) = 900,000$
+
+**Elección**: Se elige la **acción $a_2$ (desarrollar el campo)**.
+
+### 4.b. Criterio de la Máxima Posibilidad
+
+Este criterio selecciona la acción con el mejor pago en el estado más probable. Si **$\theta_1$** (hay gas) es más probable:
+
+- **Acción $a_2$ (desarrollar el campo)** es la elección con el mejor resultado.
+
+**Elección**: Se elige la **acción $a_2$ (desarrollar el campo)**.
+
+### 4.c. Regla de Bayes
+
+Criterio de la Regla de Bayes o del Valor Esperado Medio (VEM). El valor esperado se calcula ponderando los pagos con las probabilidades. Con $\mathbb{P}(\theta_1) = p = 0.7$:
+
+- **Acción $a_1$ (Aceptar oferta)**:
+  $VE(a_1) = 102,000$
+
+- **Acción $a_2$ (Desarrollar el campo)**:
+  $VE(a_2) = 1,300,000$
+
+**Elección**: Se elige la **acción $a_2$ (desarrollar el campo)**.
+
+### 4.d. Minimización de la Pérdida de Oportunidad Esperada
+
+Construimos la matriz de pérdida de oportunidad y calculamos la la Pérdida de Oportunidad Esperada (POE) para cada acción:
+
+- **Acción $a_1$ (Aceptar oferta)**:  
+  $POE(a_1) = 1,246,000$
+  
+- **Acción $a_2$ (Desarrollar el campo)**:
+  $POE(a_2) = 48,000$
+
+**Elección**: Se elige la **acción $a_2$ (desarrollar el campo)**.
+
+### Conclusión General
+
+En todos los criterios, la **acción $a_2$ (desarrollar el campo)** es la mejor opción.
+
+
