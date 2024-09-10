@@ -1,4 +1,4 @@
-# Problema 1. Analizar la perforación de un pozo para extraer gar natural
+# Problema 1. Perforación de un pozo para extraer gas natural
 
 ## Planteamiento del problema
 
