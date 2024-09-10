@@ -111,7 +111,7 @@ Supongamos $\alpha = 0.3$ (más pesimista).
     
 - **Acción $a_2$**:  
 
-  $H(a_2) = 0.3 \times \$1,900,000 + 0.7 \times (-\$100,000) = \$570,000 - \$70,000 = \$500,000$  
+  $H(a_2) = 0.3 \times 1,900,000 + 0.7 \times (-100,000) = 570,000 - 70,000 = 500,000$  
 
 **Elección**: Para $\alpha = 0.3$, se elige **$a_2$ (desarrollar el campo)**.
 
