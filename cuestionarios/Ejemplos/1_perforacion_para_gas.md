@@ -7,23 +7,23 @@ Una gran compañía de energéticos ofrece al dueño de un terreno $60,000 por l
 
 Claro, empecemos a plantear el problema de la situación que has descrito en términos de la teoría de decisiones. 
 
-### 1. Decisor:
+### a. Decisor:
 El decisor en este caso es el **propietario del terreno**. Este individuo debe tomar decisiones respecto a cómo proceder con la oferta de la compañía energética y la posibilidad de desarrollar exploración de gas natural por su cuenta.
 
-### 2. Decisiones:
+### b. Decisiones:
 El propietario tiene las siguientes decisiones posibles:
 
 - **D1:** Aceptar la oferta de $60,000 y permitir a la compañía realizar la exploración.
 - **D2:** No aceptar la oferta y no permitir la exploración por parte de la compañía.
 - **D3:** Decidir desarrollar por sí mismo la exploración y posible extracción de gas, lo que requiere una inversión inicial de $100,000.
 
-### 3. Estados de la naturaleza:
+### c. Estados de la naturaleza:
 Los posibles estados de la naturaleza (resultados de la exploración) que pueden ocurrir son:
 
 - **S1:** Se encuentra gas natural.
 - **S2:** No se encuentra gas natural.
 
-### 4. Matriz de Pago:
+### d. Matriz de Pago:
 Ahora, construyamos la matriz de pago para cada combinación de decisiones y estados de la naturaleza.
 
 - **Para D1 (Aceptar la oferta):**
@@ -53,22 +53,22 @@ En tu propuesta, une D2 y D3 en una misma: D2 y haz de nuevo el encuadre.
 
 Claro, vamos a unir las decisiones D2 (No aceptar la oferta) y D3 (Desarrollar por sí mismo) en una sola decisión, que llamaremos D2. Esto simplificará la toma de decisiones del propietario en base a la oferta de la compañía de energéticos. 
 
-### 1. Decisor:
+### a. Decisor:
 El **propietario del terreno** es el decisor que debe tomar la decisión sobre cómo proceder respecto a la oferta de la compañía energética y la posibilidad de explorar gas natural.
 
-### 2. Decisiones:
+### b. Decisiones:
 El propietario tiene las siguientes decisiones posibles:
 
 - **D1:** Aceptar la oferta de $60,000 y permitir a la compañía realizar la exploración.
 - **D2:** No aceptar la oferta y optar por no permitir la exploración, o decidir desarrollar él mismo la exploración, lo que implica un costo inicial de $100,000.
 
-### 3. Estados de la naturaleza:
+### c. Estados de la naturaleza:
 Los posibles estados de la naturaleza (resultados de la exploración que pueden ocurrir) son:
 
 - **S1:** Se encuentra gas natural.
 - **S2:** No se encuentra gas natural.
 
-### 4. Matriz de Pago:
+### d. Matriz de Pago:
 Ahora, construyamos la matriz de pago considerando las decisiones combinadas y sus respectivos resultados:
 
 - **Para D1 (Aceptar la oferta):**
@@ -99,7 +99,7 @@ Vamos a realizar el análisis de decisiones bajo completa incertidumbre utilizan
 | **Aceptar oferta (D1)**     | $60,000               | $60,000                     |
 | **No aceptar oferta / Desarrollar (D2)**  | $1,900,000           | -$100,000                  |
 
-### 1. Maximin de Wald
+### a. Maximin de Wald
 
 El criterio Maximin (o de Wald) consiste en seleccionar la alternativa que maximiza el mínimo resultado posible.
 
@@ -112,7 +112,7 @@ El criterio Maximin (o de Wald) consiste en seleccionar la alternativa que maxim
 
 **Decisión:** Escoger D1 (Aceptar la oferta), ya que tiene el mayor mínimo resultado.
 
-### 2. Maximax
+### b. Maximax
 
 El criterio Maximax consiste en seleccionar la alternativa que maximiza el máximo resultado posible. 
 
@@ -125,7 +125,7 @@ El criterio Maximax consiste en seleccionar la alternativa que maximiza el máxi
 
 **Decisión:** Escoger D2 (No aceptar la oferta / Desarrollar), ya que tiene el mayor resultado máximo.
 
-### 3. Hurwicz (con alpha = 1/3)
+### c. Hurwicz (con alpha = 1/3)
 
 El criterio de Hurwicz combina los conceptos de Maximin y Maximax ponderando cada uno de ellos con un factor de optimismo denominado alpha.
 
@@ -143,7 +143,7 @@ Calculemos la utilidad de cada decisión:
 
 **Decisión:** Escoger D2 (No aceptar la oferta / Desarrollar), ya que tiene un valor esperado superior.
 
-### 4. Savage
+### d. Savage
 
 El criterio de Savage se basa en la minimización de la pérdida de oportunidad. Para ello, primero debemos calcular la Matriz de Pérdidas de Oportunidad.
 
@@ -206,7 +206,7 @@ Ahora, vamos a crear la matriz extendida que incluya las probabilidades de los e
 | **Aceptar oferta (D1)**     | $60,000               | $60,000                     | 0.3             |
 | **No aceptar oferta / Desarrollar (D2)**  | $1,900,000           | -$100,000                  | 0.7             |
 
-### 1. Criterio de Laplace
+### a. Criterio de Laplace
 
 El criterio de Laplace asigna la misma probabilidad a cada estado de la naturaleza, independientemente de las probabilidades reales.
 
@@ -224,13 +224,13 @@ El criterio de Laplace asigna la misma probabilidad a cada estado de la naturale
 
 **Decisión:** Escoger D2.
 
-### 2. Criterio de Máxima Posibilidad
+### b. Criterio de Máxima Posibilidad
 
 Este criterio selecciona la alternativa asociada al estado de la naturaleza más probable (S2, en este caso).
 
 **Decisión:** Escoger D2, ya que la probabilidad de S2 es mayor (0.7).
 
-### 3. Criterio de Bayes (Valor Esperado de la Máxima)
+### c. Criterio de Bayes (Valor Esperado de la Máxima)
 
 Se calcula el valor esperado (VE) de cada decisión, teniendo en cuenta las probabilidades dadas.
 
@@ -253,7 +253,7 @@ Se calcula el valor esperado (VE) de cada decisión, teniendo en cuenta las prob
 
 **Decisión:** Escoger D1, ya que su valor esperado es superior.
 
-### 4. Minimización de la Oportunidad de Pérdida Esperada (POE)
+### d. Minimización de la Oportunidad de Pérdida Esperada (POE)
 
 Para el criterio de minimización de la oportunidad de pérdida esperada, primero necesitamos calcular la matriz de pérdidas.
 
