@@ -131,27 +131,21 @@ Ahora evaluamos con diferentes valores de $\alpha$:
 
 1. **Pesimista** ($0 \leq \alpha < 0.5$): Tomemos $\alpha = 0.3$.
    $$$
-   H(a_1) = 0.3 \times 120,000 + 0.7 \times 60,000 = 36,000 + 42,000 = 78,000
-   $$$
-   $$$
+   H(a_1) = 0.3 \times 120,000 + 0.7 \times 60,000 = 36,000 + 42,000 = 78,000 \
    H(a_2) = 0.3 \times 1,900,000 + 0.7 \times (-100,000) = 570,000 - 70,000 = 500,000
    $$$
    Aquí se selecciona **$a_2$** (Desarrollar el campo).
 
 2. **Neutro** ($\alpha = 0.5$):
    $$$
-   H(a_1) = 0.5 \times 120,000 + 0.5 \times 60,000 = 60,000 + 30,000 = 90,000
-   $$$
-   $$$
+   H(a_1) = 0.5 \times 120,000 + 0.5 \times 60,000 = 60,000 + 30,000 = 90,000 \
    H(a_2) = 0.5 \times 1,900,000 + 0.5 \times (-100,000) = 950,000 - 50,000 = 900,000
    $$$
    Aquí se selecciona **$a_2$** (Desarrollar el campo).
 
 3. **Optimista** ($0.5 < \alpha \leq 1$): Tomemos $\alpha = 0.7$.
    $$$
-   H(a_1) = 0.7 \times 120,000 + 0.3 \times 60,000 = 84,000 + 18,000 = 102,000
-   $$$
-   $$$
+   H(a_1) = 0.7 \times 120,000 + 0.3 \times 60,000 = 84,000 + 18,000 = 102,000 \
    H(a_2) = 0.7 \times 1,900,000 + 0.3 \times (-100,000) = 1,330,000 - 30,000 = 1,300,000
    $$$
    Aquí se selecciona **$a_2$** (Desarrollar el campo).
