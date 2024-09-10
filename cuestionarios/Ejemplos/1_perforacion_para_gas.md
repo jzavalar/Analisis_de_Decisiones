@@ -269,7 +269,7 @@ El **análisis a posteriori** implica utilizar nueva información para ajustar l
 4. **Costo de la prueba**:  
    - $30,000.
 
-## Aplicación del Teorema de Bayes
+### Aplicación del Teorema de Bayes
 
 El **Teorema de Bayes** nos permite calcular la **probabilidad a posteriori** de que haya gas ($\theta_1$) o no ($\theta_2$)) dadas las nuevas evidencias (resultado de la prueba).
 
@@ -282,21 +282,21 @@ Donde:
 $P(\text{Prueba indica no gas}) = P(\text{Prueba indica no gas} | \theta_1) P(\theta_1) + P(\text{Prueba indica no gas} | \theta_2) P(\theta_2)$
 
 
-### Paso 1: Cálculo de $P(\text{Prueba indica no gas})$
+**Paso 1: Cálculo de $P(\text{Prueba indica no gas})$**
 
 $P(\text{Prueba indica no gas}) = (0.3 \times 0.6) + (0.9 \times 0.4) = 0.18 + 0.36 = 0.54$
 
 
-### Paso 2: Cálculo de la probabilidad *a posteriori*
+**Paso 2: Cálculo de la probabilidad *a posteriori***
 
 $P(\theta_1 | \text{Prueba indica no gas}) = \frac{0.3 \times 0.6}{0.54} = \frac{0.18}{0.54} = 0.333$
 
 
-### Paso 3: Cálculo de la probabilidad *a posteriori* 
+**Paso 3: Cálculo de la probabilidad *a posteriori*** 
 
 $P(\theta_2 | \text{Prueba indica no gas}) = 1 - P(\theta_1 | \text{Prueba indica no gas}) = 1 - 0.333 = 0.667$
 
-## Análisis de decisiones *a posteriori*
+### Análisis de decisiones *a posteriori*
 
 Con las probabilidades *a posteriori*, se actualizan las estimaciones de los posibles resultados en la matriz de pagos. Recordemos la matriz de pagos original:
 
@@ -327,3 +327,127 @@ Según el **criterio a posteriori** basado en el valor esperado medio (VEM), el 
 ### Conclusión
 
 Después de actualizar las probabilidades utilizando la nueva información proporcionada por la prueba de sonido, la decisión óptima para el propietario es **desarrollar el campo**, incluso si el resultado de la prueba sugiere que no hay gas. Esto se debe a que, a pesar del costo de la prueba, el valor esperado de desarrollar el campo sigue siendo considerablemente más alto.
+
+## 6. Análisis de deciciones con experimentación
+
+### Prompt
+Ahora, resuelve el problema considerando que las pruebas de sonido indicaron que había gas presente. Desarrolla un árbol de decisión que ilustre el problema y la solucion. Realiza una breve argumentación del análisis.
+
+### Respuesta
+Para resolver el problema considerando que las pruebas de sonido indicaron que había gas presente, seguiremos estos pasos:
+
+1. Actualizar las probabilidades *a posteriori* usando la nueva evidencia.
+2. Construir un árbol de decisión para ilustrar el problema.
+3. Realizar un análisis y seleccionar la mejor decisión.
+
+#### 1. Actualización de Probabilidades
+
+La prueba indicó que *hay gas*. La tasa de error de la prueba es la siguiente:
+- **Tasa de falso positivo**: La prueba indica gas cuando no hay gas en el 10% de los casos. Es decir, \( P(\text{Prueba indica gas} | \theta_2) = 0.1 \).
+- **Tasa de verdadero positivo**: La prueba indica gas cuando hay gas en el 70% de los casos. Es decir, \( P(\text{Prueba indica gas} | \theta_1) = 0.7 \).
+
+Calculamos la probabilidad a posteriori de que haya gas dado que la prueba indicó gas:
+
+\[
+P(\theta_1 | \text{Prueba indica gas}) = \frac{P(\text{Prueba indica gas} | \theta_1) \cdot P(\theta_1)}{P(\text{Prueba indica gas})}
+\]
+
+Donde:
+
+\[
+P(\text{Prueba indica gas}) = P(\text{Prueba indica gas} | \theta_1) \cdot P(\theta_1) + P(\text{Prueba indica gas} | \theta_2) \cdot P(\theta_2)
+\]
+
+**Cálculo**
+
+\[
+P(\text{Prueba indica gas}) = (0.7 \times 0.6) + (0.1 \times 0.4) = 0.42 + 0.04 = 0.46
+\]
+
+\[
+P(\theta_1 | \text{Prueba indica gas}) = \frac{0.7 \times 0.6}{0.46} = \frac{0.42}{0.46} \approx 0.913
+\]
+
+\[
+P(\theta_2 | \text{Prueba indica gas}) = 1 - P(\theta_1 | \text{Prueba indica gas}) = 1 - 0.913 = 0.087
+\]
+
+#### 2. Construcción del Árbol de Decisión
+
+El árbol de decisión se construye con las siguientes etapas:
+
+1. **Decisión inicial**: Realizar la prueba de sonido.
+2. **Resultados de la prueba**:
+   - Prueba indica gas
+   - Prueba indica no gas
+
+Para cada resultado, se consideran las decisiones disponibles y los valores esperados asociados.
+
+**Árbol de Decisión**
+
+```
+Decisión Inicial
+|
+|-- Realizar Prueba de Sonido ($30,000)
+    |
+    |-- Prueba Indica Gas (Probabilidad: 0.913)
+    |   |
+    |   |-- Acción $a_1$: Aceptar oferta
+    |   |   Valor Esperado: $120,000
+    |   |
+    |   |-- Acción $a_2$: Desarrollar el campo
+    |       Valor Esperado: $1,900,000
+    |
+    |-- Prueba Indica No Gas (Probabilidad: 0.087)
+        |
+        |-- Acción $a_1$: Aceptar oferta
+        |   Valor Esperado: $60,000
+        |
+        |-- Acción $a_2$: Desarrollar el campo
+            Valor Esperado: -$100,000
+```
+
+#### 3. Análisis y Selección
+
+Para cada escenario, calculamos el valor esperado:
+
+- **Valor Esperado (Prueba indica gas)**
+  - **Acción $a_1$ (Aceptar oferta)**:
+    \[
+    \text{VEM}(a_1 | \text{Gas}) = 120,000
+    \]
+  - **Acción $a_2$ (Desarrollar el campo)**
+    \[
+    \text{VEM}(a_2 | \text{Gas}) = 1,900,000
+    \]
+
+- **Valor Esperado (Prueba indica no gas)**
+  - **Acción $a_1$ (Aceptar oferta)**:
+    \[
+    \text{VEM}(a_1 | \text{No gas}) = 60,000
+    \]
+  - **Acción $a_2$ (Desarrollar el campo)**:
+    \[
+    \text{VEM}(a_2 | \text{No gas}) = -100,000
+    \]
+
+**Cálculo del Valor Esperado Medio (VEM) Total**
+
+\[
+\text{VEM}(a_1) = (0.913 \times 120,000) + (0.087 \times 60,000) = 109,560 + 5,220 = 114,780
+\]
+
+\[
+\text{VEM}(a_2) = (0.913 \times 1,900,000) + (0.087 \times -100,000) = 1,734,700 - 8,700 = 1,726,000
+\]
+
+#### Decisión Recomendada
+
+Según el **criterio a posteriori** basado en el valor esperado medio (VEM), el propietario debería **desarrollar el campo** (acción $a_2$), ya que el valor esperado posterior ($1,726,000) es significativamente mayor que el de aceptar la oferta ($114,780).
+
+### Conclusión
+
+A pesar del costo de la prueba ($30,000), el resultado de la prueba indica que hay gas presente con alta probabilidad. Por lo tanto, la decisión óptima es **desarrollar el campo** basado en el valor esperado a posteriori, ya que ofrece un retorno mucho mayor.
+
+Este análisis se puede visualizar en un árbol de decisión, lo que ayuda a entender las diferentes rutas y sus implicaciones basadas en los resultados de la prueba de sonido.
+
