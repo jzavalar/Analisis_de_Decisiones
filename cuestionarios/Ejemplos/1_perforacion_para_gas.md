@@ -206,7 +206,7 @@ El **criterio de Laplace** asume equiprobabilidad entre los estados. Calculamos 
 ### 4.b. Criterio de la Máxima Posibilidad
 
 Este criterio selecciona la acción con el mejor pago en el estado más probable. Si **$\theta_1$** (hay gas) es más probable:
-
+ 
 - **Acción $a_2$ (desarrollar el campo)** es la elección con el mejor resultado.
 
 **Elección**: Se elige la **acción $a_2$ (desarrollar el campo)**.
@@ -215,11 +215,11 @@ Este criterio selecciona la acción con el mejor pago en el estado más probable
 
 Criterio de la Regla de Bayes o del Valor Esperado Medio (VEM). El valor esperado se calcula ponderando los pagos con las probabilidades. Con $P(\theta_1) = p = 0.7$:
 
-- **Acción $a_1$ (Aceptar oferta)**:
+- **Acción $a_1$ (Aceptar oferta)**:  
 
   $VE(a_1) = \$102,000$
 
-- **Acción $a_2$ (Desarrollar el campo)**:
+- **Acción $a_2$ (Desarrollar el campo)**:  
 
   $VE(a_2) = \$1,300,000$
 
