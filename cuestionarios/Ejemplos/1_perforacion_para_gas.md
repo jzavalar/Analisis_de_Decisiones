@@ -284,9 +284,7 @@ $P(\text{Prueba indica no gas}) = P(\text{Prueba indica no gas} | \theta_1) P(\t
 
 ### Paso 1: Cálculo de $P(\text{Prueba indica no gas})$
 
-$P(\text{Prueba indica no gas}) = (0.3 \times 0.6) + (0.9 \times 0.4)$
-
-$P(\text{Prueba indica no gas}) = 0.18 + 0.36 = 0.54$
+$P(\text{Prueba indica no gas}) = (0.3 \times 0.6) + (0.9 \times 0.4) = 0.18 + 0.36 = 0.54$
 
 
 ### Paso 2: Cálculo de la probabilidad *a posteriori*
