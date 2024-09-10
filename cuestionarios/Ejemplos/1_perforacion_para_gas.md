@@ -92,7 +92,7 @@ Esta nueva estructura facilitada permite al propietario analizar de manera más 
 
 ## 3. Análisis bajo completa incertidumbre
 
-A partir de tu propuesta, realiza el análisis de decisiones con cada uno de los siguientes criterios bajo completa incetidumbre: Maximin de Wald, Maximax, Hurwicz con alpha = 1/3 y Savage (incluye la matriz de pérdida de oportunidad).
+A partir de tu propuesta, realiza el análisis de decisiones con cada uno de los siguientes criterios bajo completa incetidumbre: Maximin de Wald, Maximax, Hurwicz con $\alpha$ = 1/3 y Savage (incluye la matriz de pérdida de oportunidad).
 
 Vamos a realizar el análisis de decisiones bajo completa incertidumbre utilizando los criterios solicitados. Los criterios que analizaremos son: Maximin de Wald, Maximax, Hurwicz y Savage. Primero, recordemos la matriz de pago que hemos generado:
 
@@ -127,11 +127,11 @@ El criterio Maximax consiste en seleccionar la alternativa que maximiza el máxi
 
 **Decisión:** Escoger $D_2$ (No aceptar la oferta / Desarrollar), ya que tiene el mayor resultado máximo.
 
-### c. Hurwicz (con alpha = 1/3)
+### c. Hurwicz (con $\alpha = \frac{1}{3}$)
 
 El criterio de Hurwicz combina los conceptos de Maximin y Maximax ponderando cada uno de ellos con un factor de optimismo denominado alpha.
 
-Para $alpha = 1/3$, se utiliza $1 - alpha = 2/3$.
+Para $\alpha = \frac{1}{3}$, se utiliza $1 - \alpha = \frac{2}{3}$.
 
 Calculemos la utilidad de cada decisión:
 
@@ -213,7 +213,7 @@ Ahora, vamos a crear la matriz extendida que incluya las probabilidades de los e
 
 El criterio de Laplace asigna la misma probabilidad a cada estado de la naturaleza, independientemente de las probabilidades reales.
 
-- Hay 2 estados, entonces la probabilidad de cada uno es: \(P($S_1$) = P($S_2$) = 0.5\).
+- Hay 2 estados, entonces la probabilidad de cada uno es: $P\(S_1\) = P\(S_2\) = 0.5$.
 
 **Cálculo Laplace:**
 - Para $D_1$: 
@@ -307,12 +307,12 @@ Para analizar este nuevo escenario de decisión, utilizaremos el Teorema de Baye
 
 ### Paso 1: Definición de las Probabilidades Iniciales
 
-- **Probabilidad inicial de encontrar gas ($ P(G) $) = 0.6**
-- **Probabilidad de no encontrar gas ($ P(\neg G) $) = 0.4**
+- **Probabilidad inicial de encontrar gas $P\(G\)$ = 0.6**
+- **Probabilidad de no encontrar gas $P\(\neg G\)$ = 0.4**
 
 ### Paso 2: Resultados de las Pruebas de Sonido
 
-- Probabilidad de que la prueba indique que **no hay gas** ($ T_{\neg G} $) cuando efectivamente hay gas ($ P(T_{\neg G} | G) $) = 0.3
+- Probabilidad de que la prueba indique que **no hay gas** ($T_{\neg G}$) cuando efectivamente hay gas ($ P(T_{\neg G} | G) $) = 0.3
 - Probabilidad de que la prueba indique que **no hay gas** (\( T_{\neg G} \)) cuando efectivamente no hay gas ($ P(T_{\neg G} | \neg G) $) = 0.1 (es decir, 90% de acierto significa 10% de error).
   
 ### Paso 3: Cálculo de Probabilidades A Posteriori
