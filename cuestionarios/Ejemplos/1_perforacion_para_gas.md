@@ -204,7 +204,7 @@ Este criterio selecciona la acción con el mejor pago en el estado más probable
 
 ### 4.c. Regla de Bayes
 
-Criterio de la Regla de Bayes o del Valor Esperado Medio (VEM). El valor esperado se calcula ponderando los pagos con las probabilidades. Con $\mathbb{P}(\theta_1) = p = 0.7$:
+Criterio de la Regla de Bayes o del Valor Esperado Medio (VEM). El valor esperado se calcula ponderando los pagos con las probabilidades. Con $P(\theta_1) = p = 0.7$:
 
 - **Acción $a_1$ (Aceptar oferta)**:
   $VE(a_1) = 102,000$
