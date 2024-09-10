@@ -134,7 +134,8 @@ Para alpha = 1/3, se utiliza 1 - alpha = 2/3.
 Calculemos la utilidad de cada decisión:
 
 - Para D1:  
-  \( U(D1) = \frac{1}{3} \times (60,000) + \frac{2}{3} \times (60,000) = 60,000 \)
+  $U(D1) = \frac{1}{3} \times (60,000) + \frac{2}{3} \times (60,000) = 60,000 $
+   
 
 - Para D2:  
   \( U(D2) = \frac{1}{3} \times (1,900,000) + \frac{2}{3} \times (-100,000) \)\
