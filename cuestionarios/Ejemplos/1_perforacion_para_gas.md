@@ -328,54 +328,49 @@ Según el **criterio a posteriori** basado en el valor esperado medio (VEM), el 
 
 Después de actualizar las probabilidades utilizando la nueva información proporcionada por la prueba de sonido, la decisión óptima para el propietario es **desarrollar el campo**, incluso si el resultado de la prueba sugiere que no hay gas. Esto se debe a que, a pesar del costo de la prueba, el valor esperado de desarrollar el campo sigue siendo considerablemente más alto.
 
-## 6. Análisis de deciciones con experimentación
+## 6. Análisis de decisiones con experimentación
 
 ### Prompt
-Ahora, resuelve el problema considerando que **las pruebas de sonido indicaron que había gas** presente. Desarrolla un árbol de decisión que ilustre el problema y la solucion. Realiza una breve argumentación del análisis.
+Ahora, resuelve el problema considerando que las pruebas de sonido indicaron que había gas presente. Desarrolla un árbol de decisión que ilustre el problema y la solucion. Haz una exposición didáctica y breve, pero suficiente, para comprender cabalmente cada criterio.
 
 ### Respuesta
-Para resolver el problema considerando que las pruebas de sonido indicaron que había gas presente, seguiremos estos pasos:
+Vamos a resolver el problema asumiendo que las pruebas de sonido indicaron que **hay gas presente** en el sitio. Para este análisis, seguimos los siguientes pasos:
 
-#### 1. Actualización de Probabilidades
+### 1. Actualización de las probabilidades
+La nueva información es que las pruebas de sonido indicaron gas. Ahora debemos actualizar nuestras probabilidades utilizando el teorema de Bayes.
 
-La prueba indicó que *hay gas*. La tasa de error de la prueba es la siguiente:
-- **Tasa de falso positivo**
-  La prueba indica gas cuando no hay gas en el 10% de los casos. Es decir, $P(\text{Prueba indica gas} | \theta_2) = 0.1$.
+**Datos previos**
+- La probabilidad inicial de que haya gas en el terreno es $P(\theta_1) = 0.6$.
+- La probabilidad de que no haya gas es $P(\theta_2) = 0.4$.
 
-- **Tasa de verdadero positivo**
-  La prueba indica gas cuando hay gas en el 70% de los casos. Es decir, $P(\text{Prueba indica gas} | \theta_1) = 0.7$.
+**Datos de la prueba**
+- Tasa de verdadero positivo: $P(\text{Prueba indica gas} | \theta_1) = 0.7$.
+- Tasa de falso positivo: $P(\text{Prueba indica gas} | \theta_2) = 0.1$.
 
-Calculamos la probabilidad a posteriori de que haya gas dado que la prueba indicó gas:  
+### Cálculo de las probabilidades *a posteriori*
+El teorema de Bayes nos permite actualizar nuestras probabilidades a partir de la nueva información de la prueba.
 
-$$P(\theta_1 | \text{Prueba indica gas}) = \frac{P(\text{Prueba indica gas} | \theta_1) \cdot P(\theta_1)}{P(\text{Prueba indica gas})}$  
+**Cálculo de $P(\text{Prueba indica gas})$**  
 
-Donde:  
-
-$P(\text{Prueba indica gas}) = P(\text{Prueba indica gas} | \theta_1) \cdot P(\theta_1) + P(\text{Prueba indica gas} | \theta_2) \cdot P(\theta_2)$  
-
-**Cálculo**  
+$P(\text{Prueba indica gas}) = P(\text{Prueba indica gas} | \theta_1) \cdot P(\theta_1) + P(\text{Prueba indica gas} | \theta_2) \cdot P(\theta_2)$
 
 $P(\text{Prueba indica gas}) = (0.7 \times 0.6) + (0.1 \times 0.4) = 0.42 + 0.04 = 0.46$
 
-$P(\theta_1 | \text{Prueba indica gas}) = \frac{0.7 \times 0.6}{0.46} = \frac{0.42}{0.46} \approx 0.913$
+
+**Cálculo de $P(\theta_1 | \text{Prueba indica gas})$**
+
+$P(\theta_1 | \text{Prueba indica gas}) = \frac{P(\text{Prueba indica gas} | \theta_1) \cdot P(\theta_1)}{P(\text{Prueba indica gas})} = \frac{0.7 \times 0.6}{0.46} = \frac{0.42}{0.46} \approx 0.913$
+
+**Cálculo de $P(\theta_2 | \text{Prueba indica gas})$**
 
 $P(\theta_2 | \text{Prueba indica gas}) = 1 - P(\theta_1 | \text{Prueba indica gas}) = 1 - 0.913 = 0.087$
 
-
-#### 2. Construcción del Árbol de Decisión
-
-El árbol de decisión se construye con las siguientes etapas:
-
-1. **Decisión inicial**: Realizar la prueba de sonido.
-2. **Resultados de la prueba**:
-   - Prueba indica gas
-   - Prueba indica no gas
-
-Para cada resultado, se consideran las decisiones disponibles y los valores esperados asociados.
+### 2. Árbol de Decisión
+Con la nueva información, construimos un árbol de decisión que represente las posibles acciones del propietario y las consecuencias de cada una. Este árbol incluirá los posibles estados de la naturaleza (gas o no gas) y las decisiones (aceptar la oferta o desarrollar el campo).
 
 **Árbol de Decisión**
 
-```Ruby
+```
 Decisión Inicial
 |
 |-- Realizar Prueba de Sonido ($30,000)
@@ -397,44 +392,28 @@ Decisión Inicial
             Valor Esperado: -$100,000
 ```
 
-#### 3. Análisis y Selección
+#### 3. Análisis de las decisiones
 
-Para cada escenario, calculamos el valor esperado:
+**Valor esperado de cada decisión**
 
-- **Valor Esperado (Prueba indica gas)**
-  - **Acción $a_1$ (Aceptar oferta)**:  
+1. **Acción $a_1$ (Aceptar la oferta)**:
+   - Si la prueba indica gas ($P = 0.913$): el valor es 120,000.
+   - Si la prueba indica que no hay gas ($P = 0.087$): el valor es 60,000.
 
-    $VEM(a_1 | \text{Gas}) = 120,000$
-    
-  - **Acción $a_2$ (Desarrollar el campo)**  
+   $VEM(a_1) = (0.913 \times 120,000) + (0.087 \times 60,000) = 109,560 + 5,220 = 114,780$
+   
 
-    $VEM(a_2 | \text{Gas}) = 1,900,000$
+2. **Acción $a_2$ (Desarrollar el campo)**:
+   - Si la prueba indica gas ($P = 0.913$): el valor es 1,900,000.
+   - Si la prueba indica que no hay gas ($P = 0.087$): el valor es -100,000.
 
+   $VEM(a_2) = (0.913 \times 1,900,000) + (0.087 \times -100,000) = 1,734,700 - 8,700 = 1,726,000$
+   
 
-- **Valor Esperado (Prueba indica no gas)**
-  - **Acción $a_1$ (Aceptar oferta)**:  
-    
-    $VEM(a_1 | \text{No gas}) = 60,000$
-    
-  - **Acción $a_2$ (Desarrollar el campo)**:
-    
-    $VEM(a_2 | \text{No gas}) = -100,000$
-    
-
-**Cálculo del Valor Esperado Medio (VEM) Total**
-
-$VEM(a_1) = (0.913 \times 120,000) + (0.087 \times 60,000) = 109,560 + 5,220 = 114,780$
-
-$VEM(a_2) = (0.913 \times 1,900,000) + (0.087 \times -100,000) = 1,734,700 - 8,700 = 1,726,000$
-
-
-#### Decisión Recomendada
-
-Según el **criterio a posteriori** basado en el valor esperado medio (VEM), el propietario debería **desarrollar el campo** (acción $a_2$), ya que el valor esperado posterior ($1,726,000) es significativamente mayor que el de aceptar la oferta ($114,780).
+### 4. Decisión final
+De acuerdo con el **criterio del valor esperado medio (VEM)**, la mejor decisión es **desarrollar el campo** (acción $a_2$), ya que tiene un valor esperado mucho mayor (1,726,000) que aceptar la oferta (114,780).
 
 ### Conclusión
 
-A pesar del costo de la prueba ($30,000), el resultado de la prueba indica que hay gas presente con alta probabilidad. Por lo tanto, la decisión óptima es **desarrollar el campo** basado en el valor esperado a posteriori, ya que ofrece un retorno mucho mayor.
-
-Este análisis se puede visualizar en un árbol de decisión, lo que ayuda a entender las diferentes rutas y sus implicaciones basadas en los resultados de la prueba de sonido.
+Dado que la prueba indicó la presencia de gas y, tras actualizar las probabilidades, encontramos que hay una alta probabilidad de éxito (91.3%), la mejor decisión para el propietario es **desarrollar el campo**, pues el valor esperado de esta opción es mucho mayor que el de aceptar la oferta de la compañía energética.
 
