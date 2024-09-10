@@ -230,4 +230,85 @@ Construimos la matriz de pérdida de oportunidad y calculamos la la Pérdida de 
 
 En todos los criterios, la **acción $a_2$ (desarrollar el campo)** es la mejor opción.
 
+## 5. Análisis básico *a posteriori* con experimentación
 
+### Prompt
+A partir de la matriz de pagos original, realiza el "análisis a posteriori" bajo la siguiente información complementaria: 
+"El propietario ha decidido realizar pruebas con sonido en el sitio en donde se sospecha que haya gas natural, con un costo de $30,000. Las pruebas de sonido indican que no hay gas presente, pero la prueba no es perfecta. La compañía que realizó las pruebas acepta que 30% de las veces la prueba indicará que no hay gas cuando en realidad éste existe. Cuando no existe gas, la prueba es acertada 90% de las veces. Empleando estos datos, actualícese la estimación inicial del propietario de que la probabilidad de encontrar gas es de 0.6 y determínese después la decisión recomendada bajo el 'criterio a posteriori'."
+
+### Respuesta
+
+El **análisis a posteriori** implica utilizar nueva información para ajustar las probabilidades iniciales de los estados de la naturaleza. En este caso, se emplean los datos obtenidos de una prueba de sonido, que aunque no es perfecta, ayuda a actualizar la probabilidad de encontrar gas en el sitio.
+
+### Información disponible
+
+1. **Probabilidad inicial de encontrar gas (antes de la prueba)**:  
+   $ P(\theta_1) = 0.6 $  
+   $ P(\theta_2) = 1 - P(\theta_1) = 0.4 $  
+
+2. **Información de la prueba**:
+   - La prueba indicó que **no hay gas**.
+   - **Tasa de error de la prueba**:
+     - **Falso negativo**: $ P(\text{Prueba indica no gas} \lor \theta_1) = 0.3 $
+     - **Verdadero negativo**: $ P(\text{Prueba indica no gas} \lor \theta_2) = 0.9 $
+
+3. **Costo de la prueba**:  
+   - $30,000.
+
+## Aplicación del Teorema de Bayes
+
+El **Teorema de Bayes** nos permite calcular la **probabilidad a posteriori** de que haya gas ($\theta_1$) o no ($\theta_2$)) dadas las nuevas evidencias (resultado de la prueba).
+
+El teorema de Bayes se expresa como:
+
+$P(\theta_1 \lor \text{Prueba indica no gas}) = \frac{P(\text{Prueba indica no gas} \lor \theta_1) P(\theta_1)}{P(\text{Prueba indica no gas})}$
+
+Donde:
+
+$P(\text{Prueba indica no gas}) = P(\text{Prueba indica no gas} \lor \theta_1) P(\theta_1) + P(\text{Prueba indica no gas} \lor \theta_2) P(\theta_2)$
+
+
+### Paso 1: Cálculo de \( P(\text{Prueba indica no gas}) \)
+
+$P(\text{Prueba indica no gas}) = (0.3 \times 0.6) + (0.9 \times 0.4)$
+$P(\text{Prueba indica no gas}) = 0.18 + 0.36 = 0.54$
+
+
+### Paso 2: Cálculo de la probabilidad a posteriori $P(\theta_1 | \text{Prueba indica no gas})$
+
+$P(\theta_1 \lor \text{Prueba indica no gas}) = \frac{0.3 \times 0.6}{0.54} = \frac{0.18}{0.54} = 0.333$
+
+
+### Paso 3: Cálculo de la probabilidad a posteriori \( P(\theta_2 | \text{Prueba indica no gas}) \)
+
+$P(\theta_2 \lor \text{Prueba indica no gas}) = 1 - P(\theta_1 \lor \text{Prueba indica no gas}) = 1 - 0.333 = 0.667$
+
+## Análisis de decisiones a posteriori
+
+Con las probabilidades a posteriori, se actualizan las estimaciones de los posibles resultados en la matriz de pagos. Recordemos la matriz de pagos original:
+
+| **Decisiones/Estados de la Naturaleza** | **$\theta_1$ (Hay gas)**    | **$\theta_2$ (No hay gas)**  |
+|-----------------------------------------|-----------------------------|------------------------------|
+| **Acción $a_1$ (Aceptar oferta)**       | $120,000                    | $60,000                      |
+| **Acción $a_2$ (Desarrollar el campo)** | $1,900,000                  | -$100,000                    |
+
+Utilizaremos la **regla de Bayes (Valor Esperado Medio - VEM)** con las nuevas probabilidades para tomar la decisión adecuada.
+
+### Cálculo del Valor Esperado Medio (VEM):
+
+- **Acción $a_1$ (Aceptar oferta)**:
+  $VEM}(a_1) = P(\theta_1 \lor \text{Prueba indica no gas}) \times 120,000 + P(\theta_2 \lor \text{Prueba indica no gas}) \times 60,000$
+  $\text{VEM}(a_1) = (0.333 \times 120,000) + (0.667 \times 60,000) = 40,000 + 40,020 = 80,020$
+
+- **Acción $a_2$ (Desarrollar el campo)**:
+  $\text{VEM}(a_2) = P(\theta_1 \lor \text{Prueba indica no gas}) \times 1,900,000 + P(\theta_2 \lor \text{Prueba indica no gas}) \times (-100,000)$
+
+  $\text{VEM}(a_2) = (0.333 \times 1,900,000) + (0.667 \times -100,000) = 633,700 - 66,700 = 567,000$
+
+### Decisión recomendada
+
+Según el **criterio a posteriori** basado en el valor esperado medio (VEM), el propietario debería **desarrollar el campo** (acción $a_2$), ya que su valor esperado posterior ($567,000) es mayor que el de aceptar la oferta ($80,020).
+
+### Conclusión
+
+Después de actualizar las probabilidades utilizando la nueva información proporcionada por la prueba de sonido, la decisión óptima para el propietario es **desarrollar el campo**, incluso si el resultado de la prueba sugiere que no hay gas. Esto se debe a que, a pesar del costo de la prueba, el valor esperado de desarrollar el campo sigue siendo considerablemente más alto.
