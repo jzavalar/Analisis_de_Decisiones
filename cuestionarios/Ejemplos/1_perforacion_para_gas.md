@@ -87,10 +87,10 @@ a_2 \ (\text{Desarrollar el campo}) & 1,900,000 & -100,000 \\
 \end{array}
 $$
 
-- Para $a_1$, el mínimo es $60,000$.
-- Para $a_2$, el mínimo es $-100,000$.
+- Para $a_1$, el mínimo es \$60,000.
+- Para $a_2$, el mínimo es \$-100,000.
 
-La **acción seleccionada** bajo el criterio maximin es **$a_1$** (Aceptar la oferta), ya que su peor escenario ($60,000$) es mejor que el peor escenario de $a_2$ (-$100,000$).
+La **acción seleccionada** bajo el criterio maximin es **$a_1$** (Aceptar la oferta), ya que su peor escenario (\$60,000) es mejor que el peor escenario de $a_2$ (-\$100,000).
 
 ### 3.b. Criterio Maximax
 El **criterio maximax** es un enfoque **optimista**, que selecciona la acción que maximiza el **máximo** beneficio posible, esperando el mejor resultado.
