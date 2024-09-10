@@ -127,10 +127,10 @@ Si $\alpha = 0.5$, el decisor es neutral.
 Supongamos $\alpha = 0.7$ (más optimista).
 
 - **Acción $a_1$**:  
-  $H(a_1) = 0.7 \times \$120,000 + 0.3 \times \$60,000 = \$84,000 + \$18,000 = \$102,000$
+  $H(a_1) = 0.7 \times \$120,000 + 0.3 \times \$60,000 = \$84,000 + \$18,000 = \$102,000$  
   
 - **Acción $a_2$**:  
-  $H(a_2) = 0.7 \times \$1,900,000 + 0.3 \times (-\$100,000) = \$1,330,000 - \$30,000 = \$1,300,000$
+  $H(a_2) = 0.7 \times \$1,900,000 + 0.3 \times (-\$100,000) = \$1,330,000 - \$30,000 = \$1,300,000$  
 
 **Elección**: Para $\alpha = 0.7$, se elige **$a_2$ (desarrollar el campo)**.
 
