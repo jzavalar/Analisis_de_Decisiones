@@ -309,17 +309,17 @@ Utilizaremos la **regla de Bayes (Valor Esperado Medio - VEM)** con las nuevas p
 
 ### Cálculo del Valor Esperado Medio (VEM):
 
-- **Acción $a_1$ (Aceptar oferta)**:
+- **Acción $a_1$ (Aceptar oferta)**:  
 
-  $VEM}(a_1) = P(\theta_1 | \text{Prueba indica no gas}) \times 120,000 + P(\theta_2 | \text{Prueba indica no gas}) \times 60,000$
+  $VEM}(a_1) = P(\theta_1 | \text{Prueba indica no gas}) \times 120,000 + P(\theta_2 | \text{Prueba indica no gas}) \times 60,000$  
 
-  $\text{VEM}(a_1) = (0.333 \times 120,000) + (0.667 \times 60,000) = 40,000 + 40,020 = 80,020$
+  $\text{VEM}(a_1) = (0.333 \times 120,000) + (0.667 \times 60,000) = 40,000 + 40,020 = 80,020$  
 
-- **Acción $a_2$ (Desarrollar el campo)**:
+- **Acción $a_2$ (Desarrollar el campo)**:  
 
-  $\text{VEM}(a_2) = P(\theta_1 | \text{Prueba indica no gas}) \times 1,900,000 + P(\theta_2 | \text{Prueba indica no gas}) \times (-100,000)$
+  $\text{VEM}(a_2) = P(\theta_1 | \text{Prueba indica no gas}) \times 1,900,000 + P(\theta_2 | \text{Prueba indica no gas}) \times (-100,000)$  
 
-  $\text{VEM}(a_2) = (0.333 \times 1,900,000) + (0.667 \times -100,000) = 633,700 - 66,700 = 567,000$
+  $\text{VEM}(a_2) = (0.333 \times 1,900,000) + (0.667 \times -100,000) = 633,700 - 66,700 = 567,000$  
 
 ### Decisión recomendada
 
