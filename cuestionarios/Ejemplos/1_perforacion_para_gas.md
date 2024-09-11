@@ -1,21 +1,18 @@
 # Problema 1. Perforación de un pozo para extraer gas natural
 
-## Planteamiento del problema
+A continuación voy a mostrar el uso de [*ChatGPT*](https://chatgpt.com/) como una herramienta poderosa para el estudio de esta UEA, al considerarla como un tutor universal. Destacaré el *prompt* y la *respuesta*:
+
+## 1. Planteamiento del problema
 
 Una gran compañía de energéticos ofrece al dueño de un terreno $60,000 dólares por los derechos de exploración de gas natural en un sitio determinado y la opción para un desarrollo futuro. La opción, si se ejerce, vale $60,000 adicionales para el propietario, pero esto ocurrirá sólo si se descubre gas natural durante la etapa de exploración. El propietario, considerando que el interés de la compañía es una buena indicación de que existe gas, está tentado a desarrollar él mismo el campo. Para hacer esto, deberá contratar equipos locales con experiencia en exploración y desarrollo. El costo inicial es de $100,000, los que se perderán si no se encuentra gas. Sin embargo, si descubre gas, el propietario estima un beneficio neto de 2 millones de dólares.[1] 
 
-A continuación voy a mostrar el uso de [*ChatGPT*](https://chatgpt.com/) como una herramienta poderosa para el estudio de esta UEA, al considerarla como un tutor universal. Destacaré el *prompt* y la *respuesta*:
+## Prompt
+>Te voy a dar un problema para que me ayudes con la realización de varios análisis desde la perspectiva de la teoría de decisiones (análisis de decisiones) de la investigación de operaciones. El texto del problema es el siguiente:  
+>
+>"Una gran compañía de energéticos ofrece al dueño de un terreno $60,000 dólares por los derechos de exploración de gas natural en un sitio determinado y la opción para un desarrollo futuro. La opción, si se ejerce, vale $60,000 adicionales para el propietario, pero esto ocurrirá sólo si se descubre gas natural durante la etapa de exploración. El propietario, considerando que el interés de la compañía es una buena indicación de que existe gas, está tentado a desarrollar él mismo el campo. Para hacer esto, deberá contratar equipos locales con experiencia en exploración y desarrollo. El costo inicial es de $100,000, los que se perderán si no se encuentra gas. Sin embargo, si descubre gas, el propietario estima un beneficio neto de 2 millones de dólares." 
+>
+>El primer análisis que debes hacer es el "Encuadre del problema", que consiste en identificar en el texto del problema: a) El Decisor, b) Las acciones o decisiones posibles, c) Los estados de la naturaleza y d) La función de consecuencias o matriz de pagos. Abunda brevemente exponiendo los conceptos involucrados. Modifica tu propuesta nombrando las acciones como $a_1$, $a_2$, etc. y los estados de la naturaleza como $\theta_1$, $\theta_2$, etc. 
 
-## 1. Planteamiento del Problema
-
-En este primer prompt se solicita que, a partir del texto del problema, se realice el encuadre del problema.
-
-### Prompt
-Te voy a dar un problema para que me ayudes con la realización de varios análisis desde la perspectiva de la teoría de decisiones (análisis de decisiones) de la investigación de operaciones. El texto del problema es el siguiente:  
-
-"Una gran compañía de energéticos ofrece al dueño de un terreno $60,000 dólares por los derechos de exploración de gas natural en un sitio determinado y la opción para un desarrollo futuro. La opción, si se ejerce, vale $60,000 adicionales para el propietario, pero esto ocurrirá sólo si se descubre gas natural durante la etapa de exploración. El propietario, considerando que el interés de la compañía es una buena indicación de que existe gas, está tentado a desarrollar él mismo el campo. Para hacer esto, deberá contratar equipos locales con experiencia en exploración y desarrollo. El costo inicial es de $100,000, los que se perderán si no se encuentra gas. Sin embargo, si descubre gas, el propietario estima un beneficio neto de 2 millones de dólares." 
-
-El primer análisis que debes hacer es el "Encuadre del problema", que consiste en identificar en el texto del problema: a) El Decisor, b) Las acciones o decisiones posibles, c) Los estados de la naturaleza y d) La función de consecuencias o matriz de pagos. Abunda brevemente exponiendo los conceptos involucrados. Modifica tu propuesta nombrando las acciones como $a_1$, $a_2$, etc. y los estados de la naturaleza como $\theta_1$, $\theta_2$, etc. 
 
 # 2. Encuadre del Problema
 
@@ -60,6 +57,7 @@ Podemos organizarla así:
 - **Función de consecuencias**: Es la relación que asigna un resultado o beneficio esperado (normalmente expresado en términos monetarios) a cada combinación de acción y estado de la naturaleza.
 
 Este es el primer paso del análisis de decisiones, que consiste en enmarcar el problema para clarificar los componentes clave antes de proceder con los cálculos de valor esperado, entre otros.
+
 
 ## 3. Análisis de decisiones bajo *completa incertidumbre*
 
@@ -178,6 +176,7 @@ El decisor selecciona la acción que minimiza la pérdida máxima posible.
 
 El decisor deberá elegir entre estas acciones dependiendo de su aversión al riesgo y su nivel de optimismo.
 
+
 ## 4. Análisis de decisiones bajo riesgo sin experimentación
 
 A continuación, a partir de la matriz de pagos, realiza el "análisis bajo riesgo" de la "toma de decisiones sin experimentación", bajo los siguientes criterios: a. Criterio de Laplace, b. Criterio de la máxima posibilidad, c. Regla de decisión de Bayes (Valor Esperado Medio, VEM) y d. Minimización de la pérdida de oportunidad esperada (POE). Desarrolla tu respuesta con los conceptos involucrados y el razonamiento que hay detrás de cada criterio, seguido del algoritmo básico para su solución y la elección elegida. Haz una exposición didáctica y breve, pero suficiente, para comprender cabalmente cada criterio. En segundo lugar, codifica la respuesta en markdown compatible al 100% para publicarlo en GitHub.
@@ -242,6 +241,7 @@ Construimos la matriz de pérdida de oportunidad y calculamos la la Pérdida de 
 ### Conclusión General
 
 En todos los criterios, la **acción $a_2$ (desarrollar el campo)** es la mejor opción.
+
 
 ## 5. Análisis *a posteriori* con experimentación: Pruebas de sonido: No hay gas
 
@@ -327,6 +327,7 @@ Según el **criterio a posteriori** basado en el valor esperado medio (VEM), el 
 ### Conclusión
 
 Después de actualizar las probabilidades utilizando la nueva información proporcionada por la prueba de sonido, la decisión óptima para el propietario es **desarrollar el campo**, incluso si el resultado de la prueba sugiere que no hay gas. Esto se debe a que, a pesar del costo de la prueba, el valor esperado de desarrollar el campo sigue siendo considerablemente más alto.
+
 
 ## 6. Análisis *a posteriori* con experimentación: Pruebas de sonido: Hay gas
 
@@ -416,6 +417,7 @@ De acuerdo con el **criterio del valor esperado medio (VEM)**, la mejor decisió
 ### Conclusión
 
 Dado que la prueba indicó la presencia de gas y, tras actualizar las probabilidades, encontramos que hay una alta probabilidad de éxito (91.3%), la mejor decisión para el propietario es **desarrollar el campo**, pues el valor esperado de esta opción es mucho mayor que el de aceptar la oferta de la compañía energética.
+
 
 ## 7. Análisis *a posteriori* con experimentación: Consideración de las pruebas de sonido
 
