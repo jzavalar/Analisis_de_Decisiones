@@ -2,7 +2,7 @@
 
 ## Planteamiento del problema
 
-Una gran compañía de energéticos ofrece al dueño de un terreno $60,000 dólares por los derechos de exploración de gas natural en un sitio determinado y la opción para un desarrollo futuro. La opción, si se ejerce, vale $60,000 adicionales para el propietario, pero esto ocurrirá sólo si se descubre gas natural durante la etapa de exploración. El propietario, considerando que el interés de la compañía es una buena indicación de que existe gas, está tentado a desarrollar él mismo el campo. Para hacer esto, deberá contratar equipos locales con experiencia en exploración y desarrollo. El costo inicial es de $100,000, los que se perderán si no se encuentra gas. Sin embargo, si descubre gas, el propietario estima un beneficio neto de 2 millones de dólares.
+Una gran compañía de energéticos ofrece al dueño de un terreno $60,000 dólares por los derechos de exploración de gas natural en un sitio determinado y la opción para un desarrollo futuro. La opción, si se ejerce, vale $60,000 adicionales para el propietario, pero esto ocurrirá sólo si se descubre gas natural durante la etapa de exploración. El propietario, considerando que el interés de la compañía es una buena indicación de que existe gas, está tentado a desarrollar él mismo el campo. Para hacer esto, deberá contratar equipos locales con experiencia en exploración y desarrollo. El costo inicial es de $100,000, los que se perderán si no se encuentra gas. Sin embargo, si descubre gas, el propietario estima un beneficio neto de 2 millones de dólares.[1] 
 
 A continuación voy a mostrar el uso de [*ChatGPT*](https://chatgpt.com/) como una herramienta poderosa para el estudio de esta UEA, al considerarla como un tutor universal. Destacaré el *prompt* y la *respuesta*:
 
@@ -243,7 +243,7 @@ Construimos la matriz de pérdida de oportunidad y calculamos la la Pérdida de 
 
 En todos los criterios, la **acción $a_2$ (desarrollar el campo)** es la mejor opción.
 
-## 5. Análisis básico *a posteriori* con experimentación
+## 5. Análisis *a posteriori* con experimentación: Pruebas de sonido: No hay gas
 
 ### Prompt
 A partir de la matriz de pagos original, realiza el "análisis a posteriori" bajo la siguiente información complementaria: 
@@ -328,7 +328,7 @@ Según el **criterio a posteriori** basado en el valor esperado medio (VEM), el 
 
 Después de actualizar las probabilidades utilizando la nueva información proporcionada por la prueba de sonido, la decisión óptima para el propietario es **desarrollar el campo**, incluso si el resultado de la prueba sugiere que no hay gas. Esto se debe a que, a pesar del costo de la prueba, el valor esperado de desarrollar el campo sigue siendo considerablemente más alto.
 
-## 6. Análisis de decisiones con experimentación
+## 6. Análisis *a posteriori* con experimentación: Pruebas de sonido: Hay gas
 
 ### Prompt
 Ahora, resuelve el problema considerando que las pruebas de sonido indicaron que había gas presente. Desarrolla un árbol de decisión que ilustre el problema y la solucion. Haz una exposición didáctica y breve, pero suficiente, para comprender cabalmente cada criterio.
@@ -417,3 +417,108 @@ De acuerdo con el **criterio del valor esperado medio (VEM)**, la mejor decisió
 
 Dado que la prueba indicó la presencia de gas y, tras actualizar las probabilidades, encontramos que hay una alta probabilidad de éxito (91.3%), la mejor decisión para el propietario es **desarrollar el campo**, pues el valor esperado de esta opción es mucho mayor que el de aceptar la oferta de la compañía energética.
 
+## 7. Análisis *a posteriori* con experimentación: Consideración de las pruebas de sonido
+
+Vamos a resolver el problema considerando que el propietario tiene la opción de **realizar las pruebas de sonido** o no, antes de tomar la decisión final de aceptar la oferta de la compañía o desarrollar el campo él mismo. El propósito del **árbol de decisión** es ilustrar cómo se ven afectadas las posibles decisiones y las consecuencias asociadas con la opción de realizar o no las pruebas.
+
+### 1. Decisiones y alternativas
+El propietario tiene dos decisiones principales:
+1. **Realizar las pruebas de sonido**:
+   - Costo de la prueba: $30,000.
+   - La prueba puede indicar que **hay gas** o que **no hay gas** con las tasas de error ya discutidas.
+2. **No realizar las pruebas**:
+   - Tomar una decisión directamente, ya sea **aceptar la oferta de la compañía** o **desarrollar el campo**.
+
+### 2. Estados de la naturaleza
+Los dos posibles estados de la naturaleza son:
+1. **Hay gas** en el terreno ($\theta_1$): Probabilidad inicial de $P(\theta_1) = 0.6$.
+2. **No hay gas** ($\theta_2$): Probabilidad de $P(\theta_2) = 0.4$.
+
+### 3. Árbol de decisión
+El árbol de decisión incluye los siguientes nodos:
+
+1. **Decisión inicial**:
+   - Realizar las pruebas de sonido.
+   - No realizar las pruebas de sonido.
+
+2. **Si se realizan las pruebas de sonido**:
+   - La prueba puede indicar gas ($\text{Prueba indica gas}$) o no gas ($\text{Prueba indica no gas}$).
+
+3. **Si no se realizan las pruebas**:
+   - El propietario debe decidir entre **aceptar la oferta** o **desarrollar el campo** directamente.
+
+#### Árbol de Decisión
+
+```
+Decisión Inicial
+|
+|-- Realizar Prueba de Sonido ($30,000)
+|   |
+|   |-- Prueba Indica Gas (Probabilidad: 0.46)
+|   |   |
+|   |   |-- Acción $a_1$: Aceptar oferta ($120,000)
+|   |   |-- Acción $a_2$: Desarrollar el campo ($1,900,000 o -$100,000)
+|   |
+|   |-- Prueba Indica No Gas (Probabilidad: 0.54)
+|       |
+|       |-- Acción $a_1$: Aceptar oferta ($60,000)
+|       |-- Acción $a_2$: Desarrollar el campo ($1,900,000 o -$100,000)
+|
+|-- No Realizar Prueba
+    |
+    |-- Acción $a_1$: Aceptar oferta ($60,000)
+    |-- Acción $a_2$: Desarrollar el campo ($1,200,000 o -$100,000)
+```
+
+#### 4. Análisis y valor esperado
+
+**Si *se* realizan las pruebas de sonido**:
+- El costo fijo de la prueba es de **$30,000**.
+- Si la prueba indica gas ($P = 0.46$):
+  - Se puede aceptar la oferta de **$120,000**.
+  - O desarrollar el campo, que resultaría en un beneficio de **$1,900,000** si hay gas o una pérdida de **$100,000** si no hay gas.
+  
+  Valor esperado del desarrollo:
+
+  $VEM(a_2 | \text{Gas}) = 0.6 \times 1,900,000 + 0.4 \times (-100,000) = 1,140,000 - 40,000 = 1,100,000$
+  
+- Si la prueba indica no gas ($P = 0.54$):
+  - Se puede aceptar la oferta de **$60,000**.
+  - O desarrollar el campo, con la misma expectativa que antes.
+
+  Valor esperado del desarrollo si la prueba indica que no hay gas:
+  
+  $VEM(a_2 | \text{No gas}) = 0.6 \times (-100,000) + 0.4 \times 1,900,000 = -60,000 + 760,000 = 700,000$
+  
+**Si *no* se realizan las pruebas**:
+- El propietario toma la decisión directamente:
+  - Aceptar la oferta de **$60,000**.
+  - Desarrollar el campo, que tiene un valor esperado sin información adicional:
+
+  $VEM(a_2) = 0.6 \times 1,900,000 + 0.4 \times (-100,000) = 1,140,000 - 40,000 = 1,100,000$
+  
+
+### 5. Decisión recomendada
+
+La decisión recomendada depende de si el valor esperado de realizar la prueba compensa el coste de la misma.
+
+- **Valor esperado de realizar la prueba**:
+  - Si la prueba indica que *hay gas* ($P = 0.46$), el valor esperado del desarrollo es $1,100,000$, pero hay un costo de $30,000$ por la prueba.
+  - Si la prueba indica que *no hay gas* ($P = 0.54$), el valor esperado es de $700,000$.
+
+  Valor esperado total al realizar la prueba:
+  
+  $VEM(Prueba) = (0.46 \times 1,100,000) + (0.54 \times 700,000) = 506,000 + 378,000 = 884,000$
+  
+
+- **Valor esperado sin realizar la prueba**:
+  
+  $VEM(Sin Prueba) = 1,100,000$
+
+
+### Conclusión
+
+Aunque realizar la prueba cuesta $30,000$, el valor esperado de la acción de **no realizar la prueba** es mayor ($1,100,000$) en comparación con realizarla ($884,000$). Por lo tanto, la mejor decisión es **no realizar la prueba** y proceder con el desarrollo del campo directamente.
+
+## Notas
+[1] Bronson, R. (1983). Capítulo 17: Teoría de decisiones. In *Investigacion de operaciones* (pp. 125-202). México: McGraw-Hill.
