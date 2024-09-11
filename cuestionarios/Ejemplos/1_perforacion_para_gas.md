@@ -62,7 +62,7 @@ Este es el primer paso del análisis de decisiones, que consiste en enmarcar el 
 ## 3. Análisis de decisiones bajo *completa incertidumbre*
 
 ### Prompt
-A continuación, realiza el "análisis de decisiones bajo completa incertidumbre". Para ello, utiliza los siguientes "criterios de elección no probabilísticos": a) Criterio maximin de Wald, b) Criterio maximax, c) Criterio de Hurwicz y d) Pesar minimax o Criterio de Savage. En el análisis del criterio de Hurwicz contrasta el análisis< con el índice $\alpha$ en los tres escenarios posibles: pesimista (0 menor o igual a $\alpha$ menor a 0.5), neutro ($\alpha$ igual a 0.5), optimista (0.5 menor a $\alpha$ menor o igual a 1). En el análisis del criterio de Savage incluye la matriz de pérdida de oportunidad. Desarrolla tu respuesta con los conceptos involucrados y el razonamiento que hay detrás de cada criterio, seguido del algoritmo básico y la elección. Haz una exposición didáctica y breve, pero suficiente para comprender cabalmente cada criterio.
+> A continuación, realiza el "análisis de decisiones bajo completa incertidumbre". Para ello, utiliza los siguientes "criterios de elección no probabilísticos": a) Criterio maximin de Wald, b) Criterio maximax, c) Criterio de Hurwicz y d) Pesar minimax o Criterio de Savage. En el análisis del criterio de Hurwicz contrasta el análisis< con el índice $\alpha$ en los tres escenarios posibles: pesimista (0 menor o igual a $\alpha$ menor a 0.5), neutro ($\alpha$ igual a 0.5), optimista (0.5 menor a $\alpha$ menor o igual a 1). En el análisis del criterio de Savage incluye la matriz de pérdida de oportunidad. Desarrolla tu respuesta con los conceptos involucrados y el razonamiento que hay detrás de cada criterio, seguido del algoritmo básico y la elección. Haz una exposición didáctica y breve, pero suficiente para comprender cabalmente cada criterio.
 
 ### Respuesta
 Este análisis utiliza varios **criterios de elección no probabilísticos** para tomar una decisión bajo incertidumbre completa. El problema plantea una situación en la que el decisor no conoce las probabilidades de los estados de la naturaleza, por lo que debe basarse en criterios alternativos.
@@ -179,7 +179,7 @@ El decisor deberá elegir entre estas acciones dependiendo de su aversión al ri
 
 ## 4. Análisis de decisiones bajo riesgo sin experimentación
 
-A continuación, a partir de la matriz de pagos, realiza el "análisis bajo riesgo" de la "toma de decisiones sin experimentación", bajo los siguientes criterios: a. Criterio de Laplace, b. Criterio de la máxima posibilidad, c. Regla de decisión de Bayes (Valor Esperado Medio, VEM) y d. Minimización de la pérdida de oportunidad esperada (POE). Desarrolla tu respuesta con los conceptos involucrados y el razonamiento que hay detrás de cada criterio, seguido del algoritmo básico para su solución y la elección elegida. Haz una exposición didáctica y breve, pero suficiente, para comprender cabalmente cada criterio. En segundo lugar, codifica la respuesta en markdown compatible al 100% para publicarlo en GitHub.
+> A continuación, a partir de la matriz de pagos, realiza el "análisis bajo riesgo" de la "toma de decisiones sin experimentación", bajo los siguientes criterios: a. Criterio de Laplace, b. Criterio de la máxima posibilidad, c. Regla de decisión de Bayes (Valor Esperado Medio, VEM) y d. Minimización de la pérdida de oportunidad esperada (POE). Desarrolla tu respuesta con los conceptos involucrados y el razonamiento que hay detrás de cada criterio, seguido del algoritmo básico para su solución y la elección elegida. Haz una exposición didáctica y breve, pero suficiente, para comprender cabalmente cada criterio. En segundo lugar, codifica la respuesta en markdown compatible al 100% para publicarlo en GitHub.
 
 ### Matriz de Pagos
 
@@ -246,7 +246,7 @@ En todos los criterios, la **acción $a_2$ (desarrollar el campo)** es la mejor 
 ## 5. Análisis *a posteriori* con experimentación: Pruebas de sonido: No hay gas
 
 ### Prompt
-A partir de la matriz de pagos original, realiza el "análisis a posteriori" bajo la siguiente información complementaria: 
+> A partir de la matriz de pagos original, realiza el "análisis a posteriori" bajo la siguiente información complementaria: 
 "El propietario ha decidido **realizar pruebas con sonido** en el sitio en donde se sospecha que haya gas natural, con un costo de $30,000. Las **pruebas de sonido** indican que **no hay gas** presente, pero la prueba no es perfecta. La compañía que realizó las pruebas acepta que 30% de las veces la prueba indicará que no hay gas cuando en realidad éste existe. Cuando no existe gas, la prueba es acertada 90% de las veces. Empleando estos datos, actualícese la estimación inicial del propietario de que la probabilidad de encontrar gas es de 0.6 y determínese después la decisión recomendada bajo el '**criterio a posteriori**'."
 
 ### Respuesta
@@ -332,7 +332,7 @@ Después de actualizar las probabilidades utilizando la nueva información propo
 ## 6. Análisis *a posteriori* con experimentación: Pruebas de sonido: Hay gas
 
 ### Prompt
-Ahora, resuelve el problema considerando que las pruebas de sonido indicaron que había gas presente. Desarrolla un árbol de decisión que ilustre el problema y la solucion. Haz una exposición didáctica y breve, pero suficiente, para comprender cabalmente cada criterio.
+> Ahora, resuelve el problema considerando que las pruebas de sonido indicaron que había gas presente. Desarrolla un árbol de decisión que ilustre el problema y la solucion. Haz una exposición didáctica y breve, pero suficiente, para comprender cabalmente cada criterio.
 
 ### Respuesta
 Vamos a resolver el problema asumiendo que las pruebas de sonido indicaron que **hay gas presente** en el sitio. Para este análisis, seguimos los siguientes pasos:
@@ -421,7 +421,7 @@ Dado que la prueba indicó la presencia de gas y, tras actualizar las probabilid
 
 ## 7. Análisis *a posteriori* con experimentación: Consideración de las pruebas de sonido
 
-Vamos a resolver el problema considerando que el propietario tiene la opción de **realizar las pruebas de sonido** o no, antes de tomar la decisión final de aceptar la oferta de la compañía o desarrollar el campo él mismo. El propósito del **árbol de decisión** es ilustrar cómo se ven afectadas las posibles decisiones y las consecuencias asociadas con la opción de realizar o no las pruebas.
+> Vamos a resolver el problema considerando que el propietario tiene la opción de **realizar las pruebas de sonido** o no, antes de tomar la decisión final de aceptar la oferta de la compañía o desarrollar el campo él mismo. El propósito del **árbol de decisión** es ilustrar cómo se ven afectadas las posibles decisiones y las consecuencias asociadas con la opción de realizar o no las pruebas.
 
 ### 1. Decisiones y alternativas
 El propietario tiene dos decisiones principales:
