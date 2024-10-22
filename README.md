@@ -5,9 +5,9 @@
 
 **Clave de la UEA:** *2211092*, **Trimestre:** *24 Primavera*
 
-**Grupo:** *0PEXT251*: *Lunes y miércoles* de *18:00 a 20:00*.
+**Grupo:** *0PEXT53*: *Lunes y miércoles* de *18:00 a 20:00*.
 
-**Salón:** Edificio Anexo Edificio A-Sala K.
+**Salón:** Edificio Anexo A-Sala K.
 
 **Asesorías:**  *Martes* de *20:00* a *22:00 hr*, vía [Telegram](https://telegram.org/apps), previa solicitud.
 
