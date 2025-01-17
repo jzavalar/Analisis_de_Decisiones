@@ -54,13 +54,14 @@ La **función de utilidad** (U($theta, a$)) evalúa el valor (económico en este
 **Matriz de pagos**:
 Esta matriz organiza las ganancias o pérdidas económicas para cada combinación de $a_j$ y $\theta_i$:
 
-| **Acción ($a_j$) / Estado ($\theta_i$)** | **$\theta_1$: El tesorero es el informante** | **$\theta_2$: El tesorero no es el informante** |
-|---------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| **$a_1$: Despedir al tesorero**           | $+100,000$                                  | $-500,000$                                  |
-| **$a_2$: No despedir al tesorero**        | $-300,000$                                  | $-300,000$                                  |
-| **$a_3$: Realizar pruebas**               | Depende del resultado de las pruebas (ver análisis más abajo). |
+Aquí está la matriz con las filas y columnas intercambiadas:
 
-**Cálculo adicional para $a_3$: Realizar pruebas**:
+| **Estado (\(\theta_i\)) / Acción (\(a_j\))** | **\(a_1\): Despedir al tesorero** | **\(a_2\): No despedir al tesorero** | **\(a_3\): Realizar pruebas** |
+|---------------------------------------------|----------------------------------|----------------------------------|---------------------------------------------------------------|
+| **\(\theta_1\): El tesorero es el informante** | \(+100,000\)                      | \(-300,000\)                      | Depende del resultado de las pruebas (ver análisis más abajo). |
+| **\(\theta_2\): El tesorero no es el informante** | \(-500,000\)                      | \(-300,000\)                      | Depende del resultado de las pruebas (ver análisis más abajo). |
+
+Este formato presenta los estados de la naturaleza en las filas y las acciones en las columnas.**Cálculo adicional para $a_3$: Realizar pruebas**:
 Las pruebas introducen complejidad debido a su falta de precisión:
 - Si el tesorero está mintiendo ($\theta_1$):
   - Probabilidad de detectar mentira correctamente: $90\%$.
