@@ -56,10 +56,10 @@ Esta matriz organiza las ganancias o pérdidas económicas para cada combinació
 
 Aquí está la matriz con las filas y columnas intercambiadas:
 
-| **Estado (\(\theta_i\)) / Acción (\(a_j\))** | **\(a_1\): Despedir al tesorero** | **\(a_2\): No despedir al tesorero** | **\(a_3\): Realizar pruebas** |
+| **Estado ($\theta_i$) / Acción ($a_j$)** | **$a_1\): Despedir al tesorero** | **$a_2$: No despedir al tesorero** | **$a_3$: Realizar pruebas** |
 |---------------------------------------------|----------------------------------|----------------------------------|---------------------------------------------------------------|
-| **\(\theta_1\): El tesorero es el informante** | \(+100,000\)                      | \(-300,000\)                      | Depende del resultado de las pruebas (ver análisis más abajo). |
-| **\(\theta_2\): El tesorero no es el informante** | \(-500,000\)                      | \(-300,000\)                      | Depende del resultado de las pruebas (ver análisis más abajo). |
+| **$\theta_1$: El tesorero es el informante** | $+100,000$                      | $-300,000$                      | Depende del resultado de las pruebas (ver análisis más abajo). |
+| **$\theta_2$: El tesorero no es el informante** | $-500,000$                      | $-300,000$                      | Depende del resultado de las pruebas (ver análisis más abajo). |
 
 Este formato presenta los estados de la naturaleza en las filas y las acciones en las columnas.**Cálculo adicional para $a_3$: Realizar pruebas**:
 Las pruebas introducen complejidad debido a su falta de precisión:
@@ -70,9 +70,9 @@ Las pruebas introducen complejidad debido a su falta de precisión:
   - Probabilidad de detectar verdad correctamente: $70\%$.
   - Probabilidad de error: $30\%$.
 
-Para evaluar \(a_3\), necesitaríamos calcular el valor esperado, incorporando los costos de las pruebas ($30,000) y las probabilidades de error del detector.
+Para evaluar $a_3$, necesitaríamos calcular el valor esperado, incorporando los costos de las pruebas (\$30,000) y las probabilidades de error del detector.
 
-La matriz de pagos proporciona una representación clara de los resultados posibles, permitiendo comparar las decisiones. Para acciones con incertidumbre (como \(a_3\)), se deben incluir cálculos adicionales basados en probabilidades condicionales y costos.
+La matriz de pagos proporciona una representación clara de los resultados posibles, permitiendo comparar las decisiones. Para acciones con incertidumbre (como $a_3$), se deben incluir cálculos adicionales basados en probabilidades condicionales y costos.
 
 #### **Resumen del Encuadre**
 - El decisor es la presidenta, cuyo objetivo es minimizar las pérdidas económicas.
