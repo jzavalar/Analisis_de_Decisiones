@@ -56,7 +56,7 @@ Esta matriz organiza las ganancias o pérdidas económicas para cada combinació
 
 Aquí está la matriz con las filas y columnas intercambiadas:
 
-| **Estado ($\theta_i$) / Acción ($a_j$)** | **$a_1\): Despedir al tesorero** | **$a_2$: No despedir al tesorero** | **$a_3$: Realizar pruebas** |
+| **Estado ($\theta_i$) / Acción ($a_j$)** | **$a_1$: Despedir al tesorero** | **$a_2$: No despedir al tesorero** | **$a_3$: Realizar pruebas** |
 |---------------------------------------------|----------------------------------|----------------------------------|---------------------------------------------------------------|
 | **$\theta_1$: El tesorero es el informante** | $+100,000$                      | $-300,000$                      | Depende del resultado de las pruebas (ver análisis más abajo). |
 | **$\theta_2$: El tesorero no es el informante** | $-500,000$                      | $-300,000$                      | Depende del resultado de las pruebas (ver análisis más abajo). |
@@ -84,16 +84,16 @@ La matriz de pagos proporciona una representación clara de los resultados posib
 
 ### **Fase 1: Análisis de Decisiones Bajo Riesgo**
 
-**Nota:** El análisis de decisiones bajo riesgo se utiliza cuando no se dispone de información probabilística. Sin embargo, en este caso ya tenemos probabilidades asignadas (*a priori*) (\( P(\theta_1) = 0.9 \) (90% de certeza de que el tesorero es el informante)), por lo que **estos criterios no se aplican** a este problema. Aún así, los mostramos para recordar el algoritmo de cálculo.
+**Nota:** El análisis de decisiones bajo riesgo se utiliza cuando no se dispone de información probabilística. Sin embargo, en este caso ya tenemos probabilidades asignadas (*a priori*) ($P(\theta_1) = 0.9$ (90% de certeza de que el tesorero es el informante)), por lo que **estos criterios no se aplican** a este problema. Aún así, los mostramos para recordar el algoritmo de cálculo.
 
 #### **1: Construcción de la Matriz de Pagos**  
 
 Primero, organizamos los datos del problema en la **matriz de pagos**, que representa las ganancias o pérdidas para cada decisión dependiendo de si el tesorero es o no el informante.
 
-| **Estado (\(\theta_i\)) / Acción (\(a_j\))** | **\(a_1\): Despedir al tesorero** | **\(a_2\): No despedir al tesorero** |
+| **Estado ($\theta_i$) / Acción ($a_j$)** | **$a_1$: Despedir al tesorero** | **$a_2$: No despedir al tesorero** |
 |---------------------------------------------|----------------------------------|----------------------------------|
-| **\(\theta_1\): El tesorero ES el informante (90%)** | \(+100,000\)                      | \(-300,000\)                      |
-| **\(\theta_2\): El tesorero NO es el informante (10%)** | \(-500,000\)                      | \(-300,000\)                      |
+| **$\theta_1$: El tesorero ES el informante (90%)** | $+100,000$                      | $-300,000$                      |
+| **$\theta_2$: El tesorero NO es el informante (10%)** | $-500,000$                      | $-300,000$                      |
 
 Aplicaremos **cuatro criterios** para evaluar cuál es la mejor acción sin usar probabilidades.
 
@@ -102,17 +102,15 @@ Aplicaremos **cuatro criterios** para evaluar cuál es la mejor acción sin usar
 Este criterio elige la opción que garantiza la **mejor ganancia mínima posible**. Se basa en un enfoque conservador que asume que ocurrirá el peor escenario.  
 
 1. **Identificamos la peor ganancia de cada acción:**  
-- Para **\(a_1\): Despedir al tesorero**, el peor caso es **\(-500,000\)**.  
-- Para **\(a_2\): No despedir al tesorero**, el peor caso es **\(-300,000\)**.  
+   - Para **$a_1$: Despedir al tesorero**, el peor caso es **$-500,000$**.  
+   - Para **$a_2$: No despedir al tesorero**, el peor caso es **$-300,000$**.  
 
 2. **Seleccionamos la opción con la mejor de estas peores ganancias:**  
-\[
-\max (-500,000, -300,000) = -300,000
-\]
+   $\max (-500,000, -300,000) = -300,000$
 
 3. **Decisión** según **Maximin**
 
-No despedir al tesorero (\(a_2\)), porque la peor pérdida es menor.
+   No despedir al tesorero ($a_2$), porque la peor pérdida es menor.
 
 
 #### **3. Criterio Maximax (Optimista)**  
@@ -120,43 +118,36 @@ No despedir al tesorero (\(a_2\)), porque la peor pérdida es menor.
 Este criterio elige la acción con el **mejor resultado posible**, asumiendo el mejor de los casos.  
 
 1. **Identificamos la mejor ganancia de cada acción:**  
-- Para **\(a_1\): Despedir al tesorero**, la mejor ganancia es **\(100,000\)**.  
-- Para **\(a_2\): No despedir al tesorero**, la mejor ganancia es **\(-300,000\)** (ya que no cambia entre estados de la naturaleza).  
+- Para **$a_1$: Despedir al tesorero**, la mejor ganancia es **$100,000$**.  
+- Para **$a_2$: No despedir al tesorero**, la mejor ganancia es **$-300,000$** (ya que no cambia entre estados de la naturaleza).  
 
 2. **Seleccionamos la acción con la mayor ganancia:**  
-\[
-\max (100,000, -300,000) = 100,000
-\]
+   $\max (100,000, -300,000) = 100,000$
 
 3. *Decisión según Maximax**:
 
-Despedir al tesorero (\(a_1\)), porque el mejor caso es más favorable.
+   Despedir al tesorero ($a_1$), porque el mejor caso es más favorable.
 
 
 #### **4. Criterio de Hurwicz (Optimismo-Pesimismo)**  
 
-Este criterio es un **balance** entre el optimismo y el pesimismo. Utiliza un coeficiente \( \alpha \) (entre 0 y 1) que representa el **grado de optimismo** del decisor.  
+Este criterio es un **balance** entre el optimismo y el pesimismo. Utiliza un coeficiente $\alpha$ (entre $0$ y $1$) que representa el **grado de optimismo** del decisor.  
 
-1. **Supongamos** que el decisor elige \( \alpha = 0.6 \) (es decir, **60% optimista y 40% pesimista**).
+1. **Supongamos** que el decisor elige $\alpha = 0.6$ (es decir, **60% optimista y 40% pesimista**).
 
 2. **Calculamos el valor de Hurwicz para cada acción:**  
 
-\[
-H(a_1) = (0.6)(100,000) + (0.4)(-500,000) = 60,000 - 200,000 = -140,000
-\]
+   $H(a_1) = (0.6)(100,000) + (0.4)(-500,000) = 60,000 - 200,000 = -140,000$
 
-\[
-H(a_2) = (0.6)(-300,000) + (0.4)(-300,000) = -180,000 - 120,000 = -300,000
-\]
+   $H(a_2) = (0.6)(-300,000) + (0.4)(-300,000) = -180,000 - 120,000 = -300,000$
 
 3. **Seleccionamos la acción con el mayor valor de Hurwicz:**  
-\[
-\max (-140,000, -300,000) = -140,000
-\]
+
+   $\max (-140,000, -300,000) = -140,000$
 
 4. *Decisión según Hurwicz**:
 
-Despedir al tesorero (\(a_1\)), porque su balance entre optimismo y pesimismo es mejor.
+   Despedir al tesorero ($a_1$), porque su balance entre optimismo y pesimismo es mejor.
 
 
 #### **5. Criterio de Savage (Minimax de Pesar)**  
@@ -164,41 +155,39 @@ Despedir al tesorero (\(a_1\)), porque su balance entre optimismo y pesimismo es
 Este criterio minimiza el **arrepentimiento máximo** que podría sentir el decisor por no haber elegido la mejor opción.  
 
 1. **Construimos la Matriz de Pérdida de Oportunidad**  
-- Para cada estado de la naturaleza, identificamos la mejor ganancia.  
-- Luego, calculamos la **pérdida de oportunidad** de cada acción restando su ganancia de la mejor ganancia en esa columna.
+   - Para cada estado de la naturaleza, identificamos la mejor ganancia.  
+   - Luego, calculamos la **pérdida de oportunidad** de cada acción restando su ganancia de la mejor ganancia en esa columna.
 
-| **Acción (\(a_j\)) / Estado (\(\theta_i\))** | **\(\theta_1\): Tesorero ES informante** | **\(\theta_2\): Tesorero NO es informante** |
+| **Acción ($a_j$) / Estado ($\theta_i$)** | **$\theta_1$: Tesorero ES informante** | **$\theta_2$: Tesorero NO es informante** |
 |---------------------------------------------|--------------------------------|--------------------------------|
-| **\(a_1\): Despedir al tesorero**           | \(0\)                          | \(500,000 - (-500,000) = 600,000\) |
-| **\(a_2\): No despedir al tesorero**        | \(100,000 - (-300,000) = 400,000\) | \(0\) |
+| **$a_1$: Despedir al tesorero**           | $0$                          | $500,000 - (-500,000) = 600,000$ |
+| **$a_2$: No despedir al tesorero**        | $100,000 - (-300,000) = 400,000$ | $0$ |
 
 2. **Identificamos el máximo pesar para cada acción:**  
-- Para **\(a_1\)**, el máximo pesar es **\(600,000\)**.  
-- Para **\(a_2\)**, el máximo pesar es **\(400,000\)**.  
+   - Para **$a_1$**, el máximo pesar es **$600,000$**.  
+   - Para **$a_2$**, el máximo pesar es **$400,000$**.  
 
 3. **Seleccionamos la acción con el menor de estos máximos:**  
-\[
-\min (600,000, 400,000) = 400,000
-\]
+   $\min (600,000, 400,000) = 400,000$
 
-4.**Decisión según Savage**:
+4. **Decisión según Savage**:
 
-No despedir al tesorero (\(a_2\)), porque minimiza el arrepentimiento máximo.
+   No despedir al tesorero ($a_2$), porque minimiza el arrepentimiento máximo.
 
 #### **6. Conclusión de la Fase 1**   
 
 | **Criterio de Decisión** | **Decisión Óptima** |
 |----------------------|----------------------|
-| **Maximin (Pesimista)** | **No despedir (\(a_2\))** |
-| **Maximax (Optimista)** | **Despedir (\(a_1\))** |
-| **Hurwicz (\(\alpha = 0.6\))** | **Despedir (\(a_1\))** |
-| **Savage (Minimax de pesar)** | **No despedir (\(a_2\))** |
+| **Maximin (Pesimista)** | **No despedir ($a_2$)** |
+| **Maximax (Optimista)** | **Despedir ($a_1$)** |
+| **Hurwicz ($\alpha = 0.6$)** | **Despedir ($a_1$)** |
+| **Savage (Minimax de pesar)** | **No despedir ($a_2$)** |
 
 **Conclusión general:**  
-- Si la presidenta **es conservadora** y quiere minimizar el peor caso, **NO despedirá al tesorero (\(a_2\))**.  
-- Si la presidenta **es optimista y busca la mejor ganancia posible**, **DESPEDIRÁ al tesorero (\(a_1\))**.  
-- Si busca un **balance entre optimismo y pesimismo**, con un **coeficiente de 0.6**, **DESPEDIRÁ al tesorero (\(a_1\))**.  
-- Si quiere **minimizar su posible arrepentimiento**, **NO despedirá al tesorero (\(a_2\))**.
+- Si la presidenta **es conservadora** y quiere minimizar el peor caso, **NO despedirá al tesorero ($a_2$)**.  
+- Si la presidenta **es optimista y busca la mejor ganancia posible**, **DESPEDIRÁ al tesorero ($a_1$)**.  
+- Si busca un **balance entre optimismo y pesimismo**, con un **coeficiente de 0.6**, **DESPEDIRÁ al tesorero ($a_1$)**.  
+- Si quiere **minimizar su posible arrepentimiento**, **NO despedirá al tesorero ($a_2$)**.
 
 Para una **decisión más informada**, debemos considerar **las probabilidades** en la **Fase 2** y analizar el **Valor Esperado Medio (VEM)**. Esto nos permitirá evaluar qué acción tiene un rendimiento esperado mejor cuando incorporamos la probabilidad de que el tesorero sea el informante. 
 
@@ -212,50 +201,44 @@ Esta fase evalúa las decisiones disponibles sin considerar información adicion
 
 La matriz de pagos describe las posibles consecuencias económicas de cada acción en función del estado de la naturaleza y se complementa con la probabilidad de cada estado. 
 
-| **Estado (\(\theta_i\)) / Acción (\(a_j\))** | **\(a_1\): Despedir al tesorero** | **\(a_2\): No despedir al tesorero** | **\(P(\theta_i)\)** |
+| **Estado ($\theta_i$) / Acción ($a_j$)** | **$a_1$: Despedir al tesorero** | **$a_2$: No despedir al tesorero** | **$P(\theta_i)$** |
 |---------------------------------------------|----------------------------------|----------------------------------|----------------|
-| **\(\theta_1\): El tesorero ES el informante** | \(+100,000\)                      | \(-300,000\)                      | \(0.9\) |
-| **\(\theta_2\): El tesorero NO es el informante** | \(-500,000\)                      | \(-300,000\)                      | \(0.1\) |
+| **$\theta_1$: El tesorero ES el informante** | $+100,000$                      | $-300,000$                      | $0.9$ |
+| **$\theta_2$: El tesorero NO es el informante** | $-500,000$                      | $-300,000$                      | $0.1$ |
 
-La columna \( P(\theta_i) \) muestra las probabilidades asociadas a cada estado de la naturaleza, donde:
-- \( P(\theta_1) = 0.9 \) (90% de certeza de que el tesorero es el informante).
-- \( P(\theta_2) = 0.1 \) (10% de certeza de que el tesorero no es el informante).
+La columna $P(\theta_i)$ muestra las probabilidades asociadas a cada estado de la naturaleza, donde:
+- $P(\theta_1) = 0.9$ (90% de certeza de que el tesorero es el informante).
+- $P(\theta_2) = 0.1$ (10% de certeza de que el tesorero no es el informante).
 
 Esta tabla será la base para la aplicación de los criterios de decisión probabilísticos.
 
 ### **2. Criterio de Laplace (Principio de Indiferencia)**  
 
-**Nota:** El **Criterio de Laplace** se utiliza cuando no se dispone de información probabilística y se asume que cada estado de la naturaleza tiene la **misma probabilidad**. Sin embargo, en este caso ya tenemos probabilidades asignadas (*a priori*) (\( P(\theta_1) = 0.9 \) (90% de certeza de que el tesorero es el informante)), por lo que **este criterio no se aplica** en esta situación. Aún así, lo mostramos para recordar el algoritmo de cálculo.
+**Nota:** El **Criterio de Laplace** se utiliza cuando no se dispone de información probabilística y se asume que cada estado de la naturaleza tiene la **misma probabilidad**. Sin embargo, en este caso ya tenemos probabilidades asignadas (*a priori*) ($P(\theta_1) = 0.9$ (90% de certeza de que el tesorero es el informante)), por lo que **este criterio no se aplica** en esta situación. Aún así, lo mostramos para recordar el algoritmo de cálculo.
 
 Se utiliza la matriz de pagos original, asignándole probabilidades iguales:
 
-| **Estado (\(\theta_i\)) / Acción (\(a_j\))** | **\(a_1\): Despedir al tesorero** | **\(a_2\): No despedir al tesorero** | **\(P(\theta_i)\)** |
+| **Estado ($\theta_i$) / Acción ($a_j$)** | **$a_1$: Despedir al tesorero** | **$a_2$: No despedir al tesorero** | **$P(\theta_i)$** |
 |---------------------------------------------|----------------------------------|----------------------------------|----------------|
-| **\(\theta_1\): El tesorero ES el informante** | \(+100,000\)                      | \(-300,000\)                      | \(0.5\) |
-| **\(\theta_2\): El tesorero NO es el informante** | \(-500,000\)                      | \(-300,000\)                      | \(0.5\) |
+| **$\theta_1$: El tesorero ES el informante** | $+100,000$                      | $-300,000$                      | $0.5$ |
+| **$\theta_2$: El tesorero NO es el informante** | $-500,000$                      | $-300,000$                      | $0.5$ |
 
 **Cálculo del Valor Esperado Medio para cada Acción**  
 
-Dado que asumimos que ambos estados tienen la misma probabilidad \(P(\theta_1) = P(\theta_2) = 0.5\), calculamos:
+Dado que asumimos que ambos estados tienen la misma probabilidad $P(\theta_1) = P(\theta_2) = 0.5$, calculamos:
 
-\[
-VEM(a_1) = (0.5)(100,000) + (0.5)(-500,000)
-\]
-\[
-VEM(a_1) = 50,000 - 250,000 = -200,000
-\]
+$VEM(a_1) = (0.5)(100,000) + (0.5)(-500,000)$
 
-\[
-VEM(a_2) = (0.5)(-300,000) + (0.5)(-300,000)
-\]
-\[
-VEM(a_2) = -150,000 - 150,000 = -300,000
-\]
+$VEM(a_1) = 50,000 - 250,000 = -200,000$
 
-| **Acción (\(a_j\))** | **\(VEM(a_j)\)** |
+$VEM(a_2) = (0.5)(-300,000) + (0.5)(-300,000)$
+
+$VEM(a_2) = -150,000 - 150,000 = -300,000$
+
+| **Acción ($a_j$)** | **$VEM(a_j)$** |
 |----------------|-------------|
-| **\(a_1\): Despedir** | **\(-200,000\)** |
-| **\(a_2\): No despedir** | **\(-300,000\)** |
+| **$a_1$: Despedir** | **$-200,000$** |
+| **$a_2$: No despedir** | **$-300,000$** |
 
 **Conclusión:**  
 
@@ -266,14 +249,14 @@ Este cálculo muestra cómo se aplicaría el Criterio de Laplace en un caso sin 
 Este criterio selecciona la acción con la mejor ganancia en el estado de la naturaleza más probable.
 
 1. **Identificamos el estado más probable:**  
-   \(\theta_1\): El tesorero es el informante, \(P = 0.9\) porque 0.9 es mayor que 0.1.
+   $\theta_1$: El tesorero es el informante, $P = 0.9$ porque 0.9 es mayor que 0.1.
 
 2. **Comparamos los pagos en este estado:**  
-   - \(a_1\) (Despedir) \(\rightarrow +100,000\)
-   - \(a_2\) (No despedir) \(\rightarrow -300,000\)
+   - $a_1$ (Despedir) $\rightarrow +100,000$
+   - $a_2$ (No despedir) $\rightarrow -300,000$
 
 **Decisión según Máxima Posibilidad:**  
-Despedir al tesorero (\(a_1\)).
+   Despedir al tesorero ($a_1$).
 
 #### **3. Criterio del Valor Esperado Medio (VEM) o Regla de Bayes**  
 
@@ -281,55 +264,39 @@ Este criterio calcula el rendimiento esperado de cada acción ponderando cada po
 
 **Cálculo del VEM para cada acción:**  
 
-\[
-VEM(a_1) = P(\theta_1) U(\theta_1, a_1) + P(\theta_2) U(\theta_2, a_1)
-\]
+$VEM(a_1) = P(\theta_1) U(\theta_1, a_1) + P(\theta_2) U(\theta_2, a_1)$
 
-\[
-VEM(a_1) = (0.9)(100,000) + (0.1)(-500,000)
-\]
+$VEM(a_1) = (0.9)(100,000) + (0.1)(-500,000)$
 
-\[
-VEM(a_1) = 90,000 - 50,000 = 40,000
-\]
+$VEM(a_1) = 90,000 - 50,000 = 40,000$
 
-\[
-VEM(a_2) = P(\theta_1) U(\theta_1, a_2) + P(\theta_2) U(\theta_2, a_2)
-\]
+$VEM(a_2) = P(\theta_1) U(\theta_1, a_2) + P(\theta_2) U(\theta_2, a_2)$
 
-\[
-VEM(a_2) = (0.9)(-300,000) + (0.1)(-300,000)
-\]
+$VEM(a_2) = (0.9)(-300,000) + (0.1)(-300,000)$
 
-\[
-VEM(a_2) = -270,000 - 30,000 = -300,000
-\]
+$VEM(a_2) = -270,000 - 30,000 = -300,000$
 
-| **Acción (\(a_j\))** | **\(VEM(a_j)\)** |
+| **Acción ($a_j$)** | **$VEM(a_j)$** |
 |----------------|-------------|
-| **\(a_1\): Despedir** | **\(+40,000\)** |
-| **\(a_2\): No despedir** | **\(-300,000\)** |
+| **$a_1$: Despedir** | **$+40,000$** |
+| **$a_2$: No despedir** | **$-300,000$** |
 
-**Decisión según VEM:**  Despedir al tesorero (\(a_1\)).
+**Decisión según VEM:**  Despedir al tesorero ($a_1$).
 
 #### **3: Evaluación del Impacto de las Decisiones**  
 
 | **Criterio de Decisión** | **Decisión Óptima** |
 |----------------------|----------------------|
-| **Máxima Posibilidad** | **Despedir (\(a_1\))** |
-| **Valor Medio Esperado (VEM)** | **Despedir (\(a_1\))** |
+| **Máxima Posibilidad** | **Despedir ($a_1$)** |
+| **Valor Medio Esperado (VEM)** | **Despedir ($a_1$)** |
 
 #### **4. Conclusión de la Fase 2**  
 
-Todos los criterios coinciden en que la mejor decisión es: **espedir al tesorero (\(a_1\))**.
-
-**Explicación Final** 
-
 1. **El criterio de Máxima Posibilidad** selecciona la mejor acción en el estado más probable. Como hay un 90% de probabilidad de que el tesorero sea el informante, despedirlo es la mejor opción.
-2. **El criterio del VEM** pondera los posibles resultados con sus respectivas probabilidades y selecciona la acción con el mayor rendimiento esperado. Despedir al tesorero tiene un valor esperado positivo de \(40,000\), mientras que no despedirlo genera una pérdida esperada de \(-300,000\).
+2. **El criterio del VEM** pondera los posibles resultados con sus respectivas probabilidades y selecciona la acción con el mayor rendimiento esperado. Despedir al tesorero tiene un valor esperado positivo de $40,000$, mientras que no despedirlo genera una pérdida esperada de $-300,000$.
 
 **Decisión final en esta fase:**  
-La presidenta debe **despedir al tesorero sin realizar pruebas adicionales**.  
+Todos los criterios coinciden en que la mejor decisión es: **espedir al tesorero ($a_1$)**.
 
 En la siguiente fase, se analizará si la realización de pruebas con el detector de mentiras cambia esta decisión.
 
@@ -342,47 +309,47 @@ Para recalcular la matriz de pagos, primero debemos considerar los resultados de
 #### **1: Recalcular Probabilidades Posteriores o *a posteriori***
 
 Las probabilidades condicionales de la prueba son:
-- Si el tesorero **ES el informante** (\(\theta_1\)), la prueba lo detecta correctamente en un **90%** de los casos.
-- Si el tesorero **NO es el informante** (\(\theta_2\)), la prueba indica inocencia correctamente en un **70%** de los casos.
+- Si el tesorero **ES el informante** ($\theta_1$), la prueba lo detecta correctamente en un **90%** de los casos.
+- Si el tesorero **NO es el informante** ($\theta_2$), la prueba indica inocencia correctamente en un **70%** de los casos.
 
 **Aplicación del Teorema de Bayes para actualizar las probabilidades**
 
 **Probabilidad de que el tesorero sea el informante dado un resultado positivo (+):**
 
-\[
+$$
 P(\theta_1 | +) = \frac{P(+ | \theta_1) P(\theta_1)}{P(+ | \theta_1) P(\theta_1) + P(+ | \theta_2) P(\theta_2)}
-\]
+$$
 
-\[
+$$
 P(\theta_1 | +) = \frac{(0.9)(0.9)}{(0.9)(0.9) + (0.3)(0.1)}
-\]
+$$
 
-\[
+$$
 P(\theta_1 | +) = \frac{0.81}{0.81 + 0.03} = \frac{0.81}{0.84} = 0.964
-\]
+$$
 
 **Probabilidad de que el tesorero NO sea el informante dado un resultado negativo (-):**
 
-\[
+$$
 P(\theta_2 | -) = \frac{P(- | \theta_2) P(\theta_2)}{P(- | \theta_1) P(\theta_1) + P(- | \theta_2) P(\theta_2)}
-\]
+$$
 
-\[
+$$
 P(\theta_2 | -) = \frac{(0.7)(0.1)}{(0.1)(0.9) + (0.7)(0.1)}
-\]
+$$
 
-\[
+$$
 P(\theta_2 | -) = \frac{0.07}{0.07 + 0.09} = \frac{0.07}{0.16} = 0.4375
-\]
+$$
 
 #### **2: Recalcular la Matriz de Pagos con Experimentación**
 
 Después de aplicar el **Teorema de Bayes**, se pueden estimar las consecuencias de las decisiones en términos económicos, ajustando las probabilidades.
 
-| **Estado (\(\theta_i\)) / Acción (\(a_j\))** | **\(a_1\): Despedir al tesorero** | **\(a_2\): No despedir al tesorero** | **\(a_3\): Aplicar prueba** | **\(P(\theta_i)\) Actualizado** |
+| **Estado ($\theta_i$) / Acción ($a_j$)** | **$a_1$: Despedir al tesorero** | **$a_2$: No despedir al tesorero** | **$a_3$: Aplicar prueba** | **$P(\theta_i)$ Actualizado** |
 |---------------------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------|
-| **\(\theta_1\): El tesorero ES el informante** | \(+100,000\)                      | \(-300,000\)                      | Depende del resultado de la prueba | \(0.964\) |
-| **\(\theta_2\): El tesorero NO es el informante** | \(-500,000\)                      | \(-300,000\)                      | Depende del resultado de la prueba | \(0.4375\) |
+| **$\theta_1$: El tesorero ES el informante** | $+100,000$                      | $-300,000$                      | Depende del resultado de la prueba | $0.964$ |
+| **$\theta_2$: El tesorero NO es el informante** | $-500,000$                      | $-300,000$                      | Depende del resultado de la prueba | $0.4375$ |
 
 El resultado de la prueba cambia la probabilidad de que el tesorero sea el informante y, por lo tanto, puede modificar la decisión óptima si el costo de la prueba (\$30,000) es menor que la mejora en la certeza de la decisión.
 
@@ -397,23 +364,23 @@ Para analizar cómo se calculó la **matriz de pagos considerando los costos de 
 
 #### **1. Acciones posibles:**
 
-1. **\(a_1\): Despedir al tesorero directamente.**
-2. **\(a_2\): No despedir al tesorero.**
-3. **\(a_3\): Aplicar la prueba del detector de mentiras y luego decidir.**
+1. **$a_1$: Despedir al tesorero directamente.**
+2. **$a_2$: No despedir al tesorero.**
+3. **$a_3$: Aplicar la prueba del detector de mentiras y luego decidir.**
 
 Cada una de estas acciones tiene costos y beneficios dependiendo de los resultados de la prueba y la actualización de probabilidades usando el **Teorema de Bayes**.
 
 #### **2. Estructura inicial de la Matriz de Pagos (sin prueba)**
 
-| **Estado (\(\theta_i\)) / Acción (\(a_j\))** | **\(a_1\): Despedir al tesorero** | **\(a_2\): No despedir al tesorero** | **\(P(\theta_i)\) A priori** |
+| **Estado ($\theta_i$) / Acción ($a_j$)** | **$a_1$: Despedir al tesorero** | **$a_2$: No despedir al tesorero** | **$P(\theta_i)$ A priori** |
 |---------------------------------------------|----------------------------------|----------------------------------|----------------|
-| **\(\theta_1\): El tesorero ES el informante** | \(+100,000\)                      | \(-300,000\)                      | \(0.9\) |
-| **\(\theta_2\): El tesorero NO es el informante** | \(-500,000\)                      | \(-300,000\)                      | \(0.1\) |
+| **$\theta_1$: El tesorero ES el informante** | $+100,000$                      | $-300,000$                      | $0.9$ |
+| **$\theta_2$: El tesorero NO es el informante** | $-500,000$                      | $-300,000$                      | $0.1$ |
 
-#### **3. Estructura de la Matriz de Pagos con Experimentación (\(a_3\))**
+#### **3. Estructura de la Matriz de Pagos con Experimentación ($a_3$)**
 
-Si se realiza la prueba (\(a_3\)), se deben considerar tres costos:
-- **Costo de la prueba**: \(C = 30,000\).
+Si se realiza la prueba ($a_3$), se deben considerar tres costos:
+- **Costo de la prueba**: $C = 30,000$.
 - **Costo de tomar la decisión equivocada** (despedir a alguien inocente o dejar a un informante dentro de la empresa).
 - **Mejora en la certeza** al actualizar las probabilidades después de la prueba.
 
@@ -421,18 +388,18 @@ Para calcular los valores esperados con la prueba, es necesario analizar los pos
 
 #### **4. Probabilidades Condicionales con el Detector de Mentiras**
 Sabemos que:
-- Si el tesorero **es el informante** (\(\theta_1\)), la prueba lo detecta correctamente en el **90%** de los casos.
-- Si el tesorero **NO es el informante** (\(\theta_2\)), la prueba indica inocencia correctamente en el **70%** de los casos.
+- Si el tesorero **es el informante** ($\theta_1$), la prueba lo detecta correctamente en el **90%** de los casos.
+- Si el tesorero **NO es el informante** ($\theta_2$), la prueba indica inocencia correctamente en el **70%** de los casos.
 
 Usamos el **Teorema de Bayes** para actualizar las probabilidades después de la prueba:
 
-\[
+$$
 P(\theta_1 | +) = \frac{(0.9)(0.9)}{(0.9)(0.9) + (0.3)(0.1)} = 0.964
-\]
+$$
 
-\[
+$$
 P(\theta_2 | -) = \frac{(0.7)(0.1)}{(0.1)(0.9) + (0.7)(0.1)} = 0.4375
-\]
+$$
 
 Estas probabilidades actualizadas afectan los valores esperados de cada acción.
 
@@ -440,46 +407,46 @@ Estas probabilidades actualizadas afectan los valores esperados de cada acción.
 
 Esta matriz incorpora las probabilidades posteriores calculadas mediante el **Teorema de Bayes** y el impacto económico de aplicar la prueba del detector de mentiras.
 
-| **Estado (\(\theta_i\)) / Acción (\(a_j\))** | **\(a_1\): Despedir al tesorero** | **\(a_2\): No despedir al tesorero** | **\(a_3\): Aplicar prueba (\$-30,000)** | **\(P(\theta_i)\)** |
+| **Estado ($\theta_i$) / Acción ($a_j$)** | **$a_1$: Despedir al tesorero** | **$a_2$: No despedir al tesorero** | **$a_3$: Aplicar prueba (\$-30,000)** | **$P(\theta_i)$** |
 |---------------------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------|
-| **\(\theta_1\): El tesorero ES el informante** | \(+100,000\)                      | \(-300,000\)                      | \(-12,144\)                      | \(0.964\) |
-| **\(\theta_2\): El tesorero NO es el informante** | \(-500,000\)                      | \(-300,000\)                      | \(-12,144\)                      | \(0.4375\) |
+| **$\theta_1$: El tesorero ES el informante** | $+100,000$                      | $-300,000$                      | $-12,144$                      | $0.964$ |
+| **$\theta_2$: El tesorero NO es el informante** | $-500,000$                      | $-300,000$                      | $-12,144$                      | $0.4375$ |
 
 
 #### **6: Evaluación de los Pagos con Experimentación**
 
 Ahora, evaluamos el **valor esperado medio (VEM) con experimentación**, incorporando el costo de la prueba.
 
-\[
+$$
 VEM(a_3) = P(+) \times \left[ P(\theta_1 | +) U(\theta_1, a_1) + P(\theta_2 | +) U(\theta_2, a_1) \right] + P(-) \times \left[ P(\theta_1 | -) U(\theta_1, a_2) + P(\theta_2 | -) U(\theta_2, a_2) \right] - C
-\]
+$$
 
 Reemplazamos los valores:
 
-\[
+$$
 VEM(a_3) = (0.84) \times \left[ (0.964)(100,000) + (0.036)(-500,000) \right] + (0.16) \times \left[ (0.5625)(-300,000) + (0.4375)(-300,000) \right] - 30,000
-\]
+$$
 
-\[
+$$
 VEM(a_3) = (0.84) \times \left[ 96,400 - 18,000 \right] + (0.16) \times \left[ -168,750 - 131,250 \right] - 30,000
-\]
+$$
 
-\[
+$$
 VEM(a_3) = (0.84)(78,400) + (0.16)(-300,000) - 30,000
-\]
+$$
 
-\[
+$$
 VEM(a_3) = 65,856 - 48,000 - 30,000 = -12,144
-\]
+$$
 
-Dado que **\(VEM(a_3) = -12,144\)** es menor que **\(VEM(a_1) = 40,000\)**, se concluye que **el costo de la prueba no se justifica**.
+Dado que **$VEM(a_3) = -12,144$** es menor que **$VEM(a_1) = 40,000$**, se concluye que **el costo de la prueba no se justifica**.
 
 #### **7. Conclusión sobre la Aplicación de la Prueba**
 
 - La prueba mejora la certeza de la decisión, pero no lo suficiente como para justificar su costo de \$30,000, por lo que **la prueba no es una inversión rentable.** Si el costo de la prueba fuera significativamente menor, podría haber sido justificable realizarla.
-- La mejor decisión sigue siendo **despedir al tesorero sin realizar la prueba** (\(a_1\)).
+- La mejor decisión sigue siendo **despedir al tesorero sin realizar la prueba** ($a_1$).
 
-Aquí está el **árbol de decisiones** mejorado, incluyendo las **probabilidades** asociadas a cada estado de la naturaleza (\(\theta_i\)) para cada acción (\(a_j\)).
+Aquí está el **árbol de decisiones** mejorado, incluyendo las **probabilidades** asociadas a cada estado de la naturaleza ($\theta_i$) para cada acción ($a_j$).
 
 #### **8. Árbol de decisiones**
 
@@ -502,62 +469,62 @@ Inicio
 
 **Explicación de la estructura:**
 1. **Inicio**: Representa el punto de decisión donde la presidenta elige entre las tres acciones posibles.
-2. **Acciones (\(a_j\))**:
-   - \(a_1\): Despedir al tesorero.
-   - \(a_2\): No despedir al tesorero.
-   - \(a_3\): Aplicar la prueba del detector de mentiras (\$-30,000 de costo).
-3. **Estados de la naturaleza (\(\theta_i\))**:
-   - **\(\theta_1\)**: El tesorero **ES** el informante (probabilidad posterior \(P = 0.964\)).
-   - **\(\theta_2\)**: El tesorero **NO** es el informante (probabilidad posterior \(P = 0.4375\)).
+2. **Acciones ($a_j$)**:
+   - $a_1$: Despedir al tesorero.
+   - $a_2$: No despedir al tesorero.
+   - $a_3$: Aplicar la prueba del detector de mentiras (\$-30,000 de costo).
+3. **Estados de la naturaleza ($\theta_i$)**:
+   - **$\theta_1$**: El tesorero **ES** el informante (probabilidad posterior $P = 0.964$).
+   - **$\theta_2$**: El tesorero **NO** es el informante (probabilidad posterior $P = 0.4375$).
 4. **Resultados económicos**: Las consecuencias monetarias de cada combinación de acción y estado de la naturaleza.
 
 Este árbol de decisiones proporciona la estructura completa del problema **sin incluir la solución**. Éste debe resolverse utilizando el **Valor Esperado Medio (VEM)** para identificar la mejor opción.
 
 **1: Cálculo del VEM para cada acción**
 
-**Acción \(a_1\): Despedir al tesorero**
-\[
+**Acción $a_1$: Despedir al tesorero**
+$$
 VEM(a_1) = P(\theta_1) \cdot U(\theta_1, a_1) + P(\theta_2) \cdot U(\theta_2, a_1)
-\]
-\[
+$$
+$$
 VEM(a_1) = (0.964)(100,000) + (0.4375)(-500,000)
-\]
-\[
+$$
+$$
 VEM(a_1) = 96,400 - 218,750 = -122,350
-\]
+$$
 
-**Acción \(a_2\): No despedir al tesorero**
-\[
+**Acción $a_2$: No despedir al tesorero**
+$$
 VEM(a_2) = P(\theta_1) \cdot U(\theta_1, a_2) + P(\theta_2) \cdot U(\theta_2, a_2)
-\]
-\[
+$$
+$$
 VEM(a_2) = (0.964)(-300,000) + (0.4375)(-300,000)
-\]
-\[
+$$
+$$
 VEM(a_2) = -289,200 - 131,250 = -420,450
-\]
+$$
 
-**Acción \(a_3\): Aplicar la prueba (costo -30,000)**
-\[
+**Acción $a_3$: Aplicar la prueba (costo -30,000)**
+$$
 VEM(a_3) = P(\theta_1) \cdot U(\theta_1, a_3) + P(\theta_2) \cdot U(\theta_2, a_3) - 30,000
-\]
-\[
+$$
+$$
 VEM(a_3) = (0.964)(-12,144) + (0.4375)(-12,144) - 30,000
-\]
-\[
+$$
+$$
 VEM(a_3) = -11,708.42 - 5,312.50 - 30,000
-\]
-\[
+$$
+$$
 VEM(a_3) = -47,020.92
-\]
+$$
 
 **2: Determinación de la mejor acción**
 
-- \( VEM(a_1) = -122,350 \)
-- \( VEM(a_2) = -420,450 \) **No viable**  
-- \( VEM(a_3) = -47,020.92 \) **No viable**  
+- $VEM(a_1) = -122,350$
+- $VEM(a_2) = -420,450$ **No viable**  
+- $VEM(a_3) = -47,020.92$ **No viable**  
 
-La opción con el menor costo esperado es **\(a_1\): Despedir al tesorero** sin realizar pruebas con el detector de mentiras.
+La opción con el menor costo esperado es **$a_1$: Despedir al tesorero** sin realizar pruebas con el detector de mentiras.
 
 **Árbol de decisiones resuelto**  
 
@@ -629,9 +596,9 @@ draw_decision_tree()
 ---
 
 ### **Conclusión Final**
-1. **La mejor acción según el VEM es despedir al tesorero (\(a_1\))** con una pérdida esperada de **\$-122,350**.
-2. **No despedirlo (\(a_2\)) genera una pérdida mucho mayor (\$-420,450)**, por lo que no es viable.
-3. **Aplicar la prueba (\(a_3\)) sigue siendo costoso y no cambia la decisión, por lo que también es inviable.**
+1. **La mejor acción según el VEM es despedir al tesorero ($a_1$)** con una pérdida esperada de **\$-122,350**.
+2. **No despedirlo ($a_2$) genera una pérdida mucho mayor (\$-420,450)**, por lo que no es viable.
+3. **Aplicar la prueba ($a_3$) sigue siendo costoso y no cambia la decisión, por lo que también es inviable.**
 
 Por lo tanto, **la presidenta debe despedir al tesorero sin realizar la prueba del detector de mentiras**.
 
@@ -645,20 +612,20 @@ A continuación, analizamos por qué **no aplicar la prueba** y **despedir al te
 
 **1. Comparación de las Decisiones y Valores Esperados**
 
-| **Acción (\(a_j\))** | **VEM en la Fase 2 (sin prueba)** | **VEM en la Fase 3 (con prueba)** |
+| **Acción ($a_j$)** | **VEM en la Fase 2 (sin prueba)** | **VEM en la Fase 3 (con prueba)** |
 |----------------|----------------|----------------|
-| **\(a_1\): Despedir al tesorero** | **\(+40,000\)** | **\(-122,350\)** |
-| **\(a_2\): No despedir al tesorero** | **\(-300,000\)** | **\(-420,450\)** |
-| **\(a_3\): Aplicar la prueba (\$-30,000)** | **N/A** | **\(-47,020.92\)** |
+| **$a_1$: Despedir al tesorero** | **$+40,000$** | **$-122,350$** |
+| **$a_2$: No despedir al tesorero** | **$-300,000$** | **$-420,450$** |
+| **$a_3$: Aplicar la prueba (\$-30,000)** | **N/A** | **$-47,020.92$** |
 
-A simple vista, en la **Fase 3**, la opción de aplicar la prueba (\(a_3\)) parece mejor que despedir directamente al tesorero (\(a_1\)). **Sin embargo, esta conclusión no es necesariamente la correcta**, porque la Fase 2 también mostró que, sin prueba, despedir al tesorero tenía un VEM positivo (\(+40,000\)).
+A simple vista, en la **Fase 3**, la opción de aplicar la prueba ($a_3$) parece mejor que despedir directamente al tesorero ($a_1$). **Sin embargo, esta conclusión no es necesariamente la correcta**, porque la Fase 2 también mostró que, sin prueba, despedir al tesorero tenía un VEM positivo ($+40,000$).
 
 ## **2. ¿Por qué NO aplicar la prueba?**
 La respuesta se justifica considerando los siguientes aspectos:
 
 **a) Impacto de la Prueba en las Probabilidades**
-- **Antes de la prueba**, la probabilidad de que el tesorero sea culpable es **90%** (\(P(\theta_1) = 0.9\)).
-- **Después de la prueba**, con el **Teorema de Bayes**, la probabilidad actualizada se incrementa a **96.4%** (\(P(\theta_1 | +) = 0.964\)).
+- **Antes de la prueba**, la probabilidad de que el tesorero sea culpable es **90%** ($P(\theta_1) = 0.9$).
+- **Después de la prueba**, con el **Teorema de Bayes**, la probabilidad actualizada se incrementa a **96.4%** ($P(\theta_1 | +) = 0.964$).
 - **Pero este aumento en certeza es marginal** (solo del **6.4%**), lo que indica que **la prueba no cambia significativamente la decisión**, sino que solo la refuerza.
 
 **b) Costo de la Prueba vs. Beneficio**
