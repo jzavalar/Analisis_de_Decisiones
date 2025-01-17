@@ -26,48 +26,48 @@ El decisor es central porque sus acciones influirán directamente en el resultad
 - **Decisor**: La presidenta de la compañía es quien toma la decisión.  
 - Su **objetivo** principal es minimizar las pérdidas económicas derivadas de la filtración de información confidencial. Esto implica balancear los costos asociados con despedir al tesorero (quien podría ser inocente o culpable), los riesgos de mantenerlo y el costo de usar un detector de mentiras para confirmar la situación.
 
-#### **2. Acciones o decisiones (\($a_j$\))**
+#### **2. Acciones o decisiones ($a_j$)**
 
 ¿Qué *opciones* están disponibles para el decisor?
 
 Las acciones o decisiones representan las alternativas disponibles para la presidenta. Estas alternativas deben ser evaluadas considerando las posibles consecuencias económicas de cada una, en combinación con los estados de la naturaleza.
 
-- **Decisión 1 (\(a_1\))**: Despedir al tesorero sin realizar pruebas.
-- **Decisión 2 (\(a_2\))**: No despedir al tesorero.
-- **Decisión 3 (\(a_3\))**: Realizar pruebas con el detector de mentiras antes de decidir.
+- **Decisión 1 ($a_1$)**: Despedir al tesorero sin realizar pruebas.
+- **Decisión 2 ($a_2$)**: No despedir al tesorero.
+- **Decisión 3 ($a_3$)**: Realizar pruebas con el detector de mentiras antes de decidir.
 
-#### **3. Estados de la naturaleza (\(\theta_i\))**
+#### **3. Estados de la naturaleza ($\theta_i$)**
 
 ¿Cuáles son las *condiciones fuera del control del decisor* que afectan el resultado?
 
 Los estados de la naturaleza son escenarios que determinan el resultado de las decisiones tomadas. El decisor no tiene control directo sobre cuál estado es verdadero, pero puede asignar probabilidades a cada estado basándose en la información disponible (e.g., la presidenta está 90% segura de que el tesorero es el informante).
 
-- **Estado 1 (\(\theta_1\))**: El tesorero es el informante.
-- **Estado 2 (\(\theta_2\))**: El tesorero no es el informante.
+- **Estado 1 ($\theta_1$)**: El tesorero es el informante.
+- **Estado 2 ($\theta_2$)**: El tesorero no es el informante.
 
 
-#### **4. Función de utilidad (\(U(\theta, a)\)) y matriz de pagos**
+#### **4. Función de utilidad (U($\theta, a$)) y matriz de pagos**
 **¿Cuáles son las consecuencias asociadas con cada combinación de estados de la naturaleza y decisiones?**
 
-La **función de utilidad** \(U(\theta, a)\) evalúa el valor (económico en este caso) de cada decisión (\(a_j\)) bajo un estado de la naturaleza específico (\(\theta_i\)).
+La **función de utilidad** (U($theta, a$)) evalúa el valor (económico en este caso) de cada decisión ($a_j$) bajo un estado de la naturaleza específico ($\theta_i$).
 
 **Matriz de pagos**:
-Esta matriz organiza las ganancias o pérdidas económicas para cada combinación de \(a_j\) y \(\theta_i\):
+Esta matriz organiza las ganancias o pérdidas económicas para cada combinación de $a_j$ y $\theta_i$:
 
-| **Acción (\(a_j\)) / Estado (\(\theta_i\))** | **\(\theta_1\): El tesorero es el informante** | **\(\theta_2\): El tesorero no es el informante** |
+| **Acción ($a_j$) / Estado ($\theta_i$)** | **$\theta_1$: El tesorero es el informante** | **$\theta_2$: El tesorero no es el informante** |
 |---------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| **\(a_1\): Despedir al tesorero**           | \(+100,000\)                                  | \(-500,000\)                                  |
-| **\(a_2\): No despedir al tesorero**        | \(-300,000\)                                  | \(-300,000\)                                  |
-| **\(a_3\): Realizar pruebas**               | Depende del resultado de las pruebas (ver análisis más abajo). |
+| **$a_1$: Despedir al tesorero**           | $+100,000$                                  | $-500,000$                                  |
+| **$a_2$: No despedir al tesorero**        | $-300,000$                                  | $-300,000$                                  |
+| **$a_3$: Realizar pruebas**               | Depende del resultado de las pruebas (ver análisis más abajo). |
 
-**Cálculo adicional para \(a_3\): Realizar pruebas**:
+**Cálculo adicional para $a_3$: Realizar pruebas**:
 Las pruebas introducen complejidad debido a su falta de precisión:
-- Si el tesorero está mintiendo (\(\theta_1\)):
-  - Probabilidad de detectar mentira correctamente: \(90\%\).
-  - Probabilidad de no detectar mentira: \(10\%\).
-- Si el tesorero no está mintiendo (\(\theta_2\)):
-  - Probabilidad de detectar verdad correctamente: \(70\%\).
-  - Probabilidad de error: \(30\%\).
+- Si el tesorero está mintiendo ($\theta_1$):
+  - Probabilidad de detectar mentira correctamente: $90\%$.
+  - Probabilidad de no detectar mentira: %10\%$.
+- Si el tesorero no está mintiendo ($\theta_2$):
+  - Probabilidad de detectar verdad correctamente: $70\%$.
+  - Probabilidad de error: $30\%$.
 
 Para evaluar \(a_3\), necesitaríamos calcular el valor esperado, incorporando los costos de las pruebas ($30,000) y las probabilidades de error del detector.
 
