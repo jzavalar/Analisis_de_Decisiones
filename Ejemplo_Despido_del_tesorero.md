@@ -26,7 +26,7 @@ El decisor es central porque sus acciones influirán directamente en el resultad
 - **Decisor**: La presidenta de la compañía es quien toma la decisión.  
 - Su **objetivo** principal es minimizar las pérdidas económicas derivadas de la filtración de información confidencial. Esto implica balancear los costos asociados con despedir al tesorero (quien podría ser inocente o culpable), los riesgos de mantenerlo y el costo de usar un detector de mentiras para confirmar la situación.
 
-#### **2. Acciones o decisiones (\(a_j\))**
+#### **2. Acciones o decisiones (\($a_j$\))**
 
 ¿Qué *opciones* están disponibles para el decisor?
 
