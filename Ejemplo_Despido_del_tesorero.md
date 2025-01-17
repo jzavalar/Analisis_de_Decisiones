@@ -1,6 +1,6 @@
-### Problema 17.22: Despido del tesorero
+### Ejemplo: Despido del tesorero
 
-Fuente: Bronson, R. (1983). *Teoría y problemas de investigación de operaciones* (p. 208). México: McGraw-Hill.
+Fuente: Bronson, R. (1983). *Teoría y problemas de investigación de operaciones* (Problema 17.22, p. 208). México: McGraw-Hill.
 
 Resuelto por el prof. J. Zavala
 
