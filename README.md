@@ -5,7 +5,7 @@
 
 **Clave de la UEA:** *2211092*, **Trimestre:** *25 Invierno*
 
-**Grupo:** *0PEXT53*: *Lunes y miércoles* de *16:00 a 18:00* y de *18:00 a 20:00*.
+**Grupos:**  *HE57*: *Lunes y miércoles* de *16:00 a 18:00* y *0PEXT52*: de *18:00 a 20:00*.
 
 **Salón:** Edificio Anexo A-Sala J.
 
@@ -86,7 +86,7 @@ Que al finalizar el curso el alumno sea capaz de:
 2. Presentación del programa
 3. Evaluación Global y de Recuperación
 4. Prácticas:  
-    - *Práctica 1.1: Elaboración de informes con RMarkdown en RStudio*. (Entrega: Semana 2).
+    - *Práctica 1.1: Elaboración de informes con RMarkdown en RStudio*. (Entrega: Semana 1).
 
      *Objetivo*: Aprender a crear y editar archivos RMarkdown en *RStudio*.
 
@@ -115,7 +115,7 @@ Que al finalizar el curso el alumno sea capaz de:
 2. Toma de decisiones, teoría de la elección racional, racionalidad limitada y cibernética
 3. ¿Qué es el análisis de decisiones?
 4. Alcances y limitaciones del análisis de decisiones
-5. Tareas y Prácticas:
+5. Tareas y Prácticas: 
 
 ### Bibliografía:
 - Howard, R. A. (1988). Decision analysis: practice and promise, *Management Science, 34*(6), 679-695. ([url](https://www.jstor.org/stable/2632123)) ([pdf](https://sci-hub.ru/10.2307/2632123))
@@ -168,7 +168,7 @@ Que al finalizar el curso el alumno sea capaz de:
   Tome buenas fotografías de su tarea y súbalas a su cuenta de GitHub y enlácelas en un archivo Markdown del reporte de su tarea, explicando lo que se ilustra en las fotografías.
 
 
-- *Práctica 3.4: II: Decisiones bajo completa incertidumbre*. (Entrega: Semana 3).
+- *Práctica 3.4: II: Decisiones bajo completa incertidumbre*. (Entrega: Semana 4).
 
   *Objetivo*: Aprender y practicar los algoritmos de problemas de decisión bajo completa incertidumbre usando R.
 
@@ -191,32 +191,32 @@ Que al finalizar el curso el alumno sea capaz de:
 
   **Parte pares**. Transcriba *en su cuaderno* el ejemplo y resuelva el grupo de ejercicios correspondiente. Aplique los conceptos y el machote del Ejemplo correspondiente, según se solicite en cada ejercicio.
   
-  *Parte 1*. 3.1 Criterios para la toma de decisiones sin experimentación: (Entrega: Semana 4)  
+  *Parte 1*. 3.1 Criterios para la toma de decisiones sin experimentación: (Entrega: Semana 5)  
      - 3.1.1 Criterio de Laplace  
      - 3.1.2 Criterio de la máxima posibilidad  
      - 3.1.3 Regla de decisión de Bayes (VEM)  
      - 3.1.4 Minimización de la pérdida de oportunidad esperada (POE)                
   
-  *Parte 2*. Ejemplo 3 y Grupo de ejercicios 3  (Entrega: Semana 5)
+  *Parte 2*. Ejemplo 3 y Grupo de ejercicios 3  (Entrega: Semana 6)
 
   *Parte 3*. 3.2 Valor esperado de la información perfecta (VEIP)
      - 3.2.1 Método 1
      - 3.2.2 Método 2         
 
-  *Parte 4*. Ejemplo 4 y Grupo de ejercicios 4  (Entrega: Semana 6)
+  *Parte 4*. Ejemplo 4 y Grupo de ejercicios 4  (Entrega: Semana 7)
 
-  *Parte 5*. 3.3 Análisis de sensibilidad y 3.4 Árboles de decisión (Entrega: Semana 6)  
+  *Parte 5*. 3.3 Análisis de sensibilidad y 3.4 Árboles de decisión (Entrega: Semana 8)  
 
-  *Parte 6*. Ejemplo 5 y Grupo de ejercicios 5  (Entrega: Semana 7)
+  *Parte 6*. Ejemplo 5 y Grupo de ejercicios 5  (Entrega: Semana 9)
 
   *Parte 7*. 3.5 Criterios para la torna de decisiones con experimentación y 3.6 Análisis en la forma extensiva         
 
-  *Parte 8*. Ejemplo 6 y Grupo de ejercicios 6 (Entrega: Semana 8)
+  *Parte 8*. Ejemplo 6 y Grupo de ejercicios 6 (Entrega: Semana 10)
 
   Tome buenas fotografías de su tarea, súbalas a Telegram y enlácelas en un archivo Markdown del reporte de su tarea, explicando lo que se ilustra en las fotografías.
 
 
-- *Práctica 3.6: III. Decisiones bajo riesgo*. (Entrega: Semana 9).
+- *Práctica 3.6: III. Decisiones bajo riesgo*. (Entrega: Semana 11).
 
   *Objetivo*: Aprender los conceptos de la toma de decisiones bajo riesgo usando R.
 
