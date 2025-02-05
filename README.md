@@ -98,7 +98,7 @@ Que al finalizar el curso el alumno sea capaz de:
 
       
 ##### *Bibliografía Obligatoria:*   
-- Rangel N., L. M. (2012). [*Guía de estudio de la asignatura Análisis de Decisiones*](https://libgen.st/book/index.php?md5=2E0058C96A3774D8A8D050470BEBB977). México, D.F.: Facultad de Estudios Superiores Acatlán, UNAM.   
+- Rangel N., L. M. (2012). [*Guía de estudio de la asignatura Análisis de Decisiones*](https://libgen.rs/book/index.php?md5=2E0058C96A3774D8A8D050470BEBB977). México, D.F.: Facultad de Estudios Superiores Acatlán, UNAM.   
       
 ##### *Bibliografía Complementaria:*   
 - Boccardo Bosoni y Ruiz Bruzzone. (2019). [Introducción al uso de RMarkdown para la compilación de resultados de RStudio en diferentes formatos](https://bookdown.org/gboccardo/manual-ED-UCH/introduccion-al-uso-de-rmarkdown-para-la-compilacion-de-resultados-de-rstudio-en-diferentes-formatos.html).
@@ -119,12 +119,12 @@ Que al finalizar el curso el alumno sea capaz de:
    Ver especificaciones de la investigación [aquí](https://github.com/jzavalar/Analisis_de_Decisiones/blob/main/Investigacion_teoria_eleccion_racional.md)
 
 ### Bibliografía:
-- Howard, R. A. (1988). Decision analysis: practice and promise, *Management Science, 34*(6), 679-695. ([url](https://www.jstor.org/stable/2632123)) ([pdf](https://sci-hub.ru/10.2307/2632123))
-- Simon, H. A. (1964). *El comportamiento administrativo*. México: Aguilar.
-- Simon, H. A. (1955). A behavioral model of rational choice. *The Quarterly Journal of Economics, 69*(1), 99–118. https://doi.org/10.2307/1884852
-
-Este artículo es fundamental porque introduce el concepto de **racionalidad limitada** (bounded rationality), que desafía la noción clásica de elección racional al argumentar que los individuos toman decisiones basadas en información incompleta y capacidades cognitivas limitadas, en lugar de optimizar perfectamente. Es una lectura esencial en economía, ciencias políticas y psicología.
-
+- Howard, R. A. (1988). Decision analysis: practice and promise, *Management Science, 34*(6), 679-695. ([url](https://www.jstor.org/stable/2632123)) ([PDF](https://sci-hub.ru/10.2307/2632123))
+- Simon, H. A. (1964). *El comportamiento administrativo*. México: Aguilar. [PDF](https://libgen.rs/book/index.php?md5=563E5E785150855FBAF63179444D94FC)
+- Simon, H. A. (1955). A behavioral model of rational choice. *The Quarterly Journal of Economics*, *69*(1), 99–118. https://doi.org/10.2307/1884852
+- Simon, H. A. (1997). *Models of Bounded Rationality: Empirically Grounded Economic Reason* (Vol. 3). USA: MIT Press. [epub](https://libgen.rs/book/index.php?md5=F123FF229BF457392D51C94F80C576F2)
+- Allison, G. T., & Zelikow, P. (1999). *Essence of decision: Explaining the Cuban missile crisis*. USA: Pearson. [PDF](https://libgen.rs/book/index.php?md5=803EF440F93483014B7F4FA6C0B1174C)
+  
 #### Unidad 3. Los problemas de decisión
 1. Modelación de los problemas de decisión
 2. Proceso de resolución de problemas de decisión
@@ -325,7 +325,7 @@ el Consejo Académico".
 
 Por lo anterior, **se solicita** como **prerrequisito** que el alumno realice la transcripción**, en su cuaderno, de los **conceptos** y los **ejemplos** y  sus **grupos de ejercicios** resueltos de las primeras tres unidades de la *[Guía de estudio de la asignatura Análisis de Decisiones](https://libgen.rs/book/index.php?md5=2E0058C96A3774D8A8D050470BEBB977)* (Rangel Nafaile, 2012). El prerrequisito garantiza que esté preparado para realizar el examen global. Sin embargo, puede usar cualquier otra bibliografía que juzgue conveniente como la incluida en este programa.
 
-La **evaluación de recuperación** será el día **por definir** a las **10:00**, en el salón C219, asignado por la coordinación de Servicios Escolares y consistirá en **resolver un par de problemas** de análisis de decisiones, semejantes a los de la guía. El valor del examen es del 100%. Debe abordar un enfoque metodológico que incluya el encuadre del problema, el razonamiento del análisis y la solución o respuesta concreta, según se le pida en el problema. Para ello, debe presentarse, puntualmente, con bolígrafo, lápiz y calculadora (no se aceptará el uso de teléfono celular como calculadora). La duración del examen será de 2 horas. La calificación se le entregará 24 horas después.
+La **evaluación de recuperación** será el día **por definir** a las **xxx**, en el salón xxx, asignado por la coordinación de Servicios Escolares y consistirá en **resolver un par de problemas** de análisis de decisiones, semejantes a los de la guía. El valor del examen es del 100%. Debe abordar un enfoque metodológico que incluya el encuadre del problema, el razonamiento del análisis y la solución o respuesta concreta, según se le pida en el problema. Para ello, debe presentarse, puntualmente, con bolígrafo, lápiz y calculadora (no se aceptará el uso de teléfono celular como calculadora). La duración del examen será de 2 horas. La calificación se le entregará 24 horas después.
 
 **Notas:**
 [^1]: Jaiswal, N. K. (1997). [*Military operations research: Quantitative decision making*](https://libgen.rs/book/index.php?md5=98AE66E1BEA25F94C02261DD3A990CF1). New York: Springer Science+Business Media.
@@ -337,4 +337,3 @@ La **evaluación de recuperación** será el día **por definir** a las **10:00*
 [^7]: Buchanan, L y O'Connell, A. (2006). [A brief history of decision making](http://samuellearning.org/decisionmaking/handout1.pdf). *Harvard Business Review, 84*(1), 32-41, 132.
 [^8]: Chen, N. C., Shauver, M. J., & Chung, K. C. (2009). [A primer on use of decision analysis methodology in hand surgery](https://sci-hub.ru/10.1016/j.jhsa.2009.03.005). *The Journal of Hand Surgery, 34*(6), 983-990.
 [^9]: Call, H. J., y Miller, W. A. (1990). [A comparison of approaches and implementations for automating decision analysis](https://sci-hub.ru/10.1016/0951-8320%2890%2990092-2). *Reliability Engineering & System Safety, 30*(1-3), 115-162.
-
