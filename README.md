@@ -115,11 +115,15 @@ Que al finalizar el curso el alumno sea capaz de:
 2. Toma de decisiones, teoría de la elección racional, racionalidad limitada y cibernética
 3. ¿Qué es el análisis de decisiones?
 4. Alcances y limitaciones del análisis de decisiones
-5. Tareas y Prácticas: 
+5. Investigación:
+   Ver especificaciones de la investigación [aquí](https://github.com/jzavalar/Analisis_de_Decisiones/blob/main/Investigacion_teoria_eleccion_racional.md)
 
 ### Bibliografía:
 - Howard, R. A. (1988). Decision analysis: practice and promise, *Management Science, 34*(6), 679-695. ([url](https://www.jstor.org/stable/2632123)) ([pdf](https://sci-hub.ru/10.2307/2632123))
+- Simon, H. A. (1964). *El comportamiento administrativo*. México: Aguilar.
+- Simon, H. A. (1955). A behavioral model of rational choice. *The Quarterly Journal of Economics, 69*(1), 99–118. https://doi.org/10.2307/1884852
 
+Este artículo es fundamental porque introduce el concepto de **racionalidad limitada** (bounded rationality), que desafía la noción clásica de elección racional al argumentar que los individuos toman decisiones basadas en información incompleta y capacidades cognitivas limitadas, en lugar de optimizar perfectamente. Es una lectura esencial en economía, ciencias políticas y psicología.
 
 #### Unidad 3. Los problemas de decisión
 1. Modelación de los problemas de decisión
