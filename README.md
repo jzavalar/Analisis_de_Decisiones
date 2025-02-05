@@ -3,11 +3,11 @@
 ## Programa Analítico de la UEA Análisis de Decisiones (Teoría)
 ## Licenciatura en Administración
 
-**Clave de la UEA:** *2211092*, **Trimestre:** *24 Otoño*
+**Clave de la UEA:** *2211092*, **Trimestre:** *25 Invierno*
 
-**Grupo:** *0PEXT53*: *Lunes y miércoles* de *18:00 a 20:00*.
+**Grupo:** *0PEXT53*: *Lunes y miércoles* de *16:00 a 18:00* y de *18:00 a 20:00*.
 
-**Salón:** Edificio Anexo A-Sala K.
+**Salón:** Edificio Anexo A-Sala J.
 
 **Asesorías:**  *Martes* de *20:00* a *22:00 hr*, vía [Telegram](https://telegram.org/apps), previa solicitud.
 
@@ -71,8 +71,6 @@ Que al finalizar el curso el alumno sea capaz de:
 
       *Parte 4*. Cree su cuenta en [RStudio cloud](https://posit.cloud/) que le permitirá ejecutar código fuente de R en la nube, hacer las modificaciones que requiera y usarlo para sus propias necesidades.
    
-      *Parte 5*. Para la práctica en el salón, descargue e instale [*PortableApps*](https://portableapps.com/) ([tutorial 1](https://www.youtube.com/watch?v=Ux_3p4lDmTg), [tutorial 2](https://www.youtube.com/watch?v=Ux_3p4lDmTg)) en su USB vacía. Tome en cuenta que debe desactivar el antivirus para realizar la práctica y usar *PortableApps*. [guía](https://www.youtube.com/watch?v=HDEhLpS7UwM)). Luego, descargue e instale el siguiente software portable en una USB: *7-zip* (compresor/descompresor) ([portable](https://portableapps.com/apps/utilities/7-zip_portable)), [*R Portable*](https://sourceforge.net/projects/rportable/files/R-Portable/)) y [*RStudio Portable*](https://sourceforge.net/projects/rportable/files/R-Studio/).
-
 ##### *Bibliografía Complementaria:*
 - Ibiza, D. (2018, Apr 3). 1. Introducción a *Google Drive*: 
      1. Primeros pasos ([tutorial](https://www.youtube.com/watch?v=aLPTDIS-8dk&t=330s))    
@@ -92,19 +90,15 @@ Que al finalizar el curso el alumno sea capaz de:
 
      *Objetivo*: Aprender a crear y editar archivos RMarkdown en *RStudio*.
 
-     *Parte 1*. Utilice el [Curso R para análisis de datos](https://bookdown.org/ddiannae/curso-rdata/) (García, 2022.) (en esa URL está disponible el archivo pdf) para estudiar R. Copie el texto a un archivo *.Rmd*. Utilícelo para consulta y reprodúzcalo, según lo necesite.
-
-     Aprenda a incrustar *chunks* de código R para calcular el ejercicio y obtener los resultados de su ejecución, embebiendo código *LaTex* para automatizar lo que requiera ([tip](https://stackoverflow.com/questions/47463861/how-to-use-latex-code-in-r-chunk-in-r-markdown)). Enfóquese en aprender la sintaxis de *Markdown* y *LaTex*. Dibuje las fórmulas matemáticas con un editor en línea como [HostMath](https://www.hostmath.com/) o el bot [InLaTeXbot](https://t.me/inlatexbot) en Telegram. Aprenda a corregir los errores en sus archivos RMarkdown (*.Rmd*) y aprenda el funcionamiento de las herramientas para en generar los archivos *.html*, con el paquete [*knitr*](https://www.r-project.org/nosvn/pandoc/knitr.html), en RStudio, de manera local y en la nube [RStudio.cloud](https://posit.cloud/).
-
-     *Parte 2*. Copie el texto de la Unidad 1 (Rangel, 2012, pp. 11-16), corríjalo y conviértalo a un archivo RMarkdown (*Unidad 1.Rmd*) usando RStudio. Edítelo correctamente con la sintaxis de *RMarkdown* e incruste código *LaTex* para lo que resulte pertinente.
+     *Parte 1*. Copie el texto de la Unidad 1 (Rangel, 2012, pp. 11-16), corríjalo y conviértalo a un archivo RMarkdown (*Unidad 1.Rmd*) usando RStudio. Edítelo correctamente con la sintaxis de *RMarkdown* e incruste código *LaTex* para lo que resulte pertinente. Use la inteligencia artificial (IA), pero no olvide usar la más valiosa: la inteligencia natural. Suba su proyecto a [RStudio.cloud](https://posit.cloud/).
 
      *Parte 3*. Extraiga el Ejemplo 1 (Rangel, 2012) y resuélvalo con R. 
 
-     Al final, debe obtener el archivo .Rmd base para la generación de los archivos archivo HTML y PDF generados durante la conversión. Debe subir el entregable a su proyecto en [RStudio.cloud](https://posit.cloud/).
+     Al final, debe obtener el archivo .Rmd base para la generación de los archivos archivo HTML y PDF generados durante la conversión. Suba su proyecto a [RStudio.cloud](https://posit.cloud/).
 
       
 ##### *Bibliografía Obligatoria:*   
-- Rangel N., L. M. (2012). [*Guía de estudio de la asignatura Análisis de Decisiones*](https://libgen.rs/book/index.php?md5=2E0058C96A3774D8A8D050470BEBB977). México, D.F.: Facultad de Estudios Superiores Acatlán, UNAM.   
+- Rangel N., L. M. (2012). [*Guía de estudio de la asignatura Análisis de Decisiones*](https://libgen.st/book/index.php?md5=2E0058C96A3774D8A8D050470BEBB977). México, D.F.: Facultad de Estudios Superiores Acatlán, UNAM.   
       
 ##### *Bibliografía Complementaria:*   
 - Boccardo Bosoni y Ruiz Bruzzone. (2019). [Introducción al uso de RMarkdown para la compilación de resultados de RStudio en diferentes formatos](https://bookdown.org/gboccardo/manual-ED-UCH/introduccion-al-uso-de-rmarkdown-para-la-compilacion-de-resultados-de-rstudio-en-diferentes-formatos.html).
