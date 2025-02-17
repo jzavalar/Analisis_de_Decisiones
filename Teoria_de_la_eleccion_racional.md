@@ -2,8 +2,7 @@
 
 prof. dr. Jesús Zavala Ruiz[^2]
 
-Febrero de 2025
-
+---
 
 ### Introducción
 
