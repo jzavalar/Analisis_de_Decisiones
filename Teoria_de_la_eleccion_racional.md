@@ -53,11 +53,25 @@ Al reconocer que los individuos y las organizaciones operan con información lim
 
 ### Críticas a la Teoría de la Elección Racional
 
-A partir de finales del siglo XX, la elección racional comenzó a ser cuestionada. Investigaciones en economía del comportamiento, lideradas por Daniel Kahneman y Amos Tversky, revelaron que los individuos no siempre toman decisiones óptimas, sino que recurren a heurísticas y están sujetos a sesgos cognitivos. Estos hallazgos llevaron al desarrollo de modelos que incorporan factores psicológicos y sociales en la toma de decisiones.
+La teoría de la elección racional propuesta por Herbert A. Simon revolucionó el pensamiento económico y gerencial al desafiar la visión tradicional de la racionalidad absoluta. Su concepto de *racionalidad limitada* estableció que los individuos no tienen acceso ilimitado a la información ni la capacidad de evaluar todas las alternativas antes de tomar una decisión. A pesar de su relevancia en la teoría de la toma de decisiones, la propuesta de Simon ha sido objeto de críticas significativas. En este trabajo, se exploran las críticas formuladas por autores como Morgen Witzel y Matthew Stewart, quienes cuestionan la aplicabilidad y la efectividad de la racionalidad limitada en el mundo real.
 
-Herbert A. Simon propuso un enfoque alternativo con su concepto de *racionalidad limitada*, según el cual los individuos, al estar restringidos por sus capacidades cognitivas y el acceso a la información, buscan soluciones satisfactorias en lugar de óptimas. Esta perspectiva fue fundamental para el desarrollo de la economía del comportamiento y la teoría de la decisión en administración.
+Uno de los principales argumentos críticos proviene de Morgen Witzel (2012), quien sostiene que la teoría de Simon simplifica en exceso la complejidad de la toma de decisiones en entornos organizacionales. Witzel argumenta que la racionalidad limitada no explica adecuadamente los factores culturales, políticos y emocionales que influyen en la decisión gerencial. Según Witzel:
 
-Además, autores como Matthew Stewart han criticado la aplicación de la elección racional en la gestión empresarial. Stewart argumenta que la dependencia excesiva de modelos cuantitativos ha llevado a una visión reduccionista de la administración, donde se ignoran factores humanos como la política organizacional y la cultura corporativa.
+> "El análisis racional es solo una parte de la ecuación. La toma de decisiones en las organizaciones está profundamente influenciada por factores humanos que la racionalidad limitada no puede captar plenamente" (Witzel, 2012, p. 198).
+
+Además, Witzel destaca que la idea de *satisficing*, o la búsqueda de soluciones suficientemente buenas en lugar de óptimas, puede llevar a la mediocridad y a la falta de innovación dentro de las empresas. En un entorno altamente competitivo, conformarse con una solución "suficientemente buena" podría ser contraproducente.
+
+Matthew Stewart (2009) lleva la crítica más allá, argumentando que la teoría de la racionalidad limitada ha sido malinterpretada y mal utilizada en la práctica gerencial. Stewart critica la dependencia excesiva de modelos cuantitativos y de teorías de decisión simplificadas que ignoran la complejidad del comportamiento humano en las organizaciones. Afirma que:
+
+> "El problema con la racionalidad limitada no es su premisa, sino la forma en que se ha convertido en una excusa para decisiones mal informadas y gestión ineficaz" (Stewart, 2009, p. 145).
+
+Según Stewart, la aplicación de la racionalidad limitada en la consultoría y en la educación empresarial ha fomentado una visión reduccionista de la administración, donde los ejecutivos confían excesivamente en herramientas de análisis sin considerar los matices cualitativos de la toma de decisiones. En su crítica, Stewart cuestiona cómo los conceptos de Simon han sido absorbidos por las grandes firmas de consultoría y utilizados para justificar decisiones rígidas basadas en modelos matemáticos sin un verdadero entendimiento de la dinámica organizacional.
+
+Otra crítica importante radica en la influencia de la racionalidad limitada en la educación en gestión y administración de empresas. Witzel y Stewart coinciden en que la adopción acrítica de la teoría de Simon ha llevado a la sobrevaloración de modelos cuantitativos y la minimización de la intuición y la experiencia en la toma de decisiones. Como lo expresa Stewart:
+
+> "Las escuelas de negocios han creado generaciones de administradores que creen que pueden modelar la realidad empresarial con ecuaciones y hojas de cálculo, ignorando la realidad de la dinámica humana en las organizaciones" (Stewart, 2009, p. 210).
+
+Esta crítica subraya que el uso excesivo de la racionalidad limitada ha llevado a una desconexión entre la teoría y la práctica, formando líderes que confían más en herramientas analíticas que en su capacidad para interpretar el entorno y adaptarse a él.
 
 ### Conclusión
 
@@ -72,7 +86,6 @@ Si bien la teoría de la elección racional ha sido un marco influyente para ent
 3. Witzel, M. (2012). *A history of management thought*. USA: Routledge.  
 
 ---
-Notas:
 Notas:
 [^1]: Profesor-investigador del Departamento de Economía de la Universidad Autónoma Metropolitana, Unidad Iztapalapa. email: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx), [https://t.me/jzavalar](https://t.me/jzavalar).
 [^2]: Lectura leída el 17 de febrero de 2025.
