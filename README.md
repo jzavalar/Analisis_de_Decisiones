@@ -3,11 +3,11 @@
 ## Programa Analítico de la UEA Análisis de Decisiones (Teoría)
 ## Licenciatura en Administración
 
-**Clave de la UEA:** *2211092*, **Trimestre:** *25 Primavera*
+**Clave de la UEA:** *2211092*, **Trimestre:** *25 Otoño*
 
-**Grupos:**  *HE57*: *Lunes y miércoles* de *16:00 a 18:00* y *OPEXT51*: de *18:00 a 20:00*.
+**Grupos:**  *HE55*: *Lunes y miércoles* de *18:00 a 20:00*.
 
-**Salón:** Edificio Anexo A-Sala K.
+**Salón:** Edificio Anexo A-Sala J.
 
 **Asesorías:**  *Martes* de *20:00* a *22:00 hr*, vía [Telegram](https://telegram.org/apps), previa solicitud.
 
